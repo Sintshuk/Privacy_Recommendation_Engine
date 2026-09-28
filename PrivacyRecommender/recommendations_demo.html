@@ -13,6 +13,8 @@
     .persona-tabs { display:flex; flex-wrap:wrap; gap:8px; margin:16px 0; }
     .persona-tab { padding:8px 14px; border-radius:20px; border:1px solid #cbd5e1; background:white; cursor:pointer; font-size:13px; }
     .persona-tab:hover { background:#eef2f7; }
+    .persona-tab.active { background:#4f46e5; border-color:#4f46e5; color:white; font-weight:600; }
+    .persona-tab.active:hover { background:#4338ca; }
     .profile-box { background:white; border-radius:12px; padding:16px 18px; margin-bottom:16px; }
     .profile-title { font-weight:700; font-size:13px; margin-bottom:10px; color:#334155; }
     .dim-row { display:flex; align-items:center; gap:10px; margin-bottom:8px; font-size:12px; }
@@ -49,7 +51,7 @@
     
         <section id="policy-Abode" style="display:block;">
             <h2>Abode</h2>
-            <div class="persona-tabs"><button class="persona-tab" onclick="showPersona('Abode','Confident_Sharers')">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Abode','Informed_Protectors')">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Abode','Open_Sharers')">Open Sharers</button><button class="persona-tab" onclick="showPersona('Abode','Overwhelmed_Seekers')">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Abode','Passive_Accepters')">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Abode','Practical_Realists')">Practical Realists</button></div>
+            <div class="persona-tabs"><button class="persona-tab active" onclick="showPersona('Abode','Confident_Sharers', this)">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Abode','Informed_Protectors', this)">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Abode','Open_Sharers', this)">Open Sharers</button><button class="persona-tab" onclick="showPersona('Abode','Overwhelmed_Seekers', this)">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Abode','Passive_Accepters', this)">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Abode','Practical_Realists', this)">Practical Realists</button></div>
             
             <div class="persona-panel" id="panel-Abode-Confident_Sharers" style="display:block;">
                 <div class="profile-box">
@@ -1255,7 +1257,7 @@
         
         <section id="policy-Amazon" style="display:none;">
             <h2>Amazon</h2>
-            <div class="persona-tabs"><button class="persona-tab" onclick="showPersona('Amazon','Confident_Sharers')">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Amazon','Informed_Protectors')">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Amazon','Open_Sharers')">Open Sharers</button><button class="persona-tab" onclick="showPersona('Amazon','Overwhelmed_Seekers')">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Amazon','Passive_Accepters')">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Amazon','Practical_Realists')">Practical Realists</button></div>
+            <div class="persona-tabs"><button class="persona-tab active" onclick="showPersona('Amazon','Confident_Sharers', this)">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Amazon','Informed_Protectors', this)">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Amazon','Open_Sharers', this)">Open Sharers</button><button class="persona-tab" onclick="showPersona('Amazon','Overwhelmed_Seekers', this)">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Amazon','Passive_Accepters', this)">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Amazon','Practical_Realists', this)">Practical Realists</button></div>
             
             <div class="persona-panel" id="panel-Amazon-Confident_Sharers" style="display:block;">
                 <div class="profile-box">
@@ -2545,7 +2547,7 @@
         
         <section id="policy-Anki" style="display:none;">
             <h2>Anki</h2>
-            <div class="persona-tabs"><button class="persona-tab" onclick="showPersona('Anki','Confident_Sharers')">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Anki','Informed_Protectors')">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Anki','Open_Sharers')">Open Sharers</button><button class="persona-tab" onclick="showPersona('Anki','Overwhelmed_Seekers')">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Anki','Passive_Accepters')">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Anki','Practical_Realists')">Practical Realists</button></div>
+            <div class="persona-tabs"><button class="persona-tab active" onclick="showPersona('Anki','Confident_Sharers', this)">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Anki','Informed_Protectors', this)">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Anki','Open_Sharers', this)">Open Sharers</button><button class="persona-tab" onclick="showPersona('Anki','Overwhelmed_Seekers', this)">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Anki','Passive_Accepters', this)">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Anki','Practical_Realists', this)">Practical Realists</button></div>
             
             <div class="persona-panel" id="panel-Anki-Confident_Sharers" style="display:block;">
                 <div class="profile-box">
@@ -3841,7 +3843,7 @@
         
         <section id="policy-Apple" style="display:none;">
             <h2>Apple</h2>
-            <div class="persona-tabs"><button class="persona-tab" onclick="showPersona('Apple','Confident_Sharers')">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Apple','Informed_Protectors')">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Apple','Open_Sharers')">Open Sharers</button><button class="persona-tab" onclick="showPersona('Apple','Overwhelmed_Seekers')">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Apple','Passive_Accepters')">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Apple','Practical_Realists')">Practical Realists</button></div>
+            <div class="persona-tabs"><button class="persona-tab active" onclick="showPersona('Apple','Confident_Sharers', this)">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Apple','Informed_Protectors', this)">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Apple','Open_Sharers', this)">Open Sharers</button><button class="persona-tab" onclick="showPersona('Apple','Overwhelmed_Seekers', this)">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Apple','Passive_Accepters', this)">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Apple','Practical_Realists', this)">Practical Realists</button></div>
             
             <div class="persona-panel" id="panel-Apple-Confident_Sharers" style="display:block;">
                 <div class="profile-box">
@@ -5209,7 +5211,7 @@
         
         <section id="policy-Aqara" style="display:none;">
             <h2>Aqara</h2>
-            <div class="persona-tabs"><button class="persona-tab" onclick="showPersona('Aqara','Confident_Sharers')">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Aqara','Informed_Protectors')">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Aqara','Open_Sharers')">Open Sharers</button><button class="persona-tab" onclick="showPersona('Aqara','Overwhelmed_Seekers')">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Aqara','Passive_Accepters')">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Aqara','Practical_Realists')">Practical Realists</button></div>
+            <div class="persona-tabs"><button class="persona-tab active" onclick="showPersona('Aqara','Confident_Sharers', this)">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Aqara','Informed_Protectors', this)">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Aqara','Open_Sharers', this)">Open Sharers</button><button class="persona-tab" onclick="showPersona('Aqara','Overwhelmed_Seekers', this)">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Aqara','Passive_Accepters', this)">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Aqara','Practical_Realists', this)">Practical Realists</button></div>
             
             <div class="persona-panel" id="panel-Aqara-Confident_Sharers" style="display:block;">
                 <div class="profile-box">
@@ -5587,7 +5589,7 @@
         
         <section id="policy-Arlo" style="display:none;">
             <h2>Arlo</h2>
-            <div class="persona-tabs"><button class="persona-tab" onclick="showPersona('Arlo','Confident_Sharers')">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Arlo','Informed_Protectors')">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Arlo','Open_Sharers')">Open Sharers</button><button class="persona-tab" onclick="showPersona('Arlo','Overwhelmed_Seekers')">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Arlo','Passive_Accepters')">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Arlo','Practical_Realists')">Practical Realists</button></div>
+            <div class="persona-tabs"><button class="persona-tab active" onclick="showPersona('Arlo','Confident_Sharers', this)">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Arlo','Informed_Protectors', this)">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Arlo','Open_Sharers', this)">Open Sharers</button><button class="persona-tab" onclick="showPersona('Arlo','Overwhelmed_Seekers', this)">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Arlo','Passive_Accepters', this)">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Arlo','Practical_Realists', this)">Practical Realists</button></div>
             
             <div class="persona-panel" id="panel-Arlo-Confident_Sharers" style="display:block;">
                 <div class="profile-box">
@@ -6811,7 +6813,7 @@
         
         <section id="policy-Babysense" style="display:none;">
             <h2>Babysense</h2>
-            <div class="persona-tabs"><button class="persona-tab" onclick="showPersona('Babysense','Confident_Sharers')">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Babysense','Informed_Protectors')">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Babysense','Open_Sharers')">Open Sharers</button><button class="persona-tab" onclick="showPersona('Babysense','Overwhelmed_Seekers')">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Babysense','Passive_Accepters')">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Babysense','Practical_Realists')">Practical Realists</button></div>
+            <div class="persona-tabs"><button class="persona-tab active" onclick="showPersona('Babysense','Confident_Sharers', this)">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Babysense','Informed_Protectors', this)">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Babysense','Open_Sharers', this)">Open Sharers</button><button class="persona-tab" onclick="showPersona('Babysense','Overwhelmed_Seekers', this)">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Babysense','Passive_Accepters', this)">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Babysense','Practical_Realists', this)">Practical Realists</button></div>
             
             <div class="persona-panel" id="panel-Babysense-Confident_Sharers" style="display:block;">
                 <div class="profile-box">
@@ -8089,7 +8091,7 @@
         
         <section id="policy-Bangandolufsen" style="display:none;">
             <h2>Bangandolufsen</h2>
-            <div class="persona-tabs"><button class="persona-tab" onclick="showPersona('Bangandolufsen','Confident_Sharers')">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Bangandolufsen','Informed_Protectors')">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Bangandolufsen','Open_Sharers')">Open Sharers</button><button class="persona-tab" onclick="showPersona('Bangandolufsen','Overwhelmed_Seekers')">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Bangandolufsen','Passive_Accepters')">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Bangandolufsen','Practical_Realists')">Practical Realists</button></div>
+            <div class="persona-tabs"><button class="persona-tab active" onclick="showPersona('Bangandolufsen','Confident_Sharers', this)">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Bangandolufsen','Informed_Protectors', this)">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Bangandolufsen','Open_Sharers', this)">Open Sharers</button><button class="persona-tab" onclick="showPersona('Bangandolufsen','Overwhelmed_Seekers', this)">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Bangandolufsen','Passive_Accepters', this)">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Bangandolufsen','Practical_Realists', this)">Practical Realists</button></div>
             
             <div class="persona-panel" id="panel-Bangandolufsen-Confident_Sharers" style="display:block;">
                 <div class="profile-box">
@@ -9277,7 +9279,7 @@
         
         <section id="policy-Blueair" style="display:none;">
             <h2>Blueair</h2>
-            <div class="persona-tabs"><button class="persona-tab" onclick="showPersona('Blueair','Confident_Sharers')">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Blueair','Informed_Protectors')">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Blueair','Open_Sharers')">Open Sharers</button><button class="persona-tab" onclick="showPersona('Blueair','Overwhelmed_Seekers')">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Blueair','Passive_Accepters')">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Blueair','Practical_Realists')">Practical Realists</button></div>
+            <div class="persona-tabs"><button class="persona-tab active" onclick="showPersona('Blueair','Confident_Sharers', this)">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Blueair','Informed_Protectors', this)">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Blueair','Open_Sharers', this)">Open Sharers</button><button class="persona-tab" onclick="showPersona('Blueair','Overwhelmed_Seekers', this)">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Blueair','Passive_Accepters', this)">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Blueair','Practical_Realists', this)">Practical Realists</button></div>
             
             <div class="persona-panel" id="panel-Blueair-Confident_Sharers" style="display:block;">
                 <div class="profile-box">
@@ -10483,7 +10485,7 @@
         
         <section id="policy-Bmw" style="display:none;">
             <h2>Bmw</h2>
-            <div class="persona-tabs"><button class="persona-tab" onclick="showPersona('Bmw','Confident_Sharers')">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Bmw','Informed_Protectors')">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Bmw','Open_Sharers')">Open Sharers</button><button class="persona-tab" onclick="showPersona('Bmw','Overwhelmed_Seekers')">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Bmw','Passive_Accepters')">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Bmw','Practical_Realists')">Practical Realists</button></div>
+            <div class="persona-tabs"><button class="persona-tab active" onclick="showPersona('Bmw','Confident_Sharers', this)">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Bmw','Informed_Protectors', this)">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Bmw','Open_Sharers', this)">Open Sharers</button><button class="persona-tab" onclick="showPersona('Bmw','Overwhelmed_Seekers', this)">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Bmw','Passive_Accepters', this)">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Bmw','Practical_Realists', this)">Practical Realists</button></div>
             
             <div class="persona-panel" id="panel-Bmw-Confident_Sharers" style="display:block;">
                 <div class="profile-box">
@@ -11659,7 +11661,7 @@
         
         <section id="policy-Bosch" style="display:none;">
             <h2>Bosch</h2>
-            <div class="persona-tabs"><button class="persona-tab" onclick="showPersona('Bosch','Confident_Sharers')">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Bosch','Informed_Protectors')">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Bosch','Open_Sharers')">Open Sharers</button><button class="persona-tab" onclick="showPersona('Bosch','Overwhelmed_Seekers')">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Bosch','Passive_Accepters')">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Bosch','Practical_Realists')">Practical Realists</button></div>
+            <div class="persona-tabs"><button class="persona-tab active" onclick="showPersona('Bosch','Confident_Sharers', this)">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Bosch','Informed_Protectors', this)">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Bosch','Open_Sharers', this)">Open Sharers</button><button class="persona-tab" onclick="showPersona('Bosch','Overwhelmed_Seekers', this)">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Bosch','Passive_Accepters', this)">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Bosch','Practical_Realists', this)">Practical Realists</button></div>
             
             <div class="persona-panel" id="panel-Bosch-Confident_Sharers" style="display:block;">
                 <div class="profile-box">
@@ -12943,7 +12945,7 @@
         
         <section id="policy-Coros" style="display:none;">
             <h2>Coros</h2>
-            <div class="persona-tabs"><button class="persona-tab" onclick="showPersona('Coros','Confident_Sharers')">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Coros','Informed_Protectors')">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Coros','Open_Sharers')">Open Sharers</button><button class="persona-tab" onclick="showPersona('Coros','Overwhelmed_Seekers')">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Coros','Passive_Accepters')">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Coros','Practical_Realists')">Practical Realists</button></div>
+            <div class="persona-tabs"><button class="persona-tab active" onclick="showPersona('Coros','Confident_Sharers', this)">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Coros','Informed_Protectors', this)">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Coros','Open_Sharers', this)">Open Sharers</button><button class="persona-tab" onclick="showPersona('Coros','Overwhelmed_Seekers', this)">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Coros','Passive_Accepters', this)">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Coros','Practical_Realists', this)">Practical Realists</button></div>
             
             <div class="persona-panel" id="panel-Coros-Confident_Sharers" style="display:block;">
                 <div class="profile-box">
@@ -14293,7 +14295,7 @@
         
         <section id="policy-Cowboy" style="display:none;">
             <h2>Cowboy</h2>
-            <div class="persona-tabs"><button class="persona-tab" onclick="showPersona('Cowboy','Confident_Sharers')">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Cowboy','Informed_Protectors')">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Cowboy','Open_Sharers')">Open Sharers</button><button class="persona-tab" onclick="showPersona('Cowboy','Overwhelmed_Seekers')">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Cowboy','Passive_Accepters')">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Cowboy','Practical_Realists')">Practical Realists</button></div>
+            <div class="persona-tabs"><button class="persona-tab active" onclick="showPersona('Cowboy','Confident_Sharers', this)">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Cowboy','Informed_Protectors', this)">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Cowboy','Open_Sharers', this)">Open Sharers</button><button class="persona-tab" onclick="showPersona('Cowboy','Overwhelmed_Seekers', this)">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Cowboy','Passive_Accepters', this)">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Cowboy','Practical_Realists', this)">Practical Realists</button></div>
             
             <div class="persona-panel" id="panel-Cowboy-Confident_Sharers" style="display:block;">
                 <div class="profile-box">
@@ -15535,7 +15537,7 @@
         
         <section id="policy-Cuboai" style="display:none;">
             <h2>Cuboai</h2>
-            <div class="persona-tabs"><button class="persona-tab" onclick="showPersona('Cuboai','Confident_Sharers')">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Cuboai','Informed_Protectors')">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Cuboai','Open_Sharers')">Open Sharers</button><button class="persona-tab" onclick="showPersona('Cuboai','Overwhelmed_Seekers')">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Cuboai','Passive_Accepters')">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Cuboai','Practical_Realists')">Practical Realists</button></div>
+            <div class="persona-tabs"><button class="persona-tab active" onclick="showPersona('Cuboai','Confident_Sharers', this)">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Cuboai','Informed_Protectors', this)">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Cuboai','Open_Sharers', this)">Open Sharers</button><button class="persona-tab" onclick="showPersona('Cuboai','Overwhelmed_Seekers', this)">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Cuboai','Passive_Accepters', this)">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Cuboai','Practical_Realists', this)">Practical Realists</button></div>
             
             <div class="persona-panel" id="panel-Cuboai-Confident_Sharers" style="display:block;">
                 <div class="profile-box">
@@ -16783,7 +16785,7 @@
         
         <section id="policy-Danalock" style="display:none;">
             <h2>Danalock</h2>
-            <div class="persona-tabs"><button class="persona-tab" onclick="showPersona('Danalock','Confident_Sharers')">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Danalock','Informed_Protectors')">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Danalock','Open_Sharers')">Open Sharers</button><button class="persona-tab" onclick="showPersona('Danalock','Overwhelmed_Seekers')">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Danalock','Passive_Accepters')">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Danalock','Practical_Realists')">Practical Realists</button></div>
+            <div class="persona-tabs"><button class="persona-tab active" onclick="showPersona('Danalock','Confident_Sharers', this)">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Danalock','Informed_Protectors', this)">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Danalock','Open_Sharers', this)">Open Sharers</button><button class="persona-tab" onclick="showPersona('Danalock','Overwhelmed_Seekers', this)">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Danalock','Passive_Accepters', this)">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Danalock','Practical_Realists', this)">Practical Realists</button></div>
             
             <div class="persona-panel" id="panel-Danalock-Confident_Sharers" style="display:block;">
                 <div class="profile-box">
@@ -17917,7 +17919,7 @@
         
         <section id="policy-Digilock" style="display:none;">
             <h2>Digilock</h2>
-            <div class="persona-tabs"><button class="persona-tab" onclick="showPersona('Digilock','Confident_Sharers')">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Digilock','Informed_Protectors')">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Digilock','Open_Sharers')">Open Sharers</button><button class="persona-tab" onclick="showPersona('Digilock','Overwhelmed_Seekers')">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Digilock','Passive_Accepters')">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Digilock','Practical_Realists')">Practical Realists</button></div>
+            <div class="persona-tabs"><button class="persona-tab active" onclick="showPersona('Digilock','Confident_Sharers', this)">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Digilock','Informed_Protectors', this)">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Digilock','Open_Sharers', this)">Open Sharers</button><button class="persona-tab" onclick="showPersona('Digilock','Overwhelmed_Seekers', this)">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Digilock','Passive_Accepters', this)">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Digilock','Practical_Realists', this)">Practical Realists</button></div>
             
             <div class="persona-panel" id="panel-Digilock-Confident_Sharers" style="display:block;">
                 <div class="profile-box">
@@ -19237,7 +19239,7 @@
         
         <section id="policy-Dji" style="display:none;">
             <h2>Dji</h2>
-            <div class="persona-tabs"><button class="persona-tab" onclick="showPersona('Dji','Confident_Sharers')">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Dji','Informed_Protectors')">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Dji','Open_Sharers')">Open Sharers</button><button class="persona-tab" onclick="showPersona('Dji','Overwhelmed_Seekers')">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Dji','Passive_Accepters')">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Dji','Practical_Realists')">Practical Realists</button></div>
+            <div class="persona-tabs"><button class="persona-tab active" onclick="showPersona('Dji','Confident_Sharers', this)">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Dji','Informed_Protectors', this)">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Dji','Open_Sharers', this)">Open Sharers</button><button class="persona-tab" onclick="showPersona('Dji','Overwhelmed_Seekers', this)">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Dji','Passive_Accepters', this)">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Dji','Practical_Realists', this)">Practical Realists</button></div>
             
             <div class="persona-panel" id="panel-Dji-Confident_Sharers" style="display:block;">
                 <div class="profile-box">
@@ -20497,7 +20499,7 @@
         
         <section id="policy-Dott" style="display:none;">
             <h2>Dott</h2>
-            <div class="persona-tabs"><button class="persona-tab" onclick="showPersona('Dott','Confident_Sharers')">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Dott','Informed_Protectors')">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Dott','Open_Sharers')">Open Sharers</button><button class="persona-tab" onclick="showPersona('Dott','Overwhelmed_Seekers')">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Dott','Passive_Accepters')">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Dott','Practical_Realists')">Practical Realists</button></div>
+            <div class="persona-tabs"><button class="persona-tab active" onclick="showPersona('Dott','Confident_Sharers', this)">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Dott','Informed_Protectors', this)">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Dott','Open_Sharers', this)">Open Sharers</button><button class="persona-tab" onclick="showPersona('Dott','Overwhelmed_Seekers', this)">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Dott','Passive_Accepters', this)">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Dott','Practical_Realists', this)">Practical Realists</button></div>
             
             <div class="persona-panel" id="panel-Dott-Confident_Sharers" style="display:block;">
                 <div class="profile-box">
@@ -21715,7 +21717,7 @@
         
         <section id="policy-Dreame" style="display:none;">
             <h2>Dreame</h2>
-            <div class="persona-tabs"><button class="persona-tab" onclick="showPersona('Dreame','Confident_Sharers')">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Dreame','Informed_Protectors')">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Dreame','Open_Sharers')">Open Sharers</button><button class="persona-tab" onclick="showPersona('Dreame','Overwhelmed_Seekers')">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Dreame','Passive_Accepters')">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Dreame','Practical_Realists')">Practical Realists</button></div>
+            <div class="persona-tabs"><button class="persona-tab active" onclick="showPersona('Dreame','Confident_Sharers', this)">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Dreame','Informed_Protectors', this)">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Dreame','Open_Sharers', this)">Open Sharers</button><button class="persona-tab" onclick="showPersona('Dreame','Overwhelmed_Seekers', this)">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Dreame','Passive_Accepters', this)">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Dreame','Practical_Realists', this)">Practical Realists</button></div>
             
             <div class="persona-panel" id="panel-Dreame-Confident_Sharers" style="display:block;">
                 <div class="profile-box">
@@ -22933,7 +22935,7 @@
         
         <section id="policy-Dyson" style="display:none;">
             <h2>Dyson</h2>
-            <div class="persona-tabs"><button class="persona-tab" onclick="showPersona('Dyson','Confident_Sharers')">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Dyson','Informed_Protectors')">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Dyson','Open_Sharers')">Open Sharers</button><button class="persona-tab" onclick="showPersona('Dyson','Overwhelmed_Seekers')">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Dyson','Passive_Accepters')">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Dyson','Practical_Realists')">Practical Realists</button></div>
+            <div class="persona-tabs"><button class="persona-tab active" onclick="showPersona('Dyson','Confident_Sharers', this)">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Dyson','Informed_Protectors', this)">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Dyson','Open_Sharers', this)">Open Sharers</button><button class="persona-tab" onclick="showPersona('Dyson','Overwhelmed_Seekers', this)">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Dyson','Passive_Accepters', this)">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Dyson','Practical_Realists', this)">Practical Realists</button></div>
             
             <div class="persona-panel" id="panel-Dyson-Confident_Sharers" style="display:block;">
                 <div class="profile-box">
@@ -24133,7 +24135,7 @@
         
         <section id="policy-Ecovacs" style="display:none;">
             <h2>Ecovacs</h2>
-            <div class="persona-tabs"><button class="persona-tab" onclick="showPersona('Ecovacs','Confident_Sharers')">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Ecovacs','Informed_Protectors')">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Ecovacs','Open_Sharers')">Open Sharers</button><button class="persona-tab" onclick="showPersona('Ecovacs','Overwhelmed_Seekers')">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Ecovacs','Passive_Accepters')">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Ecovacs','Practical_Realists')">Practical Realists</button></div>
+            <div class="persona-tabs"><button class="persona-tab active" onclick="showPersona('Ecovacs','Confident_Sharers', this)">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Ecovacs','Informed_Protectors', this)">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Ecovacs','Open_Sharers', this)">Open Sharers</button><button class="persona-tab" onclick="showPersona('Ecovacs','Overwhelmed_Seekers', this)">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Ecovacs','Passive_Accepters', this)">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Ecovacs','Practical_Realists', this)">Practical Realists</button></div>
             
             <div class="persona-panel" id="panel-Ecovacs-Confident_Sharers" style="display:block;">
                 <div class="profile-box">
@@ -25429,7 +25431,7 @@
         
         <section id="policy-Emporia_Energy" style="display:none;">
             <h2>Emporia Energy</h2>
-            <div class="persona-tabs"><button class="persona-tab" onclick="showPersona('Emporia_Energy','Confident_Sharers')">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Emporia_Energy','Informed_Protectors')">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Emporia_Energy','Open_Sharers')">Open Sharers</button><button class="persona-tab" onclick="showPersona('Emporia_Energy','Overwhelmed_Seekers')">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Emporia_Energy','Passive_Accepters')">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Emporia_Energy','Practical_Realists')">Practical Realists</button></div>
+            <div class="persona-tabs"><button class="persona-tab active" onclick="showPersona('Emporia_Energy','Confident_Sharers', this)">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Emporia_Energy','Informed_Protectors', this)">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Emporia_Energy','Open_Sharers', this)">Open Sharers</button><button class="persona-tab" onclick="showPersona('Emporia_Energy','Overwhelmed_Seekers', this)">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Emporia_Energy','Passive_Accepters', this)">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Emporia_Energy','Practical_Realists', this)">Practical Realists</button></div>
             
             <div class="persona-panel" id="panel-Emporia_Energy-Confident_Sharers" style="display:block;">
                 <div class="profile-box">
@@ -26743,7 +26745,7 @@
         
         <section id="policy-Eviqo" style="display:none;">
             <h2>Eviqo</h2>
-            <div class="persona-tabs"><button class="persona-tab" onclick="showPersona('Eviqo','Confident_Sharers')">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Eviqo','Informed_Protectors')">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Eviqo','Open_Sharers')">Open Sharers</button><button class="persona-tab" onclick="showPersona('Eviqo','Overwhelmed_Seekers')">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Eviqo','Passive_Accepters')">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Eviqo','Practical_Realists')">Practical Realists</button></div>
+            <div class="persona-tabs"><button class="persona-tab active" onclick="showPersona('Eviqo','Confident_Sharers', this)">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Eviqo','Informed_Protectors', this)">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Eviqo','Open_Sharers', this)">Open Sharers</button><button class="persona-tab" onclick="showPersona('Eviqo','Overwhelmed_Seekers', this)">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Eviqo','Passive_Accepters', this)">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Eviqo','Practical_Realists', this)">Practical Realists</button></div>
             
             <div class="persona-panel" id="panel-Eviqo-Confident_Sharers" style="display:block;">
                 <div class="profile-box">
@@ -27949,7 +27951,7 @@
         
         <section id="policy-Fitbit" style="display:none;">
             <h2>Fitbit</h2>
-            <div class="persona-tabs"><button class="persona-tab" onclick="showPersona('Fitbit','Confident_Sharers')">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Fitbit','Informed_Protectors')">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Fitbit','Open_Sharers')">Open Sharers</button><button class="persona-tab" onclick="showPersona('Fitbit','Overwhelmed_Seekers')">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Fitbit','Passive_Accepters')">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Fitbit','Practical_Realists')">Practical Realists</button></div>
+            <div class="persona-tabs"><button class="persona-tab active" onclick="showPersona('Fitbit','Confident_Sharers', this)">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Fitbit','Informed_Protectors', this)">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Fitbit','Open_Sharers', this)">Open Sharers</button><button class="persona-tab" onclick="showPersona('Fitbit','Overwhelmed_Seekers', this)">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Fitbit','Passive_Accepters', this)">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Fitbit','Practical_Realists', this)">Practical Realists</button></div>
             
             <div class="persona-panel" id="panel-Fitbit-Confident_Sharers" style="display:block;">
                 <div class="profile-box">
@@ -29209,7 +29211,7 @@
         
         <section id="policy-Ford" style="display:none;">
             <h2>Ford</h2>
-            <div class="persona-tabs"><button class="persona-tab" onclick="showPersona('Ford','Confident_Sharers')">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Ford','Informed_Protectors')">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Ford','Open_Sharers')">Open Sharers</button><button class="persona-tab" onclick="showPersona('Ford','Overwhelmed_Seekers')">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Ford','Passive_Accepters')">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Ford','Practical_Realists')">Practical Realists</button></div>
+            <div class="persona-tabs"><button class="persona-tab active" onclick="showPersona('Ford','Confident_Sharers', this)">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Ford','Informed_Protectors', this)">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Ford','Open_Sharers', this)">Open Sharers</button><button class="persona-tab" onclick="showPersona('Ford','Overwhelmed_Seekers', this)">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Ford','Passive_Accepters', this)">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Ford','Practical_Realists', this)">Practical Realists</button></div>
             
             <div class="persona-panel" id="panel-Ford-Confident_Sharers" style="display:block;">
                 <div class="profile-box">
@@ -30433,7 +30435,7 @@
         
         <section id="policy-Garmin" style="display:none;">
             <h2>Garmin</h2>
-            <div class="persona-tabs"><button class="persona-tab" onclick="showPersona('Garmin','Confident_Sharers')">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Garmin','Informed_Protectors')">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Garmin','Open_Sharers')">Open Sharers</button><button class="persona-tab" onclick="showPersona('Garmin','Overwhelmed_Seekers')">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Garmin','Passive_Accepters')">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Garmin','Practical_Realists')">Practical Realists</button></div>
+            <div class="persona-tabs"><button class="persona-tab active" onclick="showPersona('Garmin','Confident_Sharers', this)">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Garmin','Informed_Protectors', this)">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Garmin','Open_Sharers', this)">Open Sharers</button><button class="persona-tab" onclick="showPersona('Garmin','Overwhelmed_Seekers', this)">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Garmin','Passive_Accepters', this)">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Garmin','Practical_Realists', this)">Practical Realists</button></div>
             
             <div class="persona-panel" id="panel-Garmin-Confident_Sharers" style="display:block;">
                 <div class="profile-box">
@@ -31507,7 +31509,7 @@
         
         <section id="policy-Harman" style="display:none;">
             <h2>Harman</h2>
-            <div class="persona-tabs"><button class="persona-tab" onclick="showPersona('Harman','Confident_Sharers')">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Harman','Informed_Protectors')">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Harman','Open_Sharers')">Open Sharers</button><button class="persona-tab" onclick="showPersona('Harman','Overwhelmed_Seekers')">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Harman','Passive_Accepters')">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Harman','Practical_Realists')">Practical Realists</button></div>
+            <div class="persona-tabs"><button class="persona-tab active" onclick="showPersona('Harman','Confident_Sharers', this)">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Harman','Informed_Protectors', this)">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Harman','Open_Sharers', this)">Open Sharers</button><button class="persona-tab" onclick="showPersona('Harman','Overwhelmed_Seekers', this)">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Harman','Passive_Accepters', this)">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Harman','Practical_Realists', this)">Practical Realists</button></div>
             
             <div class="persona-panel" id="panel-Harman-Confident_Sharers" style="display:block;">
                 <div class="profile-box">
@@ -32689,7 +32691,7 @@
         
         <section id="policy-Hisense" style="display:none;">
             <h2>Hisense</h2>
-            <div class="persona-tabs"><button class="persona-tab" onclick="showPersona('Hisense','Confident_Sharers')">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Hisense','Informed_Protectors')">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Hisense','Open_Sharers')">Open Sharers</button><button class="persona-tab" onclick="showPersona('Hisense','Overwhelmed_Seekers')">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Hisense','Passive_Accepters')">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Hisense','Practical_Realists')">Practical Realists</button></div>
+            <div class="persona-tabs"><button class="persona-tab active" onclick="showPersona('Hisense','Confident_Sharers', this)">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Hisense','Informed_Protectors', this)">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Hisense','Open_Sharers', this)">Open Sharers</button><button class="persona-tab" onclick="showPersona('Hisense','Overwhelmed_Seekers', this)">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Hisense','Passive_Accepters', this)">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Hisense','Practical_Realists', this)">Practical Realists</button></div>
             
             <div class="persona-panel" id="panel-Hisense-Confident_Sharers" style="display:block;">
                 <div class="profile-box">
@@ -33955,7 +33957,7 @@
         
         <section id="policy-Htc" style="display:none;">
             <h2>Htc</h2>
-            <div class="persona-tabs"><button class="persona-tab" onclick="showPersona('Htc','Confident_Sharers')">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Htc','Informed_Protectors')">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Htc','Open_Sharers')">Open Sharers</button><button class="persona-tab" onclick="showPersona('Htc','Overwhelmed_Seekers')">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Htc','Passive_Accepters')">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Htc','Practical_Realists')">Practical Realists</button></div>
+            <div class="persona-tabs"><button class="persona-tab active" onclick="showPersona('Htc','Confident_Sharers', this)">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Htc','Informed_Protectors', this)">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Htc','Open_Sharers', this)">Open Sharers</button><button class="persona-tab" onclick="showPersona('Htc','Overwhelmed_Seekers', this)">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Htc','Passive_Accepters', this)">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Htc','Practical_Realists', this)">Practical Realists</button></div>
             
             <div class="persona-panel" id="panel-Htc-Confident_Sharers" style="display:block;">
                 <div class="profile-box">
@@ -35203,7 +35205,7 @@
         
         <section id="policy-Huawei" style="display:none;">
             <h2>Huawei</h2>
-            <div class="persona-tabs"><button class="persona-tab" onclick="showPersona('Huawei','Confident_Sharers')">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Huawei','Informed_Protectors')">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Huawei','Open_Sharers')">Open Sharers</button><button class="persona-tab" onclick="showPersona('Huawei','Overwhelmed_Seekers')">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Huawei','Passive_Accepters')">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Huawei','Practical_Realists')">Practical Realists</button></div>
+            <div class="persona-tabs"><button class="persona-tab active" onclick="showPersona('Huawei','Confident_Sharers', this)">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Huawei','Informed_Protectors', this)">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Huawei','Open_Sharers', this)">Open Sharers</button><button class="persona-tab" onclick="showPersona('Huawei','Overwhelmed_Seekers', this)">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Huawei','Passive_Accepters', this)">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Huawei','Practical_Realists', this)">Practical Realists</button></div>
             
             <div class="persona-panel" id="panel-Huawei-Confident_Sharers" style="display:block;">
                 <div class="profile-box">
@@ -36421,7 +36423,7 @@
         
         <section id="policy-Husqvarna" style="display:none;">
             <h2>Husqvarna</h2>
-            <div class="persona-tabs"><button class="persona-tab" onclick="showPersona('Husqvarna','Confident_Sharers')">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Husqvarna','Informed_Protectors')">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Husqvarna','Open_Sharers')">Open Sharers</button><button class="persona-tab" onclick="showPersona('Husqvarna','Overwhelmed_Seekers')">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Husqvarna','Passive_Accepters')">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Husqvarna','Practical_Realists')">Practical Realists</button></div>
+            <div class="persona-tabs"><button class="persona-tab active" onclick="showPersona('Husqvarna','Confident_Sharers', this)">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Husqvarna','Informed_Protectors', this)">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Husqvarna','Open_Sharers', this)">Open Sharers</button><button class="persona-tab" onclick="showPersona('Husqvarna','Overwhelmed_Seekers', this)">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Husqvarna','Passive_Accepters', this)">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Husqvarna','Practical_Realists', this)">Practical Realists</button></div>
             
             <div class="persona-panel" id="panel-Husqvarna-Confident_Sharers" style="display:block;">
                 <div class="profile-box">
@@ -37675,7 +37677,7 @@
         
         <section id="policy-Hyundai" style="display:none;">
             <h2>Hyundai</h2>
-            <div class="persona-tabs"><button class="persona-tab" onclick="showPersona('Hyundai','Confident_Sharers')">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Hyundai','Informed_Protectors')">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Hyundai','Open_Sharers')">Open Sharers</button><button class="persona-tab" onclick="showPersona('Hyundai','Overwhelmed_Seekers')">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Hyundai','Passive_Accepters')">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Hyundai','Practical_Realists')">Practical Realists</button></div>
+            <div class="persona-tabs"><button class="persona-tab active" onclick="showPersona('Hyundai','Confident_Sharers', this)">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Hyundai','Informed_Protectors', this)">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Hyundai','Open_Sharers', this)">Open Sharers</button><button class="persona-tab" onclick="showPersona('Hyundai','Overwhelmed_Seekers', this)">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Hyundai','Passive_Accepters', this)">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Hyundai','Practical_Realists', this)">Practical Realists</button></div>
             
             <div class="persona-panel" id="panel-Hyundai-Confident_Sharers" style="display:block;">
                 <div class="profile-box">
@@ -38845,7 +38847,7 @@
         
         <section id="policy-Ifit" style="display:none;">
             <h2>Ifit</h2>
-            <div class="persona-tabs"><button class="persona-tab" onclick="showPersona('Ifit','Confident_Sharers')">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Ifit','Informed_Protectors')">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Ifit','Open_Sharers')">Open Sharers</button><button class="persona-tab" onclick="showPersona('Ifit','Overwhelmed_Seekers')">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Ifit','Passive_Accepters')">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Ifit','Practical_Realists')">Practical Realists</button></div>
+            <div class="persona-tabs"><button class="persona-tab active" onclick="showPersona('Ifit','Confident_Sharers', this)">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Ifit','Informed_Protectors', this)">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Ifit','Open_Sharers', this)">Open Sharers</button><button class="persona-tab" onclick="showPersona('Ifit','Overwhelmed_Seekers', this)">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Ifit','Passive_Accepters', this)">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Ifit','Practical_Realists', this)">Practical Realists</button></div>
             
             <div class="persona-panel" id="panel-Ifit-Confident_Sharers" style="display:block;">
                 <div class="profile-box">
@@ -40099,7 +40101,7 @@
         
         <section id="policy-Inmo" style="display:none;">
             <h2>Inmo</h2>
-            <div class="persona-tabs"><button class="persona-tab" onclick="showPersona('Inmo','Confident_Sharers')">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Inmo','Informed_Protectors')">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Inmo','Open_Sharers')">Open Sharers</button><button class="persona-tab" onclick="showPersona('Inmo','Overwhelmed_Seekers')">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Inmo','Passive_Accepters')">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Inmo','Practical_Realists')">Practical Realists</button></div>
+            <div class="persona-tabs"><button class="persona-tab active" onclick="showPersona('Inmo','Confident_Sharers', this)">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Inmo','Informed_Protectors', this)">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Inmo','Open_Sharers', this)">Open Sharers</button><button class="persona-tab" onclick="showPersona('Inmo','Overwhelmed_Seekers', this)">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Inmo','Passive_Accepters', this)">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Inmo','Practical_Realists', this)">Practical Realists</button></div>
             
             <div class="persona-panel" id="panel-Inmo-Confident_Sharers" style="display:block;">
                 <div class="profile-box">
@@ -41395,7 +41397,7 @@
         
         <section id="policy-Irobot" style="display:none;">
             <h2>Irobot</h2>
-            <div class="persona-tabs"><button class="persona-tab" onclick="showPersona('Irobot','Confident_Sharers')">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Irobot','Informed_Protectors')">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Irobot','Open_Sharers')">Open Sharers</button><button class="persona-tab" onclick="showPersona('Irobot','Overwhelmed_Seekers')">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Irobot','Passive_Accepters')">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Irobot','Practical_Realists')">Practical Realists</button></div>
+            <div class="persona-tabs"><button class="persona-tab active" onclick="showPersona('Irobot','Confident_Sharers', this)">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Irobot','Informed_Protectors', this)">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Irobot','Open_Sharers', this)">Open Sharers</button><button class="persona-tab" onclick="showPersona('Irobot','Overwhelmed_Seekers', this)">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Irobot','Passive_Accepters', this)">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Irobot','Practical_Realists', this)">Practical Realists</button></div>
             
             <div class="persona-panel" id="panel-Irobot-Confident_Sharers" style="display:block;">
                 <div class="profile-box">
@@ -42649,7 +42651,7 @@
         
         <section id="policy-Keyirobot" style="display:none;">
             <h2>Keyirobot</h2>
-            <div class="persona-tabs"><button class="persona-tab" onclick="showPersona('Keyirobot','Confident_Sharers')">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Keyirobot','Informed_Protectors')">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Keyirobot','Open_Sharers')">Open Sharers</button><button class="persona-tab" onclick="showPersona('Keyirobot','Overwhelmed_Seekers')">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Keyirobot','Passive_Accepters')">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Keyirobot','Practical_Realists')">Practical Realists</button></div>
+            <div class="persona-tabs"><button class="persona-tab active" onclick="showPersona('Keyirobot','Confident_Sharers', this)">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Keyirobot','Informed_Protectors', this)">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Keyirobot','Open_Sharers', this)">Open Sharers</button><button class="persona-tab" onclick="showPersona('Keyirobot','Overwhelmed_Seekers', this)">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Keyirobot','Passive_Accepters', this)">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Keyirobot','Practical_Realists', this)">Practical Realists</button></div>
             
             <div class="persona-panel" id="panel-Keyirobot-Confident_Sharers" style="display:block;">
                 <div class="profile-box">
@@ -43927,7 +43929,7 @@
         
         <section id="policy-Kia" style="display:none;">
             <h2>Kia</h2>
-            <div class="persona-tabs"><button class="persona-tab" onclick="showPersona('Kia','Confident_Sharers')">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Kia','Informed_Protectors')">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Kia','Open_Sharers')">Open Sharers</button><button class="persona-tab" onclick="showPersona('Kia','Overwhelmed_Seekers')">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Kia','Passive_Accepters')">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Kia','Practical_Realists')">Practical Realists</button></div>
+            <div class="persona-tabs"><button class="persona-tab active" onclick="showPersona('Kia','Confident_Sharers', this)">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Kia','Informed_Protectors', this)">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Kia','Open_Sharers', this)">Open Sharers</button><button class="persona-tab" onclick="showPersona('Kia','Overwhelmed_Seekers', this)">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Kia','Passive_Accepters', this)">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Kia','Practical_Realists', this)">Practical Realists</button></div>
             
             <div class="persona-panel" id="panel-Kia-Confident_Sharers" style="display:block;">
                 <div class="profile-box">
@@ -45193,7 +45195,7 @@
         
         <section id="policy-Lenovo" style="display:none;">
             <h2>Lenovo</h2>
-            <div class="persona-tabs"><button class="persona-tab" onclick="showPersona('Lenovo','Confident_Sharers')">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Lenovo','Informed_Protectors')">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Lenovo','Open_Sharers')">Open Sharers</button><button class="persona-tab" onclick="showPersona('Lenovo','Overwhelmed_Seekers')">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Lenovo','Passive_Accepters')">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Lenovo','Practical_Realists')">Practical Realists</button></div>
+            <div class="persona-tabs"><button class="persona-tab active" onclick="showPersona('Lenovo','Confident_Sharers', this)">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Lenovo','Informed_Protectors', this)">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Lenovo','Open_Sharers', this)">Open Sharers</button><button class="persona-tab" onclick="showPersona('Lenovo','Overwhelmed_Seekers', this)">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Lenovo','Passive_Accepters', this)">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Lenovo','Practical_Realists', this)">Practical Realists</button></div>
             
             <div class="persona-panel" id="panel-Lenovo-Confident_Sharers" style="display:block;">
                 <div class="profile-box">
@@ -46429,7 +46431,7 @@
         
         <section id="policy-Lg" style="display:none;">
             <h2>Lg</h2>
-            <div class="persona-tabs"><button class="persona-tab" onclick="showPersona('Lg','Confident_Sharers')">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Lg','Informed_Protectors')">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Lg','Open_Sharers')">Open Sharers</button><button class="persona-tab" onclick="showPersona('Lg','Overwhelmed_Seekers')">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Lg','Passive_Accepters')">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Lg','Practical_Realists')">Practical Realists</button></div>
+            <div class="persona-tabs"><button class="persona-tab active" onclick="showPersona('Lg','Confident_Sharers', this)">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Lg','Informed_Protectors', this)">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Lg','Open_Sharers', this)">Open Sharers</button><button class="persona-tab" onclick="showPersona('Lg','Overwhelmed_Seekers', this)">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Lg','Passive_Accepters', this)">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Lg','Practical_Realists', this)">Practical Realists</button></div>
             
             <div class="persona-panel" id="panel-Lg-Confident_Sharers" style="display:block;">
                 <div class="profile-box">
@@ -47665,7 +47667,7 @@
         
         <section id="policy-Lime" style="display:none;">
             <h2>Lime</h2>
-            <div class="persona-tabs"><button class="persona-tab" onclick="showPersona('Lime','Confident_Sharers')">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Lime','Informed_Protectors')">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Lime','Open_Sharers')">Open Sharers</button><button class="persona-tab" onclick="showPersona('Lime','Overwhelmed_Seekers')">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Lime','Passive_Accepters')">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Lime','Practical_Realists')">Practical Realists</button></div>
+            <div class="persona-tabs"><button class="persona-tab active" onclick="showPersona('Lime','Confident_Sharers', this)">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Lime','Informed_Protectors', this)">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Lime','Open_Sharers', this)">Open Sharers</button><button class="persona-tab" onclick="showPersona('Lime','Overwhelmed_Seekers', this)">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Lime','Passive_Accepters', this)">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Lime','Practical_Realists', this)">Practical Realists</button></div>
             
             <div class="persona-panel" id="panel-Lime-Confident_Sharers" style="display:block;">
                 <div class="profile-box">
@@ -48835,7 +48837,7 @@
         
         <section id="policy-Lunazone" style="display:none;">
             <h2>Lunazone</h2>
-            <div class="persona-tabs"><button class="persona-tab" onclick="showPersona('Lunazone','Confident_Sharers')">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Lunazone','Informed_Protectors')">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Lunazone','Open_Sharers')">Open Sharers</button><button class="persona-tab" onclick="showPersona('Lunazone','Overwhelmed_Seekers')">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Lunazone','Passive_Accepters')">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Lunazone','Practical_Realists')">Practical Realists</button></div>
+            <div class="persona-tabs"><button class="persona-tab active" onclick="showPersona('Lunazone','Confident_Sharers', this)">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Lunazone','Informed_Protectors', this)">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Lunazone','Open_Sharers', this)">Open Sharers</button><button class="persona-tab" onclick="showPersona('Lunazone','Overwhelmed_Seekers', this)">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Lunazone','Passive_Accepters', this)">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Lunazone','Practical_Realists', this)">Practical Realists</button></div>
             
             <div class="persona-panel" id="panel-Lunazone-Confident_Sharers" style="display:block;">
                 <div class="profile-box">
@@ -50059,7 +50061,7 @@
         
         <section id="policy-Luxai" style="display:none;">
             <h2>Luxai</h2>
-            <div class="persona-tabs"><button class="persona-tab" onclick="showPersona('Luxai','Confident_Sharers')">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Luxai','Informed_Protectors')">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Luxai','Open_Sharers')">Open Sharers</button><button class="persona-tab" onclick="showPersona('Luxai','Overwhelmed_Seekers')">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Luxai','Passive_Accepters')">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Luxai','Practical_Realists')">Practical Realists</button></div>
+            <div class="persona-tabs"><button class="persona-tab active" onclick="showPersona('Luxai','Confident_Sharers', this)">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Luxai','Informed_Protectors', this)">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Luxai','Open_Sharers', this)">Open Sharers</button><button class="persona-tab" onclick="showPersona('Luxai','Overwhelmed_Seekers', this)">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Luxai','Passive_Accepters', this)">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Luxai','Practical_Realists', this)">Practical Realists</button></div>
             
             <div class="persona-panel" id="panel-Luxai-Confident_Sharers" style="display:block;">
                 <div class="profile-box">
@@ -51229,7 +51231,7 @@
         
         <section id="policy-Mercedes_Benz" style="display:none;">
             <h2>Mercedes Benz</h2>
-            <div class="persona-tabs"><button class="persona-tab" onclick="showPersona('Mercedes_Benz','Confident_Sharers')">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Mercedes_Benz','Informed_Protectors')">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Mercedes_Benz','Open_Sharers')">Open Sharers</button><button class="persona-tab" onclick="showPersona('Mercedes_Benz','Overwhelmed_Seekers')">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Mercedes_Benz','Passive_Accepters')">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Mercedes_Benz','Practical_Realists')">Practical Realists</button></div>
+            <div class="persona-tabs"><button class="persona-tab active" onclick="showPersona('Mercedes_Benz','Confident_Sharers', this)">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Mercedes_Benz','Informed_Protectors', this)">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Mercedes_Benz','Open_Sharers', this)">Open Sharers</button><button class="persona-tab" onclick="showPersona('Mercedes_Benz','Overwhelmed_Seekers', this)">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Mercedes_Benz','Passive_Accepters', this)">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Mercedes_Benz','Practical_Realists', this)">Practical Realists</button></div>
             
             <div class="persona-panel" id="panel-Mercedes_Benz-Confident_Sharers" style="display:block;">
                 <div class="profile-box">
@@ -52507,7 +52509,7 @@
         
         <section id="policy-Meta" style="display:none;">
             <h2>Meta</h2>
-            <div class="persona-tabs"><button class="persona-tab" onclick="showPersona('Meta','Confident_Sharers')">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Meta','Informed_Protectors')">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Meta','Open_Sharers')">Open Sharers</button><button class="persona-tab" onclick="showPersona('Meta','Overwhelmed_Seekers')">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Meta','Passive_Accepters')">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Meta','Practical_Realists')">Practical Realists</button></div>
+            <div class="persona-tabs"><button class="persona-tab active" onclick="showPersona('Meta','Confident_Sharers', this)">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Meta','Informed_Protectors', this)">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Meta','Open_Sharers', this)">Open Sharers</button><button class="persona-tab" onclick="showPersona('Meta','Overwhelmed_Seekers', this)">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Meta','Passive_Accepters', this)">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Meta','Practical_Realists', this)">Practical Realists</button></div>
             
             <div class="persona-panel" id="panel-Meta-Confident_Sharers" style="display:block;">
                 <div class="profile-box">
@@ -53743,7 +53745,7 @@
         
         <section id="policy-Mi" style="display:none;">
             <h2>Mi</h2>
-            <div class="persona-tabs"><button class="persona-tab" onclick="showPersona('Mi','Confident_Sharers')">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Mi','Informed_Protectors')">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Mi','Open_Sharers')">Open Sharers</button><button class="persona-tab" onclick="showPersona('Mi','Overwhelmed_Seekers')">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Mi','Passive_Accepters')">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Mi','Practical_Realists')">Practical Realists</button></div>
+            <div class="persona-tabs"><button class="persona-tab active" onclick="showPersona('Mi','Confident_Sharers', this)">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Mi','Informed_Protectors', this)">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Mi','Open_Sharers', this)">Open Sharers</button><button class="persona-tab" onclick="showPersona('Mi','Overwhelmed_Seekers', this)">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Mi','Passive_Accepters', this)">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Mi','Practical_Realists', this)">Practical Realists</button></div>
             
             <div class="persona-panel" id="panel-Mi-Confident_Sharers" style="display:block;">
                 <div class="profile-box">
@@ -54991,7 +54993,7 @@
         
         <section id="policy-Microsoft" style="display:none;">
             <h2>Microsoft</h2>
-            <div class="persona-tabs"><button class="persona-tab" onclick="showPersona('Microsoft','Confident_Sharers')">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Microsoft','Informed_Protectors')">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Microsoft','Open_Sharers')">Open Sharers</button><button class="persona-tab" onclick="showPersona('Microsoft','Overwhelmed_Seekers')">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Microsoft','Passive_Accepters')">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Microsoft','Practical_Realists')">Practical Realists</button></div>
+            <div class="persona-tabs"><button class="persona-tab active" onclick="showPersona('Microsoft','Confident_Sharers', this)">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Microsoft','Informed_Protectors', this)">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Microsoft','Open_Sharers', this)">Open Sharers</button><button class="persona-tab" onclick="showPersona('Microsoft','Overwhelmed_Seekers', this)">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Microsoft','Passive_Accepters', this)">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Microsoft','Practical_Realists', this)">Practical Realists</button></div>
             
             <div class="persona-panel" id="panel-Microsoft-Confident_Sharers" style="display:block;">
                 <div class="profile-box">
@@ -56227,7 +56229,7 @@
         
         <section id="policy-Miko" style="display:none;">
             <h2>Miko</h2>
-            <div class="persona-tabs"><button class="persona-tab" onclick="showPersona('Miko','Confident_Sharers')">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Miko','Informed_Protectors')">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Miko','Open_Sharers')">Open Sharers</button><button class="persona-tab" onclick="showPersona('Miko','Overwhelmed_Seekers')">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Miko','Passive_Accepters')">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Miko','Practical_Realists')">Practical Realists</button></div>
+            <div class="persona-tabs"><button class="persona-tab active" onclick="showPersona('Miko','Confident_Sharers', this)">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Miko','Informed_Protectors', this)">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Miko','Open_Sharers', this)">Open Sharers</button><button class="persona-tab" onclick="showPersona('Miko','Overwhelmed_Seekers', this)">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Miko','Passive_Accepters', this)">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Miko','Practical_Realists', this)">Practical Realists</button></div>
             
             <div class="persona-panel" id="panel-Miko-Confident_Sharers" style="display:block;">
                 <div class="profile-box">
@@ -57487,7 +57489,7 @@
         
         <section id="policy-Motorola" style="display:none;">
             <h2>Motorola</h2>
-            <div class="persona-tabs"><button class="persona-tab" onclick="showPersona('Motorola','Confident_Sharers')">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Motorola','Informed_Protectors')">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Motorola','Open_Sharers')">Open Sharers</button><button class="persona-tab" onclick="showPersona('Motorola','Overwhelmed_Seekers')">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Motorola','Passive_Accepters')">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Motorola','Practical_Realists')">Practical Realists</button></div>
+            <div class="persona-tabs"><button class="persona-tab active" onclick="showPersona('Motorola','Confident_Sharers', this)">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Motorola','Informed_Protectors', this)">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Motorola','Open_Sharers', this)">Open Sharers</button><button class="persona-tab" onclick="showPersona('Motorola','Overwhelmed_Seekers', this)">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Motorola','Passive_Accepters', this)">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Motorola','Practical_Realists', this)">Practical Realists</button></div>
             
             <div class="persona-panel" id="panel-Motorola-Confident_Sharers" style="display:block;">
                 <div class="profile-box">
@@ -58723,7 +58725,7 @@
         
         <section id="policy-Muse" style="display:none;">
             <h2>Muse</h2>
-            <div class="persona-tabs"><button class="persona-tab" onclick="showPersona('Muse','Confident_Sharers')">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Muse','Informed_Protectors')">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Muse','Open_Sharers')">Open Sharers</button><button class="persona-tab" onclick="showPersona('Muse','Overwhelmed_Seekers')">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Muse','Passive_Accepters')">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Muse','Practical_Realists')">Practical Realists</button></div>
+            <div class="persona-tabs"><button class="persona-tab active" onclick="showPersona('Muse','Confident_Sharers', this)">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Muse','Informed_Protectors', this)">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Muse','Open_Sharers', this)">Open Sharers</button><button class="persona-tab" onclick="showPersona('Muse','Overwhelmed_Seekers', this)">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Muse','Passive_Accepters', this)">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Muse','Practical_Realists', this)">Practical Realists</button></div>
             
             <div class="persona-panel" id="panel-Muse-Confident_Sharers" style="display:block;">
                 <div class="profile-box">
@@ -59971,7 +59973,7 @@
         
         <section id="policy-My_Imow" style="display:none;">
             <h2>My Imow</h2>
-            <div class="persona-tabs"><button class="persona-tab" onclick="showPersona('My_Imow','Confident_Sharers')">Confident Sharers</button><button class="persona-tab" onclick="showPersona('My_Imow','Informed_Protectors')">Informed Protectors</button><button class="persona-tab" onclick="showPersona('My_Imow','Open_Sharers')">Open Sharers</button><button class="persona-tab" onclick="showPersona('My_Imow','Overwhelmed_Seekers')">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('My_Imow','Passive_Accepters')">Passive Accepters</button><button class="persona-tab" onclick="showPersona('My_Imow','Practical_Realists')">Practical Realists</button></div>
+            <div class="persona-tabs"><button class="persona-tab active" onclick="showPersona('My_Imow','Confident_Sharers', this)">Confident Sharers</button><button class="persona-tab" onclick="showPersona('My_Imow','Informed_Protectors', this)">Informed Protectors</button><button class="persona-tab" onclick="showPersona('My_Imow','Open_Sharers', this)">Open Sharers</button><button class="persona-tab" onclick="showPersona('My_Imow','Overwhelmed_Seekers', this)">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('My_Imow','Passive_Accepters', this)">Passive Accepters</button><button class="persona-tab" onclick="showPersona('My_Imow','Practical_Realists', this)">Practical Realists</button></div>
             
             <div class="persona-panel" id="panel-My_Imow-Confident_Sharers" style="display:block;">
                 <div class="profile-box">
@@ -61141,7 +61143,7 @@
         
         <section id="policy-My_Tonies" style="display:none;">
             <h2>My Tonies</h2>
-            <div class="persona-tabs"><button class="persona-tab" onclick="showPersona('My_Tonies','Confident_Sharers')">Confident Sharers</button><button class="persona-tab" onclick="showPersona('My_Tonies','Informed_Protectors')">Informed Protectors</button><button class="persona-tab" onclick="showPersona('My_Tonies','Open_Sharers')">Open Sharers</button><button class="persona-tab" onclick="showPersona('My_Tonies','Overwhelmed_Seekers')">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('My_Tonies','Passive_Accepters')">Passive Accepters</button><button class="persona-tab" onclick="showPersona('My_Tonies','Practical_Realists')">Practical Realists</button></div>
+            <div class="persona-tabs"><button class="persona-tab active" onclick="showPersona('My_Tonies','Confident_Sharers', this)">Confident Sharers</button><button class="persona-tab" onclick="showPersona('My_Tonies','Informed_Protectors', this)">Informed Protectors</button><button class="persona-tab" onclick="showPersona('My_Tonies','Open_Sharers', this)">Open Sharers</button><button class="persona-tab" onclick="showPersona('My_Tonies','Overwhelmed_Seekers', this)">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('My_Tonies','Passive_Accepters', this)">Passive Accepters</button><button class="persona-tab" onclick="showPersona('My_Tonies','Practical_Realists', this)">Practical Realists</button></div>
             
             <div class="persona-panel" id="panel-My_Tonies-Confident_Sharers" style="display:block;">
                 <div class="profile-box">
@@ -62449,7 +62451,7 @@
         
         <section id="policy-Nanit" style="display:none;">
             <h2>Nanit</h2>
-            <div class="persona-tabs"><button class="persona-tab" onclick="showPersona('Nanit','Confident_Sharers')">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Nanit','Informed_Protectors')">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Nanit','Open_Sharers')">Open Sharers</button><button class="persona-tab" onclick="showPersona('Nanit','Overwhelmed_Seekers')">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Nanit','Passive_Accepters')">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Nanit','Practical_Realists')">Practical Realists</button></div>
+            <div class="persona-tabs"><button class="persona-tab active" onclick="showPersona('Nanit','Confident_Sharers', this)">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Nanit','Informed_Protectors', this)">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Nanit','Open_Sharers', this)">Open Sharers</button><button class="persona-tab" onclick="showPersona('Nanit','Overwhelmed_Seekers', this)">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Nanit','Passive_Accepters', this)">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Nanit','Practical_Realists', this)">Practical Realists</button></div>
             
             <div class="persona-panel" id="panel-Nanit-Confident_Sharers" style="display:block;">
                 <div class="profile-box">
@@ -63403,7 +63405,7 @@
         
         <section id="policy-Nespresso" style="display:none;">
             <h2>Nespresso</h2>
-            <div class="persona-tabs"><button class="persona-tab" onclick="showPersona('Nespresso','Confident_Sharers')">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Nespresso','Informed_Protectors')">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Nespresso','Open_Sharers')">Open Sharers</button><button class="persona-tab" onclick="showPersona('Nespresso','Overwhelmed_Seekers')">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Nespresso','Passive_Accepters')">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Nespresso','Practical_Realists')">Practical Realists</button></div>
+            <div class="persona-tabs"><button class="persona-tab active" onclick="showPersona('Nespresso','Confident_Sharers', this)">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Nespresso','Informed_Protectors', this)">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Nespresso','Open_Sharers', this)">Open Sharers</button><button class="persona-tab" onclick="showPersona('Nespresso','Overwhelmed_Seekers', this)">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Nespresso','Passive_Accepters', this)">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Nespresso','Practical_Realists', this)">Practical Realists</button></div>
             
             <div class="persona-panel" id="panel-Nespresso-Confident_Sharers" style="display:block;">
                 <div class="profile-box">
@@ -64621,7 +64623,7 @@
         
         <section id="policy-Nuki" style="display:none;">
             <h2>Nuki</h2>
-            <div class="persona-tabs"><button class="persona-tab" onclick="showPersona('Nuki','Confident_Sharers')">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Nuki','Informed_Protectors')">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Nuki','Open_Sharers')">Open Sharers</button><button class="persona-tab" onclick="showPersona('Nuki','Overwhelmed_Seekers')">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Nuki','Passive_Accepters')">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Nuki','Practical_Realists')">Practical Realists</button></div>
+            <div class="persona-tabs"><button class="persona-tab active" onclick="showPersona('Nuki','Confident_Sharers', this)">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Nuki','Informed_Protectors', this)">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Nuki','Open_Sharers', this)">Open Sharers</button><button class="persona-tab" onclick="showPersona('Nuki','Overwhelmed_Seekers', this)">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Nuki','Passive_Accepters', this)">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Nuki','Practical_Realists', this)">Practical Realists</button></div>
             
             <div class="persona-panel" id="panel-Nuki-Confident_Sharers" style="display:block;">
                 <div class="profile-box">
@@ -65863,7 +65865,7 @@
         
         <section id="policy-Ohme" style="display:none;">
             <h2>Ohme</h2>
-            <div class="persona-tabs"><button class="persona-tab" onclick="showPersona('Ohme','Confident_Sharers')">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Ohme','Informed_Protectors')">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Ohme','Open_Sharers')">Open Sharers</button><button class="persona-tab" onclick="showPersona('Ohme','Overwhelmed_Seekers')">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Ohme','Passive_Accepters')">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Ohme','Practical_Realists')">Practical Realists</button></div>
+            <div class="persona-tabs"><button class="persona-tab active" onclick="showPersona('Ohme','Confident_Sharers', this)">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Ohme','Informed_Protectors', this)">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Ohme','Open_Sharers', this)">Open Sharers</button><button class="persona-tab" onclick="showPersona('Ohme','Overwhelmed_Seekers', this)">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Ohme','Passive_Accepters', this)">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Ohme','Practical_Realists', this)">Practical Realists</button></div>
             
             <div class="persona-panel" id="panel-Ohme-Confident_Sharers" style="display:block;">
                 <div class="profile-box">
@@ -67033,7 +67035,7 @@
         
         <section id="policy-Omajin" style="display:none;">
             <h2>Omajin</h2>
-            <div class="persona-tabs"><button class="persona-tab" onclick="showPersona('Omajin','Confident_Sharers')">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Omajin','Informed_Protectors')">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Omajin','Open_Sharers')">Open Sharers</button><button class="persona-tab" onclick="showPersona('Omajin','Overwhelmed_Seekers')">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Omajin','Passive_Accepters')">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Omajin','Practical_Realists')">Practical Realists</button></div>
+            <div class="persona-tabs"><button class="persona-tab active" onclick="showPersona('Omajin','Confident_Sharers', this)">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Omajin','Informed_Protectors', this)">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Omajin','Open_Sharers', this)">Open Sharers</button><button class="persona-tab" onclick="showPersona('Omajin','Overwhelmed_Seekers', this)">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Omajin','Passive_Accepters', this)">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Omajin','Practical_Realists', this)">Practical Realists</button></div>
             
             <div class="persona-panel" id="panel-Omajin-Confident_Sharers" style="display:block;">
                 <div class="profile-box">
@@ -68281,7 +68283,7 @@
         
         <section id="policy-Oura" style="display:none;">
             <h2>Oura</h2>
-            <div class="persona-tabs"><button class="persona-tab" onclick="showPersona('Oura','Confident_Sharers')">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Oura','Informed_Protectors')">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Oura','Open_Sharers')">Open Sharers</button><button class="persona-tab" onclick="showPersona('Oura','Overwhelmed_Seekers')">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Oura','Passive_Accepters')">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Oura','Practical_Realists')">Practical Realists</button></div>
+            <div class="persona-tabs"><button class="persona-tab active" onclick="showPersona('Oura','Confident_Sharers', this)">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Oura','Informed_Protectors', this)">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Oura','Open_Sharers', this)">Open Sharers</button><button class="persona-tab" onclick="showPersona('Oura','Overwhelmed_Seekers', this)">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Oura','Passive_Accepters', this)">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Oura','Practical_Realists', this)">Practical Realists</button></div>
             
             <div class="persona-panel" id="panel-Oura-Confident_Sharers" style="display:block;">
                 <div class="profile-box">
@@ -69511,7 +69513,7 @@
         
         <section id="policy-Owlet" style="display:none;">
             <h2>Owlet</h2>
-            <div class="persona-tabs"><button class="persona-tab" onclick="showPersona('Owlet','Confident_Sharers')">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Owlet','Informed_Protectors')">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Owlet','Open_Sharers')">Open Sharers</button><button class="persona-tab" onclick="showPersona('Owlet','Overwhelmed_Seekers')">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Owlet','Passive_Accepters')">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Owlet','Practical_Realists')">Practical Realists</button></div>
+            <div class="persona-tabs"><button class="persona-tab active" onclick="showPersona('Owlet','Confident_Sharers', this)">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Owlet','Informed_Protectors', this)">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Owlet','Open_Sharers', this)">Open Sharers</button><button class="persona-tab" onclick="showPersona('Owlet','Overwhelmed_Seekers', this)">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Owlet','Passive_Accepters', this)">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Owlet','Practical_Realists', this)">Practical Realists</button></div>
             
             <div class="persona-panel" id="panel-Owlet-Confident_Sharers" style="display:block;">
                 <div class="profile-box">
@@ -70771,7 +70773,7 @@
         
         <section id="policy-Panasonic" style="display:none;">
             <h2>Panasonic</h2>
-            <div class="persona-tabs"><button class="persona-tab" onclick="showPersona('Panasonic','Confident_Sharers')">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Panasonic','Informed_Protectors')">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Panasonic','Open_Sharers')">Open Sharers</button><button class="persona-tab" onclick="showPersona('Panasonic','Overwhelmed_Seekers')">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Panasonic','Passive_Accepters')">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Panasonic','Practical_Realists')">Practical Realists</button></div>
+            <div class="persona-tabs"><button class="persona-tab active" onclick="showPersona('Panasonic','Confident_Sharers', this)">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Panasonic','Informed_Protectors', this)">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Panasonic','Open_Sharers', this)">Open Sharers</button><button class="persona-tab" onclick="showPersona('Panasonic','Overwhelmed_Seekers', this)">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Panasonic','Passive_Accepters', this)">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Panasonic','Practical_Realists', this)">Practical Realists</button></div>
             
             <div class="persona-panel" id="panel-Panasonic-Confident_Sharers" style="display:block;">
                 <div class="profile-box">
@@ -72019,7 +72021,7 @@
         
         <section id="policy-Peloton" style="display:none;">
             <h2>Peloton</h2>
-            <div class="persona-tabs"><button class="persona-tab" onclick="showPersona('Peloton','Confident_Sharers')">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Peloton','Informed_Protectors')">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Peloton','Open_Sharers')">Open Sharers</button><button class="persona-tab" onclick="showPersona('Peloton','Overwhelmed_Seekers')">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Peloton','Passive_Accepters')">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Peloton','Practical_Realists')">Practical Realists</button></div>
+            <div class="persona-tabs"><button class="persona-tab active" onclick="showPersona('Peloton','Confident_Sharers', this)">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Peloton','Informed_Protectors', this)">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Peloton','Open_Sharers', this)">Open Sharers</button><button class="persona-tab" onclick="showPersona('Peloton','Overwhelmed_Seekers', this)">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Peloton','Passive_Accepters', this)">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Peloton','Practical_Realists', this)">Practical Realists</button></div>
             
             <div class="persona-panel" id="panel-Peloton-Confident_Sharers" style="display:block;">
                 <div class="profile-box">
@@ -73303,7 +73305,7 @@
         
         <section id="policy-Philips" style="display:none;">
             <h2>Philips</h2>
-            <div class="persona-tabs"><button class="persona-tab" onclick="showPersona('Philips','Confident_Sharers')">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Philips','Informed_Protectors')">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Philips','Open_Sharers')">Open Sharers</button><button class="persona-tab" onclick="showPersona('Philips','Overwhelmed_Seekers')">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Philips','Passive_Accepters')">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Philips','Practical_Realists')">Practical Realists</button></div>
+            <div class="persona-tabs"><button class="persona-tab active" onclick="showPersona('Philips','Confident_Sharers', this)">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Philips','Informed_Protectors', this)">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Philips','Open_Sharers', this)">Open Sharers</button><button class="persona-tab" onclick="showPersona('Philips','Overwhelmed_Seekers', this)">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Philips','Passive_Accepters', this)">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Philips','Practical_Realists', this)">Practical Realists</button></div>
             
             <div class="persona-panel" id="panel-Philips-Confident_Sharers" style="display:block;">
                 <div class="profile-box">
@@ -74563,7 +74565,7 @@
         
         <section id="policy-Pico" style="display:none;">
             <h2>Pico</h2>
-            <div class="persona-tabs"><button class="persona-tab" onclick="showPersona('Pico','Confident_Sharers')">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Pico','Informed_Protectors')">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Pico','Open_Sharers')">Open Sharers</button><button class="persona-tab" onclick="showPersona('Pico','Overwhelmed_Seekers')">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Pico','Passive_Accepters')">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Pico','Practical_Realists')">Practical Realists</button></div>
+            <div class="persona-tabs"><button class="persona-tab active" onclick="showPersona('Pico','Confident_Sharers', this)">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Pico','Informed_Protectors', this)">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Pico','Open_Sharers', this)">Open Sharers</button><button class="persona-tab" onclick="showPersona('Pico','Overwhelmed_Seekers', this)">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Pico','Passive_Accepters', this)">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Pico','Practical_Realists', this)">Practical Realists</button></div>
             
             <div class="persona-panel" id="panel-Pico-Confident_Sharers" style="display:block;">
                 <div class="profile-box">
@@ -74713,7 +74715,7 @@
         
         <section id="policy-Polar" style="display:none;">
             <h2>Polar</h2>
-            <div class="persona-tabs"><button class="persona-tab" onclick="showPersona('Polar','Confident_Sharers')">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Polar','Informed_Protectors')">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Polar','Open_Sharers')">Open Sharers</button><button class="persona-tab" onclick="showPersona('Polar','Overwhelmed_Seekers')">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Polar','Passive_Accepters')">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Polar','Practical_Realists')">Practical Realists</button></div>
+            <div class="persona-tabs"><button class="persona-tab active" onclick="showPersona('Polar','Confident_Sharers', this)">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Polar','Informed_Protectors', this)">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Polar','Open_Sharers', this)">Open Sharers</button><button class="persona-tab" onclick="showPersona('Polar','Overwhelmed_Seekers', this)">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Polar','Passive_Accepters', this)">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Polar','Practical_Realists', this)">Practical Realists</button></div>
             
             <div class="persona-panel" id="panel-Polar-Confident_Sharers" style="display:block;">
                 <div class="profile-box">
@@ -75985,7 +75987,7 @@
         
         <section id="policy-Potensic" style="display:none;">
             <h2>Potensic</h2>
-            <div class="persona-tabs"><button class="persona-tab" onclick="showPersona('Potensic','Confident_Sharers')">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Potensic','Informed_Protectors')">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Potensic','Open_Sharers')">Open Sharers</button><button class="persona-tab" onclick="showPersona('Potensic','Overwhelmed_Seekers')">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Potensic','Passive_Accepters')">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Potensic','Practical_Realists')">Practical Realists</button></div>
+            <div class="persona-tabs"><button class="persona-tab active" onclick="showPersona('Potensic','Confident_Sharers', this)">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Potensic','Informed_Protectors', this)">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Potensic','Open_Sharers', this)">Open Sharers</button><button class="persona-tab" onclick="showPersona('Potensic','Overwhelmed_Seekers', this)">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Potensic','Passive_Accepters', this)">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Potensic','Practical_Realists', this)">Practical Realists</button></div>
             
             <div class="persona-panel" id="panel-Potensic-Confident_Sharers" style="display:block;">
                 <div class="profile-box">
@@ -77179,7 +77181,7 @@
         
         <section id="policy-Rayneo" style="display:none;">
             <h2>Rayneo</h2>
-            <div class="persona-tabs"><button class="persona-tab" onclick="showPersona('Rayneo','Confident_Sharers')">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Rayneo','Informed_Protectors')">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Rayneo','Open_Sharers')">Open Sharers</button><button class="persona-tab" onclick="showPersona('Rayneo','Overwhelmed_Seekers')">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Rayneo','Passive_Accepters')">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Rayneo','Practical_Realists')">Practical Realists</button></div>
+            <div class="persona-tabs"><button class="persona-tab active" onclick="showPersona('Rayneo','Confident_Sharers', this)">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Rayneo','Informed_Protectors', this)">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Rayneo','Open_Sharers', this)">Open Sharers</button><button class="persona-tab" onclick="showPersona('Rayneo','Overwhelmed_Seekers', this)">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Rayneo','Passive_Accepters', this)">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Rayneo','Practical_Realists', this)">Practical Realists</button></div>
             
             <div class="persona-panel" id="panel-Rayneo-Confident_Sharers" style="display:block;">
                 <div class="profile-box">
@@ -78349,7 +78351,7 @@
         
         <section id="policy-Resideo" style="display:none;">
             <h2>Resideo</h2>
-            <div class="persona-tabs"><button class="persona-tab" onclick="showPersona('Resideo','Confident_Sharers')">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Resideo','Informed_Protectors')">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Resideo','Open_Sharers')">Open Sharers</button><button class="persona-tab" onclick="showPersona('Resideo','Overwhelmed_Seekers')">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Resideo','Passive_Accepters')">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Resideo','Practical_Realists')">Practical Realists</button></div>
+            <div class="persona-tabs"><button class="persona-tab active" onclick="showPersona('Resideo','Confident_Sharers', this)">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Resideo','Informed_Protectors', this)">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Resideo','Open_Sharers', this)">Open Sharers</button><button class="persona-tab" onclick="showPersona('Resideo','Overwhelmed_Seekers', this)">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Resideo','Passive_Accepters', this)">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Resideo','Practical_Realists', this)">Practical Realists</button></div>
             
             <div class="persona-panel" id="panel-Resideo-Confident_Sharers" style="display:block;">
                 <div class="profile-box">
@@ -79693,7 +79695,7 @@
         
         <section id="policy-Ring" style="display:none;">
             <h2>Ring</h2>
-            <div class="persona-tabs"><button class="persona-tab" onclick="showPersona('Ring','Confident_Sharers')">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Ring','Informed_Protectors')">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Ring','Open_Sharers')">Open Sharers</button><button class="persona-tab" onclick="showPersona('Ring','Overwhelmed_Seekers')">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Ring','Passive_Accepters')">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Ring','Practical_Realists')">Practical Realists</button></div>
+            <div class="persona-tabs"><button class="persona-tab active" onclick="showPersona('Ring','Confident_Sharers', this)">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Ring','Informed_Protectors', this)">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Ring','Open_Sharers', this)">Open Sharers</button><button class="persona-tab" onclick="showPersona('Ring','Overwhelmed_Seekers', this)">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Ring','Passive_Accepters', this)">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Ring','Practical_Realists', this)">Practical Realists</button></div>
             
             <div class="persona-panel" id="panel-Ring-Confident_Sharers" style="display:block;">
                 <div class="profile-box">
@@ -80977,7 +80979,7 @@
         
         <section id="policy-Ringconn" style="display:none;">
             <h2>Ringconn</h2>
-            <div class="persona-tabs"><button class="persona-tab" onclick="showPersona('Ringconn','Confident_Sharers')">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Ringconn','Informed_Protectors')">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Ringconn','Open_Sharers')">Open Sharers</button><button class="persona-tab" onclick="showPersona('Ringconn','Overwhelmed_Seekers')">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Ringconn','Passive_Accepters')">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Ringconn','Practical_Realists')">Practical Realists</button></div>
+            <div class="persona-tabs"><button class="persona-tab active" onclick="showPersona('Ringconn','Confident_Sharers', this)">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Ringconn','Informed_Protectors', this)">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Ringconn','Open_Sharers', this)">Open Sharers</button><button class="persona-tab" onclick="showPersona('Ringconn','Overwhelmed_Seekers', this)">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Ringconn','Passive_Accepters', this)">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Ringconn','Practical_Realists', this)">Practical Realists</button></div>
             
             <div class="persona-panel" id="panel-Ringconn-Confident_Sharers" style="display:block;">
                 <div class="profile-box">
@@ -82243,7 +82245,7 @@
         
         <section id="policy-Roborock" style="display:none;">
             <h2>Roborock</h2>
-            <div class="persona-tabs"><button class="persona-tab" onclick="showPersona('Roborock','Confident_Sharers')">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Roborock','Informed_Protectors')">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Roborock','Open_Sharers')">Open Sharers</button><button class="persona-tab" onclick="showPersona('Roborock','Overwhelmed_Seekers')">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Roborock','Passive_Accepters')">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Roborock','Practical_Realists')">Practical Realists</button></div>
+            <div class="persona-tabs"><button class="persona-tab active" onclick="showPersona('Roborock','Confident_Sharers', this)">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Roborock','Informed_Protectors', this)">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Roborock','Open_Sharers', this)">Open Sharers</button><button class="persona-tab" onclick="showPersona('Roborock','Overwhelmed_Seekers', this)">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Roborock','Passive_Accepters', this)">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Roborock','Practical_Realists', this)">Practical Realists</button></div>
             
             <div class="persona-panel" id="panel-Roborock-Confident_Sharers" style="display:block;">
                 <div class="profile-box">
@@ -83407,7 +83409,7 @@
         
         <section id="policy-Sage" style="display:none;">
             <h2>Sage</h2>
-            <div class="persona-tabs"><button class="persona-tab" onclick="showPersona('Sage','Confident_Sharers')">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Sage','Informed_Protectors')">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Sage','Open_Sharers')">Open Sharers</button><button class="persona-tab" onclick="showPersona('Sage','Overwhelmed_Seekers')">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Sage','Passive_Accepters')">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Sage','Practical_Realists')">Practical Realists</button></div>
+            <div class="persona-tabs"><button class="persona-tab active" onclick="showPersona('Sage','Confident_Sharers', this)">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Sage','Informed_Protectors', this)">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Sage','Open_Sharers', this)">Open Sharers</button><button class="persona-tab" onclick="showPersona('Sage','Overwhelmed_Seekers', this)">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Sage','Passive_Accepters', this)">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Sage','Practical_Realists', this)">Practical Realists</button></div>
             
             <div class="persona-panel" id="panel-Sage-Confident_Sharers" style="display:block;">
                 <div class="profile-box">
@@ -84013,7 +84015,7 @@
         
         <section id="policy-Samsung" style="display:none;">
             <h2>Samsung</h2>
-            <div class="persona-tabs"><button class="persona-tab" onclick="showPersona('Samsung','Confident_Sharers')">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Samsung','Informed_Protectors')">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Samsung','Open_Sharers')">Open Sharers</button><button class="persona-tab" onclick="showPersona('Samsung','Overwhelmed_Seekers')">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Samsung','Passive_Accepters')">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Samsung','Practical_Realists')">Practical Realists</button></div>
+            <div class="persona-tabs"><button class="persona-tab active" onclick="showPersona('Samsung','Confident_Sharers', this)">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Samsung','Informed_Protectors', this)">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Samsung','Open_Sharers', this)">Open Sharers</button><button class="persona-tab" onclick="showPersona('Samsung','Overwhelmed_Seekers', this)">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Samsung','Passive_Accepters', this)">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Samsung','Practical_Realists', this)">Practical Realists</button></div>
             
             <div class="persona-panel" id="panel-Samsung-Confident_Sharers" style="display:block;">
                 <div class="profile-box">
@@ -85147,7 +85149,7 @@
         
         <section id="policy-Sector_Alarm" style="display:none;">
             <h2>Sector Alarm</h2>
-            <div class="persona-tabs"><button class="persona-tab" onclick="showPersona('Sector_Alarm','Confident_Sharers')">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Sector_Alarm','Informed_Protectors')">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Sector_Alarm','Open_Sharers')">Open Sharers</button><button class="persona-tab" onclick="showPersona('Sector_Alarm','Overwhelmed_Seekers')">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Sector_Alarm','Passive_Accepters')">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Sector_Alarm','Practical_Realists')">Practical Realists</button></div>
+            <div class="persona-tabs"><button class="persona-tab active" onclick="showPersona('Sector_Alarm','Confident_Sharers', this)">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Sector_Alarm','Informed_Protectors', this)">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Sector_Alarm','Open_Sharers', this)">Open Sharers</button><button class="persona-tab" onclick="showPersona('Sector_Alarm','Overwhelmed_Seekers', this)">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Sector_Alarm','Passive_Accepters', this)">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Sector_Alarm','Practical_Realists', this)">Practical Realists</button></div>
             
             <div class="persona-panel" id="panel-Sector_Alarm-Confident_Sharers" style="display:block;">
                 <div class="profile-box">
@@ -86317,7 +86319,7 @@
         
         <section id="policy-Segway" style="display:none;">
             <h2>Segway</h2>
-            <div class="persona-tabs"><button class="persona-tab" onclick="showPersona('Segway','Confident_Sharers')">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Segway','Informed_Protectors')">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Segway','Open_Sharers')">Open Sharers</button><button class="persona-tab" onclick="showPersona('Segway','Overwhelmed_Seekers')">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Segway','Passive_Accepters')">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Segway','Practical_Realists')">Practical Realists</button></div>
+            <div class="persona-tabs"><button class="persona-tab active" onclick="showPersona('Segway','Confident_Sharers', this)">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Segway','Informed_Protectors', this)">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Segway','Open_Sharers', this)">Open Sharers</button><button class="persona-tab" onclick="showPersona('Segway','Overwhelmed_Seekers', this)">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Segway','Passive_Accepters', this)">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Segway','Practical_Realists', this)">Practical Realists</button></div>
             
             <div class="persona-panel" id="panel-Segway-Confident_Sharers" style="display:block;">
                 <div class="profile-box">
@@ -87505,7 +87507,7 @@
         
         <section id="policy-Sharkclean" style="display:none;">
             <h2>Sharkclean</h2>
-            <div class="persona-tabs"><button class="persona-tab" onclick="showPersona('Sharkclean','Confident_Sharers')">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Sharkclean','Informed_Protectors')">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Sharkclean','Open_Sharers')">Open Sharers</button><button class="persona-tab" onclick="showPersona('Sharkclean','Overwhelmed_Seekers')">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Sharkclean','Passive_Accepters')">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Sharkclean','Practical_Realists')">Practical Realists</button></div>
+            <div class="persona-tabs"><button class="persona-tab active" onclick="showPersona('Sharkclean','Confident_Sharers', this)">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Sharkclean','Informed_Protectors', this)">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Sharkclean','Open_Sharers', this)">Open Sharers</button><button class="persona-tab" onclick="showPersona('Sharkclean','Overwhelmed_Seekers', this)">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Sharkclean','Passive_Accepters', this)">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Sharkclean','Practical_Realists', this)">Practical Realists</button></div>
             
             <div class="persona-panel" id="panel-Sharkclean-Confident_Sharers" style="display:block;">
                 <div class="profile-box">
@@ -88693,7 +88695,7 @@
         
         <section id="policy-Sharp" style="display:none;">
             <h2>Sharp</h2>
-            <div class="persona-tabs"><button class="persona-tab" onclick="showPersona('Sharp','Confident_Sharers')">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Sharp','Informed_Protectors')">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Sharp','Open_Sharers')">Open Sharers</button><button class="persona-tab" onclick="showPersona('Sharp','Overwhelmed_Seekers')">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Sharp','Passive_Accepters')">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Sharp','Practical_Realists')">Practical Realists</button></div>
+            <div class="persona-tabs"><button class="persona-tab active" onclick="showPersona('Sharp','Confident_Sharers', this)">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Sharp','Informed_Protectors', this)">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Sharp','Open_Sharers', this)">Open Sharers</button><button class="persona-tab" onclick="showPersona('Sharp','Overwhelmed_Seekers', this)">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Sharp','Passive_Accepters', this)">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Sharp','Practical_Realists', this)">Practical Realists</button></div>
             
             <div class="persona-panel" id="panel-Sharp-Confident_Sharers" style="display:block;">
                 <div class="profile-box">
@@ -90037,7 +90039,7 @@
         
         <section id="policy-Simplisafe" style="display:none;">
             <h2>Simplisafe</h2>
-            <div class="persona-tabs"><button class="persona-tab" onclick="showPersona('Simplisafe','Confident_Sharers')">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Simplisafe','Informed_Protectors')">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Simplisafe','Open_Sharers')">Open Sharers</button><button class="persona-tab" onclick="showPersona('Simplisafe','Overwhelmed_Seekers')">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Simplisafe','Passive_Accepters')">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Simplisafe','Practical_Realists')">Practical Realists</button></div>
+            <div class="persona-tabs"><button class="persona-tab active" onclick="showPersona('Simplisafe','Confident_Sharers', this)">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Simplisafe','Informed_Protectors', this)">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Simplisafe','Open_Sharers', this)">Open Sharers</button><button class="persona-tab" onclick="showPersona('Simplisafe','Overwhelmed_Seekers', this)">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Simplisafe','Passive_Accepters', this)">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Simplisafe','Practical_Realists', this)">Practical Realists</button></div>
             
             <div class="persona-panel" id="panel-Simplisafe-Confident_Sharers" style="display:block;">
                 <div class="profile-box">
@@ -91279,7 +91281,7 @@
         
         <section id="policy-Somfy" style="display:none;">
             <h2>Somfy</h2>
-            <div class="persona-tabs"><button class="persona-tab" onclick="showPersona('Somfy','Confident_Sharers')">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Somfy','Informed_Protectors')">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Somfy','Open_Sharers')">Open Sharers</button><button class="persona-tab" onclick="showPersona('Somfy','Overwhelmed_Seekers')">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Somfy','Passive_Accepters')">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Somfy','Practical_Realists')">Practical Realists</button></div>
+            <div class="persona-tabs"><button class="persona-tab active" onclick="showPersona('Somfy','Confident_Sharers', this)">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Somfy','Informed_Protectors', this)">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Somfy','Open_Sharers', this)">Open Sharers</button><button class="persona-tab" onclick="showPersona('Somfy','Overwhelmed_Seekers', this)">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Somfy','Passive_Accepters', this)">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Somfy','Practical_Realists', this)">Practical Realists</button></div>
             
             <div class="persona-panel" id="panel-Somfy-Confident_Sharers" style="display:block;">
                 <div class="profile-box">
@@ -92485,7 +92487,7 @@
         
         <section id="policy-Sonos" style="display:none;">
             <h2>Sonos</h2>
-            <div class="persona-tabs"><button class="persona-tab" onclick="showPersona('Sonos','Confident_Sharers')">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Sonos','Informed_Protectors')">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Sonos','Open_Sharers')">Open Sharers</button><button class="persona-tab" onclick="showPersona('Sonos','Overwhelmed_Seekers')">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Sonos','Passive_Accepters')">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Sonos','Practical_Realists')">Practical Realists</button></div>
+            <div class="persona-tabs"><button class="persona-tab active" onclick="showPersona('Sonos','Confident_Sharers', this)">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Sonos','Informed_Protectors', this)">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Sonos','Open_Sharers', this)">Open Sharers</button><button class="persona-tab" onclick="showPersona('Sonos','Overwhelmed_Seekers', this)">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Sonos','Passive_Accepters', this)">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Sonos','Practical_Realists', this)">Practical Realists</button></div>
             
             <div class="persona-panel" id="panel-Sonos-Confident_Sharers" style="display:block;">
                 <div class="profile-box">
@@ -93751,7 +93753,7 @@
         
         <section id="policy-Sony" style="display:none;">
             <h2>Sony</h2>
-            <div class="persona-tabs"><button class="persona-tab" onclick="showPersona('Sony','Confident_Sharers')">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Sony','Informed_Protectors')">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Sony','Open_Sharers')">Open Sharers</button><button class="persona-tab" onclick="showPersona('Sony','Overwhelmed_Seekers')">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Sony','Passive_Accepters')">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Sony','Practical_Realists')">Practical Realists</button></div>
+            <div class="persona-tabs"><button class="persona-tab active" onclick="showPersona('Sony','Confident_Sharers', this)">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Sony','Informed_Protectors', this)">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Sony','Open_Sharers', this)">Open Sharers</button><button class="persona-tab" onclick="showPersona('Sony','Overwhelmed_Seekers', this)">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Sony','Passive_Accepters', this)">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Sony','Practical_Realists', this)">Practical Realists</button></div>
             
             <div class="persona-panel" id="panel-Sony-Confident_Sharers" style="display:block;">
                 <div class="profile-box">
@@ -95029,7 +95031,7 @@
         
         <section id="policy-Suunto" style="display:none;">
             <h2>Suunto</h2>
-            <div class="persona-tabs"><button class="persona-tab" onclick="showPersona('Suunto','Confident_Sharers')">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Suunto','Informed_Protectors')">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Suunto','Open_Sharers')">Open Sharers</button><button class="persona-tab" onclick="showPersona('Suunto','Overwhelmed_Seekers')">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Suunto','Passive_Accepters')">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Suunto','Practical_Realists')">Practical Realists</button></div>
+            <div class="persona-tabs"><button class="persona-tab active" onclick="showPersona('Suunto','Confident_Sharers', this)">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Suunto','Informed_Protectors', this)">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Suunto','Open_Sharers', this)">Open Sharers</button><button class="persona-tab" onclick="showPersona('Suunto','Overwhelmed_Seekers', this)">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Suunto','Passive_Accepters', this)">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Suunto','Practical_Realists', this)">Practical Realists</button></div>
             
             <div class="persona-panel" id="panel-Suunto-Confident_Sharers" style="display:block;">
                 <div class="profile-box">
@@ -96367,7 +96369,7 @@
         
         <section id="policy-Switchbot" style="display:none;">
             <h2>Switchbot</h2>
-            <div class="persona-tabs"><button class="persona-tab" onclick="showPersona('Switchbot','Confident_Sharers')">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Switchbot','Informed_Protectors')">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Switchbot','Open_Sharers')">Open Sharers</button><button class="persona-tab" onclick="showPersona('Switchbot','Overwhelmed_Seekers')">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Switchbot','Passive_Accepters')">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Switchbot','Practical_Realists')">Practical Realists</button></div>
+            <div class="persona-tabs"><button class="persona-tab active" onclick="showPersona('Switchbot','Confident_Sharers', this)">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Switchbot','Informed_Protectors', this)">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Switchbot','Open_Sharers', this)">Open Sharers</button><button class="persona-tab" onclick="showPersona('Switchbot','Overwhelmed_Seekers', this)">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Switchbot','Passive_Accepters', this)">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Switchbot','Practical_Realists', this)">Practical Realists</button></div>
             
             <div class="persona-panel" id="panel-Switchbot-Confident_Sharers" style="display:block;">
                 <div class="profile-box">
@@ -97621,7 +97623,7 @@
         
         <section id="policy-Tado" style="display:none;">
             <h2>Tado</h2>
-            <div class="persona-tabs"><button class="persona-tab" onclick="showPersona('Tado','Confident_Sharers')">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Tado','Informed_Protectors')">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Tado','Open_Sharers')">Open Sharers</button><button class="persona-tab" onclick="showPersona('Tado','Overwhelmed_Seekers')">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Tado','Passive_Accepters')">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Tado','Practical_Realists')">Practical Realists</button></div>
+            <div class="persona-tabs"><button class="persona-tab active" onclick="showPersona('Tado','Confident_Sharers', this)">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Tado','Informed_Protectors', this)">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Tado','Open_Sharers', this)">Open Sharers</button><button class="persona-tab" onclick="showPersona('Tado','Overwhelmed_Seekers', this)">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Tado','Passive_Accepters', this)">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Tado','Practical_Realists', this)">Practical Realists</button></div>
             
             <div class="persona-panel" id="panel-Tado-Confident_Sharers" style="display:block;">
                 <div class="profile-box">
@@ -98929,7 +98931,7 @@
         
         <section id="policy-Tapo" style="display:none;">
             <h2>Tapo</h2>
-            <div class="persona-tabs"><button class="persona-tab" onclick="showPersona('Tapo','Confident_Sharers')">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Tapo','Informed_Protectors')">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Tapo','Open_Sharers')">Open Sharers</button><button class="persona-tab" onclick="showPersona('Tapo','Overwhelmed_Seekers')">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Tapo','Passive_Accepters')">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Tapo','Practical_Realists')">Practical Realists</button></div>
+            <div class="persona-tabs"><button class="persona-tab active" onclick="showPersona('Tapo','Confident_Sharers', this)">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Tapo','Informed_Protectors', this)">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Tapo','Open_Sharers', this)">Open Sharers</button><button class="persona-tab" onclick="showPersona('Tapo','Overwhelmed_Seekers', this)">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Tapo','Passive_Accepters', this)">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Tapo','Practical_Realists', this)">Practical Realists</button></div>
             
             <div class="persona-panel" id="panel-Tapo-Confident_Sharers" style="display:block;">
                 <div class="profile-box">
@@ -100195,7 +100197,7 @@
         
         <section id="policy-Tcl" style="display:none;">
             <h2>Tcl</h2>
-            <div class="persona-tabs"><button class="persona-tab" onclick="showPersona('Tcl','Confident_Sharers')">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Tcl','Informed_Protectors')">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Tcl','Open_Sharers')">Open Sharers</button><button class="persona-tab" onclick="showPersona('Tcl','Overwhelmed_Seekers')">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Tcl','Passive_Accepters')">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Tcl','Practical_Realists')">Practical Realists</button></div>
+            <div class="persona-tabs"><button class="persona-tab active" onclick="showPersona('Tcl','Confident_Sharers', this)">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Tcl','Informed_Protectors', this)">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Tcl','Open_Sharers', this)">Open Sharers</button><button class="persona-tab" onclick="showPersona('Tcl','Overwhelmed_Seekers', this)">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Tcl','Passive_Accepters', this)">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Tcl','Practical_Realists', this)">Practical Realists</button></div>
             
             <div class="persona-panel" id="panel-Tcl-Confident_Sharers" style="display:block;">
                 <div class="profile-box">
@@ -101539,7 +101541,7 @@
         
         <section id="policy-Tesla" style="display:none;">
             <h2>Tesla</h2>
-            <div class="persona-tabs"><button class="persona-tab" onclick="showPersona('Tesla','Confident_Sharers')">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Tesla','Informed_Protectors')">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Tesla','Open_Sharers')">Open Sharers</button><button class="persona-tab" onclick="showPersona('Tesla','Overwhelmed_Seekers')">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Tesla','Passive_Accepters')">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Tesla','Practical_Realists')">Practical Realists</button></div>
+            <div class="persona-tabs"><button class="persona-tab active" onclick="showPersona('Tesla','Confident_Sharers', this)">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Tesla','Informed_Protectors', this)">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Tesla','Open_Sharers', this)">Open Sharers</button><button class="persona-tab" onclick="showPersona('Tesla','Overwhelmed_Seekers', this)">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Tesla','Passive_Accepters', this)">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Tesla','Practical_Realists', this)">Practical Realists</button></div>
             
             <div class="persona-panel" id="panel-Tesla-Confident_Sharers" style="display:block;">
                 <div class="profile-box">
@@ -102811,7 +102813,7 @@
         
         <section id="policy-Vanmoof" style="display:none;">
             <h2>Vanmoof</h2>
-            <div class="persona-tabs"><button class="persona-tab" onclick="showPersona('Vanmoof','Confident_Sharers')">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Vanmoof','Informed_Protectors')">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Vanmoof','Open_Sharers')">Open Sharers</button><button class="persona-tab" onclick="showPersona('Vanmoof','Overwhelmed_Seekers')">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Vanmoof','Passive_Accepters')">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Vanmoof','Practical_Realists')">Practical Realists</button></div>
+            <div class="persona-tabs"><button class="persona-tab active" onclick="showPersona('Vanmoof','Confident_Sharers', this)">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Vanmoof','Informed_Protectors', this)">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Vanmoof','Open_Sharers', this)">Open Sharers</button><button class="persona-tab" onclick="showPersona('Vanmoof','Overwhelmed_Seekers', this)">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Vanmoof','Passive_Accepters', this)">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Vanmoof','Practical_Realists', this)">Practical Realists</button></div>
             
             <div class="persona-panel" id="panel-Vanmoof-Confident_Sharers" style="display:block;">
                 <div class="profile-box">
@@ -104029,7 +104031,7 @@
         
         <section id="policy-Verisure" style="display:none;">
             <h2>Verisure</h2>
-            <div class="persona-tabs"><button class="persona-tab" onclick="showPersona('Verisure','Confident_Sharers')">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Verisure','Informed_Protectors')">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Verisure','Open_Sharers')">Open Sharers</button><button class="persona-tab" onclick="showPersona('Verisure','Overwhelmed_Seekers')">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Verisure','Passive_Accepters')">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Verisure','Practical_Realists')">Practical Realists</button></div>
+            <div class="persona-tabs"><button class="persona-tab active" onclick="showPersona('Verisure','Confident_Sharers', this)">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Verisure','Informed_Protectors', this)">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Verisure','Open_Sharers', this)">Open Sharers</button><button class="persona-tab" onclick="showPersona('Verisure','Overwhelmed_Seekers', this)">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Verisure','Passive_Accepters', this)">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Verisure','Practical_Realists', this)">Practical Realists</button></div>
             
             <div class="persona-panel" id="panel-Verisure-Confident_Sharers" style="display:block;">
                 <div class="profile-box">
@@ -105187,7 +105189,7 @@
         
         <section id="policy-Viture" style="display:none;">
             <h2>Viture</h2>
-            <div class="persona-tabs"><button class="persona-tab" onclick="showPersona('Viture','Confident_Sharers')">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Viture','Informed_Protectors')">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Viture','Open_Sharers')">Open Sharers</button><button class="persona-tab" onclick="showPersona('Viture','Overwhelmed_Seekers')">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Viture','Passive_Accepters')">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Viture','Practical_Realists')">Practical Realists</button></div>
+            <div class="persona-tabs"><button class="persona-tab active" onclick="showPersona('Viture','Confident_Sharers', this)">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Viture','Informed_Protectors', this)">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Viture','Open_Sharers', this)">Open Sharers</button><button class="persona-tab" onclick="showPersona('Viture','Overwhelmed_Seekers', this)">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Viture','Passive_Accepters', this)">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Viture','Practical_Realists', this)">Practical Realists</button></div>
             
             <div class="persona-panel" id="panel-Viture-Confident_Sharers" style="display:block;">
                 <div class="profile-box">
@@ -106495,7 +106497,7 @@
         
         <section id="policy-Voi" style="display:none;">
             <h2>Voi</h2>
-            <div class="persona-tabs"><button class="persona-tab" onclick="showPersona('Voi','Confident_Sharers')">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Voi','Informed_Protectors')">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Voi','Open_Sharers')">Open Sharers</button><button class="persona-tab" onclick="showPersona('Voi','Overwhelmed_Seekers')">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Voi','Passive_Accepters')">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Voi','Practical_Realists')">Practical Realists</button></div>
+            <div class="persona-tabs"><button class="persona-tab active" onclick="showPersona('Voi','Confident_Sharers', this)">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Voi','Informed_Protectors', this)">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Voi','Open_Sharers', this)">Open Sharers</button><button class="persona-tab" onclick="showPersona('Voi','Overwhelmed_Seekers', this)">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Voi','Passive_Accepters', this)">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Voi','Practical_Realists', this)">Practical Realists</button></div>
             
             <div class="persona-panel" id="panel-Voi-Confident_Sharers" style="display:block;">
                 <div class="profile-box">
@@ -107701,7 +107703,7 @@
         
         <section id="policy-Volkswagen" style="display:none;">
             <h2>Volkswagen</h2>
-            <div class="persona-tabs"><button class="persona-tab" onclick="showPersona('Volkswagen','Confident_Sharers')">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Volkswagen','Informed_Protectors')">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Volkswagen','Open_Sharers')">Open Sharers</button><button class="persona-tab" onclick="showPersona('Volkswagen','Overwhelmed_Seekers')">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Volkswagen','Passive_Accepters')">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Volkswagen','Practical_Realists')">Practical Realists</button></div>
+            <div class="persona-tabs"><button class="persona-tab active" onclick="showPersona('Volkswagen','Confident_Sharers', this)">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Volkswagen','Informed_Protectors', this)">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Volkswagen','Open_Sharers', this)">Open Sharers</button><button class="persona-tab" onclick="showPersona('Volkswagen','Overwhelmed_Seekers', this)">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Volkswagen','Passive_Accepters', this)">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Volkswagen','Practical_Realists', this)">Practical Realists</button></div>
             
             <div class="persona-panel" id="panel-Volkswagen-Confident_Sharers" style="display:block;">
                 <div class="profile-box">
@@ -108931,7 +108933,7 @@
         
         <section id="policy-Volvo" style="display:none;">
             <h2>Volvo</h2>
-            <div class="persona-tabs"><button class="persona-tab" onclick="showPersona('Volvo','Confident_Sharers')">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Volvo','Informed_Protectors')">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Volvo','Open_Sharers')">Open Sharers</button><button class="persona-tab" onclick="showPersona('Volvo','Overwhelmed_Seekers')">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Volvo','Passive_Accepters')">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Volvo','Practical_Realists')">Practical Realists</button></div>
+            <div class="persona-tabs"><button class="persona-tab active" onclick="showPersona('Volvo','Confident_Sharers', this)">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Volvo','Informed_Protectors', this)">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Volvo','Open_Sharers', this)">Open Sharers</button><button class="persona-tab" onclick="showPersona('Volvo','Overwhelmed_Seekers', this)">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Volvo','Passive_Accepters', this)">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Volvo','Practical_Realists', this)">Practical Realists</button></div>
             
             <div class="persona-panel" id="panel-Volvo-Confident_Sharers" style="display:block;">
                 <div class="profile-box">
@@ -109309,7 +109311,7 @@
         
         <section id="policy-Wahoo" style="display:none;">
             <h2>Wahoo</h2>
-            <div class="persona-tabs"><button class="persona-tab" onclick="showPersona('Wahoo','Confident_Sharers')">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Wahoo','Informed_Protectors')">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Wahoo','Open_Sharers')">Open Sharers</button><button class="persona-tab" onclick="showPersona('Wahoo','Overwhelmed_Seekers')">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Wahoo','Passive_Accepters')">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Wahoo','Practical_Realists')">Practical Realists</button></div>
+            <div class="persona-tabs"><button class="persona-tab active" onclick="showPersona('Wahoo','Confident_Sharers', this)">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Wahoo','Informed_Protectors', this)">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Wahoo','Open_Sharers', this)">Open Sharers</button><button class="persona-tab" onclick="showPersona('Wahoo','Overwhelmed_Seekers', this)">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Wahoo','Passive_Accepters', this)">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Wahoo','Practical_Realists', this)">Practical Realists</button></div>
             
             <div class="persona-panel" id="panel-Wahoo-Confident_Sharers" style="display:block;">
                 <div class="profile-box">
@@ -110593,7 +110595,7 @@
         
         <section id="policy-Wallbox" style="display:none;">
             <h2>Wallbox</h2>
-            <div class="persona-tabs"><button class="persona-tab" onclick="showPersona('Wallbox','Confident_Sharers')">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Wallbox','Informed_Protectors')">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Wallbox','Open_Sharers')">Open Sharers</button><button class="persona-tab" onclick="showPersona('Wallbox','Overwhelmed_Seekers')">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Wallbox','Passive_Accepters')">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Wallbox','Practical_Realists')">Practical Realists</button></div>
+            <div class="persona-tabs"><button class="persona-tab active" onclick="showPersona('Wallbox','Confident_Sharers', this)">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Wallbox','Informed_Protectors', this)">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Wallbox','Open_Sharers', this)">Open Sharers</button><button class="persona-tab" onclick="showPersona('Wallbox','Overwhelmed_Seekers', this)">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Wallbox','Passive_Accepters', this)">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Wallbox','Practical_Realists', this)">Practical Realists</button></div>
             
             <div class="persona-panel" id="panel-Wallbox-Confident_Sharers" style="display:block;">
                 <div class="profile-box">
@@ -111799,7 +111801,7 @@
         
         <section id="policy-Whoop" style="display:none;">
             <h2>Whoop</h2>
-            <div class="persona-tabs"><button class="persona-tab" onclick="showPersona('Whoop','Confident_Sharers')">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Whoop','Informed_Protectors')">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Whoop','Open_Sharers')">Open Sharers</button><button class="persona-tab" onclick="showPersona('Whoop','Overwhelmed_Seekers')">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Whoop','Passive_Accepters')">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Whoop','Practical_Realists')">Practical Realists</button></div>
+            <div class="persona-tabs"><button class="persona-tab active" onclick="showPersona('Whoop','Confident_Sharers', this)">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Whoop','Informed_Protectors', this)">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Whoop','Open_Sharers', this)">Open Sharers</button><button class="persona-tab" onclick="showPersona('Whoop','Overwhelmed_Seekers', this)">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Whoop','Passive_Accepters', this)">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Whoop','Practical_Realists', this)">Practical Realists</button></div>
             
             <div class="persona-panel" id="panel-Whoop-Confident_Sharers" style="display:block;">
                 <div class="profile-box">
@@ -113083,7 +113085,7 @@
         
         <section id="policy-Withings" style="display:none;">
             <h2>Withings</h2>
-            <div class="persona-tabs"><button class="persona-tab" onclick="showPersona('Withings','Confident_Sharers')">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Withings','Informed_Protectors')">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Withings','Open_Sharers')">Open Sharers</button><button class="persona-tab" onclick="showPersona('Withings','Overwhelmed_Seekers')">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Withings','Passive_Accepters')">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Withings','Practical_Realists')">Practical Realists</button></div>
+            <div class="persona-tabs"><button class="persona-tab active" onclick="showPersona('Withings','Confident_Sharers', this)">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Withings','Informed_Protectors', this)">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Withings','Open_Sharers', this)">Open Sharers</button><button class="persona-tab" onclick="showPersona('Withings','Overwhelmed_Seekers', this)">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Withings','Passive_Accepters', this)">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Withings','Practical_Realists', this)">Practical Realists</button></div>
             
             <div class="persona-panel" id="panel-Withings-Confident_Sharers" style="display:block;">
                 <div class="profile-box">
@@ -114421,7 +114423,7 @@
         
         <section id="policy-Yale" style="display:none;">
             <h2>Yale</h2>
-            <div class="persona-tabs"><button class="persona-tab" onclick="showPersona('Yale','Confident_Sharers')">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Yale','Informed_Protectors')">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Yale','Open_Sharers')">Open Sharers</button><button class="persona-tab" onclick="showPersona('Yale','Overwhelmed_Seekers')">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Yale','Passive_Accepters')">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Yale','Practical_Realists')">Practical Realists</button></div>
+            <div class="persona-tabs"><button class="persona-tab active" onclick="showPersona('Yale','Confident_Sharers', this)">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Yale','Informed_Protectors', this)">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Yale','Open_Sharers', this)">Open Sharers</button><button class="persona-tab" onclick="showPersona('Yale','Overwhelmed_Seekers', this)">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Yale','Passive_Accepters', this)">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Yale','Practical_Realists', this)">Practical Realists</button></div>
             
             <div class="persona-panel" id="panel-Yale-Confident_Sharers" style="display:block;">
                 <div class="profile-box">
@@ -115627,7 +115629,7 @@
         
         <section id="policy-Yamaha" style="display:none;">
             <h2>Yamaha</h2>
-            <div class="persona-tabs"><button class="persona-tab" onclick="showPersona('Yamaha','Confident_Sharers')">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Yamaha','Informed_Protectors')">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Yamaha','Open_Sharers')">Open Sharers</button><button class="persona-tab" onclick="showPersona('Yamaha','Overwhelmed_Seekers')">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Yamaha','Passive_Accepters')">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Yamaha','Practical_Realists')">Practical Realists</button></div>
+            <div class="persona-tabs"><button class="persona-tab active" onclick="showPersona('Yamaha','Confident_Sharers', this)">Confident Sharers</button><button class="persona-tab" onclick="showPersona('Yamaha','Informed_Protectors', this)">Informed Protectors</button><button class="persona-tab" onclick="showPersona('Yamaha','Open_Sharers', this)">Open Sharers</button><button class="persona-tab" onclick="showPersona('Yamaha','Overwhelmed_Seekers', this)">Overwhelmed Seekers</button><button class="persona-tab" onclick="showPersona('Yamaha','Passive_Accepters', this)">Passive Accepters</button><button class="persona-tab" onclick="showPersona('Yamaha','Practical_Realists', this)">Practical Realists</button></div>
             
             <div class="persona-panel" id="panel-Yamaha-Confident_Sharers" style="display:block;">
                 <div class="profile-box">
@@ -116855,9 +116857,11 @@ function showPolicy(policyId) {
     document.querySelectorAll("section").forEach(s => s.style.display = "none");
     document.getElementById("policy-" + policyId).style.display = "block";
 }
-function showPersona(policyId, personaId) {
+function showPersona(policyId, personaId, btn) {
     document.querySelectorAll("#policy-" + policyId + " .persona-panel").forEach(p => p.style.display = "none");
     document.getElementById("panel-" + policyId + "-" + personaId).style.display = "block";
+    document.querySelectorAll("#policy-" + policyId + " .persona-tab").forEach(t => t.classList.remove("active"));
+    if (btn) btn.classList.add("active");
 }
 function toggleDetail(panelId) {
     var el = document.getElementById(panelId);

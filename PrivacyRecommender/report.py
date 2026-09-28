@@ -146,8 +146,9 @@ def generate_html_report(report_data: dict, output_path: Path) -> None:
             result = report_data[policy_name][persona_name]
             display = "block" if i == 0 else "none"
 
+            active_class = " active" if i == 0 else ""
             tabs.append(
-                f'<button class="persona-tab" onclick="showPersona(\'{html.escape(policy_id)}\',\'{html.escape(persona_id)}\')">{html.escape(persona_name)}</button>'
+                f'<button class="persona-tab{active_class}" onclick="showPersona(\'{html.escape(policy_id)}\',\'{html.escape(persona_id)}\', this)">{html.escape(persona_name)}</button>'
             )
 
             cards = []
@@ -192,6 +193,8 @@ def generate_html_report(report_data: dict, output_path: Path) -> None:
     .persona-tabs {{ display:flex; flex-wrap:wrap; gap:8px; margin:16px 0; }}
     .persona-tab {{ padding:8px 14px; border-radius:20px; border:1px solid #cbd5e1; background:white; cursor:pointer; font-size:13px; }}
     .persona-tab:hover {{ background:#eef2f7; }}
+    .persona-tab.active {{ background:#4f46e5; border-color:#4f46e5; color:white; font-weight:600; }}
+    .persona-tab.active:hover {{ background:#4338ca; }}
     .profile-box {{ background:white; border-radius:12px; padding:16px 18px; margin-bottom:16px; }}
     .profile-title {{ font-weight:700; font-size:13px; margin-bottom:10px; color:#334155; }}
     .dim-row {{ display:flex; align-items:center; gap:10px; margin-bottom:8px; font-size:12px; }}
@@ -232,9 +235,11 @@ function showPolicy(policyId) {{
     document.querySelectorAll("section").forEach(s => s.style.display = "none");
     document.getElementById("policy-" + policyId).style.display = "block";
 }}
-function showPersona(policyId, personaId) {{
+function showPersona(policyId, personaId, btn) {{
     document.querySelectorAll("#policy-" + policyId + " .persona-panel").forEach(p => p.style.display = "none");
     document.getElementById("panel-" + policyId + "-" + personaId).style.display = "block";
+    document.querySelectorAll("#policy-" + policyId + " .persona-tab").forEach(t => t.classList.remove("active"));
+    if (btn) btn.classList.add("active");
 }}
 function toggleDetail(panelId) {{
     var el = document.getElementById(panelId);
@@ -303,6 +308,8 @@ def generate_single_policy_html(policy_name: str, persona_results: dict, output_
     .persona-tabs {{ display:flex; flex-wrap:wrap; gap:8px; margin:16px 0; }}
     .persona-tab {{ padding:8px 14px; border-radius:20px; border:1px solid #cbd5e1; background:white; cursor:pointer; font-size:13px; }}
     .persona-tab:hover {{ background:#eef2f7; }}
+    .persona-tab.active {{ background:#4f46e5; border-color:#4f46e5; color:white; font-weight:600; }}
+    .persona-tab.active:hover {{ background:#4338ca; }}
     .profile-box {{ background:white; border-radius:12px; padding:16px 18px; margin-bottom:16px; }}
     .profile-title {{ font-weight:700; font-size:13px; margin-bottom:10px; color:#334155; }}
     .dim-row {{ display:flex; align-items:center; gap:10px; margin-bottom:8px; font-size:12px; }}
