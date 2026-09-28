@@ -221,4 +221,4 @@ Every run updates `recommendations_demo.html` automatically, no flag needed.
 
 ## Status
 
-78.6% of recommendations differ by persona across all real policies, but these are mot tested against real user judgement.
+78.6% of recommendations differ by persona across all real policies. This shows the system responds to the persona input, not that the recommendations are correct - that hasn't been tested against real user judgement.
