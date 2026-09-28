@@ -10,7 +10,7 @@ from scoring import recommend_for_persona
 
 HERE = Path(__file__).resolve().parent
 DATA_DIR = HERE / "Data"
-DEFAULT_EXTRACTIONS = DATA_DIR / "ipn101_extractions_clean.json"
+DEFAULT_EXTRACTIONS = HERE.parent / "PrivacyExtractor" / "output" / "ipn101_extractions_clean.json"
 
 REPORT_CACHE_PATH = HERE / "report_cache.json"
 REPORT_HTML_PATH = HERE / "recommendations_demo.html"

@@ -355,6 +355,6 @@ function toggleDetail(panelId) {{
 
 if __name__ == "__main__":
     DATA_DIR = Path(__file__).parent / "Data"
-    catalog_path = DATA_DIR / "ipn101_extractions_clean.json"
+    catalog_path = Path(__file__).parent.parent / "PrivacyExtractor" / "output" / "ipn101_extractions_clean.json"
     report_data = build_report_data(DATA_DIR, catalog_path)
     generate_html_report(report_data, Path(__file__).parent / "recommendations_demo.html")
