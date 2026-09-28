@@ -1,4 +1,4 @@
-# PrivacyAssistant
+# Recommendation Engine
 
 Two tools. **PrivacyExtractor** reads a privacy policy and pulls out the rights and choices it offers, backed by real quotes. **PrivacyRecommender** takes that output plus a persona and ranks which ones to show first.
 
