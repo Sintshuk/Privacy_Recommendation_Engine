@@ -1,0 +1,660 @@
+{
+  "policy": "Ohme",
+  "rows": [
+    {
+      "segment": {
+        "id": "S1",
+        "text": "Close",
+        "heading_path": [
+          "Select your location"
+        ],
+        "links": [],
+        "html_ids": [],
+        "previous_segment_id": null,
+        "next_segment_id": "S2",
+        "previous_segment_text": "",
+        "extended_context": ""
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S2",
+        "text": "Español (Argentina)",
+        "heading_path": [
+          "Select your location",
+          "Argentina"
+        ],
+        "links": [],
+        "html_ids": [],
+        "previous_segment_id": "S1",
+        "next_segment_id": "S3",
+        "previous_segment_text": "Close",
+        "extended_context": "Close"
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S3",
+        "text": "English (United Kingdom)",
+        "heading_path": [
+          "Select your location",
+          "United Kingdom"
+        ],
+        "links": [],
+        "html_ids": [],
+        "previous_segment_id": "S2",
+        "next_segment_id": "S4",
+        "previous_segment_text": "Español (Argentina)",
+        "extended_context": "Close Español (Argentina)"
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S4",
+        "text": "English (Australia)",
+        "heading_path": [
+          "Select your location",
+          "Australia"
+        ],
+        "links": [],
+        "html_ids": [],
+        "previous_segment_id": "S3",
+        "next_segment_id": "S5",
+        "previous_segment_text": "English (United Kingdom)",
+        "extended_context": "Close Español (Argentina) English (United Kingdom)"
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S5",
+        "text": "Français (Belgique)",
+        "heading_path": [
+          "Select your location",
+          "Belgique"
+        ],
+        "links": [],
+        "html_ids": [],
+        "previous_segment_id": "S4",
+        "next_segment_id": "S6",
+        "previous_segment_text": "English (Australia)",
+        "extended_context": "Español (Argentina) English (United Kingdom) English (Australia)"
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S6",
+        "text": "Nederlands (België)",
+        "heading_path": [
+          "Select your location",
+          "België"
+        ],
+        "links": [],
+        "html_ids": [],
+        "previous_segment_id": "S5",
+        "next_segment_id": "S7",
+        "previous_segment_text": "Français (Belgique)",
+        "extended_context": "English (United Kingdom) English (Australia) Français (Belgique)"
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S7",
+        "text": "Deutsch (Deutschland)",
+        "heading_path": [
+          "Select your location",
+          "Deutschland"
+        ],
+        "links": [],
+        "html_ids": [],
+        "previous_segment_id": "S6",
+        "next_segment_id": "S8",
+        "previous_segment_text": "Nederlands (België)",
+        "extended_context": "English (Australia) Français (Belgique) Nederlands (België)"
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S8",
+        "text": "Español (España)",
+        "heading_path": [
+          "Select your location",
+          "España"
+        ],
+        "links": [],
+        "html_ids": [],
+        "previous_segment_id": "S7",
+        "next_segment_id": "S9",
+        "previous_segment_text": "Deutsch (Deutschland)",
+        "extended_context": "Français (Belgique) Nederlands (België) Deutsch (Deutschland)"
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S9",
+        "text": "Français (France)",
+        "heading_path": [
+          "Select your location",
+          "France"
+        ],
+        "links": [],
+        "html_ids": [],
+        "previous_segment_id": "S8",
+        "next_segment_id": "S10",
+        "previous_segment_text": "Español (España)",
+        "extended_context": "Nederlands (België) Deutsch (Deutschland) Español (España)"
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S10",
+        "text": "English (Ireland)",
+        "heading_path": [
+          "Select your location",
+          "Ireland"
+        ],
+        "links": [],
+        "html_ids": [],
+        "previous_segment_id": "S9",
+        "next_segment_id": "S11",
+        "previous_segment_text": "Français (France)",
+        "extended_context": "Deutsch (Deutschland) Español (España) Français (France)"
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S11",
+        "text": "Italiano (Italia)",
+        "heading_path": [
+          "Select your location",
+          "Italia"
+        ],
+        "links": [],
+        "html_ids": [],
+        "previous_segment_id": "S10",
+        "next_segment_id": "S12",
+        "previous_segment_text": "English (Ireland)",
+        "extended_context": "Español (España) Français (France) English (Ireland)"
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S12",
+        "text": "Nederlands (Nederland)",
+        "heading_path": [
+          "Select your location",
+          "Nederland"
+        ],
+        "links": [],
+        "html_ids": [],
+        "previous_segment_id": "S11",
+        "next_segment_id": "S13",
+        "previous_segment_text": "Italiano (Italia)",
+        "extended_context": "Français (France) English (Ireland) Italiano (Italia)"
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S13",
+        "text": "Português (Portugal)",
+        "heading_path": [
+          "Select your location",
+          "Portugal"
+        ],
+        "links": [],
+        "html_ids": [],
+        "previous_segment_id": "S12",
+        "next_segment_id": "S14",
+        "previous_segment_text": "Nederlands (Nederland)",
+        "extended_context": "English (Ireland) Italiano (Italia) Nederlands (Nederland)"
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S14",
+        "text": "1. Keeping your data safe 1.1. We are committed to keeping your personal data safe and secure and handling it in accordance with our legal obligations. This Privacy Policy sets out in detail the purposes for which we process your personal data, who we share it with, what rights you have in relation to that data and everything else we think it's important for you to know. 2. Who runs the Ohme Website and App? www.ohme-ev.com (the Website) and Ohme mobile software application (the App) and services are provided to users by: 2.1. Ohme Operations UK Limited of 5 th Floor, Wellington House, 125-130 The Strand, London, WC2R 0AP if you purchased your Product or are registered or resident in the United Kingdom or the Channel Islands; 2.2. Ohme Operations Ireland Limited of 74 Penrose Wharf, Penrose Quay, Cork, Republic of Ireland if you purchase your Product or are registered or resident in the Republic of Ireland; 2.3, Ohme Operations Ireland Limited of 74 Penrose Wharf, Penrose Quay, Cork, Republic of Ireland if you purchase your Product and are registered and resident elsewhere. In each case, the relevant Ohme entity is referred to in these terms as \"Ohme\", \"we\", \"us\" or \"our\". 3. Who's in control of my personal data? 3.1. We are the \"controller\" of all personal data collected and used for the purposes of providing our products and services which you have purchased and/or subscribed to and for any other purposes set out in this Privacy Policy. This means that we are responsible for deciding how and why your data is used and for ensuring that your data is handled legally and safely. 4. What data do you collect and where from? 4.1. We collect some personal data directly from you when you register for an account with Ohme. The data that we collect in order to set up your account includes the following: 4.1.1. your full name; 4.1.2. your email address. 4.2. Once you have set up your account, should you choose to purchase any of our products or subscribe to our services we may collect additional data as follows: 4.2.1. billing and delivery address; 4.2.2. transaction data including details about payments made to and from you and details of products and/or services you have purchased and/or subscribed to through our website or otherwise; 4.2.3. your Facebook or Google profile picture if you choose to authenticate through that method; 4.2.4. the location of your Ohme cable when it is plugged in; 4.2.5. the Vehicle Identification Number (VIN) of the car you wish to charge using our services; 4.2.6. your car login credentials (where supported);",
+        "heading_path": [
+          "Privacy Policy EU"
+        ],
+        "links": [],
+        "html_ids": [],
+        "previous_segment_id": "S13",
+        "next_segment_id": "S15",
+        "previous_segment_text": "Português (Portugal)",
+        "extended_context": "Italiano (Italia) Nederlands (Nederland) Português (Portugal)"
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S15",
+        "text": "4.2.7. your electricity supplier and tariff plan; 4.2.8. your electricity meter point administration number (MPAN). 4.3. We collect personal data that you choose to include in communications you send to us, including through the in-App messaging and feedback system in our App or by email. 4.4. We may also collect personal data from trusted third parties or from publicly available sources, including to initiate contact with you and to enhance services to our customers and partners. 4.5. We collect technical information about how you use our Website and App and service. This includes your vehicle charging data, IP addresses and device identifiers. 4.6. We also may collect data about how you use our Website and App by using cookies and other similar technologies. 5. What do you use my personal data for? 5.1. It is important that you understand how and why we use the personal data that we collect about you. This section sets out the different purposes for which we process personal data and which types of personal data we need for each purpose. 5.2. Managing your account and providing you with our products and services 5.2.1 We use the personal data that you provide to set up your account, manage and administer your account, to log you into your account and to allow you to use all Ohme features on the App to assist with charging your vehicle. 5.2.2. we use your email address to contact you occasionally with service messages about Ohme. 5.2.3. We use your cable location, MPAN, electricity supplier and tariff to assist with generating your charging profile. 5.2.4. We use information you voluntarily provide to us when contacting us with queries, comments or complaints to enable us to respond to those queries, complaints or comments and to make sure that these are appropriately dealt with. 5.3. Improving our services 5.3.1. We use your personal data to help us monitor, analyse and improve Ohme. This helps us to make sure that we are providing you with the best possible service. 5.4 Marketing 5.4.1 Where you have consented to us doing so, we will use your email address to send you updates on any new products or services we are offering. You can choose not to receive these emails by following the instructions in each email to unsubscribe. 5.4.2. Where you have consented to us doing so, we will also use your email address to send you emails about promotions or discounts that are being offered. 6. What is your legal basis for using my personal data? 6.1 Data protection law says that we have to tell you the legal basis that we rely on to process your personal data for the purposes that we have notified to you. The table below tells you what that legal basis is in relation to each of the purposes set out above.",
+        "heading_path": [
+          "Privacy Policy EU"
+        ],
+        "links": [],
+        "html_ids": [],
+        "previous_segment_id": "S14",
+        "next_segment_id": "S16",
+        "previous_segment_text": "1. Keeping your data safe 1.1. We are committed to keeping your personal data safe and secure and handling it in accordance with our legal obligations. This Privacy Policy sets out in detail the purposes for which we process your personal data, who we share it with, what rights you have in relation to that data and everything else we think it's important for you to know. 2. Who runs the Ohme Website and App? www.ohme-ev.com (the Website) and Ohme mobile software application (the App) and services are provided to users by: 2.1. Ohme Operations UK Limited of 5 th Floor, Wellington House, 125-130 The Strand, London, WC2R 0AP if you purchased your Product or are registered or resident in the United Kingdom or the Channel Islands; 2.2. Ohme Operations Ireland Limited of 74 Penrose Wharf, Penrose Quay, Cork, Republic of Ireland if you purchase your Product or are registered or resident in the Republic of Ireland; 2.3, Ohme Operations Ireland Limited of 74 Penrose Wharf, Penrose Quay, Cork, Republic of Ireland if you purchase your Product and are registered and resident elsewhere. In each case, the relevant Ohme entity is referred to in these terms as \"Ohme\", \"we\", \"us\" or \"our\". 3. Who's in control of my personal data? 3.1. We are the \"controller\" of all personal data collected and used for the purposes of providing our products and services which you have purchased and/or subscribed to and for any other purposes set out in this Privacy Policy. This means that we are responsible for deciding how and why your data is used and for ensuring that your data is handled legally and safely. 4. What data do you collect and where from? 4.1. We collect some personal data directly from you when you register for an account with Ohme. The data that we collect in order to set up your account includes the following: 4.1.1. your full name; 4.1.2. your email address. 4.2. Once you have set up your account, should you choose to purchase any of our products or subscribe to our services we may collect additional data as follows: 4.2.1. billing and delivery address; 4.2.2. transaction data including details about payments made to and from you and details of products and/or services you have purchased and/or subscribed to through our website or otherwise; 4.2.3. your Facebook or Google profile picture if you choose to authenticate through that method; 4.2.4. the location of your Ohme cable when it is plugged in; 4.2.5. the Vehicle Identification Number (VIN) of the car you wish to charge using our services; 4.2.6. your car login credentials (where supported);",
+        "extended_context": "Nederlands (Nederland) Português (Portugal) 1. Keeping your data safe 1.1. We are committed to keeping your personal data safe and secure and handling it in accordance with our legal obligations. This Privacy Policy sets out in detail the purposes for which we process your personal data, who we share it with, what rights you have in relation to that data and everything else we think it's important for you to know. 2. Who runs the Ohme Website and App? www.ohme-ev.com (the Website) and Ohme mobile software application (the App) and services are provided to users by: 2.1. Ohme Operations UK Limited of 5 th Floor, Wellington House, 125-130 The Strand, London, WC2R 0AP if you purchased your Product or are registered or resident in the United Kingdom or the Channel Islands; 2.2. Ohme Operations Ireland Limited of 74 Penrose Wharf, Penrose Quay, Cork, Republic of Ireland if you purchase your Product or are registered or resident in the Republic of Ireland; 2.3, Ohme Operations Ireland Limited of 74 Penrose Wharf, Penrose Quay, Cork, Republic of Ireland if you purchase your Product and are registered and resident elsewhere. In each case, the relevant Ohme entity is referred to in these terms as \"Ohme\", \"we\", \"us\" or \"our\". 3. Who's in control of my personal data? 3.1. We are the \"controller\" of all personal data collected and used for the purposes of providing our products and services which you have purchased and/or subscribed to and for any other purposes set out in this Privacy Policy. This means that we are responsible for deciding how and why your data is used and for ensuring that your data is handled legally and safely. 4. What data do you collect and where from? 4.1. We collect some personal data directly from you when you register for an account with Ohme. The data that we collect in order to set up your account includes the following: 4.1.1. your full name; 4.1.2. your email address. 4.2. Once you have set up your account, should you choose to purchase any of our products or subscribe to our services we may collect additional data as follows: 4.2.1. billing and delivery address; 4.2.2. transaction data including details about payments made to and from you and details of products and/or services you have purchased and/or subscribed to through our website or otherwise; 4.2.3. your Facebook or Google profile picture if you choose to authenticate through that method; 4.2.4. the location of your Ohme cable when it is plugged in; 4.2.5. the Vehicle Identification Number (VIN) of the car you wish to charge using our services; 4.2.6. your car login credentials (where supported);"
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S16",
+        "text": "7. Who do you share my personal data with? 7.1. We need to share your personal data with some third parties in some circumstances. This includes where we use third party suppliers to perform various services for us. Third party suppliers we share your personal data with may include: 7.1.1. Companies within the Ohme group of companies in order to provide and improve our services. 7.1.2. website and App designer and developer for the purposes of developing, hosting, supporting and maintaining the Website, App and service; 7.1.3. the provider of the service on which the Website or App is hosted. This would only happen very occasionally and would only be if strictly required in the event of an emergency; 7.1.4. the provider of the in-App messaging and feedback system where we share your email address and other information you voluntarily provide when you are using such system; 7.1.5. providers of login authentication where we share your email address for the purpose of such login authentication; 7.1.6. payment providers to process any card transactions or subscriptions to our service; and 7.1.7. energy suppliers, energy network companies, energy system operators, energy service companies, and associated parties to research, operate and adjust charging based on the electricity system conditions and to operate in coordination with grid demands. 7.2. We will also share your personal data with third parties in the following circumstances: 7.2.1. where you have specifically consented to us sharing your data with a particular third party; 7.2.2. where we are required or permitted to do so by law or to protect or enforce our rights or the rights of any third party; and 7.2.3. if our business or any part of it is acquired by a third party, in which case we will need to share your personal data with that third party. 7.3. Ohme stores all of your Data within the European Economic Area (\"EEA\"). 7.4. However, some of our external third parties and group companies are based outside the EEA so their processing of your personal data will involve a transfer of data outside the EEA. 7.5. Whenever we transfer your personal data out of the EEA, we ensure a similar degree of protection is afforded to it by ensuring at least one of the following safeguards is implemented: 7.5.1. We may transfer your personal data to countries that have been deemed to provide an adequate level of protection for personal data by the European Commission. For further details, see European Commission: Adequacy of the protection of personal data in non-EU countries.",
+        "heading_path": [
+          "Privacy Policy EU"
+        ],
+        "links": [],
+        "html_ids": [],
+        "previous_segment_id": "S15",
+        "next_segment_id": "S17",
+        "previous_segment_text": "4.2.7. your electricity supplier and tariff plan; 4.2.8. your electricity meter point administration number (MPAN). 4.3. We collect personal data that you choose to include in communications you send to us, including through the in-App messaging and feedback system in our App or by email. 4.4. We may also collect personal data from trusted third parties or from publicly available sources, including to initiate contact with you and to enhance services to our customers and partners. 4.5. We collect technical information about how you use our Website and App and service. This includes your vehicle charging data, IP addresses and device identifiers. 4.6. We also may collect data about how you use our Website and App by using cookies and other similar technologies. 5. What do you use my personal data for? 5.1. It is important that you understand how and why we use the personal data that we collect about you. This section sets out the different purposes for which we process personal data and which types of personal data we need for each purpose. 5.2. Managing your account and providing you with our products and services 5.2.1 We use the personal data that you provide to set up your account, manage and administer your account, to log you into your account and to allow you to use all Ohme features on the App to assist with charging your vehicle. 5.2.2. we use your email address to contact you occasionally with service messages about Ohme. 5.2.3. We use your cable location, MPAN, electricity supplier and tariff to assist with generating your charging profile. 5.2.4. We use information you voluntarily provide to us when contacting us with queries, comments or complaints to enable us to respond to those queries, complaints or comments and to make sure that these are appropriately dealt with. 5.3. Improving our services 5.3.1. We use your personal data to help us monitor, analyse and improve Ohme. This helps us to make sure that we are providing you with the best possible service. 5.4 Marketing 5.4.1 Where you have consented to us doing so, we will use your email address to send you updates on any new products or services we are offering. You can choose not to receive these emails by following the instructions in each email to unsubscribe. 5.4.2. Where you have consented to us doing so, we will also use your email address to send you emails about promotions or discounts that are being offered. 6. What is your legal basis for using my personal data? 6.1 Data protection law says that we have to tell you the legal basis that we rely on to process your personal data for the purposes that we have notified to you. The table below tells you what that legal basis is in relation to each of the purposes set out above.",
+        "extended_context": "Português (Portugal) 1. Keeping your data safe 1.1. We are committed to keeping your personal data safe and secure and handling it in accordance with our legal obligations. This Privacy Policy sets out in detail the purposes for which we process your personal data, who we share it with, what rights you have in relation to that data and everything else we think it's important for you to know. 2. Who runs the Ohme Website and App? www.ohme-ev.com (the Website) and Ohme mobile software application (the App) and services are provided to users by: 2.1. Ohme Operations UK Limited of 5 th Floor, Wellington House, 125-130 The Strand, London, WC2R 0AP if you purchased your Product or are registered or resident in the United Kingdom or the Channel Islands; 2.2. Ohme Operations Ireland Limited of 74 Penrose Wharf, Penrose Quay, Cork, Republic of Ireland if you purchase your Product or are registered or resident in the Republic of Ireland; 2.3, Ohme Operations Ireland Limited of 74 Penrose Wharf, Penrose Quay, Cork, Republic of Ireland if you purchase your Product and are registered and resident elsewhere. In each case, the relevant Ohme entity is referred to in these terms as \"Ohme\", \"we\", \"us\" or \"our\". 3. Who's in control of my personal data? 3.1. We are the \"controller\" of all personal data collected and used for the purposes of providing our products and services which you have purchased and/or subscribed to and for any other purposes set out in this Privacy Policy. This means that we are responsible for deciding how and why your data is used and for ensuring that your data is handled legally and safely. 4. What data do you collect and where from? 4.1. We collect some personal data directly from you when you register for an account with Ohme. The data that we collect in order to set up your account includes the following: 4.1.1. your full name; 4.1.2. your email address. 4.2. Once you have set up your account, should you choose to purchase any of our products or subscribe to our services we may collect additional data as follows: 4.2.1. billing and delivery address; 4.2.2. transaction data including details about payments made to and from you and details of products and/or services you have purchased and/or subscribed to through our website or otherwise; 4.2.3. your Facebook or Google profile picture if you choose to authenticate through that method; 4.2.4. the location of your Ohme cable when it is plugged in; 4.2.5. the Vehicle Identification Number (VIN) of the car you wish to charge using our services; 4.2.6. your car login credentials (where supported); 4.2.7. your electricity supplier and tariff plan; 4.2.8. your electricity meter point administration number (MPAN). 4.3. We collect personal data that you choose to include in communications you send to us, including through the in-App messaging and feedback system in our App or by email. 4.4. We may also collect personal data from trusted third parties or from publicly available sources, including to initiate contact with you and to enhance services to our customers and partners. 4.5. We collect technical information about how you use our Website and App and service. This includes your vehicle charging data, IP addresses and device identifiers. 4.6. We also may collect data about how you use our Website and App by using cookies and other similar technologies. 5. What do you use my personal data for? 5.1. It is important that you understand how and why we use the personal data that we collect about you. This section sets out the different purposes for which we process personal data and which types of personal data we need for each purpose. 5.2. Managing your account and providing you with our products and services 5.2.1 We use the personal data that you provide to set up your account, manage and administer your account, to log you into your account and to allow you to use all Ohme features on the App to assist with charging your vehicle. 5.2.2. we use your email address to contact you occasionally with service messages about Ohme. 5.2.3. We use your cable location, MPAN, electricity supplier and tariff to assist with generating your charging profile. 5.2.4. We use information you voluntarily provide to us when contacting us with queries, comments or complaints to enable us to respond to those queries, complaints or comments and to make sure that these are appropriately dealt with. 5.3. Improving our services 5.3.1. We use your personal data to help us monitor, analyse and improve Ohme. This helps us to make sure that we are providing you with the best possible service. 5.4 Marketing 5.4.1 Where you have consented to us doing so, we will use your email address to send you updates on any new products or services we are offering. You can choose not to receive these emails by following the instructions in each email to unsubscribe. 5.4.2. Where you have consented to us doing so, we will also use your email address to send you emails about promotions or discounts that are being offered. 6. What is your legal basis for using my personal data? 6.1 Data protection law says that we have to tell you the legal basis that we rely on to process your personal data for the purposes that we have notified to you. The table below tells you what that legal basis is in relation to each of the purposes set out above."
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": [
+          {
+            "attribute": "reference",
+            "evidence": "For further details, see European Commission: Adequacy of the protection of personal data in non-EU countries.",
+            "target_text": "European Commission: Adequacy of the protection of personal data in non-EU countries",
+            "reason": "not_an_unresolved_reference"
+          }
+        ]
+      }
+    },
+    {
+      "segment": {
+        "id": "S17",
+        "text": "7.5.2. Where we use certain service providers, we may use specific contracts approved by the European Commission which give personal data the same protection it has in Europe. For further details, see European Commission: Model contracts for the transfer of personal data to third countries. 7.5.3. Where we use providers based in the US, we may transfer data to them if they are part of the Privacy Shield which requires them to provide similar protection to personal data shared between Europe and the US. For further details, see European Commission: EU-US Privacy Shield. Please Contact us if you want further information on the specific mechanism used by us when transferring your personal data out of the EEA. 8. How long do you keep my personal data for? 8.1. We will keep all your personal data for as long as your account remains open. 8.2. If your account is inactive for a period of one year, we reserve the right to close your account and delete your personal data in accordance with the section above. 8.3. We may need to keep your data after account closure for limited purposes, for example if we need your data in order to respond to any complaints or claims that you make. If this is the case, we will only keep the data for as long as we need to in order to fulfil those purposes. 9. What rights do I have? 9.1. You have a number of rights under data protection law. These rights and how you can exercise them are set out in this section. We will normally need to ask you for proof of your identity before we can respond to a request to exercise any of the rights in this section and we may need to ask you for more information, for example to help us to locate the personal data that your request relates to. 9.2. We will respond to any requests to exercise your rights as soon as we can and in any event within one month of receiving your request and any necessary proof of identity or further information. If your request is particularly difficult or complex, or if you have made a large volume of requests, we may take up to three months to respond. If this is the case we will let you know as soon as we can and explain why we need to take longer to respond. 9.3. If you want to exercise any of these rights, please email us at (i) if resident in the UK or Ireland help @ohme-ev.com, (ii) if resident in Belgium, help.be@ohme-ev.com or (iii) if resident in France, assistance.fr@ohme-ev.com or write to us at Ohme Operations UK Limited, 5 th Floor, Wellington House, 125-130 The Strand, London, WC2R 0AP.",
+        "heading_path": [
+          "Privacy Policy EU"
+        ],
+        "links": [
+          {
+            "text": "help.be@ohme-ev.com",
+            "href": "mailto:help.be@ohme-ev.com",
+            "kind": "email"
+          },
+          {
+            "text": "assistance.fr@ohme-ev.com",
+            "href": "mailto:assistance.fr@ohme-ev.com",
+            "kind": "email"
+          }
+        ],
+        "html_ids": [],
+        "previous_segment_id": "S16",
+        "next_segment_id": "S18",
+        "previous_segment_text": "7. Who do you share my personal data with? 7.1. We need to share your personal data with some third parties in some circumstances. This includes where we use third party suppliers to perform various services for us. Third party suppliers we share your personal data with may include: 7.1.1. Companies within the Ohme group of companies in order to provide and improve our services. 7.1.2. website and App designer and developer for the purposes of developing, hosting, supporting and maintaining the Website, App and service; 7.1.3. the provider of the service on which the Website or App is hosted. This would only happen very occasionally and would only be if strictly required in the event of an emergency; 7.1.4. the provider of the in-App messaging and feedback system where we share your email address and other information you voluntarily provide when you are using such system; 7.1.5. providers of login authentication where we share your email address for the purpose of such login authentication; 7.1.6. payment providers to process any card transactions or subscriptions to our service; and 7.1.7. energy suppliers, energy network companies, energy system operators, energy service companies, and associated parties to research, operate and adjust charging based on the electricity system conditions and to operate in coordination with grid demands. 7.2. We will also share your personal data with third parties in the following circumstances: 7.2.1. where you have specifically consented to us sharing your data with a particular third party; 7.2.2. where we are required or permitted to do so by law or to protect or enforce our rights or the rights of any third party; and 7.2.3. if our business or any part of it is acquired by a third party, in which case we will need to share your personal data with that third party. 7.3. Ohme stores all of your Data within the European Economic Area (\"EEA\"). 7.4. However, some of our external third parties and group companies are based outside the EEA so their processing of your personal data will involve a transfer of data outside the EEA. 7.5. Whenever we transfer your personal data out of the EEA, we ensure a similar degree of protection is afforded to it by ensuring at least one of the following safeguards is implemented: 7.5.1. We may transfer your personal data to countries that have been deemed to provide an adequate level of protection for personal data by the European Commission. For further details, see European Commission: Adequacy of the protection of personal data in non-EU countries.",
+        "extended_context": "1. Keeping your data safe 1.1. We are committed to keeping your personal data safe and secure and handling it in accordance with our legal obligations. This Privacy Policy sets out in detail the purposes for which we process your personal data, who we share it with, what rights you have in relation to that data and everything else we think it's important for you to know. 2. Who runs the Ohme Website and App? www.ohme-ev.com (the Website) and Ohme mobile software application (the App) and services are provided to users by: 2.1. Ohme Operations UK Limited of 5 th Floor, Wellington House, 125-130 The Strand, London, WC2R 0AP if you purchased your Product or are registered or resident in the United Kingdom or the Channel Islands; 2.2. Ohme Operations Ireland Limited of 74 Penrose Wharf, Penrose Quay, Cork, Republic of Ireland if you purchase your Product or are registered or resident in the Republic of Ireland; 2.3, Ohme Operations Ireland Limited of 74 Penrose Wharf, Penrose Quay, Cork, Republic of Ireland if you purchase your Product and are registered and resident elsewhere. In each case, the relevant Ohme entity is referred to in these terms as \"Ohme\", \"we\", \"us\" or \"our\". 3. Who's in control of my personal data? 3.1. We are the \"controller\" of all personal data collected and used for the purposes of providing our products and services which you have purchased and/or subscribed to and for any other purposes set out in this Privacy Policy. This means that we are responsible for deciding how and why your data is used and for ensuring that your data is handled legally and safely. 4. What data do you collect and where from? 4.1. We collect some personal data directly from you when you register for an account with Ohme. The data that we collect in order to set up your account includes the following: 4.1.1. your full name; 4.1.2. your email address. 4.2. Once you have set up your account, should you choose to purchase any of our products or subscribe to our services we may collect additional data as follows: 4.2.1. billing and delivery address; 4.2.2. transaction data including details about payments made to and from you and details of products and/or services you have purchased and/or subscribed to through our website or otherwise; 4.2.3. your Facebook or Google profile picture if you choose to authenticate through that method; 4.2.4. the location of your Ohme cable when it is plugged in; 4.2.5. the Vehicle Identification Number (VIN) of the car you wish to charge using our services; 4.2.6. your car login credentials (where supported); 4.2.7. your electricity supplier and tariff plan; 4.2.8. your electricity meter point administration number (MPAN). 4.3. We collect personal data that you choose to include in communications you send to us, including through the in-App messaging and feedback system in our App or by email. 4.4. We may also collect personal data from trusted third parties or from publicly available sources, including to initiate contact with you and to enhance services to our customers and partners. 4.5. We collect technical information about how you use our Website and App and service. This includes your vehicle charging data, IP addresses and device identifiers. 4.6. We also may collect data about how you use our Website and App by using cookies and other similar technologies. 5. What do you use my personal data for? 5.1. It is important that you understand how and why we use the personal data that we collect about you. This section sets out the different purposes for which we process personal data and which types of personal data we need for each purpose. 5.2. Managing your account and providing you with our products and services 5.2.1 We use the personal data that you provide to set up your account, manage and administer your account, to log you into your account and to allow you to use all Ohme features on the App to assist with charging your vehicle. 5.2.2. we use your email address to contact you occasionally with service messages about Ohme. 5.2.3. We use your cable location, MPAN, electricity supplier and tariff to assist with generating your charging profile. 5.2.4. We use information you voluntarily provide to us when contacting us with queries, comments or complaints to enable us to respond to those queries, complaints or comments and to make sure that these are appropriately dealt with. 5.3. Improving our services 5.3.1. We use your personal data to help us monitor, analyse and improve Ohme. This helps us to make sure that we are providing you with the best possible service. 5.4 Marketing 5.4.1 Where you have consented to us doing so, we will use your email address to send you updates on any new products or services we are offering. You can choose not to receive these emails by following the instructions in each email to unsubscribe. 5.4.2. Where you have consented to us doing so, we will also use your email address to send you emails about promotions or discounts that are being offered. 6. What is your legal basis for using my personal data? 6.1 Data protection law says that we have to tell you the legal basis that we rely on to process your personal data for the purposes that we have notified to you. The table below tells you what that legal basis is in relation to each of the purposes set out above. 7. Who do you share my personal data with? 7.1. We need to share your personal data with some third parties in some circumstances. This includes where we use third party suppliers to perform various services for us. Third party suppliers we share your personal data with may include: 7.1.1. Companies within the Ohme group of companies in order to provide and improve our services. 7.1.2. website and App designer and developer for the purposes of developing, hosting, supporting and maintaining the Website, App and service; 7.1.3. the provider of the service on which the Website or App is hosted. This would only happen very occasionally and would only be if strictly required in the event of an emergency; 7.1.4. the provider of the in-App messaging and feedback system where we share your email address and other information you voluntarily provide when you are using such system; 7.1.5. providers of login authentication where we share your email address for the purpose of such login authentication; 7.1.6. payment providers to process any card transactions or subscriptions to our service; and 7.1.7. energy suppliers, energy network companies, energy system operators, energy service companies, and associated parties to research, operate and adjust charging based on the electricity system conditions and to operate in coordination with grid demands. 7.2. We will also share your personal data with third parties in the following circumstances: 7.2.1. where you have specifically consented to us sharing your data with a particular third party; 7.2.2. where we are required or permitted to do so by law or to protect or enforce our rights or the rights of any third party; and 7.2.3. if our business or any part of it is acquired by a third party, in which case we will need to share your personal data with that third party. 7.3. Ohme stores all of your Data within the European Economic Area (\"EEA\"). 7.4. However, some of our external third parties and group companies are based outside the EEA so their processing of your personal data will involve a transfer of data outside the EEA. 7.5. Whenever we transfer your personal data out of the EEA, we ensure a similar degree of protection is afforded to it by ensuring at least one of the following safeguards is implemented: 7.5.1. We may transfer your personal data to countries that have been deemed to provide an adequate level of protection for personal data by the European Commission. For further details, see European Commission: Adequacy of the protection of personal data in non-EU countries."
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [
+          {
+            "value": "Request by email",
+            "evidence": "please email us at (i) if resident in the UK or Ireland help @ohme-ev.com, (ii) if resident in Belgium, help.be@ohme-ev.com or (iii) if resident in France, assistance.fr@ohme-ev.com",
+            "confidence": "extracted",
+            "id": "Ohme:S17:channel:1",
+            "linked_ids": [],
+            "link": {
+              "url": "mailto:assistance.fr@ohme-ev.com",
+              "kind": "email",
+              "visible_text": "assistance.fr@ohme-ev.com"
+            }
+          },
+          {
+            "value": "Request by post",
+            "evidence": "write to us at Ohme Operations UK Limited, 5 th Floor, Wellington House, 125-130 The Strand, London, WC2R 0AP",
+            "confidence": "extracted",
+            "id": "Ohme:S17:channel:2",
+            "linked_ids": [],
+            "link": null
+          }
+        ],
+        "references": [],
+        "rejected": [
+          {
+            "attribute": "reference",
+            "evidence": "see European Commission: Model contracts for the transfer of personal data to third countries",
+            "target_text": "European Commission: Model contracts for the transfer of personal data to third countries",
+            "reason": "not_an_unresolved_reference"
+          },
+          {
+            "attribute": "reference",
+            "evidence": "see European Commission: EU-US Privacy Shield",
+            "target_text": "European Commission: EU-US Privacy Shield",
+            "reason": "not_an_unresolved_reference"
+          }
+        ]
+      }
+    },
+    {
+      "segment": {
+        "id": "S18",
+        "text": "9.4. A right to access your information 9.4.1. You have a right to ask us to send you a copy of all the personal data that we hold about you (subject to some exceptions) 9.5. A right to an electronic copy of your information 9.5.1. You can also ask us to send you the mandatory account information we hold about you in a common electronic format, or to ask us to transfer that data to a third party if you want us to and if it is technically feasible for us to do so. 9.6. A right to object to us processing your information 9.6.1. You have a right to object to us processing any personal data that we process where we are relying on legitimate interests as the legal basis of our processing. This includes non-mandatory account and profile data, other personal data that you upload in posts, comments and messages, personal data we use for profiling and targeted advertising and the technical information that we collect for the purposes of analysing and improving the Website. 9.6.2. If we have compelling legitimate grounds to carry on processing your personal data, we will be able to continue to do so. Otherwise, we will cease processing your personal data. 9.7. A right to ask us not to market to you 9.7.1. You can ask us not to send you direct marketing. You can do this by following the \"unsubscribe\" instructions in any marketing emails or by changing your account settings, or by contacting us using the details above. 9.8. A right to have inaccurate data corrected 9.8.1. You have a right to ask us to correct inaccurate data that we hold about you. If we are satisfied that the new data you have provided is accurate, we will correct your personal data as soon as possible. 9.8.2. You can update your own personal data at any time through your account settings. It is your responsibility to ensure that your personal data is accurate and up-to-date. 9.9. A right to have your data erased 9.9.1. You have a right to ask us to delete your personal data in certain circumstances, for example if we have processed your data unlawfully or if we no longer need the data for the purposes set out in this Privacy Policy. 9.9.2. We will delete the personal data associated with your account in these circumstances 9.10. A right to have processing of your data restricted 9.10.1. You can ask us to restrict processing of your personal data in some circumstances, for example if you think the personal data is inaccurate and we need to verify its accuracy, or if we no longer need the data but you require us to keep it so that you can exercise your own legal rights.",
+        "heading_path": [
+          "Privacy Policy EU"
+        ],
+        "links": [],
+        "html_ids": [],
+        "previous_segment_id": "S17",
+        "next_segment_id": "S19",
+        "previous_segment_text": "7.5.2. Where we use certain service providers, we may use specific contracts approved by the European Commission which give personal data the same protection it has in Europe. For further details, see European Commission: Model contracts for the transfer of personal data to third countries. 7.5.3. Where we use providers based in the US, we may transfer data to them if they are part of the Privacy Shield which requires them to provide similar protection to personal data shared between Europe and the US. For further details, see European Commission: EU-US Privacy Shield. Please Contact us if you want further information on the specific mechanism used by us when transferring your personal data out of the EEA. 8. How long do you keep my personal data for? 8.1. We will keep all your personal data for as long as your account remains open. 8.2. If your account is inactive for a period of one year, we reserve the right to close your account and delete your personal data in accordance with the section above. 8.3. We may need to keep your data after account closure for limited purposes, for example if we need your data in order to respond to any complaints or claims that you make. If this is the case, we will only keep the data for as long as we need to in order to fulfil those purposes. 9. What rights do I have? 9.1. You have a number of rights under data protection law. These rights and how you can exercise them are set out in this section. We will normally need to ask you for proof of your identity before we can respond to a request to exercise any of the rights in this section and we may need to ask you for more information, for example to help us to locate the personal data that your request relates to. 9.2. We will respond to any requests to exercise your rights as soon as we can and in any event within one month of receiving your request and any necessary proof of identity or further information. If your request is particularly difficult or complex, or if you have made a large volume of requests, we may take up to three months to respond. If this is the case we will let you know as soon as we can and explain why we need to take longer to respond. 9.3. If you want to exercise any of these rights, please email us at (i) if resident in the UK or Ireland help @ohme-ev.com, (ii) if resident in Belgium, help.be@ohme-ev.com or (iii) if resident in France, assistance.fr@ohme-ev.com or write to us at Ohme Operations UK Limited, 5 th Floor, Wellington House, 125-130 The Strand, London, WC2R 0AP.",
+        "extended_context": "4.2.7. your electricity supplier and tariff plan; 4.2.8. your electricity meter point administration number (MPAN). 4.3. We collect personal data that you choose to include in communications you send to us, including through the in-App messaging and feedback system in our App or by email. 4.4. We may also collect personal data from trusted third parties or from publicly available sources, including to initiate contact with you and to enhance services to our customers and partners. 4.5. We collect technical information about how you use our Website and App and service. This includes your vehicle charging data, IP addresses and device identifiers. 4.6. We also may collect data about how you use our Website and App by using cookies and other similar technologies. 5. What do you use my personal data for? 5.1. It is important that you understand how and why we use the personal data that we collect about you. This section sets out the different purposes for which we process personal data and which types of personal data we need for each purpose. 5.2. Managing your account and providing you with our products and services 5.2.1 We use the personal data that you provide to set up your account, manage and administer your account, to log you into your account and to allow you to use all Ohme features on the App to assist with charging your vehicle. 5.2.2. we use your email address to contact you occasionally with service messages about Ohme. 5.2.3. We use your cable location, MPAN, electricity supplier and tariff to assist with generating your charging profile. 5.2.4. We use information you voluntarily provide to us when contacting us with queries, comments or complaints to enable us to respond to those queries, complaints or comments and to make sure that these are appropriately dealt with. 5.3. Improving our services 5.3.1. We use your personal data to help us monitor, analyse and improve Ohme. This helps us to make sure that we are providing you with the best possible service. 5.4 Marketing 5.4.1 Where you have consented to us doing so, we will use your email address to send you updates on any new products or services we are offering. You can choose not to receive these emails by following the instructions in each email to unsubscribe. 5.4.2. Where you have consented to us doing so, we will also use your email address to send you emails about promotions or discounts that are being offered. 6. What is your legal basis for using my personal data? 6.1 Data protection law says that we have to tell you the legal basis that we rely on to process your personal data for the purposes that we have notified to you. The table below tells you what that legal basis is in relation to each of the purposes set out above. 7. Who do you share my personal data with? 7.1. We need to share your personal data with some third parties in some circumstances. This includes where we use third party suppliers to perform various services for us. Third party suppliers we share your personal data with may include: 7.1.1. Companies within the Ohme group of companies in order to provide and improve our services. 7.1.2. website and App designer and developer for the purposes of developing, hosting, supporting and maintaining the Website, App and service; 7.1.3. the provider of the service on which the Website or App is hosted. This would only happen very occasionally and would only be if strictly required in the event of an emergency; 7.1.4. the provider of the in-App messaging and feedback system where we share your email address and other information you voluntarily provide when you are using such system; 7.1.5. providers of login authentication where we share your email address for the purpose of such login authentication; 7.1.6. payment providers to process any card transactions or subscriptions to our service; and 7.1.7. energy suppliers, energy network companies, energy system operators, energy service companies, and associated parties to research, operate and adjust charging based on the electricity system conditions and to operate in coordination with grid demands. 7.2. We will also share your personal data with third parties in the following circumstances: 7.2.1. where you have specifically consented to us sharing your data with a particular third party; 7.2.2. where we are required or permitted to do so by law or to protect or enforce our rights or the rights of any third party; and 7.2.3. if our business or any part of it is acquired by a third party, in which case we will need to share your personal data with that third party. 7.3. Ohme stores all of your Data within the European Economic Area (\"EEA\"). 7.4. However, some of our external third parties and group companies are based outside the EEA so their processing of your personal data will involve a transfer of data outside the EEA. 7.5. Whenever we transfer your personal data out of the EEA, we ensure a similar degree of protection is afforded to it by ensuring at least one of the following safeguards is implemented: 7.5.1. We may transfer your personal data to countries that have been deemed to provide an adequate level of protection for personal data by the European Commission. For further details, see European Commission: Adequacy of the protection of personal data in non-EU countries. 7.5.2. Where we use certain service providers, we may use specific contracts approved by the European Commission which give personal data the same protection it has in Europe. For further details, see European Commission: Model contracts for the transfer of personal data to third countries. 7.5.3. Where we use providers based in the US, we may transfer data to them if they are part of the Privacy Shield which requires them to provide similar protection to personal data shared between Europe and the US. For further details, see European Commission: EU-US Privacy Shield. Please Contact us if you want further information on the specific mechanism used by us when transferring your personal data out of the EEA. 8. How long do you keep my personal data for? 8.1. We will keep all your personal data for as long as your account remains open. 8.2. If your account is inactive for a period of one year, we reserve the right to close your account and delete your personal data in accordance with the section above. 8.3. We may need to keep your data after account closure for limited purposes, for example if we need your data in order to respond to any complaints or claims that you make. If this is the case, we will only keep the data for as long as we need to in order to fulfil those purposes. 9. What rights do I have? 9.1. You have a number of rights under data protection law. These rights and how you can exercise them are set out in this section. We will normally need to ask you for proof of your identity before we can respond to a request to exercise any of the rights in this section and we may need to ask you for more information, for example to help us to locate the personal data that your request relates to. 9.2. We will respond to any requests to exercise your rights as soon as we can and in any event within one month of receiving your request and any necessary proof of identity or further information. If your request is particularly difficult or complex, or if you have made a large volume of requests, we may take up to three months to respond. If this is the case we will let you know as soon as we can and explain why we need to take longer to respond. 9.3. If you want to exercise any of these rights, please email us at (i) if resident in the UK or Ireland help @ohme-ev.com, (ii) if resident in Belgium, help.be@ohme-ev.com or (iii) if resident in France, assistance.fr@ohme-ev.com or write to us at Ohme Operations UK Limited, 5 th Floor, Wellington House, 125-130 The Strand, London, WC2R 0AP."
+      },
+      "result": {
+        "right_type": [
+          {
+            "value": "Right of access",
+            "evidence": "9.4.1. You have a right to ask us to send you a copy of all the personal data that we hold about you (subject to some exceptions)",
+            "confidence": "extracted",
+            "id": "Ohme:S18:right:1"
+          },
+          {
+            "value": "Right to data portability",
+            "evidence": "9.5.1. You can also ask us to send you the mandatory account information we hold about you in a common electronic format, or to ask us to transfer that data to a third party if you want us to and if it is technically feasible for us to do so.",
+            "confidence": "extracted",
+            "id": "Ohme:S18:right:2"
+          },
+          {
+            "value": "Right to object",
+            "evidence": "9.6.1. You have a right to object to us processing any personal data that we process where we are relying on legitimate interests as the legal basis of our processing.",
+            "confidence": "extracted",
+            "id": "Ohme:S18:right:3"
+          },
+          {
+            "value": "Right to rectification",
+            "evidence": "9.8.1. You have a right to ask us to correct inaccurate data that we hold about you.",
+            "confidence": "extracted",
+            "id": "Ohme:S18:right:4"
+          },
+          {
+            "value": "Right to erasure",
+            "evidence": "9.9.1. You have a right to ask us to delete your personal data in certain circumstances, for example if we have processed your data unlawfully or if we no longer need the data for the purposes set out in this Privacy Policy.",
+            "confidence": "extracted",
+            "id": "Ohme:S18:right:5"
+          },
+          {
+            "value": "Right to restriction of processing",
+            "evidence": "9.10.1. You can ask us to restrict processing of your personal data in some circumstances, for example if you think the personal data is inaccurate and we need to verify its accuracy, or if we no longer need the data but you require us to keep it so that you can exercise your own legal rights.",
+            "confidence": "extracted",
+            "id": "Ohme:S18:right:6"
+          }
+        ],
+        "choice_type": [
+          {
+            "value": "Opt out of marketing",
+            "evidence": "9.7.1. You can ask us not to send you direct marketing. You can do this by following the \"unsubscribe\" instructions in any marketing emails or by changing your account settings, or by contacting us using the details above.",
+            "confidence": "extracted",
+            "id": "Ohme:S18:choice:1"
+          },
+          {
+            "value": "View and update personal data",
+            "evidence": "9.8.2. You can update your own personal data at any time through your account settings.",
+            "confidence": "extracted",
+            "id": "Ohme:S18:choice:2"
+          }
+        ],
+        "request_channel": [
+          {
+            "value": "Request by email",
+            "evidence": "by contacting us using the details above",
+            "confidence": "extracted",
+            "id": "Ohme:S18:channel:1",
+            "linked_ids": [
+              "Ohme:S18:choice:1"
+            ],
+            "link": null
+          },
+          {
+            "value": "Request by post",
+            "evidence": "by contacting us using the details above",
+            "confidence": "extracted",
+            "id": "Ohme:S18:channel:2",
+            "linked_ids": [
+              "Ohme:S18:choice:1"
+            ],
+            "link": null
+          },
+          {
+            "value": "In-app or device settings",
+            "evidence": "by changing your account settings",
+            "confidence": "extracted",
+            "id": "Ohme:S18:channel:3",
+            "linked_ids": [
+              "Ohme:S18:choice:1"
+            ],
+            "link": null
+          },
+          {
+            "value": "In-app or device settings",
+            "evidence": "through your account settings",
+            "confidence": "extracted",
+            "id": "Ohme:S18:channel:4",
+            "linked_ids": [
+              "Ohme:S18:choice:2"
+            ],
+            "link": null
+          }
+        ],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S19",
+        "text": "9.10.2. Restricting your personal data means that we only store your personal data and don't carry out any further processing on it unless you consent or we need to process the data to exercise a legal claim or to protect a third party or the public. 10. Cookies 10.1 We used Cookies on our website and mobile app. For more information see our Cookie Policy. 11. How can I contact you? 11.1. If you have any questions or concerns about this Privacy Policy and/or our processing of your personal data, you can contact us at: 11.2. Email Address: (i) if resident in the UK or Ireland, help@ohme-ev.com, (ii) if resident in Belgium, help.be@ohme-ev.com or (iii) if resident in France, assistance.fr@ohme-ev.com. 11.3. Address for Ohme Operations UK Limited: 5 th Floor, Wellington House, 125-130 The Strand, London, WC2R 0AP, United Kingdom 11.4. Address for Ohme Operations Ireland Limited: Unit 74 Penrose Warf, Penrose Quay, Cork, Ireland 12. What if I have a complaint? 12.1. You have a right to complain to your local data protection authority, if you are unhappy with how we have processed your personal data. 12.2. In the United Kingdom this is the Information Commissioner's Office. You can find out how to do this by visiting www.ico.org.uk. In Ireland this is the Data Protection Commission. You can find out how to do this by visiting https://www.dataprotection.ie/en/contact/how-to-contact-us. 13.What if this policy changes? 13.1. We may make changes to this Privacy notice and our Cookie Policy from time to time. Any changes we make will be posted on this page so please revisit these pages regularly if you want to keep up to date with any changes we have made. Last updated: 30 August 2023 Manage Cookies",
+        "heading_path": [
+          "Privacy Policy EU"
+        ],
+        "links": [
+          {
+            "text": "Cookie Policy",
+            "href": "https://ohme-ev.com/global/cookie-policy-eu/",
+            "kind": "external"
+          },
+          {
+            "text": "help.be@ohme-ev.com",
+            "href": "mailto:help.be@ohme-ev.com",
+            "kind": "email"
+          },
+          {
+            "text": "www.ico.org.uk",
+            "href": "http://www.ico.org.uk/",
+            "kind": "external"
+          },
+          {
+            "text": "https://www.dataprotection.ie/en/contact/how-to-contact-us",
+            "href": "https://www.dataprotection.ie/en/contact/how-to-contact-us",
+            "kind": "external"
+          }
+        ],
+        "html_ids": [],
+        "previous_segment_id": "S18",
+        "next_segment_id": null,
+        "previous_segment_text": "9.4. A right to access your information 9.4.1. You have a right to ask us to send you a copy of all the personal data that we hold about you (subject to some exceptions) 9.5. A right to an electronic copy of your information 9.5.1. You can also ask us to send you the mandatory account information we hold about you in a common electronic format, or to ask us to transfer that data to a third party if you want us to and if it is technically feasible for us to do so. 9.6. A right to object to us processing your information 9.6.1. You have a right to object to us processing any personal data that we process where we are relying on legitimate interests as the legal basis of our processing. This includes non-mandatory account and profile data, other personal data that you upload in posts, comments and messages, personal data we use for profiling and targeted advertising and the technical information that we collect for the purposes of analysing and improving the Website. 9.6.2. If we have compelling legitimate grounds to carry on processing your personal data, we will be able to continue to do so. Otherwise, we will cease processing your personal data. 9.7. A right to ask us not to market to you 9.7.1. You can ask us not to send you direct marketing. You can do this by following the \"unsubscribe\" instructions in any marketing emails or by changing your account settings, or by contacting us using the details above. 9.8. A right to have inaccurate data corrected 9.8.1. You have a right to ask us to correct inaccurate data that we hold about you. If we are satisfied that the new data you have provided is accurate, we will correct your personal data as soon as possible. 9.8.2. You can update your own personal data at any time through your account settings. It is your responsibility to ensure that your personal data is accurate and up-to-date. 9.9. A right to have your data erased 9.9.1. You have a right to ask us to delete your personal data in certain circumstances, for example if we have processed your data unlawfully or if we no longer need the data for the purposes set out in this Privacy Policy. 9.9.2. We will delete the personal data associated with your account in these circumstances 9.10. A right to have processing of your data restricted 9.10.1. You can ask us to restrict processing of your personal data in some circumstances, for example if you think the personal data is inaccurate and we need to verify its accuracy, or if we no longer need the data but you require us to keep it so that you can exercise your own legal rights.",
+        "extended_context": "7. Who do you share my personal data with? 7.1. We need to share your personal data with some third parties in some circumstances. This includes where we use third party suppliers to perform various services for us. Third party suppliers we share your personal data with may include: 7.1.1. Companies within the Ohme group of companies in order to provide and improve our services. 7.1.2. website and App designer and developer for the purposes of developing, hosting, supporting and maintaining the Website, App and service; 7.1.3. the provider of the service on which the Website or App is hosted. This would only happen very occasionally and would only be if strictly required in the event of an emergency; 7.1.4. the provider of the in-App messaging and feedback system where we share your email address and other information you voluntarily provide when you are using such system; 7.1.5. providers of login authentication where we share your email address for the purpose of such login authentication; 7.1.6. payment providers to process any card transactions or subscriptions to our service; and 7.1.7. energy suppliers, energy network companies, energy system operators, energy service companies, and associated parties to research, operate and adjust charging based on the electricity system conditions and to operate in coordination with grid demands. 7.2. We will also share your personal data with third parties in the following circumstances: 7.2.1. where you have specifically consented to us sharing your data with a particular third party; 7.2.2. where we are required or permitted to do so by law or to protect or enforce our rights or the rights of any third party; and 7.2.3. if our business or any part of it is acquired by a third party, in which case we will need to share your personal data with that third party. 7.3. Ohme stores all of your Data within the European Economic Area (\"EEA\"). 7.4. However, some of our external third parties and group companies are based outside the EEA so their processing of your personal data will involve a transfer of data outside the EEA. 7.5. Whenever we transfer your personal data out of the EEA, we ensure a similar degree of protection is afforded to it by ensuring at least one of the following safeguards is implemented: 7.5.1. We may transfer your personal data to countries that have been deemed to provide an adequate level of protection for personal data by the European Commission. For further details, see European Commission: Adequacy of the protection of personal data in non-EU countries. 7.5.2. Where we use certain service providers, we may use specific contracts approved by the European Commission which give personal data the same protection it has in Europe. For further details, see European Commission: Model contracts for the transfer of personal data to third countries. 7.5.3. Where we use providers based in the US, we may transfer data to them if they are part of the Privacy Shield which requires them to provide similar protection to personal data shared between Europe and the US. For further details, see European Commission: EU-US Privacy Shield. Please Contact us if you want further information on the specific mechanism used by us when transferring your personal data out of the EEA. 8. How long do you keep my personal data for? 8.1. We will keep all your personal data for as long as your account remains open. 8.2. If your account is inactive for a period of one year, we reserve the right to close your account and delete your personal data in accordance with the section above. 8.3. We may need to keep your data after account closure for limited purposes, for example if we need your data in order to respond to any complaints or claims that you make. If this is the case, we will only keep the data for as long as we need to in order to fulfil those purposes. 9. What rights do I have? 9.1. You have a number of rights under data protection law. These rights and how you can exercise them are set out in this section. We will normally need to ask you for proof of your identity before we can respond to a request to exercise any of the rights in this section and we may need to ask you for more information, for example to help us to locate the personal data that your request relates to. 9.2. We will respond to any requests to exercise your rights as soon as we can and in any event within one month of receiving your request and any necessary proof of identity or further information. If your request is particularly difficult or complex, or if you have made a large volume of requests, we may take up to three months to respond. If this is the case we will let you know as soon as we can and explain why we need to take longer to respond. 9.3. If you want to exercise any of these rights, please email us at (i) if resident in the UK or Ireland help @ohme-ev.com, (ii) if resident in Belgium, help.be@ohme-ev.com or (iii) if resident in France, assistance.fr@ohme-ev.com or write to us at Ohme Operations UK Limited, 5 th Floor, Wellington House, 125-130 The Strand, London, WC2R 0AP. 9.4. A right to access your information 9.4.1. You have a right to ask us to send you a copy of all the personal data that we hold about you (subject to some exceptions) 9.5. A right to an electronic copy of your information 9.5.1. You can also ask us to send you the mandatory account information we hold about you in a common electronic format, or to ask us to transfer that data to a third party if you want us to and if it is technically feasible for us to do so. 9.6. A right to object to us processing your information 9.6.1. You have a right to object to us processing any personal data that we process where we are relying on legitimate interests as the legal basis of our processing. This includes non-mandatory account and profile data, other personal data that you upload in posts, comments and messages, personal data we use for profiling and targeted advertising and the technical information that we collect for the purposes of analysing and improving the Website. 9.6.2. If we have compelling legitimate grounds to carry on processing your personal data, we will be able to continue to do so. Otherwise, we will cease processing your personal data. 9.7. A right to ask us not to market to you 9.7.1. You can ask us not to send you direct marketing. You can do this by following the \"unsubscribe\" instructions in any marketing emails or by changing your account settings, or by contacting us using the details above. 9.8. A right to have inaccurate data corrected 9.8.1. You have a right to ask us to correct inaccurate data that we hold about you. If we are satisfied that the new data you have provided is accurate, we will correct your personal data as soon as possible. 9.8.2. You can update your own personal data at any time through your account settings. It is your responsibility to ensure that your personal data is accurate and up-to-date. 9.9. A right to have your data erased 9.9.1. You have a right to ask us to delete your personal data in certain circumstances, for example if we have processed your data unlawfully or if we no longer need the data for the purposes set out in this Privacy Policy. 9.9.2. We will delete the personal data associated with your account in these circumstances 9.10. A right to have processing of your data restricted 9.10.1. You can ask us to restrict processing of your personal data in some circumstances, for example if you think the personal data is inaccurate and we need to verify its accuracy, or if we no longer need the data but you require us to keep it so that you can exercise your own legal rights."
+      },
+      "result": {
+        "right_type": [
+          {
+            "value": "Other",
+            "evidence": "You have a right to complain to your local data protection authority, if you are unhappy with how we have processed your personal data.",
+            "confidence": "extracted",
+            "id": "Ohme:S19:right:1"
+          }
+        ],
+        "choice_type": [],
+        "request_channel": [
+          {
+            "value": "Request by email",
+            "evidence": "Email Address: (i) if resident in the UK or Ireland, help@ohme-ev.com, (ii) if resident in Belgium, help.be@ohme-ev.com or (iii) if resident in France, assistance.fr@ohme-ev.com.",
+            "confidence": "extracted",
+            "id": "Ohme:S19:channel:1",
+            "linked_ids": [],
+            "link": {
+              "url": "mailto:help.be@ohme-ev.com",
+              "kind": "email",
+              "visible_text": "help.be@ohme-ev.com"
+            }
+          },
+          {
+            "value": "Request by post",
+            "evidence": "Address for Ohme Operations UK Limited: 5 th Floor, Wellington House, 125-130 The Strand, London, WC2R 0AP, United Kingdom",
+            "confidence": "extracted",
+            "id": "Ohme:S19:channel:2",
+            "linked_ids": [],
+            "link": null
+          },
+          {
+            "value": "Request by post",
+            "evidence": "Address for Ohme Operations Ireland Limited: Unit 74 Penrose Warf, Penrose Quay, Cork, Ireland",
+            "confidence": "extracted",
+            "id": "Ohme:S19:channel:3",
+            "linked_ids": [],
+            "link": null
+          }
+        ],
+        "references": [],
+        "rejected": [
+          {
+            "attribute": "right_type",
+            "value": "Right to restriction of processing",
+            "evidence": "You can ask us to restrict processing of your personal data in some circumstances, for example if you think the personal data is inaccurate and we need to verify its accuracy, or if we no longer need the data but you require us to keep it so that you can exercise your own legal rights.",
+            "reason": "evidence_not_exact"
+          },
+          {
+            "attribute": "reference",
+            "evidence": "For more information see our Cookie Policy.",
+            "target_text": "Cookie Policy",
+            "reason": "not_an_unresolved_reference"
+          },
+          {
+            "attribute": "reference",
+            "evidence": "You can find out how to do this by visiting www.ico.org.uk.",
+            "target_text": "www.ico.org.uk",
+            "reason": "not_an_unresolved_reference"
+          },
+          {
+            "attribute": "reference",
+            "evidence": "You can find out how to do this by visiting https://www.dataprotection.ie/en/contact/how-to-contact-us.",
+            "target_text": "https://www.dataprotection.ie/en/contact/how-to-contact-us",
+            "reason": "not_an_unresolved_reference"
+          }
+        ]
+      }
+    }
+  ]
+}

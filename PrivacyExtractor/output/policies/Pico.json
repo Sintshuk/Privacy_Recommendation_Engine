@@ -1,0 +1,85 @@
+{
+  "policy": "Pico",
+  "rows": [
+    {
+      "segment": {
+        "id": "S1",
+        "text": "Privacy Policy Terms of Service Cookies Policy Health and Safety Warnings Limited Product Warranty IP Policy Declaration of Conformity Digital Services Act Chat Now Mon-Fri 10:00-19:00 (UTC+2) Call Us 00493058916141 Mon-Fri 10:00-19:00 (UTC+2) Local charges may apply Email Us support.eur@pico-xr.com",
+        "heading_path": [
+          "LEGAL"
+        ],
+        "links": [
+          {
+            "text": "Privacy Policy",
+            "href": "https://www.picoxr.com/nl/legal/privacy-policy",
+            "kind": "external"
+          },
+          {
+            "text": "Terms of Service",
+            "href": "https://www.picoxr.com/nl/legal/terms-of-service",
+            "kind": "external"
+          },
+          {
+            "text": "Cookies Policy",
+            "href": "https://www.picoxr.com/nl/legal/cookie-policy",
+            "kind": "external"
+          },
+          {
+            "text": "Health and Safety Warnings",
+            "href": "https://www.picoxr.com/nl/legal/health-and-safety-warnings",
+            "kind": "external"
+          },
+          {
+            "text": "Limited Product Warranty",
+            "href": "https://www.picoxr.com/nl/legal/limited-warranty",
+            "kind": "external"
+          },
+          {
+            "text": "IP Policy",
+            "href": "https://www.picoxr.com/nl/legal/ip-policy",
+            "kind": "external"
+          },
+          {
+            "text": "Declaration of Conformity",
+            "href": "https://www.picoxr.com/nl/legal/compliance",
+            "kind": "external"
+          },
+          {
+            "text": "Digital Services Act",
+            "href": "https://www.picoxr.com/nl/legal/digital-services-act",
+            "kind": "external"
+          }
+        ],
+        "html_ids": [],
+        "previous_segment_id": null,
+        "next_segment_id": null,
+        "previous_segment_text": "",
+        "extended_context": ""
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [
+          {
+            "value": "Phone / toll-free number",
+            "evidence": "Call Us 00493058916141 Mon-Fri 10:00-19:00 (UTC+2)",
+            "confidence": "extracted",
+            "id": "Pico:S1:channel:1",
+            "linked_ids": [],
+            "link": null
+          },
+          {
+            "value": "Request by email",
+            "evidence": "Email Us support.eur@pico-xr.com",
+            "confidence": "extracted",
+            "id": "Pico:S1:channel:2",
+            "linked_ids": [],
+            "link": null
+          }
+        ],
+        "references": [],
+        "rejected": []
+      }
+    }
+  ]
+}

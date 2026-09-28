@@ -1,0 +1,15 @@
+.env
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# os junk
+.DS_Store
+
+# raw scraped policy source files
+/PrivacyExtractor/policies/
+/PrivacyExtractor/policies-test
+PrivacyRecommender/report_cache.json

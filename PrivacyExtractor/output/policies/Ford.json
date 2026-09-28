@@ -1,0 +1,909 @@
+{
+  "policy": "Ford",
+  "rows": [
+    {
+      "segment": {
+        "id": "S1",
+        "text": "Overview Website Privacy Policy Website Cookie Guide Website Cookie Preferences Connected Car Privacy Policy Ford app Privacy Policy & Cookie Guide Website Terms & Conditions Ford app Terms & Conditions External Grievances Online Ordering Ford Connected Wallbox Privacy",
+        "heading_path": [
+          "FORD PRIVACY POLICY, TERMS & CONDITIONS"
+        ],
+        "links": [
+          {
+            "text": "Overview",
+            "href": "https://www.ford.ie/useful-information/terms-and-privacy-policy-hub",
+            "kind": "external"
+          },
+          {
+            "text": "Website Privacy Policy",
+            "href": "https://www.ford.ie/useful-information/terms-and-privacy-policy-hub/privacy-policy",
+            "kind": "external"
+          },
+          {
+            "text": "Website Cookie Guide",
+            "href": "https://www.ford.ie/useful-information/terms-and-privacy-policy-hub/cookie-guide",
+            "kind": "external"
+          },
+          {
+            "text": "Website Cookie Preferences",
+            "href": "https://www.ford.ie/useful-information/terms-and-privacy-policy-hub/cookie-preferences",
+            "kind": "external"
+          },
+          {
+            "text": "Connected Car Privacy Policy",
+            "href": "https://www.ford.ie/useful-information/terms-and-privacy-policy-hub/connected-car-privacy-policy",
+            "kind": "external"
+          },
+          {
+            "text": "Ford app Privacy Policy & Cookie Guide",
+            "href": "https://www.ford.ie/useful-information/terms-and-privacy-policy-hub/fordpass-privacy-policy-and-cookie-guide",
+            "kind": "external"
+          },
+          {
+            "text": "Website Terms & Conditions",
+            "href": "https://www.ford.ie/useful-information/terms-and-privacy-policy-hub/terms-and-conditions",
+            "kind": "external"
+          },
+          {
+            "text": "Ford app Terms & Conditions",
+            "href": "https://www.ford.ie/useful-information/terms-and-privacy-policy-hub/fordpass-terms-and-conditions",
+            "kind": "external"
+          },
+          {
+            "text": "External Grievances",
+            "href": "https://corporate.ford.com/operations/governance-and-policies/external-grievances.html",
+            "kind": "external"
+          },
+          {
+            "text": "Online Ordering",
+            "href": "https://www.ford.ie/useful-information/terms-and-privacy-policy-hub/online-order",
+            "kind": "external"
+          },
+          {
+            "text": "Ford Connected Wallbox Privacy",
+            "href": "https://www.ford.ie/useful-information/terms-and-privacy-policy-hub/ford-connected-wallbox-warranty",
+            "kind": "external"
+          }
+        ],
+        "html_ids": [
+          "gux3"
+        ],
+        "previous_segment_id": null,
+        "next_segment_id": "S2",
+        "previous_segment_text": "",
+        "extended_context": ""
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S2",
+        "text": "Through devices like smartphones, tablets, and computers, we connect with the world around using wireless communication technology. Your Ford vehicle lets you do the same! Having a connected vehicle means that, depending on how it is equipped, your Ford can communicate wirelessly with apps on your mobile device and with us, our partners, and our service providers. Your Ford vehicle may be connected through Ford's SYNC, Wi-Fi, AppLink or Modem technologies. Check out the Technology section on Ford.ie to learn about these technologies, and you can find out what connectivity technology can be used, or is installed on your vehicle by consulting your owners' manual. All digital roads are open to you when you purchase a Ford connected vehicle.",
+        "heading_path": [
+          "GET CONNECTED",
+          "Connected Vehicle Data Privacy & Protection"
+        ],
+        "links": [
+          {
+            "text": "Ford.ie",
+            "href": "https://www.ford.ie/",
+            "kind": "external"
+          }
+        ],
+        "html_ids": [],
+        "previous_segment_id": "S1",
+        "next_segment_id": "S3",
+        "previous_segment_text": "Overview Website Privacy Policy Website Cookie Guide Website Cookie Preferences Connected Car Privacy Policy Ford app Privacy Policy & Cookie Guide Website Terms & Conditions Ford app Terms & Conditions External Grievances Online Ordering Ford Connected Wallbox Privacy",
+        "extended_context": "Overview Website Privacy Policy Website Cookie Guide Website Cookie Preferences Connected Car Privacy Policy Ford app Privacy Policy & Cookie Guide Website Terms & Conditions Ford app Terms & Conditions External Grievances Online Ordering Ford Connected Wallbox Privacy"
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S3",
+        "text": "Henry Ford and Son Limited is responsible for information received from your connected vehicle, and for the purposes of European data protection law, is the controller. Henry Ford and Son Limited is part of the Ford Motor Company Group. For some processing activities described here, our parent company, Ford Motor Company, takes primary responsibility and is also a controller. Where this is the case, Ford Motor Company will work with us to ensure that your personal information, and your rights in relation to it, are protected. When we use the terms \"we\", \"our\" or \"us\", unless we make clear otherwise, we are referring to and Ford Motor Company.",
+        "heading_path": [
+          "GET CONNECTED",
+          "About Ford"
+        ],
+        "links": [],
+        "html_ids": [],
+        "previous_segment_id": "S2",
+        "next_segment_id": "S4",
+        "previous_segment_text": "Through devices like smartphones, tablets, and computers, we connect with the world around using wireless communication technology. Your Ford vehicle lets you do the same! Having a connected vehicle means that, depending on how it is equipped, your Ford can communicate wirelessly with apps on your mobile device and with us, our partners, and our service providers. Your Ford vehicle may be connected through Ford's SYNC, Wi-Fi, AppLink or Modem technologies. Check out the Technology section on Ford.ie to learn about these technologies, and you can find out what connectivity technology can be used, or is installed on your vehicle by consulting your owners' manual. All digital roads are open to you when you purchase a Ford connected vehicle.",
+        "extended_context": "Overview Website Privacy Policy Website Cookie Guide Website Cookie Preferences Connected Car Privacy Policy Ford app Privacy Policy & Cookie Guide Website Terms & Conditions Ford app Terms & Conditions External Grievances Online Ordering Ford Connected Wallbox Privacy Through devices like smartphones, tablets, and computers, we connect with the world around using wireless communication technology. Your Ford vehicle lets you do the same! Having a connected vehicle means that, depending on how it is equipped, your Ford can communicate wirelessly with apps on your mobile device and with us, our partners, and our service providers. Your Ford vehicle may be connected through Ford's SYNC, Wi-Fi, AppLink or Modem technologies. Check out the Technology section on Ford.ie to learn about these technologies, and you can find out what connectivity technology can be used, or is installed on your vehicle by consulting your owners' manual. All digital roads are open to you when you purchase a Ford connected vehicle."
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S4",
+        "text": "Connected Vehicle Information is associated with your vehicle's unique identification number ('vehicle identification number' or 'VIN'), which can be linked to you as an owner or lessee, and with other vehicle component identifiers. You can find out more here, in-vehicle, in your owners' manual, using the Ford app (where available) or by contacting us using the details below. You can set certain preferences for the collection of Connected Vehicle Information through the infotainment system's settings in your vehicle. You can also call the Ford Customer Relations Center to learn about other options available to you. email: crcirela@ford.com phone: 1800 771 199 mail: Henry Ford & Son Ltd. 5th Floor Penrose One Penrose Dock Cork T23 KW81",
+        "heading_path": [
+          "GET CONNECTED",
+          "Keeping You In Control"
+        ],
+        "links": [
+          {
+            "text": "crcirela@ford.com",
+            "href": "mailto:crcirela@ford.com",
+            "kind": "email"
+          },
+          {
+            "text": "1800 771 199",
+            "href": "tel:1800771199",
+            "kind": "phone"
+          }
+        ],
+        "html_ids": [],
+        "previous_segment_id": "S3",
+        "next_segment_id": "S5",
+        "previous_segment_text": "Henry Ford and Son Limited is responsible for information received from your connected vehicle, and for the purposes of European data protection law, is the controller. Henry Ford and Son Limited is part of the Ford Motor Company Group. For some processing activities described here, our parent company, Ford Motor Company, takes primary responsibility and is also a controller. Where this is the case, Ford Motor Company will work with us to ensure that your personal information, and your rights in relation to it, are protected. When we use the terms \"we\", \"our\" or \"us\", unless we make clear otherwise, we are referring to and Ford Motor Company.",
+        "extended_context": "Overview Website Privacy Policy Website Cookie Guide Website Cookie Preferences Connected Car Privacy Policy Ford app Privacy Policy & Cookie Guide Website Terms & Conditions Ford app Terms & Conditions External Grievances Online Ordering Ford Connected Wallbox Privacy Through devices like smartphones, tablets, and computers, we connect with the world around using wireless communication technology. Your Ford vehicle lets you do the same! Having a connected vehicle means that, depending on how it is equipped, your Ford can communicate wirelessly with apps on your mobile device and with us, our partners, and our service providers. Your Ford vehicle may be connected through Ford's SYNC, Wi-Fi, AppLink or Modem technologies. Check out the Technology section on Ford.ie to learn about these technologies, and you can find out what connectivity technology can be used, or is installed on your vehicle by consulting your owners' manual. All digital roads are open to you when you purchase a Ford connected vehicle. Henry Ford and Son Limited is responsible for information received from your connected vehicle, and for the purposes of European data protection law, is the controller. Henry Ford and Son Limited is part of the Ford Motor Company Group. For some processing activities described here, our parent company, Ford Motor Company, takes primary responsibility and is also a controller. Where this is the case, Ford Motor Company will work with us to ensure that your personal information, and your rights in relation to it, are protected. When we use the terms \"we\", \"our\" or \"us\", unless we make clear otherwise, we are referring to and Ford Motor Company."
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [
+          {
+            "value": "Data sharing and integration controls",
+            "evidence": "You can set certain preferences for the collection of Connected Vehicle Information through the infotainment system's settings in your vehicle.",
+            "confidence": "extracted",
+            "id": "Ford:S4:choice:1"
+          }
+        ],
+        "request_channel": [
+          {
+            "value": "In-app or device settings",
+            "evidence": "You can set certain preferences for the collection of Connected Vehicle Information through the infotainment system's settings in your vehicle.",
+            "confidence": "extracted",
+            "id": "Ford:S4:channel:1",
+            "linked_ids": [
+              "Ford:S4:choice:1"
+            ],
+            "link": null
+          },
+          {
+            "value": "Request by email",
+            "evidence": "email: crcirela@ford.com",
+            "confidence": "extracted",
+            "id": "Ford:S4:channel:2",
+            "linked_ids": [],
+            "link": {
+              "url": "mailto:crcirela@ford.com",
+              "kind": "email",
+              "visible_text": "crcirela@ford.com"
+            }
+          },
+          {
+            "value": "Phone / toll-free number",
+            "evidence": "phone: 1800 771 199",
+            "confidence": "extracted",
+            "id": "Ford:S4:channel:3",
+            "linked_ids": [],
+            "link": {
+              "url": "tel:1800771199",
+              "kind": "phone",
+              "visible_text": "1800 771 199"
+            }
+          },
+          {
+            "value": "Request by post",
+            "evidence": "mail: Henry Ford & Son Ltd. 5th Floor Penrose One Penrose Dock Cork T23 KW81",
+            "confidence": "extracted",
+            "id": "Ford:S4:channel:4",
+            "linked_ids": [],
+            "link": null
+          }
+        ],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S5",
+        "text": "Activation of the modem in our vehicles provides a multitude of customer benefits, enabling you to take advantage of our full suite of connectivity features. Modem activation becomes even more powerful when you connect your Ford with your phone, connecting your vehicle to eliglble Connected Services including complimentary trial periods. See Ford app Terms for details. Our equipped modem allows communication with the secure Ford cloud through cellular technology, much like a mobile device with a SIM card. Just like other parts of your vehicle, the cellular modem and its SIM are fitted at the factory. Many different technologies work together to provide the convenience and latest-available content that comes with staying connected. Internet service providers or mobile network operators play a huge part in enabling much of the wireless communication we rely on. Our equipped modem is no exception and we work with Vodafone as our network provider for the cellular data network on which Ford app remote features and most Connected Services rely. Once connected, your vehicle will send periodic alerts to us. These alerts contain a unique number which identifies your vehicle's SIM, your vehicle's VIN, and the electronic serial number of its modem. Just like in a mobile cellular device/mobile phone, these alerts enable you to have a fast and seamless experience when you're ready to connect your vehicle using the Ford app. Modem activation allows Connected Vehicle Information (described in more detail below) to be sent to us from your vehicle, and enables Ford Motor Company to conduct over-the-air software updates to the vehicle's software and systems. At the time of purchase of your new connected Ford, your dealer will explain to you how your vehicle gets fully connected and how you can take advantage of all that connectivity has to offer. When you take delivery, the dealer will ensure that your vehicle connectivity settings are customized to your preferences and tell you how to de-activate the connection if you choose. However connected you want to be, your SYNC system keeps you in control. You can set your preferences in vehicle, including in relation to what Connected Vehicle Information is shared with us, under Connectivity settings at any time. You can find out more about in-vehicle controls in your owners' manual. Please note that disconnecting the vehicle, or making changes to data sharing settings may impact the quality or availability of certain Connected Services. Because the vehicle will store your connectivity preferences and any data you import, like your address book, and may have associated Ford accounts, please don't forget to do a Master Reset if you ever sell your car, or buy a used vehicle equipped with a modem! Your owners' manual explains how to do this.",
+        "heading_path": [
+          "GET CONNECTED",
+          "Modem Activation"
+        ],
+        "links": [],
+        "html_ids": [],
+        "previous_segment_id": "S4",
+        "next_segment_id": "S6",
+        "previous_segment_text": "Connected Vehicle Information is associated with your vehicle's unique identification number ('vehicle identification number' or 'VIN'), which can be linked to you as an owner or lessee, and with other vehicle component identifiers. You can find out more here, in-vehicle, in your owners' manual, using the Ford app (where available) or by contacting us using the details below. You can set certain preferences for the collection of Connected Vehicle Information through the infotainment system's settings in your vehicle. You can also call the Ford Customer Relations Center to learn about other options available to you. email: crcirela@ford.com phone: 1800 771 199 mail: Henry Ford & Son Ltd. 5th Floor Penrose One Penrose Dock Cork T23 KW81",
+        "extended_context": "Through devices like smartphones, tablets, and computers, we connect with the world around using wireless communication technology. Your Ford vehicle lets you do the same! Having a connected vehicle means that, depending on how it is equipped, your Ford can communicate wirelessly with apps on your mobile device and with us, our partners, and our service providers. Your Ford vehicle may be connected through Ford's SYNC, Wi-Fi, AppLink or Modem technologies. Check out the Technology section on Ford.ie to learn about these technologies, and you can find out what connectivity technology can be used, or is installed on your vehicle by consulting your owners' manual. All digital roads are open to you when you purchase a Ford connected vehicle. Henry Ford and Son Limited is responsible for information received from your connected vehicle, and for the purposes of European data protection law, is the controller. Henry Ford and Son Limited is part of the Ford Motor Company Group. For some processing activities described here, our parent company, Ford Motor Company, takes primary responsibility and is also a controller. Where this is the case, Ford Motor Company will work with us to ensure that your personal information, and your rights in relation to it, are protected. When we use the terms \"we\", \"our\" or \"us\", unless we make clear otherwise, we are referring to and Ford Motor Company. Connected Vehicle Information is associated with your vehicle's unique identification number ('vehicle identification number' or 'VIN'), which can be linked to you as an owner or lessee, and with other vehicle component identifiers. You can find out more here, in-vehicle, in your owners' manual, using the Ford app (where available) or by contacting us using the details below. You can set certain preferences for the collection of Connected Vehicle Information through the infotainment system's settings in your vehicle. You can also call the Ford Customer Relations Center to learn about other options available to you. email: crcirela@ford.com phone: 1800 771 199 mail: Henry Ford & Son Ltd. 5th Floor Penrose One Penrose Dock Cork T23 KW81"
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [
+          {
+            "value": "Data sharing and integration controls",
+            "evidence": "You can set your preferences in vehicle, including in relation to what Connected Vehicle Information is shared with us, under Connectivity settings at any time.",
+            "confidence": "extracted",
+            "id": "Ford:S5:choice:1"
+          },
+          {
+            "value": "Delete personal data or account",
+            "evidence": "please don't forget to do a Master Reset if you ever sell your car, or buy a used vehicle equipped with a modem",
+            "confidence": "extracted",
+            "id": "Ford:S5:choice:2"
+          }
+        ],
+        "request_channel": [
+          {
+            "value": "In-app or device settings",
+            "evidence": "You can set your preferences in vehicle, including in relation to what Connected Vehicle Information is shared with us, under Connectivity settings at any time.",
+            "confidence": "extracted",
+            "id": "Ford:S5:channel:1",
+            "linked_ids": [
+              "Ford:S5:choice:1"
+            ],
+            "link": null
+          }
+        ],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S6",
+        "text": "Certain vehicles equipped with a modem can sign-up with Vodafone for a Wi-Fi Hotspot service in the vehicle. To enable the activation of your Wi-Fi Hotspot, certain information, including your vehicle's VIN and the identifier for its SIM is provided to Vodafone. You can find out how they use your personal information in their privacy policy, which will be available when you create your account for the Wi-Fi Hotspot. Although Vodafone will provide the Wi-Fi Hotspot and manage your subscription, they will inform us when certain data use thresholds are met. If you have paired your Ford with your phone in the Ford app, you can view data plan usage amounts within the Ford app and in your vehicle. For more information about Wi-Fi Hotspot, please see the Vodafone website: https://internetinthecar.vodafone.com",
+        "heading_path": [
+          "GET CONNECTED",
+          "Wi-Fi Hotspot"
+        ],
+        "links": [
+          {
+            "text": "https://internetinthecar.vodafone.com",
+            "href": "https://internetinthecar.vodafone.com/",
+            "kind": "external"
+          }
+        ],
+        "html_ids": [],
+        "previous_segment_id": "S5",
+        "next_segment_id": "S7",
+        "previous_segment_text": "Activation of the modem in our vehicles provides a multitude of customer benefits, enabling you to take advantage of our full suite of connectivity features. Modem activation becomes even more powerful when you connect your Ford with your phone, connecting your vehicle to eliglble Connected Services including complimentary trial periods. See Ford app Terms for details. Our equipped modem allows communication with the secure Ford cloud through cellular technology, much like a mobile device with a SIM card. Just like other parts of your vehicle, the cellular modem and its SIM are fitted at the factory. Many different technologies work together to provide the convenience and latest-available content that comes with staying connected. Internet service providers or mobile network operators play a huge part in enabling much of the wireless communication we rely on. Our equipped modem is no exception and we work with Vodafone as our network provider for the cellular data network on which Ford app remote features and most Connected Services rely. Once connected, your vehicle will send periodic alerts to us. These alerts contain a unique number which identifies your vehicle's SIM, your vehicle's VIN, and the electronic serial number of its modem. Just like in a mobile cellular device/mobile phone, these alerts enable you to have a fast and seamless experience when you're ready to connect your vehicle using the Ford app. Modem activation allows Connected Vehicle Information (described in more detail below) to be sent to us from your vehicle, and enables Ford Motor Company to conduct over-the-air software updates to the vehicle's software and systems. At the time of purchase of your new connected Ford, your dealer will explain to you how your vehicle gets fully connected and how you can take advantage of all that connectivity has to offer. When you take delivery, the dealer will ensure that your vehicle connectivity settings are customized to your preferences and tell you how to de-activate the connection if you choose. However connected you want to be, your SYNC system keeps you in control. You can set your preferences in vehicle, including in relation to what Connected Vehicle Information is shared with us, under Connectivity settings at any time. You can find out more about in-vehicle controls in your owners' manual. Please note that disconnecting the vehicle, or making changes to data sharing settings may impact the quality or availability of certain Connected Services. Because the vehicle will store your connectivity preferences and any data you import, like your address book, and may have associated Ford accounts, please don't forget to do a Master Reset if you ever sell your car, or buy a used vehicle equipped with a modem! Your owners' manual explains how to do this.",
+        "extended_context": "Henry Ford and Son Limited is responsible for information received from your connected vehicle, and for the purposes of European data protection law, is the controller. Henry Ford and Son Limited is part of the Ford Motor Company Group. For some processing activities described here, our parent company, Ford Motor Company, takes primary responsibility and is also a controller. Where this is the case, Ford Motor Company will work with us to ensure that your personal information, and your rights in relation to it, are protected. When we use the terms \"we\", \"our\" or \"us\", unless we make clear otherwise, we are referring to and Ford Motor Company. Connected Vehicle Information is associated with your vehicle's unique identification number ('vehicle identification number' or 'VIN'), which can be linked to you as an owner or lessee, and with other vehicle component identifiers. You can find out more here, in-vehicle, in your owners' manual, using the Ford app (where available) or by contacting us using the details below. You can set certain preferences for the collection of Connected Vehicle Information through the infotainment system's settings in your vehicle. You can also call the Ford Customer Relations Center to learn about other options available to you. email: crcirela@ford.com phone: 1800 771 199 mail: Henry Ford & Son Ltd. 5th Floor Penrose One Penrose Dock Cork T23 KW81 Activation of the modem in our vehicles provides a multitude of customer benefits, enabling you to take advantage of our full suite of connectivity features. Modem activation becomes even more powerful when you connect your Ford with your phone, connecting your vehicle to eliglble Connected Services including complimentary trial periods. See Ford app Terms for details. Our equipped modem allows communication with the secure Ford cloud through cellular technology, much like a mobile device with a SIM card. Just like other parts of your vehicle, the cellular modem and its SIM are fitted at the factory. Many different technologies work together to provide the convenience and latest-available content that comes with staying connected. Internet service providers or mobile network operators play a huge part in enabling much of the wireless communication we rely on. Our equipped modem is no exception and we work with Vodafone as our network provider for the cellular data network on which Ford app remote features and most Connected Services rely. Once connected, your vehicle will send periodic alerts to us. These alerts contain a unique number which identifies your vehicle's SIM, your vehicle's VIN, and the electronic serial number of its modem. Just like in a mobile cellular device/mobile phone, these alerts enable you to have a fast and seamless experience when you're ready to connect your vehicle using the Ford app. Modem activation allows Connected Vehicle Information (described in more detail below) to be sent to us from your vehicle, and enables Ford Motor Company to conduct over-the-air software updates to the vehicle's software and systems. At the time of purchase of your new connected Ford, your dealer will explain to you how your vehicle gets fully connected and how you can take advantage of all that connectivity has to offer. When you take delivery, the dealer will ensure that your vehicle connectivity settings are customized to your preferences and tell you how to de-activate the connection if you choose. However connected you want to be, your SYNC system keeps you in control. You can set your preferences in vehicle, including in relation to what Connected Vehicle Information is shared with us, under Connectivity settings at any time. You can find out more about in-vehicle controls in your owners' manual. Please note that disconnecting the vehicle, or making changes to data sharing settings may impact the quality or availability of certain Connected Services. Because the vehicle will store your connectivity preferences and any data you import, like your address book, and may have associated Ford accounts, please don't forget to do a Master Reset if you ever sell your car, or buy a used vehicle equipped with a modem! Your owners' manual explains how to do this."
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": [
+          {
+            "attribute": "reference",
+            "evidence": "please see the Vodafone website: https://internetinthecar.vodafone.com",
+            "target_text": "Vodafone website",
+            "reason": "not_an_unresolved_reference"
+          }
+        ]
+      }
+    },
+    {
+      "segment": {
+        "id": "S7",
+        "text": "We're committed to enhancing and improving the SYNC driving experience. To make it even better, we will periodically release software updates so you have the latest version of SYNC & Maps to keep you up-to-date and in-the-know. If your vehicle is not equipped with FordPass Connect, connecting to your home Wi-Fi or another Wi-Fi network will enable you to get updates to SYNC. Alternatively, your Dealer can also arrange for a SYNC software update *.* Please use trusted networks and, because SYNC will remember the networks you connect to, don't forget to do a Master Reset if you ever sell your car!",
+        "heading_path": [
+          "GET CONNECTED",
+          "SYNC WI-FI"
+        ],
+        "links": [],
+        "html_ids": [],
+        "previous_segment_id": "S6",
+        "next_segment_id": "S8",
+        "previous_segment_text": "Certain vehicles equipped with a modem can sign-up with Vodafone for a Wi-Fi Hotspot service in the vehicle. To enable the activation of your Wi-Fi Hotspot, certain information, including your vehicle's VIN and the identifier for its SIM is provided to Vodafone. You can find out how they use your personal information in their privacy policy, which will be available when you create your account for the Wi-Fi Hotspot. Although Vodafone will provide the Wi-Fi Hotspot and manage your subscription, they will inform us when certain data use thresholds are met. If you have paired your Ford with your phone in the Ford app, you can view data plan usage amounts within the Ford app and in your vehicle. For more information about Wi-Fi Hotspot, please see the Vodafone website: https://internetinthecar.vodafone.com",
+        "extended_context": "Connected Vehicle Information is associated with your vehicle's unique identification number ('vehicle identification number' or 'VIN'), which can be linked to you as an owner or lessee, and with other vehicle component identifiers. You can find out more here, in-vehicle, in your owners' manual, using the Ford app (where available) or by contacting us using the details below. You can set certain preferences for the collection of Connected Vehicle Information through the infotainment system's settings in your vehicle. You can also call the Ford Customer Relations Center to learn about other options available to you. email: crcirela@ford.com phone: 1800 771 199 mail: Henry Ford & Son Ltd. 5th Floor Penrose One Penrose Dock Cork T23 KW81 Activation of the modem in our vehicles provides a multitude of customer benefits, enabling you to take advantage of our full suite of connectivity features. Modem activation becomes even more powerful when you connect your Ford with your phone, connecting your vehicle to eliglble Connected Services including complimentary trial periods. See Ford app Terms for details. Our equipped modem allows communication with the secure Ford cloud through cellular technology, much like a mobile device with a SIM card. Just like other parts of your vehicle, the cellular modem and its SIM are fitted at the factory. Many different technologies work together to provide the convenience and latest-available content that comes with staying connected. Internet service providers or mobile network operators play a huge part in enabling much of the wireless communication we rely on. Our equipped modem is no exception and we work with Vodafone as our network provider for the cellular data network on which Ford app remote features and most Connected Services rely. Once connected, your vehicle will send periodic alerts to us. These alerts contain a unique number which identifies your vehicle's SIM, your vehicle's VIN, and the electronic serial number of its modem. Just like in a mobile cellular device/mobile phone, these alerts enable you to have a fast and seamless experience when you're ready to connect your vehicle using the Ford app. Modem activation allows Connected Vehicle Information (described in more detail below) to be sent to us from your vehicle, and enables Ford Motor Company to conduct over-the-air software updates to the vehicle's software and systems. At the time of purchase of your new connected Ford, your dealer will explain to you how your vehicle gets fully connected and how you can take advantage of all that connectivity has to offer. When you take delivery, the dealer will ensure that your vehicle connectivity settings are customized to your preferences and tell you how to de-activate the connection if you choose. However connected you want to be, your SYNC system keeps you in control. You can set your preferences in vehicle, including in relation to what Connected Vehicle Information is shared with us, under Connectivity settings at any time. You can find out more about in-vehicle controls in your owners' manual. Please note that disconnecting the vehicle, or making changes to data sharing settings may impact the quality or availability of certain Connected Services. Because the vehicle will store your connectivity preferences and any data you import, like your address book, and may have associated Ford accounts, please don't forget to do a Master Reset if you ever sell your car, or buy a used vehicle equipped with a modem! Your owners' manual explains how to do this. Certain vehicles equipped with a modem can sign-up with Vodafone for a Wi-Fi Hotspot service in the vehicle. To enable the activation of your Wi-Fi Hotspot, certain information, including your vehicle's VIN and the identifier for its SIM is provided to Vodafone. You can find out how they use your personal information in their privacy policy, which will be available when you create your account for the Wi-Fi Hotspot. Although Vodafone will provide the Wi-Fi Hotspot and manage your subscription, they will inform us when certain data use thresholds are met. If you have paired your Ford with your phone in the Ford app, you can view data plan usage amounts within the Ford app and in your vehicle. For more information about Wi-Fi Hotspot, please see the Vodafone website: https://internetinthecar.vodafone.com"
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S8",
+        "text": "Even if your vehicle is not equipped with FordPass Connect, you can connect your favorite mobile apps with SYNC to use in a safe and convenient way while driving. Your mobile device provides the data connection (so data charges will apply) and SYNC keeps you in control with infotainment integration, including voice controls. SYNC will remember your mobile device so don't forget to do a Master Reset if you ever sell your car, or if you buy a used Ford vehicle. If you change your mind about sharing vehicle data with a mobile app or want to stop using it with SYNC, you can always change your preferences in SYNC's Mobile App settings in your vehicle.",
+        "heading_path": [
+          "GET CONNECTED",
+          "AppLink"
+        ],
+        "links": [],
+        "html_ids": [],
+        "previous_segment_id": "S7",
+        "next_segment_id": "S9",
+        "previous_segment_text": "We're committed to enhancing and improving the SYNC driving experience. To make it even better, we will periodically release software updates so you have the latest version of SYNC & Maps to keep you up-to-date and in-the-know. If your vehicle is not equipped with FordPass Connect, connecting to your home Wi-Fi or another Wi-Fi network will enable you to get updates to SYNC. Alternatively, your Dealer can also arrange for a SYNC software update *.* Please use trusted networks and, because SYNC will remember the networks you connect to, don't forget to do a Master Reset if you ever sell your car!",
+        "extended_context": "Activation of the modem in our vehicles provides a multitude of customer benefits, enabling you to take advantage of our full suite of connectivity features. Modem activation becomes even more powerful when you connect your Ford with your phone, connecting your vehicle to eliglble Connected Services including complimentary trial periods. See Ford app Terms for details. Our equipped modem allows communication with the secure Ford cloud through cellular technology, much like a mobile device with a SIM card. Just like other parts of your vehicle, the cellular modem and its SIM are fitted at the factory. Many different technologies work together to provide the convenience and latest-available content that comes with staying connected. Internet service providers or mobile network operators play a huge part in enabling much of the wireless communication we rely on. Our equipped modem is no exception and we work with Vodafone as our network provider for the cellular data network on which Ford app remote features and most Connected Services rely. Once connected, your vehicle will send periodic alerts to us. These alerts contain a unique number which identifies your vehicle's SIM, your vehicle's VIN, and the electronic serial number of its modem. Just like in a mobile cellular device/mobile phone, these alerts enable you to have a fast and seamless experience when you're ready to connect your vehicle using the Ford app. Modem activation allows Connected Vehicle Information (described in more detail below) to be sent to us from your vehicle, and enables Ford Motor Company to conduct over-the-air software updates to the vehicle's software and systems. At the time of purchase of your new connected Ford, your dealer will explain to you how your vehicle gets fully connected and how you can take advantage of all that connectivity has to offer. When you take delivery, the dealer will ensure that your vehicle connectivity settings are customized to your preferences and tell you how to de-activate the connection if you choose. However connected you want to be, your SYNC system keeps you in control. You can set your preferences in vehicle, including in relation to what Connected Vehicle Information is shared with us, under Connectivity settings at any time. You can find out more about in-vehicle controls in your owners' manual. Please note that disconnecting the vehicle, or making changes to data sharing settings may impact the quality or availability of certain Connected Services. Because the vehicle will store your connectivity preferences and any data you import, like your address book, and may have associated Ford accounts, please don't forget to do a Master Reset if you ever sell your car, or buy a used vehicle equipped with a modem! Your owners' manual explains how to do this. Certain vehicles equipped with a modem can sign-up with Vodafone for a Wi-Fi Hotspot service in the vehicle. To enable the activation of your Wi-Fi Hotspot, certain information, including your vehicle's VIN and the identifier for its SIM is provided to Vodafone. You can find out how they use your personal information in their privacy policy, which will be available when you create your account for the Wi-Fi Hotspot. Although Vodafone will provide the Wi-Fi Hotspot and manage your subscription, they will inform us when certain data use thresholds are met. If you have paired your Ford with your phone in the Ford app, you can view data plan usage amounts within the Ford app and in your vehicle. For more information about Wi-Fi Hotspot, please see the Vodafone website: https://internetinthecar.vodafone.com We're committed to enhancing and improving the SYNC driving experience. To make it even better, we will periodically release software updates so you have the latest version of SYNC & Maps to keep you up-to-date and in-the-know. If your vehicle is not equipped with FordPass Connect, connecting to your home Wi-Fi or another Wi-Fi network will enable you to get updates to SYNC. Alternatively, your Dealer can also arrange for a SYNC software update *.* Please use trusted networks and, because SYNC will remember the networks you connect to, don't forget to do a Master Reset if you ever sell your car!"
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [
+          {
+            "value": "Data sharing and integration controls",
+            "evidence": "If you change your mind about sharing vehicle data with a mobile app or want to stop using it with SYNC, you can always change your preferences in SYNC's Mobile App settings in your vehicle.",
+            "confidence": "extracted",
+            "id": "Ford:S8:choice:1"
+          }
+        ],
+        "request_channel": [
+          {
+            "value": "In-app or device settings",
+            "evidence": "you can always change your preferences in SYNC's Mobile App settings in your vehicle.",
+            "confidence": "extracted",
+            "id": "Ford:S8:channel:1",
+            "linked_ids": [
+              "Ford:S8:choice:1"
+            ],
+            "link": null
+          }
+        ],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S9",
+        "text": "There are some things you can look for in your car if you're wondering about its connectivity settings. You can check the status bar on the screen your in-vehicle infotainment system for alerts and notifications, including strength of nearby Wi-Fi networks or the strength of the connection coming from your mobile device. In certain vehicles you will see icons displayed which indicate that Connected Vehicle Information, which may include location, is being transmitted by the vehicle. For example, if your vehicle is fitted with FordPass Connect and a SYNC system with in-vehicle SYNC screen: alt Shows that the modem is activated and that Connected Vehicle Information excluding location is being transmitted. alt Shows that the vehicle's location is being transmitted. alt Shows the modem is activated, and that both Connected Vehicle Information and the vehicle's location are being transmitted. Not every situation is the same, so be sure to know how your vehicle is equipped. You can find out what connectivity equipment is installed in your vehicle, and how to tell what data is being transmitted from your vehicle, in your owners' manual or ask your dealer. You can also find out how to disconnect your vehicle in your owners' manual. Please note that disconnecting the vehicle, or changing data sharing settings, may impact the quality or availability of certain services.",
+        "heading_path": [
+          "GET CONNECTED",
+          "How do you know if you're connected?"
+        ],
+        "links": [],
+        "html_ids": [],
+        "previous_segment_id": "S8",
+        "next_segment_id": "S10",
+        "previous_segment_text": "Even if your vehicle is not equipped with FordPass Connect, you can connect your favorite mobile apps with SYNC to use in a safe and convenient way while driving. Your mobile device provides the data connection (so data charges will apply) and SYNC keeps you in control with infotainment integration, including voice controls. SYNC will remember your mobile device so don't forget to do a Master Reset if you ever sell your car, or if you buy a used Ford vehicle. If you change your mind about sharing vehicle data with a mobile app or want to stop using it with SYNC, you can always change your preferences in SYNC's Mobile App settings in your vehicle.",
+        "extended_context": "Certain vehicles equipped with a modem can sign-up with Vodafone for a Wi-Fi Hotspot service in the vehicle. To enable the activation of your Wi-Fi Hotspot, certain information, including your vehicle's VIN and the identifier for its SIM is provided to Vodafone. You can find out how they use your personal information in their privacy policy, which will be available when you create your account for the Wi-Fi Hotspot. Although Vodafone will provide the Wi-Fi Hotspot and manage your subscription, they will inform us when certain data use thresholds are met. If you have paired your Ford with your phone in the Ford app, you can view data plan usage amounts within the Ford app and in your vehicle. For more information about Wi-Fi Hotspot, please see the Vodafone website: https://internetinthecar.vodafone.com We're committed to enhancing and improving the SYNC driving experience. To make it even better, we will periodically release software updates so you have the latest version of SYNC & Maps to keep you up-to-date and in-the-know. If your vehicle is not equipped with FordPass Connect, connecting to your home Wi-Fi or another Wi-Fi network will enable you to get updates to SYNC. Alternatively, your Dealer can also arrange for a SYNC software update *.* Please use trusted networks and, because SYNC will remember the networks you connect to, don't forget to do a Master Reset if you ever sell your car! Even if your vehicle is not equipped with FordPass Connect, you can connect your favorite mobile apps with SYNC to use in a safe and convenient way while driving. Your mobile device provides the data connection (so data charges will apply) and SYNC keeps you in control with infotainment integration, including voice controls. SYNC will remember your mobile device so don't forget to do a Master Reset if you ever sell your car, or if you buy a used Ford vehicle. If you change your mind about sharing vehicle data with a mobile app or want to stop using it with SYNC, you can always change your preferences in SYNC's Mobile App settings in your vehicle."
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [
+          {
+            "value": "Data sharing and integration controls",
+            "evidence": "You can also find out how to disconnect your vehicle in your owners' manual.",
+            "confidence": "extracted",
+            "id": "Ford:S9:choice:1"
+          }
+        ],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S10",
+        "text": "If you share your vehicle with others, please tell them about your connectivity settings. For example, let them know where they can find the information needed to connect to the vehicle's Wi-Fi Hotspot and where they can turn off location and other data sharing. Multiple accounts can be created on the Ford app, and more than one account can be connected to a single vehicle. If you are driving a vehicle with more than one account connected to it, the user(s) of each account will have access to: the vehicle's location; services which allow the vehicle to be remotely started (in some countries), locked and unlocked; and services which show information about the vehicle's status (for example, its fuel level). Similarly, if you are driving a vehicle with the Ford app connected to it, the user(s) of the app will have access to the information and services outlined above. If you chose to connect an account on the Ford app to a vehicle which has already been connected to another account, your name and the fact that you have requested this connection will be shared, via the Ford app, with user(s) who connected to the vehicle before you. This user or users will be given the opportunity to allow or refuse your connection to the vehicle. You can find out more about this, and how to stop data being shared between the vehicle and the Ford app, here Some vehicles have pop-up notifications in-vehicle to alert drivers of data sharing settings. Drivers with an unrecognized mobile device may see a pop-up displayed in-vehicle alerting them to the current vehicle data or location sharing settings. A mobile device is \"recognized\" if it has been paired with an infotainment system, like SYNC. This way if someone is new to your vehicle, or not driving it enough to pair their mobile device, the system will notify them of its current data sharing settings. So don't forget, when putting back your seat position or adjusting your mirrors, you might also need to reset your data settings. Please note that disconnecting the vehicle, or changing data sharing settings, may impact the quality or availability of certain services.",
+        "heading_path": [
+          "GET CONNECTED",
+          "Sharing is caring! Sharing your vehicle, or driving a shared vehicle"
+        ],
+        "links": [
+          {
+            "text": "here",
+            "href": "https://www.fordpass.com/content/ford_com/fp_app/ga_ie/privacy.html",
+            "kind": "external"
+          }
+        ],
+        "html_ids": [],
+        "previous_segment_id": "S9",
+        "next_segment_id": "S11",
+        "previous_segment_text": "There are some things you can look for in your car if you're wondering about its connectivity settings. You can check the status bar on the screen your in-vehicle infotainment system for alerts and notifications, including strength of nearby Wi-Fi networks or the strength of the connection coming from your mobile device. In certain vehicles you will see icons displayed which indicate that Connected Vehicle Information, which may include location, is being transmitted by the vehicle. For example, if your vehicle is fitted with FordPass Connect and a SYNC system with in-vehicle SYNC screen: alt Shows that the modem is activated and that Connected Vehicle Information excluding location is being transmitted. alt Shows that the vehicle's location is being transmitted. alt Shows the modem is activated, and that both Connected Vehicle Information and the vehicle's location are being transmitted. Not every situation is the same, so be sure to know how your vehicle is equipped. You can find out what connectivity equipment is installed in your vehicle, and how to tell what data is being transmitted from your vehicle, in your owners' manual or ask your dealer. You can also find out how to disconnect your vehicle in your owners' manual. Please note that disconnecting the vehicle, or changing data sharing settings, may impact the quality or availability of certain services.",
+        "extended_context": "We're committed to enhancing and improving the SYNC driving experience. To make it even better, we will periodically release software updates so you have the latest version of SYNC & Maps to keep you up-to-date and in-the-know. If your vehicle is not equipped with FordPass Connect, connecting to your home Wi-Fi or another Wi-Fi network will enable you to get updates to SYNC. Alternatively, your Dealer can also arrange for a SYNC software update *.* Please use trusted networks and, because SYNC will remember the networks you connect to, don't forget to do a Master Reset if you ever sell your car! Even if your vehicle is not equipped with FordPass Connect, you can connect your favorite mobile apps with SYNC to use in a safe and convenient way while driving. Your mobile device provides the data connection (so data charges will apply) and SYNC keeps you in control with infotainment integration, including voice controls. SYNC will remember your mobile device so don't forget to do a Master Reset if you ever sell your car, or if you buy a used Ford vehicle. If you change your mind about sharing vehicle data with a mobile app or want to stop using it with SYNC, you can always change your preferences in SYNC's Mobile App settings in your vehicle. There are some things you can look for in your car if you're wondering about its connectivity settings. You can check the status bar on the screen your in-vehicle infotainment system for alerts and notifications, including strength of nearby Wi-Fi networks or the strength of the connection coming from your mobile device. In certain vehicles you will see icons displayed which indicate that Connected Vehicle Information, which may include location, is being transmitted by the vehicle. For example, if your vehicle is fitted with FordPass Connect and a SYNC system with in-vehicle SYNC screen: alt Shows that the modem is activated and that Connected Vehicle Information excluding location is being transmitted. alt Shows that the vehicle's location is being transmitted. alt Shows the modem is activated, and that both Connected Vehicle Information and the vehicle's location are being transmitted. Not every situation is the same, so be sure to know how your vehicle is equipped. You can find out what connectivity equipment is installed in your vehicle, and how to tell what data is being transmitted from your vehicle, in your owners' manual or ask your dealer. You can also find out how to disconnect your vehicle in your owners' manual. Please note that disconnecting the vehicle, or changing data sharing settings, may impact the quality or availability of certain services."
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [
+          {
+            "value": "Data sharing and integration controls",
+            "evidence": "where they can turn off location and other data sharing",
+            "confidence": "extracted",
+            "id": "Ford:S10:choice:1"
+          },
+          {
+            "value": "Data sharing and integration controls",
+            "evidence": "how to stop data being shared between the vehicle and the Ford app",
+            "confidence": "extracted",
+            "id": "Ford:S10:choice:2"
+          }
+        ],
+        "request_channel": [
+          {
+            "value": "Web page or online form",
+            "evidence": "You can find out more about this, and how to stop data being shared between the vehicle and the Ford app, here",
+            "confidence": "extracted",
+            "id": "Ford:S10:channel:1",
+            "linked_ids": [
+              "Ford:S10:choice:2"
+            ],
+            "link": {
+              "url": "https://www.fordpass.com/content/ford_com/fp_app/ga_ie/privacy.html",
+              "kind": "external",
+              "visible_text": "here"
+            }
+          }
+        ],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S11",
+        "text": "We commit to managing your personal information, including your Connected Vehicle Information fairly and in accordance with our privacy policies and the law. You can find out about [LEGAL ENTITY's] privacy practices more generally here. You can also find out more about what information your vehicle collects and uses by consulting the owners' manual or Ford app (where available). We will only process your personal information, including Connected Vehicle information, where we have legal grounds under European data protection law to do so, such as: With your consent. In some cases, our use of your personal information will need your consent. Where we rely on consent to use your personal information, you have the right to withdraw that consent at any time. To enter into or perform our contract with you. These contracts could include the terms under which Ford provides the Ford app, for example. Where we believe the use of your personal information is necessary to comply with our legal obligations Where our use of your personal information is within our legitimate interests or the legitimate interests of the organisation with which we have shared your personal information and we have made sure that your personal information, and your rights in relation to that information, are protected. We rely on this ground, for example, to: personalize your experience and the marketing you receive; to predict which Ford products or services could be of interest to you; manage and improve our business and our relationship with you; assess the quality of the services we and dealers provide, and the services our suppliers provide to us or on our behalf; provide over-the-air updates to vehicle systems and for troubleshooting purposes; in some instances to carry out remote diagnostics activities; develop new and improved products, services, and business and marketing strategies; conduct research; protect or defend our or another's rights or property, or to detect, prevent, or otherwise address fraud, security, safety, or privacy issues. In certain circumstances, we may need to use your personal information where we believe it necessary to comply with a legal obligation, to protect someone's safety or vital interests, or for purposes which are in the public interest.",
+        "heading_path": [
+          "GET CONNECTED",
+          "Our Commitment to You"
+        ],
+        "links": [
+          {
+            "text": "here",
+            "href": "https://www.ford.ie/useful-information/terms-and-privacy-policy-hub/privacy-policy",
+            "kind": "external"
+          }
+        ],
+        "html_ids": [],
+        "previous_segment_id": "S10",
+        "next_segment_id": "S12",
+        "previous_segment_text": "If you share your vehicle with others, please tell them about your connectivity settings. For example, let them know where they can find the information needed to connect to the vehicle's Wi-Fi Hotspot and where they can turn off location and other data sharing. Multiple accounts can be created on the Ford app, and more than one account can be connected to a single vehicle. If you are driving a vehicle with more than one account connected to it, the user(s) of each account will have access to: the vehicle's location; services which allow the vehicle to be remotely started (in some countries), locked and unlocked; and services which show information about the vehicle's status (for example, its fuel level). Similarly, if you are driving a vehicle with the Ford app connected to it, the user(s) of the app will have access to the information and services outlined above. If you chose to connect an account on the Ford app to a vehicle which has already been connected to another account, your name and the fact that you have requested this connection will be shared, via the Ford app, with user(s) who connected to the vehicle before you. This user or users will be given the opportunity to allow or refuse your connection to the vehicle. You can find out more about this, and how to stop data being shared between the vehicle and the Ford app, here Some vehicles have pop-up notifications in-vehicle to alert drivers of data sharing settings. Drivers with an unrecognized mobile device may see a pop-up displayed in-vehicle alerting them to the current vehicle data or location sharing settings. A mobile device is \"recognized\" if it has been paired with an infotainment system, like SYNC. This way if someone is new to your vehicle, or not driving it enough to pair their mobile device, the system will notify them of its current data sharing settings. So don't forget, when putting back your seat position or adjusting your mirrors, you might also need to reset your data settings. Please note that disconnecting the vehicle, or changing data sharing settings, may impact the quality or availability of certain services.",
+        "extended_context": "Even if your vehicle is not equipped with FordPass Connect, you can connect your favorite mobile apps with SYNC to use in a safe and convenient way while driving. Your mobile device provides the data connection (so data charges will apply) and SYNC keeps you in control with infotainment integration, including voice controls. SYNC will remember your mobile device so don't forget to do a Master Reset if you ever sell your car, or if you buy a used Ford vehicle. If you change your mind about sharing vehicle data with a mobile app or want to stop using it with SYNC, you can always change your preferences in SYNC's Mobile App settings in your vehicle. There are some things you can look for in your car if you're wondering about its connectivity settings. You can check the status bar on the screen your in-vehicle infotainment system for alerts and notifications, including strength of nearby Wi-Fi networks or the strength of the connection coming from your mobile device. In certain vehicles you will see icons displayed which indicate that Connected Vehicle Information, which may include location, is being transmitted by the vehicle. For example, if your vehicle is fitted with FordPass Connect and a SYNC system with in-vehicle SYNC screen: alt Shows that the modem is activated and that Connected Vehicle Information excluding location is being transmitted. alt Shows that the vehicle's location is being transmitted. alt Shows the modem is activated, and that both Connected Vehicle Information and the vehicle's location are being transmitted. Not every situation is the same, so be sure to know how your vehicle is equipped. You can find out what connectivity equipment is installed in your vehicle, and how to tell what data is being transmitted from your vehicle, in your owners' manual or ask your dealer. You can also find out how to disconnect your vehicle in your owners' manual. Please note that disconnecting the vehicle, or changing data sharing settings, may impact the quality or availability of certain services. If you share your vehicle with others, please tell them about your connectivity settings. For example, let them know where they can find the information needed to connect to the vehicle's Wi-Fi Hotspot and where they can turn off location and other data sharing. Multiple accounts can be created on the Ford app, and more than one account can be connected to a single vehicle. If you are driving a vehicle with more than one account connected to it, the user(s) of each account will have access to: the vehicle's location; services which allow the vehicle to be remotely started (in some countries), locked and unlocked; and services which show information about the vehicle's status (for example, its fuel level). Similarly, if you are driving a vehicle with the Ford app connected to it, the user(s) of the app will have access to the information and services outlined above. If you chose to connect an account on the Ford app to a vehicle which has already been connected to another account, your name and the fact that you have requested this connection will be shared, via the Ford app, with user(s) who connected to the vehicle before you. This user or users will be given the opportunity to allow or refuse your connection to the vehicle. You can find out more about this, and how to stop data being shared between the vehicle and the Ford app, here Some vehicles have pop-up notifications in-vehicle to alert drivers of data sharing settings. Drivers with an unrecognized mobile device may see a pop-up displayed in-vehicle alerting them to the current vehicle data or location sharing settings. A mobile device is \"recognized\" if it has been paired with an infotainment system, like SYNC. This way if someone is new to your vehicle, or not driving it enough to pair their mobile device, the system will notify them of its current data sharing settings. So don't forget, when putting back your seat position or adjusting your mirrors, you might also need to reset your data settings. Please note that disconnecting the vehicle, or changing data sharing settings, may impact the quality or availability of certain services."
+      },
+      "result": {
+        "right_type": [
+          {
+            "value": "Right to object",
+            "evidence": "you have the right to withdraw that consent at any time",
+            "confidence": "extracted",
+            "id": "Ford:S11:right:1"
+          }
+        ],
+        "choice_type": [
+          {
+            "value": "Change or withdraw consent",
+            "evidence": "you have the right to withdraw that consent at any time",
+            "confidence": "extracted",
+            "id": "Ford:S11:choice:1"
+          }
+        ],
+        "request_channel": [
+          {
+            "value": "Web page or online form",
+            "evidence": "You can find out about [LEGAL ENTITY's] privacy practices more generally here.",
+            "confidence": "extracted",
+            "id": "Ford:S11:channel:1",
+            "linked_ids": [],
+            "link": {
+              "url": "https://www.ford.ie/useful-information/terms-and-privacy-policy-hub/privacy-policy",
+              "kind": "external",
+              "visible_text": "here"
+            }
+          },
+          {
+            "value": "Web page or online form",
+            "evidence": "You can also find out more about what information your vehicle collects and uses by consulting the owners' manual or Ford app (where available).",
+            "confidence": "extracted",
+            "id": "Ford:S11:channel:2",
+            "linked_ids": [],
+            "link": {
+              "url": "https://www.ford.ie/useful-information/terms-and-privacy-policy-hub/privacy-policy",
+              "kind": "external",
+              "visible_text": "here"
+            }
+          }
+        ],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S12",
+        "text": "Connected Vehicle Information is information about the performance of your vehicle, its components and parts and their status, and how your vehicle is used, including how it is driven, its location and the environment it is driven in (for example, information about the temperature outside the vehicle). It is typically associated with your vehicle's VIN, which can be linked to you as an owner or lessee. Here are types of Connected Vehicle Information we collect and the purposes for which, where we have a legal ground to do so, they will be used. Based on the level of connectivity you choose for your vehicle and, in some cases, your choices in relation to your Connected Vehicle Information, not all categories of Connected Vehicle Information may be collected or used for the purposes described. Ford may anonymize data and use it for any purpose. We process Connected Vehicle Information using state-of-the art data analytics to ensure the quality of services and derive actionable insights regarding the purposes described below.",
+        "heading_path": [
+          "GET CONNECTED",
+          "Connected Vehicle Information"
+        ],
+        "links": [],
+        "html_ids": [],
+        "previous_segment_id": "S11",
+        "next_segment_id": "S13",
+        "previous_segment_text": "We commit to managing your personal information, including your Connected Vehicle Information fairly and in accordance with our privacy policies and the law. You can find out about [LEGAL ENTITY's] privacy practices more generally here. You can also find out more about what information your vehicle collects and uses by consulting the owners' manual or Ford app (where available). We will only process your personal information, including Connected Vehicle information, where we have legal grounds under European data protection law to do so, such as: With your consent. In some cases, our use of your personal information will need your consent. Where we rely on consent to use your personal information, you have the right to withdraw that consent at any time. To enter into or perform our contract with you. These contracts could include the terms under which Ford provides the Ford app, for example. Where we believe the use of your personal information is necessary to comply with our legal obligations Where our use of your personal information is within our legitimate interests or the legitimate interests of the organisation with which we have shared your personal information and we have made sure that your personal information, and your rights in relation to that information, are protected. We rely on this ground, for example, to: personalize your experience and the marketing you receive; to predict which Ford products or services could be of interest to you; manage and improve our business and our relationship with you; assess the quality of the services we and dealers provide, and the services our suppliers provide to us or on our behalf; provide over-the-air updates to vehicle systems and for troubleshooting purposes; in some instances to carry out remote diagnostics activities; develop new and improved products, services, and business and marketing strategies; conduct research; protect or defend our or another's rights or property, or to detect, prevent, or otherwise address fraud, security, safety, or privacy issues. In certain circumstances, we may need to use your personal information where we believe it necessary to comply with a legal obligation, to protect someone's safety or vital interests, or for purposes which are in the public interest.",
+        "extended_context": "There are some things you can look for in your car if you're wondering about its connectivity settings. You can check the status bar on the screen your in-vehicle infotainment system for alerts and notifications, including strength of nearby Wi-Fi networks or the strength of the connection coming from your mobile device. In certain vehicles you will see icons displayed which indicate that Connected Vehicle Information, which may include location, is being transmitted by the vehicle. For example, if your vehicle is fitted with FordPass Connect and a SYNC system with in-vehicle SYNC screen: alt Shows that the modem is activated and that Connected Vehicle Information excluding location is being transmitted. alt Shows that the vehicle's location is being transmitted. alt Shows the modem is activated, and that both Connected Vehicle Information and the vehicle's location are being transmitted. Not every situation is the same, so be sure to know how your vehicle is equipped. You can find out what connectivity equipment is installed in your vehicle, and how to tell what data is being transmitted from your vehicle, in your owners' manual or ask your dealer. You can also find out how to disconnect your vehicle in your owners' manual. Please note that disconnecting the vehicle, or changing data sharing settings, may impact the quality or availability of certain services. If you share your vehicle with others, please tell them about your connectivity settings. For example, let them know where they can find the information needed to connect to the vehicle's Wi-Fi Hotspot and where they can turn off location and other data sharing. Multiple accounts can be created on the Ford app, and more than one account can be connected to a single vehicle. If you are driving a vehicle with more than one account connected to it, the user(s) of each account will have access to: the vehicle's location; services which allow the vehicle to be remotely started (in some countries), locked and unlocked; and services which show information about the vehicle's status (for example, its fuel level). Similarly, if you are driving a vehicle with the Ford app connected to it, the user(s) of the app will have access to the information and services outlined above. If you chose to connect an account on the Ford app to a vehicle which has already been connected to another account, your name and the fact that you have requested this connection will be shared, via the Ford app, with user(s) who connected to the vehicle before you. This user or users will be given the opportunity to allow or refuse your connection to the vehicle. You can find out more about this, and how to stop data being shared between the vehicle and the Ford app, here Some vehicles have pop-up notifications in-vehicle to alert drivers of data sharing settings. Drivers with an unrecognized mobile device may see a pop-up displayed in-vehicle alerting them to the current vehicle data or location sharing settings. A mobile device is \"recognized\" if it has been paired with an infotainment system, like SYNC. This way if someone is new to your vehicle, or not driving it enough to pair their mobile device, the system will notify them of its current data sharing settings. So don't forget, when putting back your seat position or adjusting your mirrors, you might also need to reset your data settings. Please note that disconnecting the vehicle, or changing data sharing settings, may impact the quality or availability of certain services. We commit to managing your personal information, including your Connected Vehicle Information fairly and in accordance with our privacy policies and the law. You can find out about [LEGAL ENTITY's] privacy practices more generally here. You can also find out more about what information your vehicle collects and uses by consulting the owners' manual or Ford app (where available). We will only process your personal information, including Connected Vehicle information, where we have legal grounds under European data protection law to do so, such as: With your consent. In some cases, our use of your personal information will need your consent. Where we rely on consent to use your personal information, you have the right to withdraw that consent at any time. To enter into or perform our contract with you. These contracts could include the terms under which Ford provides the Ford app, for example. Where we believe the use of your personal information is necessary to comply with our legal obligations Where our use of your personal information is within our legitimate interests or the legitimate interests of the organisation with which we have shared your personal information and we have made sure that your personal information, and your rights in relation to that information, are protected. We rely on this ground, for example, to: personalize your experience and the marketing you receive; to predict which Ford products or services could be of interest to you; manage and improve our business and our relationship with you; assess the quality of the services we and dealers provide, and the services our suppliers provide to us or on our behalf; provide over-the-air updates to vehicle systems and for troubleshooting purposes; in some instances to carry out remote diagnostics activities; develop new and improved products, services, and business and marketing strategies; conduct research; protect or defend our or another's rights or property, or to detect, prevent, or otherwise address fraud, security, safety, or privacy issues. In certain circumstances, we may need to use your personal information where we believe it necessary to comply with a legal obligation, to protect someone's safety or vital interests, or for purposes which are in the public interest."
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S13",
+        "text": "Category of Connected Vehicle Information, 1 = Examples of data. Category of Connected Vehicle Information, 2 = How is it used by Ford?. Vehicle Information, 1 = Vehicle Identification Number (VIN), hardware model and part numbers, status of vehicle systems (e.g., fluid levels, tire pressure, and locks), odometer, and other information about how your vehicle is performing. Vehicle Information, 2 = To provide connectivity services; to better understand and troubleshoot vehicle performance issues; for remote diagnostics purposes; for product research and improvement purposes; and for offering products and services tailored to you. Vehicle Information may be transmitted to us remotely through FordPass Connect, AppLink, Wi-Fi or obtained directly from the vehicle at service visits.. Driving Characteristics and Behaviour, 1 = Speed, use of accelerator, brakes, steering, seat belts, and other similar information about how the vehicle is used. Driving Characteristics and Behaviour, 2 = To provide connectivity services; for product research and improvement purposes; to better under understand and troubleshoot vehicle performance issues; to provide services that require such information like auto insurance discount offerings sponsored by your insurance carrier (where available); and for offering products and services tailored to you. Driving Characteristics may be transmitted to us remotely through FordPass Connect or AppLink.. In-Vehicle Services Information, 1 = Wi-Fi and mobile network connection; software and firmware versions of vehicle systems like SYNC; performance and use of systems and vehicle cabin technology such as navigation, infotainment systems, phone/Bluetooth pairings, climate control, seat position, and SYNC; connectivity setting changes. In-Vehicle Services Information, 2 = To provide connectivity services; to better understand and troubleshoot performance issues; for remote diagnostics purposes; for product research and improvement purposes; and for offering products and services tailored to you. In-Vehicle Services Information may be transmitted to us remotely through FordPass Connect, AppLink, Wi-Fi or obtained directly from the vehicle at service visits.. Precise Location Information, 1 = Latitude and longitude of your vehicle collected in real time. This information can be used to determine your device or vehicle's current location, travel direction, and speed.. Precise Location Information, 2 = To provide connectivity services (e.g. Live Traffic); to better understand and troubleshoot performance issues; for remote diagnostics purposes; for product research and improvement purposes; and for offering products and services tailored to you.",
+        "heading_path": [
+          "GET CONNECTED",
+          "Connected Vehicle Information"
+        ],
+        "links": [],
+        "html_ids": [],
+        "previous_segment_id": "S12",
+        "next_segment_id": "S14",
+        "previous_segment_text": "Connected Vehicle Information is information about the performance of your vehicle, its components and parts and their status, and how your vehicle is used, including how it is driven, its location and the environment it is driven in (for example, information about the temperature outside the vehicle). It is typically associated with your vehicle's VIN, which can be linked to you as an owner or lessee. Here are types of Connected Vehicle Information we collect and the purposes for which, where we have a legal ground to do so, they will be used. Based on the level of connectivity you choose for your vehicle and, in some cases, your choices in relation to your Connected Vehicle Information, not all categories of Connected Vehicle Information may be collected or used for the purposes described. Ford may anonymize data and use it for any purpose. We process Connected Vehicle Information using state-of-the art data analytics to ensure the quality of services and derive actionable insights regarding the purposes described below.",
+        "extended_context": "If you share your vehicle with others, please tell them about your connectivity settings. For example, let them know where they can find the information needed to connect to the vehicle's Wi-Fi Hotspot and where they can turn off location and other data sharing. Multiple accounts can be created on the Ford app, and more than one account can be connected to a single vehicle. If you are driving a vehicle with more than one account connected to it, the user(s) of each account will have access to: the vehicle's location; services which allow the vehicle to be remotely started (in some countries), locked and unlocked; and services which show information about the vehicle's status (for example, its fuel level). Similarly, if you are driving a vehicle with the Ford app connected to it, the user(s) of the app will have access to the information and services outlined above. If you chose to connect an account on the Ford app to a vehicle which has already been connected to another account, your name and the fact that you have requested this connection will be shared, via the Ford app, with user(s) who connected to the vehicle before you. This user or users will be given the opportunity to allow or refuse your connection to the vehicle. You can find out more about this, and how to stop data being shared between the vehicle and the Ford app, here Some vehicles have pop-up notifications in-vehicle to alert drivers of data sharing settings. Drivers with an unrecognized mobile device may see a pop-up displayed in-vehicle alerting them to the current vehicle data or location sharing settings. A mobile device is \"recognized\" if it has been paired with an infotainment system, like SYNC. This way if someone is new to your vehicle, or not driving it enough to pair their mobile device, the system will notify them of its current data sharing settings. So don't forget, when putting back your seat position or adjusting your mirrors, you might also need to reset your data settings. Please note that disconnecting the vehicle, or changing data sharing settings, may impact the quality or availability of certain services. We commit to managing your personal information, including your Connected Vehicle Information fairly and in accordance with our privacy policies and the law. You can find out about [LEGAL ENTITY's] privacy practices more generally here. You can also find out more about what information your vehicle collects and uses by consulting the owners' manual or Ford app (where available). We will only process your personal information, including Connected Vehicle information, where we have legal grounds under European data protection law to do so, such as: With your consent. In some cases, our use of your personal information will need your consent. Where we rely on consent to use your personal information, you have the right to withdraw that consent at any time. To enter into or perform our contract with you. These contracts could include the terms under which Ford provides the Ford app, for example. Where we believe the use of your personal information is necessary to comply with our legal obligations Where our use of your personal information is within our legitimate interests or the legitimate interests of the organisation with which we have shared your personal information and we have made sure that your personal information, and your rights in relation to that information, are protected. We rely on this ground, for example, to: personalize your experience and the marketing you receive; to predict which Ford products or services could be of interest to you; manage and improve our business and our relationship with you; assess the quality of the services we and dealers provide, and the services our suppliers provide to us or on our behalf; provide over-the-air updates to vehicle systems and for troubleshooting purposes; in some instances to carry out remote diagnostics activities; develop new and improved products, services, and business and marketing strategies; conduct research; protect or defend our or another's rights or property, or to detect, prevent, or otherwise address fraud, security, safety, or privacy issues. In certain circumstances, we may need to use your personal information where we believe it necessary to comply with a legal obligation, to protect someone's safety or vital interests, or for purposes which are in the public interest. Connected Vehicle Information is information about the performance of your vehicle, its components and parts and their status, and how your vehicle is used, including how it is driven, its location and the environment it is driven in (for example, information about the temperature outside the vehicle). It is typically associated with your vehicle's VIN, which can be linked to you as an owner or lessee. Here are types of Connected Vehicle Information we collect and the purposes for which, where we have a legal ground to do so, they will be used. Based on the level of connectivity you choose for your vehicle and, in some cases, your choices in relation to your Connected Vehicle Information, not all categories of Connected Vehicle Information may be collected or used for the purposes described. Ford may anonymize data and use it for any purpose. We process Connected Vehicle Information using state-of-the art data analytics to ensure the quality of services and derive actionable insights regarding the purposes described below."
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S14",
+        "text": "Precise Location Information may be used for offering products and services tailored to you. Precise Location Information is transmitted to us remotely through FordPass Connect or AppLink.. Connection Status Alerts, 1 = The modem periodically sends messages to stay connected to the telecommunications network. These messages include information that identifies your vehicle, the SIM and the electronic serial number of the modem. Network providers could have access to additional information, for example cell phone network tower identification. Note: FordPass Connect will continue to send this information unless the SIM is deactivated. Please contact your local Customer Relations Center for more information.. Connection Status Alerts, 2 = To validate that FordPass Connect is capable of sending and receiving data through the telecommunications network. Connection Status Alerts are transmitted to Ford remotely through FordPass Connect.. Over-the-Air Update Information, 1 = Current software and firmware versions of FordPass Connect and other technical specifications associated with a specific modem or other vehicle modules/systems. Over-the-Air Update Information, 2 = To ensure FordPass Connect, vehicle modules, and systems have all necessary and current updates and software versions. Over-the-Air Update Information is transmitted to us remotely through FordPass Connect or via Wi-Fi. Category of Connected Vehicle Information Examples of data How is it used by Ford? Vehicle Information To provide connectivity services; to better understand and troubleshoot vehicle performance issues; for remote diagnostics purposes; for product research and improvement purposes; and for offering products and services tailored to you. Vehicle Information may be transmitted to us remotely through FordPass Connect, AppLink, Wi-Fi or obtained directly from the vehicle at service visits. Driving Characteristics and Behaviour To provide connectivity services; for product research and improvement purposes; to better under understand and troubleshoot vehicle performance issues; to provide services that require such information like auto insurance discount offerings sponsored by your insurance carrier (where available); and for offering products and services tailored to you. Driving Characteristics may be transmitted to us remotely through FordPass Connect or AppLink. In-Vehicle Services Information To provide connectivity services; to better understand and troubleshoot performance issues; for remote diagnostics purposes; for product research and improvement purposes; and for offering products and services tailored to you. In-Vehicle Services Information may be transmitted to us remotely through FordPass Connect, AppLink, Wi-Fi or obtained directly from the vehicle at service visits. Precise Location Information Latitude and longitude of your vehicle collected in real time. This information can be used to determine your device or vehicle's current location, travel direction, and speed. To provide connectivity services (e.g. Live Traffic); to better understand and troubleshoot performance issues; for remote diagnostics purposes; for product research and improvement purposes; and for offering products and services tailored to you.",
+        "heading_path": [
+          "GET CONNECTED",
+          "Connected Vehicle Information"
+        ],
+        "links": [],
+        "html_ids": [],
+        "previous_segment_id": "S13",
+        "next_segment_id": "S15",
+        "previous_segment_text": "Category of Connected Vehicle Information, 1 = Examples of data. Category of Connected Vehicle Information, 2 = How is it used by Ford?. Vehicle Information, 1 = Vehicle Identification Number (VIN), hardware model and part numbers, status of vehicle systems (e.g., fluid levels, tire pressure, and locks), odometer, and other information about how your vehicle is performing. Vehicle Information, 2 = To provide connectivity services; to better understand and troubleshoot vehicle performance issues; for remote diagnostics purposes; for product research and improvement purposes; and for offering products and services tailored to you. Vehicle Information may be transmitted to us remotely through FordPass Connect, AppLink, Wi-Fi or obtained directly from the vehicle at service visits.. Driving Characteristics and Behaviour, 1 = Speed, use of accelerator, brakes, steering, seat belts, and other similar information about how the vehicle is used. Driving Characteristics and Behaviour, 2 = To provide connectivity services; for product research and improvement purposes; to better under understand and troubleshoot vehicle performance issues; to provide services that require such information like auto insurance discount offerings sponsored by your insurance carrier (where available); and for offering products and services tailored to you. Driving Characteristics may be transmitted to us remotely through FordPass Connect or AppLink.. In-Vehicle Services Information, 1 = Wi-Fi and mobile network connection; software and firmware versions of vehicle systems like SYNC; performance and use of systems and vehicle cabin technology such as navigation, infotainment systems, phone/Bluetooth pairings, climate control, seat position, and SYNC; connectivity setting changes. In-Vehicle Services Information, 2 = To provide connectivity services; to better understand and troubleshoot performance issues; for remote diagnostics purposes; for product research and improvement purposes; and for offering products and services tailored to you. In-Vehicle Services Information may be transmitted to us remotely through FordPass Connect, AppLink, Wi-Fi or obtained directly from the vehicle at service visits.. Precise Location Information, 1 = Latitude and longitude of your vehicle collected in real time. This information can be used to determine your device or vehicle's current location, travel direction, and speed.. Precise Location Information, 2 = To provide connectivity services (e.g. Live Traffic); to better understand and troubleshoot performance issues; for remote diagnostics purposes; for product research and improvement purposes; and for offering products and services tailored to you.",
+        "extended_context": "We commit to managing your personal information, including your Connected Vehicle Information fairly and in accordance with our privacy policies and the law. You can find out about [LEGAL ENTITY's] privacy practices more generally here. You can also find out more about what information your vehicle collects and uses by consulting the owners' manual or Ford app (where available). We will only process your personal information, including Connected Vehicle information, where we have legal grounds under European data protection law to do so, such as: With your consent. In some cases, our use of your personal information will need your consent. Where we rely on consent to use your personal information, you have the right to withdraw that consent at any time. To enter into or perform our contract with you. These contracts could include the terms under which Ford provides the Ford app, for example. Where we believe the use of your personal information is necessary to comply with our legal obligations Where our use of your personal information is within our legitimate interests or the legitimate interests of the organisation with which we have shared your personal information and we have made sure that your personal information, and your rights in relation to that information, are protected. We rely on this ground, for example, to: personalize your experience and the marketing you receive; to predict which Ford products or services could be of interest to you; manage and improve our business and our relationship with you; assess the quality of the services we and dealers provide, and the services our suppliers provide to us or on our behalf; provide over-the-air updates to vehicle systems and for troubleshooting purposes; in some instances to carry out remote diagnostics activities; develop new and improved products, services, and business and marketing strategies; conduct research; protect or defend our or another's rights or property, or to detect, prevent, or otherwise address fraud, security, safety, or privacy issues. In certain circumstances, we may need to use your personal information where we believe it necessary to comply with a legal obligation, to protect someone's safety or vital interests, or for purposes which are in the public interest. Connected Vehicle Information is information about the performance of your vehicle, its components and parts and their status, and how your vehicle is used, including how it is driven, its location and the environment it is driven in (for example, information about the temperature outside the vehicle). It is typically associated with your vehicle's VIN, which can be linked to you as an owner or lessee. Here are types of Connected Vehicle Information we collect and the purposes for which, where we have a legal ground to do so, they will be used. Based on the level of connectivity you choose for your vehicle and, in some cases, your choices in relation to your Connected Vehicle Information, not all categories of Connected Vehicle Information may be collected or used for the purposes described. Ford may anonymize data and use it for any purpose. We process Connected Vehicle Information using state-of-the art data analytics to ensure the quality of services and derive actionable insights regarding the purposes described below. Category of Connected Vehicle Information, 1 = Examples of data. Category of Connected Vehicle Information, 2 = How is it used by Ford?. Vehicle Information, 1 = Vehicle Identification Number (VIN), hardware model and part numbers, status of vehicle systems (e.g., fluid levels, tire pressure, and locks), odometer, and other information about how your vehicle is performing. Vehicle Information, 2 = To provide connectivity services; to better understand and troubleshoot vehicle performance issues; for remote diagnostics purposes; for product research and improvement purposes; and for offering products and services tailored to you. Vehicle Information may be transmitted to us remotely through FordPass Connect, AppLink, Wi-Fi or obtained directly from the vehicle at service visits.. Driving Characteristics and Behaviour, 1 = Speed, use of accelerator, brakes, steering, seat belts, and other similar information about how the vehicle is used. Driving Characteristics and Behaviour, 2 = To provide connectivity services; for product research and improvement purposes; to better under understand and troubleshoot vehicle performance issues; to provide services that require such information like auto insurance discount offerings sponsored by your insurance carrier (where available); and for offering products and services tailored to you. Driving Characteristics may be transmitted to us remotely through FordPass Connect or AppLink.. In-Vehicle Services Information, 1 = Wi-Fi and mobile network connection; software and firmware versions of vehicle systems like SYNC; performance and use of systems and vehicle cabin technology such as navigation, infotainment systems, phone/Bluetooth pairings, climate control, seat position, and SYNC; connectivity setting changes. In-Vehicle Services Information, 2 = To provide connectivity services; to better understand and troubleshoot performance issues; for remote diagnostics purposes; for product research and improvement purposes; and for offering products and services tailored to you. In-Vehicle Services Information may be transmitted to us remotely through FordPass Connect, AppLink, Wi-Fi or obtained directly from the vehicle at service visits.. Precise Location Information, 1 = Latitude and longitude of your vehicle collected in real time. This information can be used to determine your device or vehicle's current location, travel direction, and speed.. Precise Location Information, 2 = To provide connectivity services (e.g. Live Traffic); to better understand and troubleshoot performance issues; for remote diagnostics purposes; for product research and improvement purposes; and for offering products and services tailored to you."
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S15",
+        "text": "Precise Location Information may be used for offering products and services tailored to you. Precise Location Information is transmitted to us remotely through FordPass Connect or AppLink. Connection Status Alerts The modem periodically sends messages to stay connected to the telecommunications network. These messages include information that identifies your vehicle, the SIM and the electronic serial number of the modem. Network providers could have access to additional information, for example cell phone network tower identification. Note: FordPass Connect will continue to send this information unless the SIM is deactivated. Please contact your local Customer Relations Center for more information. To validate that FordPass Connect is capable of sending and receiving data through the telecommunications network. Connection Status Alerts are transmitted to Ford remotely through FordPass Connect. Over-the-Air Update Information To ensure FordPass Connect, vehicle modules, and systems have all necessary and current updates and software versions. Over-the-Air Update Information is transmitted to us remotely through FordPass Connect or via Wi-Fi. next prev We may also use the Connected Vehicle Information described above to: determine whether the vehicle's modem is fully connected and, if it is not, to contact you with information about our connectivity services. We will only do this if you have agreed to receiving marketing communications from us, however; fulfil your requests (for example, to enable you to receive services via the Ford app); manage and improve our business and our relationship with you; assess the quality of the services we provide, and the services our suppliers provide to us or on our behalf; deal with your enquiries; and help understand, develop and improve our products, processes, services and marketing strategies; comply with our legal and regulatory responsibilities, to respond to legal process or requests for information issued by government authorities or other third parties, to prevent and detect crime and fraud, or protect your, our or others' rights. We may, where permitted by law, combine and, using automated decision making processes, analyse your Connected Vehicle Information with other information we hold about you, to assist with the purposes outlined above. This could include, for example, analysing vehicle diagnostic information, conducting recalls, evaluating the effectiveness of our marketing and customer service, conducting market analysis and identifying products or services which may be of interest to you, and contacting you to tell you about those products and services. In some limited circumstances, the automated decisions we take may have a legal or similar effect on you. We will only make these kinds of automated decisions about you where: the decisions are necessary for performing or entering into a contract with you; the decisions are authorised by law; or you give your consent to us carrying out automated decision-making. You can contact us to request further information about automated decision-making, and in some circumstances object to our use of automated decision-making, or request that an automated decision is reviewed by a human.",
+        "heading_path": [
+          "GET CONNECTED",
+          "Connected Vehicle Information"
+        ],
+        "links": [],
+        "html_ids": [],
+        "previous_segment_id": "S14",
+        "next_segment_id": "S16",
+        "previous_segment_text": "Precise Location Information may be used for offering products and services tailored to you. Precise Location Information is transmitted to us remotely through FordPass Connect or AppLink.. Connection Status Alerts, 1 = The modem periodically sends messages to stay connected to the telecommunications network. These messages include information that identifies your vehicle, the SIM and the electronic serial number of the modem. Network providers could have access to additional information, for example cell phone network tower identification. Note: FordPass Connect will continue to send this information unless the SIM is deactivated. Please contact your local Customer Relations Center for more information.. Connection Status Alerts, 2 = To validate that FordPass Connect is capable of sending and receiving data through the telecommunications network. Connection Status Alerts are transmitted to Ford remotely through FordPass Connect.. Over-the-Air Update Information, 1 = Current software and firmware versions of FordPass Connect and other technical specifications associated with a specific modem or other vehicle modules/systems. Over-the-Air Update Information, 2 = To ensure FordPass Connect, vehicle modules, and systems have all necessary and current updates and software versions. Over-the-Air Update Information is transmitted to us remotely through FordPass Connect or via Wi-Fi. Category of Connected Vehicle Information Examples of data How is it used by Ford? Vehicle Information To provide connectivity services; to better understand and troubleshoot vehicle performance issues; for remote diagnostics purposes; for product research and improvement purposes; and for offering products and services tailored to you. Vehicle Information may be transmitted to us remotely through FordPass Connect, AppLink, Wi-Fi or obtained directly from the vehicle at service visits. Driving Characteristics and Behaviour To provide connectivity services; for product research and improvement purposes; to better under understand and troubleshoot vehicle performance issues; to provide services that require such information like auto insurance discount offerings sponsored by your insurance carrier (where available); and for offering products and services tailored to you. Driving Characteristics may be transmitted to us remotely through FordPass Connect or AppLink. In-Vehicle Services Information To provide connectivity services; to better understand and troubleshoot performance issues; for remote diagnostics purposes; for product research and improvement purposes; and for offering products and services tailored to you. In-Vehicle Services Information may be transmitted to us remotely through FordPass Connect, AppLink, Wi-Fi or obtained directly from the vehicle at service visits. Precise Location Information Latitude and longitude of your vehicle collected in real time. This information can be used to determine your device or vehicle's current location, travel direction, and speed. To provide connectivity services (e.g. Live Traffic); to better understand and troubleshoot performance issues; for remote diagnostics purposes; for product research and improvement purposes; and for offering products and services tailored to you.",
+        "extended_context": "Connected Vehicle Information is information about the performance of your vehicle, its components and parts and their status, and how your vehicle is used, including how it is driven, its location and the environment it is driven in (for example, information about the temperature outside the vehicle). It is typically associated with your vehicle's VIN, which can be linked to you as an owner or lessee. Here are types of Connected Vehicle Information we collect and the purposes for which, where we have a legal ground to do so, they will be used. Based on the level of connectivity you choose for your vehicle and, in some cases, your choices in relation to your Connected Vehicle Information, not all categories of Connected Vehicle Information may be collected or used for the purposes described. Ford may anonymize data and use it for any purpose. We process Connected Vehicle Information using state-of-the art data analytics to ensure the quality of services and derive actionable insights regarding the purposes described below. Category of Connected Vehicle Information, 1 = Examples of data. Category of Connected Vehicle Information, 2 = How is it used by Ford?. Vehicle Information, 1 = Vehicle Identification Number (VIN), hardware model and part numbers, status of vehicle systems (e.g., fluid levels, tire pressure, and locks), odometer, and other information about how your vehicle is performing. Vehicle Information, 2 = To provide connectivity services; to better understand and troubleshoot vehicle performance issues; for remote diagnostics purposes; for product research and improvement purposes; and for offering products and services tailored to you. Vehicle Information may be transmitted to us remotely through FordPass Connect, AppLink, Wi-Fi or obtained directly from the vehicle at service visits.. Driving Characteristics and Behaviour, 1 = Speed, use of accelerator, brakes, steering, seat belts, and other similar information about how the vehicle is used. Driving Characteristics and Behaviour, 2 = To provide connectivity services; for product research and improvement purposes; to better under understand and troubleshoot vehicle performance issues; to provide services that require such information like auto insurance discount offerings sponsored by your insurance carrier (where available); and for offering products and services tailored to you. Driving Characteristics may be transmitted to us remotely through FordPass Connect or AppLink.. In-Vehicle Services Information, 1 = Wi-Fi and mobile network connection; software and firmware versions of vehicle systems like SYNC; performance and use of systems and vehicle cabin technology such as navigation, infotainment systems, phone/Bluetooth pairings, climate control, seat position, and SYNC; connectivity setting changes. In-Vehicle Services Information, 2 = To provide connectivity services; to better understand and troubleshoot performance issues; for remote diagnostics purposes; for product research and improvement purposes; and for offering products and services tailored to you. In-Vehicle Services Information may be transmitted to us remotely through FordPass Connect, AppLink, Wi-Fi or obtained directly from the vehicle at service visits.. Precise Location Information, 1 = Latitude and longitude of your vehicle collected in real time. This information can be used to determine your device or vehicle's current location, travel direction, and speed.. Precise Location Information, 2 = To provide connectivity services (e.g. Live Traffic); to better understand and troubleshoot performance issues; for remote diagnostics purposes; for product research and improvement purposes; and for offering products and services tailored to you. Precise Location Information may be used for offering products and services tailored to you. Precise Location Information is transmitted to us remotely through FordPass Connect or AppLink.. Connection Status Alerts, 1 = The modem periodically sends messages to stay connected to the telecommunications network. These messages include information that identifies your vehicle, the SIM and the electronic serial number of the modem. Network providers could have access to additional information, for example cell phone network tower identification. Note: FordPass Connect will continue to send this information unless the SIM is deactivated. Please contact your local Customer Relations Center for more information.. Connection Status Alerts, 2 = To validate that FordPass Connect is capable of sending and receiving data through the telecommunications network. Connection Status Alerts are transmitted to Ford remotely through FordPass Connect.. Over-the-Air Update Information, 1 = Current software and firmware versions of FordPass Connect and other technical specifications associated with a specific modem or other vehicle modules/systems. Over-the-Air Update Information, 2 = To ensure FordPass Connect, vehicle modules, and systems have all necessary and current updates and software versions. Over-the-Air Update Information is transmitted to us remotely through FordPass Connect or via Wi-Fi. Category of Connected Vehicle Information Examples of data How is it used by Ford? Vehicle Information To provide connectivity services; to better understand and troubleshoot vehicle performance issues; for remote diagnostics purposes; for product research and improvement purposes; and for offering products and services tailored to you. Vehicle Information may be transmitted to us remotely through FordPass Connect, AppLink, Wi-Fi or obtained directly from the vehicle at service visits. Driving Characteristics and Behaviour To provide connectivity services; for product research and improvement purposes; to better under understand and troubleshoot vehicle performance issues; to provide services that require such information like auto insurance discount offerings sponsored by your insurance carrier (where available); and for offering products and services tailored to you. Driving Characteristics may be transmitted to us remotely through FordPass Connect or AppLink. In-Vehicle Services Information To provide connectivity services; to better understand and troubleshoot performance issues; for remote diagnostics purposes; for product research and improvement purposes; and for offering products and services tailored to you. In-Vehicle Services Information may be transmitted to us remotely through FordPass Connect, AppLink, Wi-Fi or obtained directly from the vehicle at service visits. Precise Location Information Latitude and longitude of your vehicle collected in real time. This information can be used to determine your device or vehicle's current location, travel direction, and speed. To provide connectivity services (e.g. Live Traffic); to better understand and troubleshoot performance issues; for remote diagnostics purposes; for product research and improvement purposes; and for offering products and services tailored to you."
+      },
+      "result": {
+        "right_type": [
+          {
+            "value": "Right to not be subject to automated decision-making (to profiling)",
+            "evidence": "You can contact us to request further information about automated decision-making, and in some circumstances object to our use of automated decision-making, or request that an automated decision is reviewed by a human.",
+            "confidence": "extracted",
+            "id": "Ford:S15:right:1"
+          }
+        ],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S16",
+        "text": "No one can guarantee data transmission over the Internet to be secure, but we, our service providers and partners take data and cyber security very seriously. We use a variety of technical, administrative, and physical security measures to help protect and maintain the security, integrity and availability of Connected Vehicle Information.",
+        "heading_path": [
+          "GET CONNECTED",
+          "Data and Vehicle Security"
+        ],
+        "links": [],
+        "html_ids": [],
+        "previous_segment_id": "S15",
+        "next_segment_id": "S17",
+        "previous_segment_text": "Precise Location Information may be used for offering products and services tailored to you. Precise Location Information is transmitted to us remotely through FordPass Connect or AppLink. Connection Status Alerts The modem periodically sends messages to stay connected to the telecommunications network. These messages include information that identifies your vehicle, the SIM and the electronic serial number of the modem. Network providers could have access to additional information, for example cell phone network tower identification. Note: FordPass Connect will continue to send this information unless the SIM is deactivated. Please contact your local Customer Relations Center for more information. To validate that FordPass Connect is capable of sending and receiving data through the telecommunications network. Connection Status Alerts are transmitted to Ford remotely through FordPass Connect. Over-the-Air Update Information To ensure FordPass Connect, vehicle modules, and systems have all necessary and current updates and software versions. Over-the-Air Update Information is transmitted to us remotely through FordPass Connect or via Wi-Fi. next prev We may also use the Connected Vehicle Information described above to: determine whether the vehicle's modem is fully connected and, if it is not, to contact you with information about our connectivity services. We will only do this if you have agreed to receiving marketing communications from us, however; fulfil your requests (for example, to enable you to receive services via the Ford app); manage and improve our business and our relationship with you; assess the quality of the services we provide, and the services our suppliers provide to us or on our behalf; deal with your enquiries; and help understand, develop and improve our products, processes, services and marketing strategies; comply with our legal and regulatory responsibilities, to respond to legal process or requests for information issued by government authorities or other third parties, to prevent and detect crime and fraud, or protect your, our or others' rights. We may, where permitted by law, combine and, using automated decision making processes, analyse your Connected Vehicle Information with other information we hold about you, to assist with the purposes outlined above. This could include, for example, analysing vehicle diagnostic information, conducting recalls, evaluating the effectiveness of our marketing and customer service, conducting market analysis and identifying products or services which may be of interest to you, and contacting you to tell you about those products and services. In some limited circumstances, the automated decisions we take may have a legal or similar effect on you. We will only make these kinds of automated decisions about you where: the decisions are necessary for performing or entering into a contract with you; the decisions are authorised by law; or you give your consent to us carrying out automated decision-making. You can contact us to request further information about automated decision-making, and in some circumstances object to our use of automated decision-making, or request that an automated decision is reviewed by a human.",
+        "extended_context": "Category of Connected Vehicle Information, 1 = Examples of data. Category of Connected Vehicle Information, 2 = How is it used by Ford?. Vehicle Information, 1 = Vehicle Identification Number (VIN), hardware model and part numbers, status of vehicle systems (e.g., fluid levels, tire pressure, and locks), odometer, and other information about how your vehicle is performing. Vehicle Information, 2 = To provide connectivity services; to better understand and troubleshoot vehicle performance issues; for remote diagnostics purposes; for product research and improvement purposes; and for offering products and services tailored to you. Vehicle Information may be transmitted to us remotely through FordPass Connect, AppLink, Wi-Fi or obtained directly from the vehicle at service visits.. Driving Characteristics and Behaviour, 1 = Speed, use of accelerator, brakes, steering, seat belts, and other similar information about how the vehicle is used. Driving Characteristics and Behaviour, 2 = To provide connectivity services; for product research and improvement purposes; to better under understand and troubleshoot vehicle performance issues; to provide services that require such information like auto insurance discount offerings sponsored by your insurance carrier (where available); and for offering products and services tailored to you. Driving Characteristics may be transmitted to us remotely through FordPass Connect or AppLink.. In-Vehicle Services Information, 1 = Wi-Fi and mobile network connection; software and firmware versions of vehicle systems like SYNC; performance and use of systems and vehicle cabin technology such as navigation, infotainment systems, phone/Bluetooth pairings, climate control, seat position, and SYNC; connectivity setting changes. In-Vehicle Services Information, 2 = To provide connectivity services; to better understand and troubleshoot performance issues; for remote diagnostics purposes; for product research and improvement purposes; and for offering products and services tailored to you. In-Vehicle Services Information may be transmitted to us remotely through FordPass Connect, AppLink, Wi-Fi or obtained directly from the vehicle at service visits.. Precise Location Information, 1 = Latitude and longitude of your vehicle collected in real time. This information can be used to determine your device or vehicle's current location, travel direction, and speed.. Precise Location Information, 2 = To provide connectivity services (e.g. Live Traffic); to better understand and troubleshoot performance issues; for remote diagnostics purposes; for product research and improvement purposes; and for offering products and services tailored to you. Precise Location Information may be used for offering products and services tailored to you. Precise Location Information is transmitted to us remotely through FordPass Connect or AppLink.. Connection Status Alerts, 1 = The modem periodically sends messages to stay connected to the telecommunications network. These messages include information that identifies your vehicle, the SIM and the electronic serial number of the modem. Network providers could have access to additional information, for example cell phone network tower identification. Note: FordPass Connect will continue to send this information unless the SIM is deactivated. Please contact your local Customer Relations Center for more information.. Connection Status Alerts, 2 = To validate that FordPass Connect is capable of sending and receiving data through the telecommunications network. Connection Status Alerts are transmitted to Ford remotely through FordPass Connect.. Over-the-Air Update Information, 1 = Current software and firmware versions of FordPass Connect and other technical specifications associated with a specific modem or other vehicle modules/systems. Over-the-Air Update Information, 2 = To ensure FordPass Connect, vehicle modules, and systems have all necessary and current updates and software versions. Over-the-Air Update Information is transmitted to us remotely through FordPass Connect or via Wi-Fi. Category of Connected Vehicle Information Examples of data How is it used by Ford? Vehicle Information To provide connectivity services; to better understand and troubleshoot vehicle performance issues; for remote diagnostics purposes; for product research and improvement purposes; and for offering products and services tailored to you. Vehicle Information may be transmitted to us remotely through FordPass Connect, AppLink, Wi-Fi or obtained directly from the vehicle at service visits. Driving Characteristics and Behaviour To provide connectivity services; for product research and improvement purposes; to better under understand and troubleshoot vehicle performance issues; to provide services that require such information like auto insurance discount offerings sponsored by your insurance carrier (where available); and for offering products and services tailored to you. Driving Characteristics may be transmitted to us remotely through FordPass Connect or AppLink. In-Vehicle Services Information To provide connectivity services; to better understand and troubleshoot performance issues; for remote diagnostics purposes; for product research and improvement purposes; and for offering products and services tailored to you. In-Vehicle Services Information may be transmitted to us remotely through FordPass Connect, AppLink, Wi-Fi or obtained directly from the vehicle at service visits. Precise Location Information Latitude and longitude of your vehicle collected in real time. This information can be used to determine your device or vehicle's current location, travel direction, and speed. To provide connectivity services (e.g. Live Traffic); to better understand and troubleshoot performance issues; for remote diagnostics purposes; for product research and improvement purposes; and for offering products and services tailored to you. Precise Location Information may be used for offering products and services tailored to you. Precise Location Information is transmitted to us remotely through FordPass Connect or AppLink. Connection Status Alerts The modem periodically sends messages to stay connected to the telecommunications network. These messages include information that identifies your vehicle, the SIM and the electronic serial number of the modem. Network providers could have access to additional information, for example cell phone network tower identification. Note: FordPass Connect will continue to send this information unless the SIM is deactivated. Please contact your local Customer Relations Center for more information. To validate that FordPass Connect is capable of sending and receiving data through the telecommunications network. Connection Status Alerts are transmitted to Ford remotely through FordPass Connect. Over-the-Air Update Information To ensure FordPass Connect, vehicle modules, and systems have all necessary and current updates and software versions. Over-the-Air Update Information is transmitted to us remotely through FordPass Connect or via Wi-Fi. next prev We may also use the Connected Vehicle Information described above to: determine whether the vehicle's modem is fully connected and, if it is not, to contact you with information about our connectivity services. We will only do this if you have agreed to receiving marketing communications from us, however; fulfil your requests (for example, to enable you to receive services via the Ford app); manage and improve our business and our relationship with you; assess the quality of the services we provide, and the services our suppliers provide to us or on our behalf; deal with your enquiries; and help understand, develop and improve our products, processes, services and marketing strategies; comply with our legal and regulatory responsibilities, to respond to legal process or requests for information issued by government authorities or other third parties, to prevent and detect crime and fraud, or protect your, our or others' rights. We may, where permitted by law, combine and, using automated decision making processes, analyse your Connected Vehicle Information with other information we hold about you, to assist with the purposes outlined above. This could include, for example, analysing vehicle diagnostic information, conducting recalls, evaluating the effectiveness of our marketing and customer service, conducting market analysis and identifying products or services which may be of interest to you, and contacting you to tell you about those products and services. In some limited circumstances, the automated decisions we take may have a legal or similar effect on you. We will only make these kinds of automated decisions about you where: the decisions are necessary for performing or entering into a contract with you; the decisions are authorised by law; or you give your consent to us carrying out automated decision-making. You can contact us to request further information about automated decision-making, and in some circumstances object to our use of automated decision-making, or request that an automated decision is reviewed by a human."
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S17",
+        "text": "Ford has a connected vehicle cyber security team, and puts in place various technical and organizational security measures to protect Connected Vehicle Information, including access controls to limit unnecessary or unauthorized access to Connected Vehicle Information, as well as cyber security measures such as hashing and encrypting data. We actively participate in several joint industry forums focused on how to approach these complicated technical issues. In addition to mobile vehicle security professionals, we also work with organizations within the larger community of cybersecurity professionals, including the BITS Information Systems Audit and Control and Manufacturing work group, and apply these broader best practices to the vehicle, where applicable. Ford is also proud to be a founding participant in an industry-wide effort to address emerging issues through the Automotive Information Sharing Analysis Center (the Auto-ISAC ). The Auto ISAC serves as a central point for automakers, suppliers and other stakeholders to share cyber intelligence, coordinate, and respond to vehicle electronic cyber threats.",
+        "heading_path": [
+          "GET CONNECTED",
+          "Vehicle Cyber Security"
+        ],
+        "links": [],
+        "html_ids": [],
+        "previous_segment_id": "S16",
+        "next_segment_id": "S18",
+        "previous_segment_text": "No one can guarantee data transmission over the Internet to be secure, but we, our service providers and partners take data and cyber security very seriously. We use a variety of technical, administrative, and physical security measures to help protect and maintain the security, integrity and availability of Connected Vehicle Information.",
+        "extended_context": "Precise Location Information may be used for offering products and services tailored to you. Precise Location Information is transmitted to us remotely through FordPass Connect or AppLink.. Connection Status Alerts, 1 = The modem periodically sends messages to stay connected to the telecommunications network. These messages include information that identifies your vehicle, the SIM and the electronic serial number of the modem. Network providers could have access to additional information, for example cell phone network tower identification. Note: FordPass Connect will continue to send this information unless the SIM is deactivated. Please contact your local Customer Relations Center for more information.. Connection Status Alerts, 2 = To validate that FordPass Connect is capable of sending and receiving data through the telecommunications network. Connection Status Alerts are transmitted to Ford remotely through FordPass Connect.. Over-the-Air Update Information, 1 = Current software and firmware versions of FordPass Connect and other technical specifications associated with a specific modem or other vehicle modules/systems. Over-the-Air Update Information, 2 = To ensure FordPass Connect, vehicle modules, and systems have all necessary and current updates and software versions. Over-the-Air Update Information is transmitted to us remotely through FordPass Connect or via Wi-Fi. Category of Connected Vehicle Information Examples of data How is it used by Ford? Vehicle Information To provide connectivity services; to better understand and troubleshoot vehicle performance issues; for remote diagnostics purposes; for product research and improvement purposes; and for offering products and services tailored to you. Vehicle Information may be transmitted to us remotely through FordPass Connect, AppLink, Wi-Fi or obtained directly from the vehicle at service visits. Driving Characteristics and Behaviour To provide connectivity services; for product research and improvement purposes; to better under understand and troubleshoot vehicle performance issues; to provide services that require such information like auto insurance discount offerings sponsored by your insurance carrier (where available); and for offering products and services tailored to you. Driving Characteristics may be transmitted to us remotely through FordPass Connect or AppLink. In-Vehicle Services Information To provide connectivity services; to better understand and troubleshoot performance issues; for remote diagnostics purposes; for product research and improvement purposes; and for offering products and services tailored to you. In-Vehicle Services Information may be transmitted to us remotely through FordPass Connect, AppLink, Wi-Fi or obtained directly from the vehicle at service visits. Precise Location Information Latitude and longitude of your vehicle collected in real time. This information can be used to determine your device or vehicle's current location, travel direction, and speed. To provide connectivity services (e.g. Live Traffic); to better understand and troubleshoot performance issues; for remote diagnostics purposes; for product research and improvement purposes; and for offering products and services tailored to you. Precise Location Information may be used for offering products and services tailored to you. Precise Location Information is transmitted to us remotely through FordPass Connect or AppLink. Connection Status Alerts The modem periodically sends messages to stay connected to the telecommunications network. These messages include information that identifies your vehicle, the SIM and the electronic serial number of the modem. Network providers could have access to additional information, for example cell phone network tower identification. Note: FordPass Connect will continue to send this information unless the SIM is deactivated. Please contact your local Customer Relations Center for more information. To validate that FordPass Connect is capable of sending and receiving data through the telecommunications network. Connection Status Alerts are transmitted to Ford remotely through FordPass Connect. Over-the-Air Update Information To ensure FordPass Connect, vehicle modules, and systems have all necessary and current updates and software versions. Over-the-Air Update Information is transmitted to us remotely through FordPass Connect or via Wi-Fi. next prev We may also use the Connected Vehicle Information described above to: determine whether the vehicle's modem is fully connected and, if it is not, to contact you with information about our connectivity services. We will only do this if you have agreed to receiving marketing communications from us, however; fulfil your requests (for example, to enable you to receive services via the Ford app); manage and improve our business and our relationship with you; assess the quality of the services we provide, and the services our suppliers provide to us or on our behalf; deal with your enquiries; and help understand, develop and improve our products, processes, services and marketing strategies; comply with our legal and regulatory responsibilities, to respond to legal process or requests for information issued by government authorities or other third parties, to prevent and detect crime and fraud, or protect your, our or others' rights. We may, where permitted by law, combine and, using automated decision making processes, analyse your Connected Vehicle Information with other information we hold about you, to assist with the purposes outlined above. This could include, for example, analysing vehicle diagnostic information, conducting recalls, evaluating the effectiveness of our marketing and customer service, conducting market analysis and identifying products or services which may be of interest to you, and contacting you to tell you about those products and services. In some limited circumstances, the automated decisions we take may have a legal or similar effect on you. We will only make these kinds of automated decisions about you where: the decisions are necessary for performing or entering into a contract with you; the decisions are authorised by law; or you give your consent to us carrying out automated decision-making. You can contact us to request further information about automated decision-making, and in some circumstances object to our use of automated decision-making, or request that an automated decision is reviewed by a human. No one can guarantee data transmission over the Internet to be secure, but we, our service providers and partners take data and cyber security very seriously. We use a variety of technical, administrative, and physical security measures to help protect and maintain the security, integrity and availability of Connected Vehicle Information."
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S18",
+        "text": "We may share Connected Vehicle Information with: companies or other organisations that we have engaged to provide services on our behalf such as web-hosting companies and other information technology providers; companies or other organisations where you have asked us to or agreed that we may share your personal information with them; dealers and our partners where this is necessary to provide you with a product or service, including, for example, our network provider Vodafone; professional advisors; any law enforcement agency, court, regulator, government authority or other third party where we believe this is necessary to comply with a legal or regulatory obligation, or otherwise to protect our rights, the rights of any third party or individuals' personal safety, or to detect, prevent, or otherwise address fraud, security or safety issues; any third party that purchases, or to which we transfer, all or substantially all of our assets and business; and companies in the Ford Motor Company Group, a list of which can be found here. When we share your personal information, we will make sure that is used for purposes which are compatible with those described here. Your personal information may be transferred within the European Economic Area (\" EEA \"), as well as to countries outside the EEA (including to Ford Motor Company in the USA). The countries to which we transfer your personal information may not be regarded by the European Commission as ensuring an adequate level of protection for personal information. We will ensure that where we transfer your personal information outside the EEA, we do so in accordance with applicable data protection laws. For example, where required we will put in place appropriate safeguards in accordance with our legal obligations to ensure that your personal information is adequately protected, irrespective of the country to which it is transferred. These safeguards may include obtaining contractual assurances from any third party given access to your personal information that your personal information will be protected by standards which are equivalent to those that protect your personal information when it is in the EEA. If you would like to know more about how Ford protects your personal information when it is transferred outside the EEA, or to obtain a copy of the safeguards we put in place to protect your personal information when it is transferred, please contact Henry Ford and Son Limited using the details below.",
+        "heading_path": [
+          "GET CONNECTED",
+          "Data transfers and sharing"
+        ],
+        "links": [],
+        "html_ids": [],
+        "previous_segment_id": "S17",
+        "next_segment_id": "S19",
+        "previous_segment_text": "Ford has a connected vehicle cyber security team, and puts in place various technical and organizational security measures to protect Connected Vehicle Information, including access controls to limit unnecessary or unauthorized access to Connected Vehicle Information, as well as cyber security measures such as hashing and encrypting data. We actively participate in several joint industry forums focused on how to approach these complicated technical issues. In addition to mobile vehicle security professionals, we also work with organizations within the larger community of cybersecurity professionals, including the BITS Information Systems Audit and Control and Manufacturing work group, and apply these broader best practices to the vehicle, where applicable. Ford is also proud to be a founding participant in an industry-wide effort to address emerging issues through the Automotive Information Sharing Analysis Center (the Auto-ISAC ). The Auto ISAC serves as a central point for automakers, suppliers and other stakeholders to share cyber intelligence, coordinate, and respond to vehicle electronic cyber threats.",
+        "extended_context": "Precise Location Information may be used for offering products and services tailored to you. Precise Location Information is transmitted to us remotely through FordPass Connect or AppLink. Connection Status Alerts The modem periodically sends messages to stay connected to the telecommunications network. These messages include information that identifies your vehicle, the SIM and the electronic serial number of the modem. Network providers could have access to additional information, for example cell phone network tower identification. Note: FordPass Connect will continue to send this information unless the SIM is deactivated. Please contact your local Customer Relations Center for more information. To validate that FordPass Connect is capable of sending and receiving data through the telecommunications network. Connection Status Alerts are transmitted to Ford remotely through FordPass Connect. Over-the-Air Update Information To ensure FordPass Connect, vehicle modules, and systems have all necessary and current updates and software versions. Over-the-Air Update Information is transmitted to us remotely through FordPass Connect or via Wi-Fi. next prev We may also use the Connected Vehicle Information described above to: determine whether the vehicle's modem is fully connected and, if it is not, to contact you with information about our connectivity services. We will only do this if you have agreed to receiving marketing communications from us, however; fulfil your requests (for example, to enable you to receive services via the Ford app); manage and improve our business and our relationship with you; assess the quality of the services we provide, and the services our suppliers provide to us or on our behalf; deal with your enquiries; and help understand, develop and improve our products, processes, services and marketing strategies; comply with our legal and regulatory responsibilities, to respond to legal process or requests for information issued by government authorities or other third parties, to prevent and detect crime and fraud, or protect your, our or others' rights. We may, where permitted by law, combine and, using automated decision making processes, analyse your Connected Vehicle Information with other information we hold about you, to assist with the purposes outlined above. This could include, for example, analysing vehicle diagnostic information, conducting recalls, evaluating the effectiveness of our marketing and customer service, conducting market analysis and identifying products or services which may be of interest to you, and contacting you to tell you about those products and services. In some limited circumstances, the automated decisions we take may have a legal or similar effect on you. We will only make these kinds of automated decisions about you where: the decisions are necessary for performing or entering into a contract with you; the decisions are authorised by law; or you give your consent to us carrying out automated decision-making. You can contact us to request further information about automated decision-making, and in some circumstances object to our use of automated decision-making, or request that an automated decision is reviewed by a human. No one can guarantee data transmission over the Internet to be secure, but we, our service providers and partners take data and cyber security very seriously. We use a variety of technical, administrative, and physical security measures to help protect and maintain the security, integrity and availability of Connected Vehicle Information. Ford has a connected vehicle cyber security team, and puts in place various technical and organizational security measures to protect Connected Vehicle Information, including access controls to limit unnecessary or unauthorized access to Connected Vehicle Information, as well as cyber security measures such as hashing and encrypting data. We actively participate in several joint industry forums focused on how to approach these complicated technical issues. In addition to mobile vehicle security professionals, we also work with organizations within the larger community of cybersecurity professionals, including the BITS Information Systems Audit and Control and Manufacturing work group, and apply these broader best practices to the vehicle, where applicable. Ford is also proud to be a founding participant in an industry-wide effort to address emerging issues through the Automotive Information Sharing Analysis Center (the Auto-ISAC ). The Auto ISAC serves as a central point for automakers, suppliers and other stakeholders to share cyber intelligence, coordinate, and respond to vehicle electronic cyber threats."
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S19",
+        "text": "We only keep your personal information in identifiable form for as long as is necessary for the purposes set out above. This generally means holding the information for as long as one of the following apply: your information is reasonably required in order to satisfy the purpose for which you submitted or we collected the information; your information is reasonably required in order to protect and defend our rights or property (this will generally be the length of the relevant limitation period in your jurisdiction); or we are otherwise required to keep your information by applicable laws or regulations. Where information is used for more than one purpose, we will retain it until the purpose with the latest period expires. Once Connected Vehicle Information is no longer needed, it is either irreversibly anonymised or destroyed. For more information about our retention policies, please contact us using the contact details below.",
+        "heading_path": [
+          "GET CONNECTED",
+          "Retention"
+        ],
+        "links": [],
+        "html_ids": [],
+        "previous_segment_id": "S18",
+        "next_segment_id": "S20",
+        "previous_segment_text": "We may share Connected Vehicle Information with: companies or other organisations that we have engaged to provide services on our behalf such as web-hosting companies and other information technology providers; companies or other organisations where you have asked us to or agreed that we may share your personal information with them; dealers and our partners where this is necessary to provide you with a product or service, including, for example, our network provider Vodafone; professional advisors; any law enforcement agency, court, regulator, government authority or other third party where we believe this is necessary to comply with a legal or regulatory obligation, or otherwise to protect our rights, the rights of any third party or individuals' personal safety, or to detect, prevent, or otherwise address fraud, security or safety issues; any third party that purchases, or to which we transfer, all or substantially all of our assets and business; and companies in the Ford Motor Company Group, a list of which can be found here. When we share your personal information, we will make sure that is used for purposes which are compatible with those described here. Your personal information may be transferred within the European Economic Area (\" EEA \"), as well as to countries outside the EEA (including to Ford Motor Company in the USA). The countries to which we transfer your personal information may not be regarded by the European Commission as ensuring an adequate level of protection for personal information. We will ensure that where we transfer your personal information outside the EEA, we do so in accordance with applicable data protection laws. For example, where required we will put in place appropriate safeguards in accordance with our legal obligations to ensure that your personal information is adequately protected, irrespective of the country to which it is transferred. These safeguards may include obtaining contractual assurances from any third party given access to your personal information that your personal information will be protected by standards which are equivalent to those that protect your personal information when it is in the EEA. If you would like to know more about how Ford protects your personal information when it is transferred outside the EEA, or to obtain a copy of the safeguards we put in place to protect your personal information when it is transferred, please contact Henry Ford and Son Limited using the details below.",
+        "extended_context": "No one can guarantee data transmission over the Internet to be secure, but we, our service providers and partners take data and cyber security very seriously. We use a variety of technical, administrative, and physical security measures to help protect and maintain the security, integrity and availability of Connected Vehicle Information. Ford has a connected vehicle cyber security team, and puts in place various technical and organizational security measures to protect Connected Vehicle Information, including access controls to limit unnecessary or unauthorized access to Connected Vehicle Information, as well as cyber security measures such as hashing and encrypting data. We actively participate in several joint industry forums focused on how to approach these complicated technical issues. In addition to mobile vehicle security professionals, we also work with organizations within the larger community of cybersecurity professionals, including the BITS Information Systems Audit and Control and Manufacturing work group, and apply these broader best practices to the vehicle, where applicable. Ford is also proud to be a founding participant in an industry-wide effort to address emerging issues through the Automotive Information Sharing Analysis Center (the Auto-ISAC ). The Auto ISAC serves as a central point for automakers, suppliers and other stakeholders to share cyber intelligence, coordinate, and respond to vehicle electronic cyber threats. We may share Connected Vehicle Information with: companies or other organisations that we have engaged to provide services on our behalf such as web-hosting companies and other information technology providers; companies or other organisations where you have asked us to or agreed that we may share your personal information with them; dealers and our partners where this is necessary to provide you with a product or service, including, for example, our network provider Vodafone; professional advisors; any law enforcement agency, court, regulator, government authority or other third party where we believe this is necessary to comply with a legal or regulatory obligation, or otherwise to protect our rights, the rights of any third party or individuals' personal safety, or to detect, prevent, or otherwise address fraud, security or safety issues; any third party that purchases, or to which we transfer, all or substantially all of our assets and business; and companies in the Ford Motor Company Group, a list of which can be found here. When we share your personal information, we will make sure that is used for purposes which are compatible with those described here. Your personal information may be transferred within the European Economic Area (\" EEA \"), as well as to countries outside the EEA (including to Ford Motor Company in the USA). The countries to which we transfer your personal information may not be regarded by the European Commission as ensuring an adequate level of protection for personal information. We will ensure that where we transfer your personal information outside the EEA, we do so in accordance with applicable data protection laws. For example, where required we will put in place appropriate safeguards in accordance with our legal obligations to ensure that your personal information is adequately protected, irrespective of the country to which it is transferred. These safeguards may include obtaining contractual assurances from any third party given access to your personal information that your personal information will be protected by standards which are equivalent to those that protect your personal information when it is in the EEA. If you would like to know more about how Ford protects your personal information when it is transferred outside the EEA, or to obtain a copy of the safeguards we put in place to protect your personal information when it is transferred, please contact Henry Ford and Son Limited using the details below."
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [
+          {
+            "evidence": "please contact us using the contact details below.",
+            "target_text": "contact details below",
+            "confidence": "extracted",
+            "id": "Ford:S19:reference:1"
+          }
+        ],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S20",
+        "text": "You have the right as an individual to find out what information we hold about you and for what purposes, as well as to make corrections if necessary. You also have the right in some circumstances to object to our continuing to process your personal information, or to ask us to delete, restrict the use of your information. In some circumstances you can also request that your personal information is provided to you in a commonly used electronic format so that you can share it with other organisations (this is often referred to as the right to 'data portability'). We encourage you to contact us to update or correct your personal information if it changes or if the personal information we hold about you is inaccurate. If you are unhappy about how we use your information, we hope that in the first instance you will let us know so that we are able to address your concerns. However, you are also entitled to lodge a complaint with your local data protection authority. If you have questions or concerns regarding our use of your information, or would like to exercise any of your rights, please contact Henry Ford and Son Limited in the first instance. You may contact Henry Ford and Son Limited at: Ford Customer Relationship Centre Henry Ford & Son Ltd. 5th Floor Penrose One Penrose Dock Cork T23 KW81 Telephone: 1800771199 You can also contact the European Data Protection Officer directly here: DPeurope@ford.com",
+        "heading_path": [
+          "GET CONNECTED",
+          "Your Rights, and How to Contact Us"
+        ],
+        "links": [
+          {
+            "text": "1800771199",
+            "href": "tel:1800771199",
+            "kind": "phone"
+          },
+          {
+            "text": "DPeurope@ford.com",
+            "href": "mailto:DPeurope@ford.com",
+            "kind": "email"
+          }
+        ],
+        "html_ids": [],
+        "previous_segment_id": "S19",
+        "next_segment_id": "S21",
+        "previous_segment_text": "We only keep your personal information in identifiable form for as long as is necessary for the purposes set out above. This generally means holding the information for as long as one of the following apply: your information is reasonably required in order to satisfy the purpose for which you submitted or we collected the information; your information is reasonably required in order to protect and defend our rights or property (this will generally be the length of the relevant limitation period in your jurisdiction); or we are otherwise required to keep your information by applicable laws or regulations. Where information is used for more than one purpose, we will retain it until the purpose with the latest period expires. Once Connected Vehicle Information is no longer needed, it is either irreversibly anonymised or destroyed. For more information about our retention policies, please contact us using the contact details below.",
+        "extended_context": "Ford has a connected vehicle cyber security team, and puts in place various technical and organizational security measures to protect Connected Vehicle Information, including access controls to limit unnecessary or unauthorized access to Connected Vehicle Information, as well as cyber security measures such as hashing and encrypting data. We actively participate in several joint industry forums focused on how to approach these complicated technical issues. In addition to mobile vehicle security professionals, we also work with organizations within the larger community of cybersecurity professionals, including the BITS Information Systems Audit and Control and Manufacturing work group, and apply these broader best practices to the vehicle, where applicable. Ford is also proud to be a founding participant in an industry-wide effort to address emerging issues through the Automotive Information Sharing Analysis Center (the Auto-ISAC ). The Auto ISAC serves as a central point for automakers, suppliers and other stakeholders to share cyber intelligence, coordinate, and respond to vehicle electronic cyber threats. We may share Connected Vehicle Information with: companies or other organisations that we have engaged to provide services on our behalf such as web-hosting companies and other information technology providers; companies or other organisations where you have asked us to or agreed that we may share your personal information with them; dealers and our partners where this is necessary to provide you with a product or service, including, for example, our network provider Vodafone; professional advisors; any law enforcement agency, court, regulator, government authority or other third party where we believe this is necessary to comply with a legal or regulatory obligation, or otherwise to protect our rights, the rights of any third party or individuals' personal safety, or to detect, prevent, or otherwise address fraud, security or safety issues; any third party that purchases, or to which we transfer, all or substantially all of our assets and business; and companies in the Ford Motor Company Group, a list of which can be found here. When we share your personal information, we will make sure that is used for purposes which are compatible with those described here. Your personal information may be transferred within the European Economic Area (\" EEA \"), as well as to countries outside the EEA (including to Ford Motor Company in the USA). The countries to which we transfer your personal information may not be regarded by the European Commission as ensuring an adequate level of protection for personal information. We will ensure that where we transfer your personal information outside the EEA, we do so in accordance with applicable data protection laws. For example, where required we will put in place appropriate safeguards in accordance with our legal obligations to ensure that your personal information is adequately protected, irrespective of the country to which it is transferred. These safeguards may include obtaining contractual assurances from any third party given access to your personal information that your personal information will be protected by standards which are equivalent to those that protect your personal information when it is in the EEA. If you would like to know more about how Ford protects your personal information when it is transferred outside the EEA, or to obtain a copy of the safeguards we put in place to protect your personal information when it is transferred, please contact Henry Ford and Son Limited using the details below. We only keep your personal information in identifiable form for as long as is necessary for the purposes set out above. This generally means holding the information for as long as one of the following apply: your information is reasonably required in order to satisfy the purpose for which you submitted or we collected the information; your information is reasonably required in order to protect and defend our rights or property (this will generally be the length of the relevant limitation period in your jurisdiction); or we are otherwise required to keep your information by applicable laws or regulations. Where information is used for more than one purpose, we will retain it until the purpose with the latest period expires. Once Connected Vehicle Information is no longer needed, it is either irreversibly anonymised or destroyed. For more information about our retention policies, please contact us using the contact details below."
+      },
+      "result": {
+        "right_type": [
+          {
+            "value": "Right of access",
+            "evidence": "You have the right as an individual to find out what information we hold about you and for what purposes",
+            "confidence": "extracted",
+            "id": "Ford:S20:right:1"
+          },
+          {
+            "value": "Right to rectification",
+            "evidence": "as well as to make corrections if necessary",
+            "confidence": "extracted",
+            "id": "Ford:S20:right:2"
+          },
+          {
+            "value": "Right to object",
+            "evidence": "You also have the right in some circumstances to object to our continuing to process your personal information",
+            "confidence": "extracted",
+            "id": "Ford:S20:right:3"
+          },
+          {
+            "value": "Right to erasure",
+            "evidence": "or to ask us to delete, restrict the use of your information",
+            "confidence": "extracted",
+            "id": "Ford:S20:right:4"
+          },
+          {
+            "value": "Right to restriction of processing",
+            "evidence": "or to ask us to delete, restrict the use of your information",
+            "confidence": "extracted",
+            "id": "Ford:S20:right:5"
+          },
+          {
+            "value": "Right to data portability",
+            "evidence": "In some circumstances you can also request that your personal information is provided to you in a commonly used electronic format so that you can share it with other organisations",
+            "confidence": "extracted",
+            "id": "Ford:S20:right:6"
+          },
+          {
+            "value": "Right of access",
+            "evidence": "you are also entitled to lodge a complaint with your local data protection authority",
+            "confidence": "extracted",
+            "id": "Ford:S20:right:7"
+          }
+        ],
+        "choice_type": [
+          {
+            "value": "View and update personal data",
+            "evidence": "We encourage you to contact us to update or correct your personal information if it changes or if the personal information we hold about you is inaccurate",
+            "confidence": "extracted",
+            "id": "Ford:S20:choice:1"
+          },
+          {
+            "value": "Lodge a complaint",
+            "evidence": "If you are unhappy about how we use your information, we hope that in the first instance you will let us know so that we are able to address your concerns",
+            "confidence": "extracted",
+            "id": "Ford:S20:choice:2"
+          }
+        ],
+        "request_channel": [
+          {
+            "value": "Phone / toll-free number",
+            "evidence": "Telephone: 1800771199",
+            "confidence": "extracted",
+            "id": "Ford:S20:channel:1",
+            "linked_ids": [],
+            "link": {
+              "url": "tel:1800771199",
+              "kind": "phone",
+              "visible_text": "1800771199"
+            }
+          },
+          {
+            "value": "Request by email",
+            "evidence": "You can also contact the European Data Protection Officer directly here: DPeurope@ford.com",
+            "confidence": "extracted",
+            "id": "Ford:S20:channel:2",
+            "linked_ids": [],
+            "link": {
+              "url": "mailto:DPeurope@ford.com",
+              "kind": "email",
+              "visible_text": "DPeurope@ford.com"
+            }
+          }
+        ],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S21",
+        "text": "We may modify or update this information from time to time. Where changes will have a fundamental impact on the nature of the processing or otherwise have a substantial impact on you, we will give you sufficient advance notice so that you have the opportunity to exercise your rights in relation to your personal information (for example, to object to the processing).",
+        "heading_path": [
+          "GET CONNECTED",
+          "Changes"
+        ],
+        "links": [],
+        "html_ids": [],
+        "previous_segment_id": "S20",
+        "next_segment_id": "S22",
+        "previous_segment_text": "You have the right as an individual to find out what information we hold about you and for what purposes, as well as to make corrections if necessary. You also have the right in some circumstances to object to our continuing to process your personal information, or to ask us to delete, restrict the use of your information. In some circumstances you can also request that your personal information is provided to you in a commonly used electronic format so that you can share it with other organisations (this is often referred to as the right to 'data portability'). We encourage you to contact us to update or correct your personal information if it changes or if the personal information we hold about you is inaccurate. If you are unhappy about how we use your information, we hope that in the first instance you will let us know so that we are able to address your concerns. However, you are also entitled to lodge a complaint with your local data protection authority. If you have questions or concerns regarding our use of your information, or would like to exercise any of your rights, please contact Henry Ford and Son Limited in the first instance. You may contact Henry Ford and Son Limited at: Ford Customer Relationship Centre Henry Ford & Son Ltd. 5th Floor Penrose One Penrose Dock Cork T23 KW81 Telephone: 1800771199 You can also contact the European Data Protection Officer directly here: DPeurope@ford.com",
+        "extended_context": "We may share Connected Vehicle Information with: companies or other organisations that we have engaged to provide services on our behalf such as web-hosting companies and other information technology providers; companies or other organisations where you have asked us to or agreed that we may share your personal information with them; dealers and our partners where this is necessary to provide you with a product or service, including, for example, our network provider Vodafone; professional advisors; any law enforcement agency, court, regulator, government authority or other third party where we believe this is necessary to comply with a legal or regulatory obligation, or otherwise to protect our rights, the rights of any third party or individuals' personal safety, or to detect, prevent, or otherwise address fraud, security or safety issues; any third party that purchases, or to which we transfer, all or substantially all of our assets and business; and companies in the Ford Motor Company Group, a list of which can be found here. When we share your personal information, we will make sure that is used for purposes which are compatible with those described here. Your personal information may be transferred within the European Economic Area (\" EEA \"), as well as to countries outside the EEA (including to Ford Motor Company in the USA). The countries to which we transfer your personal information may not be regarded by the European Commission as ensuring an adequate level of protection for personal information. We will ensure that where we transfer your personal information outside the EEA, we do so in accordance with applicable data protection laws. For example, where required we will put in place appropriate safeguards in accordance with our legal obligations to ensure that your personal information is adequately protected, irrespective of the country to which it is transferred. These safeguards may include obtaining contractual assurances from any third party given access to your personal information that your personal information will be protected by standards which are equivalent to those that protect your personal information when it is in the EEA. If you would like to know more about how Ford protects your personal information when it is transferred outside the EEA, or to obtain a copy of the safeguards we put in place to protect your personal information when it is transferred, please contact Henry Ford and Son Limited using the details below. We only keep your personal information in identifiable form for as long as is necessary for the purposes set out above. This generally means holding the information for as long as one of the following apply: your information is reasonably required in order to satisfy the purpose for which you submitted or we collected the information; your information is reasonably required in order to protect and defend our rights or property (this will generally be the length of the relevant limitation period in your jurisdiction); or we are otherwise required to keep your information by applicable laws or regulations. Where information is used for more than one purpose, we will retain it until the purpose with the latest period expires. Once Connected Vehicle Information is no longer needed, it is either irreversibly anonymised or destroyed. For more information about our retention policies, please contact us using the contact details below. You have the right as an individual to find out what information we hold about you and for what purposes, as well as to make corrections if necessary. You also have the right in some circumstances to object to our continuing to process your personal information, or to ask us to delete, restrict the use of your information. In some circumstances you can also request that your personal information is provided to you in a commonly used electronic format so that you can share it with other organisations (this is often referred to as the right to 'data portability'). We encourage you to contact us to update or correct your personal information if it changes or if the personal information we hold about you is inaccurate. If you are unhappy about how we use your information, we hope that in the first instance you will let us know so that we are able to address your concerns. However, you are also entitled to lodge a complaint with your local data protection authority. If you have questions or concerns regarding our use of your information, or would like to exercise any of your rights, please contact Henry Ford and Son Limited in the first instance. You may contact Henry Ford and Son Limited at: Ford Customer Relationship Centre Henry Ford & Son Ltd. 5th Floor Penrose One Penrose Dock Cork T23 KW81 Telephone: 1800771199 You can also contact the European Data Protection Officer directly here: DPeurope@ford.com"
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S22",
+        "text": "Imagery and information shown throughout this website may not reflect latest ROI specifications, colours may vary, options and/or accessories may be featured at additional cost and locations and vehicles used may be outside of the ROI. Ford policy is one of continuous product development. The right is reserved to change specifications, colours of the models and items illustrated and described on this website at any time. Dealer fitted accessories are fitted after registration and could have an impact on your vehicle's fuel consumption. The Combined Fuel Consumption (WLTP) and Combined CO 2 Emissions (NEDC Equivalent) figures do not include dealer fitted accessories. © 2026 Ford Motor Company Contact us Site map Accessibility Terms & Privacy Policy Hub Ford Pro Homepage Top",
+        "heading_path": [
+          "GET CONNECTED",
+          "Changes",
+          "Important Information"
+        ],
+        "links": [
+          {
+            "text": "Contact us",
+            "href": "https://www.ford.ie/useful-information/contact-us",
+            "kind": "external"
+          },
+          {
+            "text": "Site map",
+            "href": "https://www.ford.ie/useful-information/site-map",
+            "kind": "external"
+          },
+          {
+            "text": "Accessibility",
+            "href": "https://www.ford.ie/useful-information/accessibility",
+            "kind": "external"
+          },
+          {
+            "text": "Terms & Privacy Policy Hub",
+            "href": "https://www.ford.ie/useful-information/terms-and-privacy-policy-hub",
+            "kind": "external"
+          },
+          {
+            "text": "Top",
+            "href": "https://www.ford.ie/useful-information/terms-and-privacy-policy-hub/connected-car-privacy-policy#0",
+            "kind": "external"
+          }
+        ],
+        "html_ids": [],
+        "previous_segment_id": "S21",
+        "next_segment_id": null,
+        "previous_segment_text": "We may modify or update this information from time to time. Where changes will have a fundamental impact on the nature of the processing or otherwise have a substantial impact on you, we will give you sufficient advance notice so that you have the opportunity to exercise your rights in relation to your personal information (for example, to object to the processing).",
+        "extended_context": "We only keep your personal information in identifiable form for as long as is necessary for the purposes set out above. This generally means holding the information for as long as one of the following apply: your information is reasonably required in order to satisfy the purpose for which you submitted or we collected the information; your information is reasonably required in order to protect and defend our rights or property (this will generally be the length of the relevant limitation period in your jurisdiction); or we are otherwise required to keep your information by applicable laws or regulations. Where information is used for more than one purpose, we will retain it until the purpose with the latest period expires. Once Connected Vehicle Information is no longer needed, it is either irreversibly anonymised or destroyed. For more information about our retention policies, please contact us using the contact details below. You have the right as an individual to find out what information we hold about you and for what purposes, as well as to make corrections if necessary. You also have the right in some circumstances to object to our continuing to process your personal information, or to ask us to delete, restrict the use of your information. In some circumstances you can also request that your personal information is provided to you in a commonly used electronic format so that you can share it with other organisations (this is often referred to as the right to 'data portability'). We encourage you to contact us to update or correct your personal information if it changes or if the personal information we hold about you is inaccurate. If you are unhappy about how we use your information, we hope that in the first instance you will let us know so that we are able to address your concerns. However, you are also entitled to lodge a complaint with your local data protection authority. If you have questions or concerns regarding our use of your information, or would like to exercise any of your rights, please contact Henry Ford and Son Limited in the first instance. You may contact Henry Ford and Son Limited at: Ford Customer Relationship Centre Henry Ford & Son Ltd. 5th Floor Penrose One Penrose Dock Cork T23 KW81 Telephone: 1800771199 You can also contact the European Data Protection Officer directly here: DPeurope@ford.com We may modify or update this information from time to time. Where changes will have a fundamental impact on the nature of the processing or otherwise have a substantial impact on you, we will give you sufficient advance notice so that you have the opportunity to exercise your rights in relation to your personal information (for example, to object to the processing)."
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    }
+  ]
+}

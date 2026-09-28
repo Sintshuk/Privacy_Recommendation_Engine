@@ -1,0 +1,133 @@
+{
+  "policy": "Xreal",
+  "rows": [
+    {
+      "segment": {
+        "id": "S1",
+        "text": "To view the correct version of the Privacy Policy that governs your relationship with Xreal, please select the country you purchased your product in. If the country is not available, that is because we currently do not provide our products and services in that country. Country Language Select Your Country and Language Stay X. Stay REAL. Stay X. Stay REAL. Products xbx a01+ AURA ROG XREAL R1 XREAL 1S XREAL One Pro XREAL Eye XREAL Beam Pro Support Firmware Update Return & Refund Policy Warranty Policy Developer Developer Home SDK Download About About Us Contact Us Join Us Where to buy Visionaries Program © XREAL, Inc. All Rights Reserved. Terms of Service Privacy Policy California Privacy Consumer Health Data Notice",
+        "heading_path": [
+          "Privacy Policy"
+        ],
+        "links": [
+          {
+            "text": "xbx a01+",
+            "href": "/xbxa01",
+            "kind": "external"
+          },
+          {
+            "text": "AURA",
+            "href": "/aura",
+            "kind": "external"
+          },
+          {
+            "text": "ROG XREAL R1",
+            "href": "/rog-xreal-r1",
+            "kind": "external"
+          },
+          {
+            "text": "XREAL 1S",
+            "href": "/1s",
+            "kind": "external"
+          },
+          {
+            "text": "XREAL One Pro",
+            "href": "/one-pro",
+            "kind": "external"
+          },
+          {
+            "text": "XREAL Eye",
+            "href": "/eye",
+            "kind": "external"
+          },
+          {
+            "text": "XREAL Beam Pro",
+            "href": "/beampro",
+            "kind": "external"
+          },
+          {
+            "text": "Firmware Update",
+            "href": "https://www.xreal.com/ota/",
+            "kind": "external"
+          },
+          {
+            "text": "Return & Refund Policy",
+            "href": "/return-refund-policy",
+            "kind": "external"
+          },
+          {
+            "text": "Warranty Policy",
+            "href": "/warranty-policy",
+            "kind": "external"
+          },
+          {
+            "text": "Developer Home",
+            "href": "https://developer.xreal.com/",
+            "kind": "external"
+          },
+          {
+            "text": "SDK Download",
+            "href": "https://developer.xreal.com/download/",
+            "kind": "external"
+          },
+          {
+            "text": "About Us",
+            "href": "/about",
+            "kind": "external"
+          },
+          {
+            "text": "Contact Us",
+            "href": "/contact-us",
+            "kind": "external"
+          },
+          {
+            "text": "Join Us",
+            "href": "/career",
+            "kind": "external"
+          },
+          {
+            "text": "Where to buy",
+            "href": "/stores",
+            "kind": "external"
+          },
+          {
+            "text": "Visionaries Program",
+            "href": "/visionaries",
+            "kind": "external"
+          },
+          {
+            "text": "Terms of Service",
+            "href": "/terms-of-service",
+            "kind": "external"
+          },
+          {
+            "text": "Privacy Policy",
+            "href": "/privacy-policy",
+            "kind": "external"
+          },
+          {
+            "text": "California Privacy",
+            "href": "https://www.xreal.com/california-privacy#additional-privacy-information-for-california-residents",
+            "kind": "external"
+          },
+          {
+            "text": "Consumer Health Data Notice",
+            "href": "/health-data-notice",
+            "kind": "external"
+          }
+        ],
+        "html_ids": [],
+        "previous_segment_id": null,
+        "next_segment_id": null,
+        "previous_segment_text": "",
+        "extended_context": ""
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    }
+  ]
+}

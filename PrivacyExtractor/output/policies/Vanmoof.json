@@ -1,0 +1,942 @@
+{
+  "policy": "Vanmoof",
+  "rows": [
+    {
+      "segment": {
+        "id": "S1",
+        "text": "We respect your privacy and private information, and we'll only ever use your personal data to give you a better riding experience. Here we'll explain exactly what data we use, how we use it, and how we protect your data to keep you safe. Effective from 8 October 2025",
+        "heading_path": [
+          "Privacy Policy"
+        ],
+        "links": [],
+        "html_ids": [],
+        "previous_segment_id": null,
+        "next_segment_id": "S2",
+        "previous_segment_text": "",
+        "extended_context": ""
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S2",
+        "text": "VanMoof Privacy Policy 20.04.2021.pdf VanMoof Privacy Policy 04.09.2023.pdf",
+        "heading_path": [
+          "Privacy Policy",
+          "Previous versions"
+        ],
+        "links": [
+          {
+            "text": "VanMoof Privacy Policy 20.04.2021.pdf",
+            "href": "https://assets-cms.vanmoof.com/Privacy_Statement_Van_Moof_April_2021_0_e4874f0fe2.pdf",
+            "kind": "external"
+          },
+          {
+            "text": "VanMoof Privacy Policy 04.09.2023.pdf",
+            "href": "https://assets-cms.vanmoof.com/Van_Moof_Privacy_Policy_EN_04_09_2023_9fe349f207.pdf",
+            "kind": "external"
+          }
+        ],
+        "html_ids": [],
+        "previous_segment_id": "S1",
+        "next_segment_id": "S3",
+        "previous_segment_text": "We respect your privacy and private information, and we'll only ever use your personal data to give you a better riding experience. Here we'll explain exactly what data we use, how we use it, and how we protect your data to keep you safe. Effective from 8 October 2025",
+        "extended_context": "We respect your privacy and private information, and we'll only ever use your personal data to give you a better riding experience. Here we'll explain exactly what data we use, how we use it, and how we protect your data to keep you safe. Effective from 8 October 2025"
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S3",
+        "text": "1 We are VanMoof. We respect your privacy and private life, but sometimes we need your Personal Data. In this privacy policy, we explain which data we use and how we save, protect and process these data. This privacy policy applies to the use of: 1. our website https://www.vanmoof.com (the \"Website\"), 2. the services that we offer (the \"Services\"), for example, the selling of bikes, scooters and spare parts. 3. our app (the \"App\"), 4. Website, Services and App together are referred to as our \"Platform\". 2 We comply with the General Data Protection Regulation (the \"Relevant Legislation\") This policy is effective from September 04, 2023.",
+        "heading_path": [
+          "Privacy Policy",
+          "1. PRIVACY POLICY MA Micro Netherlands B.V, VanMoof Netherlands B.V., MA Micro Limited (and affiliates)"
+        ],
+        "links": [
+          {
+            "text": "https://www.vanmoof.com",
+            "href": "https://www.vanmoof.com/",
+            "kind": "external"
+          }
+        ],
+        "html_ids": [
+          "privacy_policy_ma_micro_netherlands_bv_vanmoof_netherlands_bv_ma_micro_limited_and_affiliates"
+        ],
+        "previous_segment_id": "S2",
+        "next_segment_id": "S4",
+        "previous_segment_text": "VanMoof Privacy Policy 20.04.2021.pdf VanMoof Privacy Policy 04.09.2023.pdf",
+        "extended_context": "We respect your privacy and private information, and we'll only ever use your personal data to give you a better riding experience. Here we'll explain exactly what data we use, how we use it, and how we protect your data to keep you safe. Effective from 8 October 2025 VanMoof Privacy Policy 20.04.2021.pdf VanMoof Privacy Policy 04.09.2023.pdf"
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S4",
+        "text": "1 If you are younger than sixteen years old, you cannot use our Website, Services and App without the permission of your parents or legal guardian.",
+        "heading_path": [
+          "Privacy Policy",
+          "2. Are you under the age of sixteen?"
+        ],
+        "links": [],
+        "html_ids": [
+          "are_you_under_the_age_of_sixteen"
+        ],
+        "previous_segment_id": "S3",
+        "next_segment_id": "S5",
+        "previous_segment_text": "1 We are VanMoof. We respect your privacy and private life, but sometimes we need your Personal Data. In this privacy policy, we explain which data we use and how we save, protect and process these data. This privacy policy applies to the use of: 1. our website https://www.vanmoof.com (the \"Website\"), 2. the services that we offer (the \"Services\"), for example, the selling of bikes, scooters and spare parts. 3. our app (the \"App\"), 4. Website, Services and App together are referred to as our \"Platform\". 2 We comply with the General Data Protection Regulation (the \"Relevant Legislation\") This policy is effective from September 04, 2023.",
+        "extended_context": "We respect your privacy and private information, and we'll only ever use your personal data to give you a better riding experience. Here we'll explain exactly what data we use, how we use it, and how we protect your data to keep you safe. Effective from 8 October 2025 VanMoof Privacy Policy 20.04.2021.pdf VanMoof Privacy Policy 04.09.2023.pdf 1 We are VanMoof. We respect your privacy and private life, but sometimes we need your Personal Data. In this privacy policy, we explain which data we use and how we save, protect and process these data. This privacy policy applies to the use of: 1. our website https://www.vanmoof.com (the \"Website\"), 2. the services that we offer (the \"Services\"), for example, the selling of bikes, scooters and spare parts. 3. our app (the \"App\"), 4. Website, Services and App together are referred to as our \"Platform\". 2 We comply with the General Data Protection Regulation (the \"Relevant Legislation\") This policy is effective from September 04, 2023."
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S5",
+        "text": "1 To offer our Website, Services and App we process Personal Data and Non Personal Data. \"Personal Data\" means any information relating to an identified or identifiable natural person as defined in the Relevant Legislation. \"Non- Personal Data\" is information that is anonymous, aggregate, de-identified, or otherwise does not reveal your identity.",
+        "heading_path": [
+          "Privacy Policy",
+          "3. Personal Data"
+        ],
+        "links": [],
+        "html_ids": [
+          "personal_data"
+        ],
+        "previous_segment_id": "S4",
+        "next_segment_id": "S6",
+        "previous_segment_text": "1 If you are younger than sixteen years old, you cannot use our Website, Services and App without the permission of your parents or legal guardian.",
+        "extended_context": "VanMoof Privacy Policy 20.04.2021.pdf VanMoof Privacy Policy 04.09.2023.pdf 1 We are VanMoof. We respect your privacy and private life, but sometimes we need your Personal Data. In this privacy policy, we explain which data we use and how we save, protect and process these data. This privacy policy applies to the use of: 1. our website https://www.vanmoof.com (the \"Website\"), 2. the services that we offer (the \"Services\"), for example, the selling of bikes, scooters and spare parts. 3. our app (the \"App\"), 4. Website, Services and App together are referred to as our \"Platform\". 2 We comply with the General Data Protection Regulation (the \"Relevant Legislation\") This policy is effective from September 04, 2023. 1 If you are younger than sixteen years old, you cannot use our Website, Services and App without the permission of your parents or legal guardian."
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S6",
+        "text": "We can collect and process your data at various moments, for example when you visit our Website, create an account via our Website for example for making a purchase, use our Services, install and use our App or Rides feature, or when you contact us. The lawful basis for our processing can be: 1. the necessity to carry out the agreement between you and us, 2. compliance with legal obligations, 3. your consent, 4. our legitimate interests or the legitimate interests of a third party, 5. a legal requirement to share Personal Data.",
+        "heading_path": [
+          "Privacy Policy",
+          "4. Lawful basis"
+        ],
+        "links": [],
+        "html_ids": [
+          "lawful_basis"
+        ],
+        "previous_segment_id": "S5",
+        "next_segment_id": "S7",
+        "previous_segment_text": "1 To offer our Website, Services and App we process Personal Data and Non Personal Data. \"Personal Data\" means any information relating to an identified or identifiable natural person as defined in the Relevant Legislation. \"Non- Personal Data\" is information that is anonymous, aggregate, de-identified, or otherwise does not reveal your identity.",
+        "extended_context": "1 We are VanMoof. We respect your privacy and private life, but sometimes we need your Personal Data. In this privacy policy, we explain which data we use and how we save, protect and process these data. This privacy policy applies to the use of: 1. our website https://www.vanmoof.com (the \"Website\"), 2. the services that we offer (the \"Services\"), for example, the selling of bikes, scooters and spare parts. 3. our app (the \"App\"), 4. Website, Services and App together are referred to as our \"Platform\". 2 We comply with the General Data Protection Regulation (the \"Relevant Legislation\") This policy is effective from September 04, 2023. 1 If you are younger than sixteen years old, you cannot use our Website, Services and App without the permission of your parents or legal guardian. 1 To offer our Website, Services and App we process Personal Data and Non Personal Data. \"Personal Data\" means any information relating to an identified or identifiable natural person as defined in the Relevant Legislation. \"Non- Personal Data\" is information that is anonymous, aggregate, de-identified, or otherwise does not reveal your identity."
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S7",
+        "text": "1 When you use our Platform, we need the following contact data. We need these data for your interactions with VanMoof via digital/electronic tools such as e-mail or telephone; for example to process your order efficiently and correctly, to connect you to your bike, for pre and post sale services, for the use of your account, to improve our services, for marketing purposes, and for any other business/commercial purposes: 1. Your name 2. Your address 3. Your residence 4. Your phone number 5. Your e-mail address 6. Your IP-address 7. Your payment details 8. Your shipping address 9. Your username and password 10. Your reference number 2 For some orders (for example, for our B2B partners) we also need: 1. Company name 2. Date of birth 3. IBAN number 3 We may also collect and process the following Non-Personal Data if you use our Platform: 1. The type of your browser 2. The operating system that you use 3. The internet service provider 4. Website behaviour 4 We may also collect and process the following Non-Personal Data if you use our App. We use these data to provide support and improve our services: 1. Operating system & version 2. Type of Device 3. App version 4. Firmware version 5. Bike settings, e.g. Speed Limit, Total distance, Battery Level. 5 After your explicit consent, you allow the App to collect and process Non-personal Bike event data from your bicycle, e.g. Distance, Speed, Battery level, Boost Behaviour, when you are using our Rides feature. We use these data to execute the feature, provide support, improve our services and products and for marketing purposes. The App does not share the Bike event data with third parties. 6 After your explicit consent, you allow the App to access Bluetooth and GPS data (each also called location data). The App allows you to use Bluetooth data locally on your telephone. The App does not share the location data with third parties. VanMoof does not collect the location data on its servers, nor uses or shares it. 7 After your explicit consent, you allow the App or the Bike, or both, to use location data for explicitly specified features. The App does not share the location data with third parties. VanMoof collects the location data on its servers and uses it for the execution of the feature.",
+        "heading_path": [
+          "Privacy Policy",
+          "5. What data do we collect and process and how do we use your data?"
+        ],
+        "links": [],
+        "html_ids": [
+          "what_data_do_we_collect_and_process_and_how_do_we_use_your_data"
+        ],
+        "previous_segment_id": "S6",
+        "next_segment_id": "S8",
+        "previous_segment_text": "We can collect and process your data at various moments, for example when you visit our Website, create an account via our Website for example for making a purchase, use our Services, install and use our App or Rides feature, or when you contact us. The lawful basis for our processing can be: 1. the necessity to carry out the agreement between you and us, 2. compliance with legal obligations, 3. your consent, 4. our legitimate interests or the legitimate interests of a third party, 5. a legal requirement to share Personal Data.",
+        "extended_context": "1 If you are younger than sixteen years old, you cannot use our Website, Services and App without the permission of your parents or legal guardian. 1 To offer our Website, Services and App we process Personal Data and Non Personal Data. \"Personal Data\" means any information relating to an identified or identifiable natural person as defined in the Relevant Legislation. \"Non- Personal Data\" is information that is anonymous, aggregate, de-identified, or otherwise does not reveal your identity. We can collect and process your data at various moments, for example when you visit our Website, create an account via our Website for example for making a purchase, use our Services, install and use our App or Rides feature, or when you contact us. The lawful basis for our processing can be: 1. the necessity to carry out the agreement between you and us, 2. compliance with legal obligations, 3. your consent, 4. our legitimate interests or the legitimate interests of a third party, 5. a legal requirement to share Personal Data."
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [
+          {
+            "value": "Change or withdraw consent",
+            "evidence": "After your explicit consent, you allow the App to collect and process Non-personal Bike event data from your bicycle",
+            "confidence": "extracted",
+            "id": "Vanmoof:S7:choice:1"
+          },
+          {
+            "value": "Change or withdraw consent",
+            "evidence": "After your explicit consent, you allow the App to access Bluetooth and GPS data",
+            "confidence": "extracted",
+            "id": "Vanmoof:S7:choice:2"
+          },
+          {
+            "value": "Change or withdraw consent",
+            "evidence": "After your explicit consent, you allow the App or the Bike, or both, to use location data for explicitly specified features",
+            "confidence": "extracted",
+            "id": "Vanmoof:S7:choice:3"
+          }
+        ],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S8",
+        "text": "1 We may ask you to participate in market research. In that case, we shall use your data for that market research. We use that statistical data pseudonymised for MA Micro Limited We do not sell, trade or share your answers with others or make them publicly available. In addition, your answers are not connected to your e-mail address.",
+        "heading_path": [
+          "Privacy Policy",
+          "6. Market research"
+        ],
+        "links": [],
+        "html_ids": [
+          "market_research"
+        ],
+        "previous_segment_id": "S7",
+        "next_segment_id": "S9",
+        "previous_segment_text": "1 When you use our Platform, we need the following contact data. We need these data for your interactions with VanMoof via digital/electronic tools such as e-mail or telephone; for example to process your order efficiently and correctly, to connect you to your bike, for pre and post sale services, for the use of your account, to improve our services, for marketing purposes, and for any other business/commercial purposes: 1. Your name 2. Your address 3. Your residence 4. Your phone number 5. Your e-mail address 6. Your IP-address 7. Your payment details 8. Your shipping address 9. Your username and password 10. Your reference number 2 For some orders (for example, for our B2B partners) we also need: 1. Company name 2. Date of birth 3. IBAN number 3 We may also collect and process the following Non-Personal Data if you use our Platform: 1. The type of your browser 2. The operating system that you use 3. The internet service provider 4. Website behaviour 4 We may also collect and process the following Non-Personal Data if you use our App. We use these data to provide support and improve our services: 1. Operating system & version 2. Type of Device 3. App version 4. Firmware version 5. Bike settings, e.g. Speed Limit, Total distance, Battery Level. 5 After your explicit consent, you allow the App to collect and process Non-personal Bike event data from your bicycle, e.g. Distance, Speed, Battery level, Boost Behaviour, when you are using our Rides feature. We use these data to execute the feature, provide support, improve our services and products and for marketing purposes. The App does not share the Bike event data with third parties. 6 After your explicit consent, you allow the App to access Bluetooth and GPS data (each also called location data). The App allows you to use Bluetooth data locally on your telephone. The App does not share the location data with third parties. VanMoof does not collect the location data on its servers, nor uses or shares it. 7 After your explicit consent, you allow the App or the Bike, or both, to use location data for explicitly specified features. The App does not share the location data with third parties. VanMoof collects the location data on its servers and uses it for the execution of the feature.",
+        "extended_context": "1 To offer our Website, Services and App we process Personal Data and Non Personal Data. \"Personal Data\" means any information relating to an identified or identifiable natural person as defined in the Relevant Legislation. \"Non- Personal Data\" is information that is anonymous, aggregate, de-identified, or otherwise does not reveal your identity. We can collect and process your data at various moments, for example when you visit our Website, create an account via our Website for example for making a purchase, use our Services, install and use our App or Rides feature, or when you contact us. The lawful basis for our processing can be: 1. the necessity to carry out the agreement between you and us, 2. compliance with legal obligations, 3. your consent, 4. our legitimate interests or the legitimate interests of a third party, 5. a legal requirement to share Personal Data. 1 When you use our Platform, we need the following contact data. We need these data for your interactions with VanMoof via digital/electronic tools such as e-mail or telephone; for example to process your order efficiently and correctly, to connect you to your bike, for pre and post sale services, for the use of your account, to improve our services, for marketing purposes, and for any other business/commercial purposes: 1. Your name 2. Your address 3. Your residence 4. Your phone number 5. Your e-mail address 6. Your IP-address 7. Your payment details 8. Your shipping address 9. Your username and password 10. Your reference number 2 For some orders (for example, for our B2B partners) we also need: 1. Company name 2. Date of birth 3. IBAN number 3 We may also collect and process the following Non-Personal Data if you use our Platform: 1. The type of your browser 2. The operating system that you use 3. The internet service provider 4. Website behaviour 4 We may also collect and process the following Non-Personal Data if you use our App. We use these data to provide support and improve our services: 1. Operating system & version 2. Type of Device 3. App version 4. Firmware version 5. Bike settings, e.g. Speed Limit, Total distance, Battery Level. 5 After your explicit consent, you allow the App to collect and process Non-personal Bike event data from your bicycle, e.g. Distance, Speed, Battery level, Boost Behaviour, when you are using our Rides feature. We use these data to execute the feature, provide support, improve our services and products and for marketing purposes. The App does not share the Bike event data with third parties. 6 After your explicit consent, you allow the App to access Bluetooth and GPS data (each also called location data). The App allows you to use Bluetooth data locally on your telephone. The App does not share the location data with third parties. VanMoof does not collect the location data on its servers, nor uses or shares it. 7 After your explicit consent, you allow the App or the Bike, or both, to use location data for explicitly specified features. The App does not share the location data with third parties. VanMoof collects the location data on its servers and uses it for the execution of the feature."
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S9",
+        "text": "1 MA Micro Limited offers newsletters. That way, you are fully informed of (discount)offers and other news. We use a double opt-in system to be sure of your permission. This means that you verify your permission for any new confirmation. We ask you for this verification via an e-mail that we send to the address you have given us. Every time we send you a newsletter you have the possibility to unsubscribe from the newsletter.",
+        "heading_path": [
+          "Privacy Policy",
+          "7. Newsletter"
+        ],
+        "links": [],
+        "html_ids": [
+          "newsletter"
+        ],
+        "previous_segment_id": "S8",
+        "next_segment_id": "S10",
+        "previous_segment_text": "1 We may ask you to participate in market research. In that case, we shall use your data for that market research. We use that statistical data pseudonymised for MA Micro Limited We do not sell, trade or share your answers with others or make them publicly available. In addition, your answers are not connected to your e-mail address.",
+        "extended_context": "We can collect and process your data at various moments, for example when you visit our Website, create an account via our Website for example for making a purchase, use our Services, install and use our App or Rides feature, or when you contact us. The lawful basis for our processing can be: 1. the necessity to carry out the agreement between you and us, 2. compliance with legal obligations, 3. your consent, 4. our legitimate interests or the legitimate interests of a third party, 5. a legal requirement to share Personal Data. 1 When you use our Platform, we need the following contact data. We need these data for your interactions with VanMoof via digital/electronic tools such as e-mail or telephone; for example to process your order efficiently and correctly, to connect you to your bike, for pre and post sale services, for the use of your account, to improve our services, for marketing purposes, and for any other business/commercial purposes: 1. Your name 2. Your address 3. Your residence 4. Your phone number 5. Your e-mail address 6. Your IP-address 7. Your payment details 8. Your shipping address 9. Your username and password 10. Your reference number 2 For some orders (for example, for our B2B partners) we also need: 1. Company name 2. Date of birth 3. IBAN number 3 We may also collect and process the following Non-Personal Data if you use our Platform: 1. The type of your browser 2. The operating system that you use 3. The internet service provider 4. Website behaviour 4 We may also collect and process the following Non-Personal Data if you use our App. We use these data to provide support and improve our services: 1. Operating system & version 2. Type of Device 3. App version 4. Firmware version 5. Bike settings, e.g. Speed Limit, Total distance, Battery Level. 5 After your explicit consent, you allow the App to collect and process Non-personal Bike event data from your bicycle, e.g. Distance, Speed, Battery level, Boost Behaviour, when you are using our Rides feature. We use these data to execute the feature, provide support, improve our services and products and for marketing purposes. The App does not share the Bike event data with third parties. 6 After your explicit consent, you allow the App to access Bluetooth and GPS data (each also called location data). The App allows you to use Bluetooth data locally on your telephone. The App does not share the location data with third parties. VanMoof does not collect the location data on its servers, nor uses or shares it. 7 After your explicit consent, you allow the App or the Bike, or both, to use location data for explicitly specified features. The App does not share the location data with third parties. VanMoof collects the location data on its servers and uses it for the execution of the feature. 1 We may ask you to participate in market research. In that case, we shall use your data for that market research. We use that statistical data pseudonymised for MA Micro Limited We do not sell, trade or share your answers with others or make them publicly available. In addition, your answers are not connected to your e-mail address."
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [
+          {
+            "value": "Opt out of marketing",
+            "evidence": "Every time we send you a newsletter you have the possibility to unsubscribe from the newsletter.",
+            "confidence": "extracted",
+            "id": "Vanmoof:S9:choice:1"
+          }
+        ],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S10",
+        "text": "1 We observe reasonable procedures to prevent unauthorised access to, and the misuse of, Personal Data. 2 We use appropriate business systems and procedures to protect and safeguard the Personal Data you give us. We also use security procedures and technical and physical restrictions for accessing and using the Personal Data on our servers. Only authorized personnel are permitted to access Personal Data in the course of their work.",
+        "heading_path": [
+          "Privacy Policy",
+          "8. Security"
+        ],
+        "links": [],
+        "html_ids": [
+          "security"
+        ],
+        "previous_segment_id": "S9",
+        "next_segment_id": "S11",
+        "previous_segment_text": "1 MA Micro Limited offers newsletters. That way, you are fully informed of (discount)offers and other news. We use a double opt-in system to be sure of your permission. This means that you verify your permission for any new confirmation. We ask you for this verification via an e-mail that we send to the address you have given us. Every time we send you a newsletter you have the possibility to unsubscribe from the newsletter.",
+        "extended_context": "1 When you use our Platform, we need the following contact data. We need these data for your interactions with VanMoof via digital/electronic tools such as e-mail or telephone; for example to process your order efficiently and correctly, to connect you to your bike, for pre and post sale services, for the use of your account, to improve our services, for marketing purposes, and for any other business/commercial purposes: 1. Your name 2. Your address 3. Your residence 4. Your phone number 5. Your e-mail address 6. Your IP-address 7. Your payment details 8. Your shipping address 9. Your username and password 10. Your reference number 2 For some orders (for example, for our B2B partners) we also need: 1. Company name 2. Date of birth 3. IBAN number 3 We may also collect and process the following Non-Personal Data if you use our Platform: 1. The type of your browser 2. The operating system that you use 3. The internet service provider 4. Website behaviour 4 We may also collect and process the following Non-Personal Data if you use our App. We use these data to provide support and improve our services: 1. Operating system & version 2. Type of Device 3. App version 4. Firmware version 5. Bike settings, e.g. Speed Limit, Total distance, Battery Level. 5 After your explicit consent, you allow the App to collect and process Non-personal Bike event data from your bicycle, e.g. Distance, Speed, Battery level, Boost Behaviour, when you are using our Rides feature. We use these data to execute the feature, provide support, improve our services and products and for marketing purposes. The App does not share the Bike event data with third parties. 6 After your explicit consent, you allow the App to access Bluetooth and GPS data (each also called location data). The App allows you to use Bluetooth data locally on your telephone. The App does not share the location data with third parties. VanMoof does not collect the location data on its servers, nor uses or shares it. 7 After your explicit consent, you allow the App or the Bike, or both, to use location data for explicitly specified features. The App does not share the location data with third parties. VanMoof collects the location data on its servers and uses it for the execution of the feature. 1 We may ask you to participate in market research. In that case, we shall use your data for that market research. We use that statistical data pseudonymised for MA Micro Limited We do not sell, trade or share your answers with others or make them publicly available. In addition, your answers are not connected to your e-mail address. 1 MA Micro Limited offers newsletters. That way, you are fully informed of (discount)offers and other news. We use a double opt-in system to be sure of your permission. This means that you verify your permission for any new confirmation. We ask you for this verification via an e-mail that we send to the address you have given us. Every time we send you a newsletter you have the possibility to unsubscribe from the newsletter."
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S11",
+        "text": "1 We will not retain your Personal Data longer than is legally allowed, and only as long as is necessary to enable you to use our Platform, including maintaining the online user account if created), to comply with applicable laws, resolve disputes with any parties and otherwise as necessary to allow us to conduct our business, including to detect and prevent fraud or other illegal activities. All Personal Data we retain will be subject to this Privacy Policy.",
+        "heading_path": [
+          "Privacy Policy",
+          "9. How long do we store your Personal Data?"
+        ],
+        "links": [],
+        "html_ids": [
+          "how_long_do_we_store_your_personal_data"
+        ],
+        "previous_segment_id": "S10",
+        "next_segment_id": "S12",
+        "previous_segment_text": "1 We observe reasonable procedures to prevent unauthorised access to, and the misuse of, Personal Data. 2 We use appropriate business systems and procedures to protect and safeguard the Personal Data you give us. We also use security procedures and technical and physical restrictions for accessing and using the Personal Data on our servers. Only authorized personnel are permitted to access Personal Data in the course of their work.",
+        "extended_context": "1 We may ask you to participate in market research. In that case, we shall use your data for that market research. We use that statistical data pseudonymised for MA Micro Limited We do not sell, trade or share your answers with others or make them publicly available. In addition, your answers are not connected to your e-mail address. 1 MA Micro Limited offers newsletters. That way, you are fully informed of (discount)offers and other news. We use a double opt-in system to be sure of your permission. This means that you verify your permission for any new confirmation. We ask you for this verification via an e-mail that we send to the address you have given us. Every time we send you a newsletter you have the possibility to unsubscribe from the newsletter. 1 We observe reasonable procedures to prevent unauthorised access to, and the misuse of, Personal Data. 2 We use appropriate business systems and procedures to protect and safeguard the Personal Data you give us. We also use security procedures and technical and physical restrictions for accessing and using the Personal Data on our servers. Only authorized personnel are permitted to access Personal Data in the course of their work."
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S12",
+        "text": "1 Processors and other business partners Processors and other business partners We may share your Personal Data with Processors, within the meaning of the Relevant Legislation. We may also share Personal Data with third parties who are not processors, as per contractual obligation, for example, other Controllers who provide services connected to the use of our Platform. With these parties, we make clear agreements about the use and protection of Personal Data. We may share your Personal Data for example with IT service providers, marketing analytics, advertising platforms, payment platforms, cloud based data warehousing, lease companies and consumer review platforms. They will, for example, store and visualize data, process transactions, and perform marketing activities. 2 Others, for legal reasons Others, for legal reasons We may also share data with VanMoof affiliates, subsidiaries, and partners, for legal reasons or in connection with claims or disputes. We may also share Personal Data if we believe it is required by applicable law, regulation, operating license or agreement, legal process or governmental request, or where the disclosure is otherwise appropriate due to safety or similar concerns. 3 Others, with your consent Others, with your consent We may ask for your voluntary participation in online or offline communication about VanMoof, for marketing or informational purposes.",
+        "heading_path": [
+          "Privacy Policy",
+          "10. With whom do we share your Personal Data?"
+        ],
+        "links": [],
+        "html_ids": [
+          "with_whom_do_we_share_your_personal_data"
+        ],
+        "previous_segment_id": "S11",
+        "next_segment_id": "S13",
+        "previous_segment_text": "1 We will not retain your Personal Data longer than is legally allowed, and only as long as is necessary to enable you to use our Platform, including maintaining the online user account if created), to comply with applicable laws, resolve disputes with any parties and otherwise as necessary to allow us to conduct our business, including to detect and prevent fraud or other illegal activities. All Personal Data we retain will be subject to this Privacy Policy.",
+        "extended_context": "1 MA Micro Limited offers newsletters. That way, you are fully informed of (discount)offers and other news. We use a double opt-in system to be sure of your permission. This means that you verify your permission for any new confirmation. We ask you for this verification via an e-mail that we send to the address you have given us. Every time we send you a newsletter you have the possibility to unsubscribe from the newsletter. 1 We observe reasonable procedures to prevent unauthorised access to, and the misuse of, Personal Data. 2 We use appropriate business systems and procedures to protect and safeguard the Personal Data you give us. We also use security procedures and technical and physical restrictions for accessing and using the Personal Data on our servers. Only authorized personnel are permitted to access Personal Data in the course of their work. 1 We will not retain your Personal Data longer than is legally allowed, and only as long as is necessary to enable you to use our Platform, including maintaining the online user account if created), to comply with applicable laws, resolve disputes with any parties and otherwise as necessary to allow us to conduct our business, including to detect and prevent fraud or other illegal activities. All Personal Data we retain will be subject to this Privacy Policy."
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S13",
+        "text": "1 The Personal Data that we collect from you is stored within the European Economic Area (\"EEA\"), but may also be transferred to and processed in a country outside of the EEA. Any such transfer of your Personal Data will be carried out in compliance with applicable laws.",
+        "heading_path": [
+          "Privacy Policy",
+          "11. Transfer"
+        ],
+        "links": [],
+        "html_ids": [
+          "transfer"
+        ],
+        "previous_segment_id": "S12",
+        "next_segment_id": "S14",
+        "previous_segment_text": "1 Processors and other business partners Processors and other business partners We may share your Personal Data with Processors, within the meaning of the Relevant Legislation. We may also share Personal Data with third parties who are not processors, as per contractual obligation, for example, other Controllers who provide services connected to the use of our Platform. With these parties, we make clear agreements about the use and protection of Personal Data. We may share your Personal Data for example with IT service providers, marketing analytics, advertising platforms, payment platforms, cloud based data warehousing, lease companies and consumer review platforms. They will, for example, store and visualize data, process transactions, and perform marketing activities. 2 Others, for legal reasons Others, for legal reasons We may also share data with VanMoof affiliates, subsidiaries, and partners, for legal reasons or in connection with claims or disputes. We may also share Personal Data if we believe it is required by applicable law, regulation, operating license or agreement, legal process or governmental request, or where the disclosure is otherwise appropriate due to safety or similar concerns. 3 Others, with your consent Others, with your consent We may ask for your voluntary participation in online or offline communication about VanMoof, for marketing or informational purposes.",
+        "extended_context": "1 We observe reasonable procedures to prevent unauthorised access to, and the misuse of, Personal Data. 2 We use appropriate business systems and procedures to protect and safeguard the Personal Data you give us. We also use security procedures and technical and physical restrictions for accessing and using the Personal Data on our servers. Only authorized personnel are permitted to access Personal Data in the course of their work. 1 We will not retain your Personal Data longer than is legally allowed, and only as long as is necessary to enable you to use our Platform, including maintaining the online user account if created), to comply with applicable laws, resolve disputes with any parties and otherwise as necessary to allow us to conduct our business, including to detect and prevent fraud or other illegal activities. All Personal Data we retain will be subject to this Privacy Policy. 1 Processors and other business partners Processors and other business partners We may share your Personal Data with Processors, within the meaning of the Relevant Legislation. We may also share Personal Data with third parties who are not processors, as per contractual obligation, for example, other Controllers who provide services connected to the use of our Platform. With these parties, we make clear agreements about the use and protection of Personal Data. We may share your Personal Data for example with IT service providers, marketing analytics, advertising platforms, payment platforms, cloud based data warehousing, lease companies and consumer review platforms. They will, for example, store and visualize data, process transactions, and perform marketing activities. 2 Others, for legal reasons Others, for legal reasons We may also share data with VanMoof affiliates, subsidiaries, and partners, for legal reasons or in connection with claims or disputes. We may also share Personal Data if we believe it is required by applicable law, regulation, operating license or agreement, legal process or governmental request, or where the disclosure is otherwise appropriate due to safety or similar concerns. 3 Others, with your consent Others, with your consent We may ask for your voluntary participation in online or offline communication about VanMoof, for marketing or informational purposes."
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S14",
+        "text": "1 You may find advertising or other content on our Website that link to other websites. We do not control the content on these websites and are not responsible for the content or the privacy protection of these websites. We advise you to read the privacy policies of those websites.",
+        "heading_path": [
+          "Privacy Policy",
+          "12. Links"
+        ],
+        "links": [],
+        "html_ids": [
+          "links"
+        ],
+        "previous_segment_id": "S13",
+        "next_segment_id": "S15",
+        "previous_segment_text": "1 The Personal Data that we collect from you is stored within the European Economic Area (\"EEA\"), but may also be transferred to and processed in a country outside of the EEA. Any such transfer of your Personal Data will be carried out in compliance with applicable laws.",
+        "extended_context": "1 We will not retain your Personal Data longer than is legally allowed, and only as long as is necessary to enable you to use our Platform, including maintaining the online user account if created), to comply with applicable laws, resolve disputes with any parties and otherwise as necessary to allow us to conduct our business, including to detect and prevent fraud or other illegal activities. All Personal Data we retain will be subject to this Privacy Policy. 1 Processors and other business partners Processors and other business partners We may share your Personal Data with Processors, within the meaning of the Relevant Legislation. We may also share Personal Data with third parties who are not processors, as per contractual obligation, for example, other Controllers who provide services connected to the use of our Platform. With these parties, we make clear agreements about the use and protection of Personal Data. We may share your Personal Data for example with IT service providers, marketing analytics, advertising platforms, payment platforms, cloud based data warehousing, lease companies and consumer review platforms. They will, for example, store and visualize data, process transactions, and perform marketing activities. 2 Others, for legal reasons Others, for legal reasons We may also share data with VanMoof affiliates, subsidiaries, and partners, for legal reasons or in connection with claims or disputes. We may also share Personal Data if we believe it is required by applicable law, regulation, operating license or agreement, legal process or governmental request, or where the disclosure is otherwise appropriate due to safety or similar concerns. 3 Others, with your consent Others, with your consent We may ask for your voluntary participation in online or offline communication about VanMoof, for marketing or informational purposes. 1 The Personal Data that we collect from you is stored within the European Economic Area (\"EEA\"), but may also be transferred to and processed in a country outside of the EEA. Any such transfer of your Personal Data will be carried out in compliance with applicable laws."
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S15",
+        "text": "1 VanMoof and its advertising partners use cookies. Cookies are text files that are stored in your device or browser when you visit our website. VanMoof also uses techniques similar to cookies, such as tracking pixels, flash cookies, Java scripts, tags and web beacons. We classify all of these techniques under the term cookies. Cookies are used to send data from a server to your device or browser where they are stored. When you visit the website again, this data is sent back to the server, so that your browser or device is recognised - which helps us to remember your preferences and improve your browsing experience. By storing cookies we make sure that, for example: your items are kept in the shopping cart; you are logged in and you can shop hassle-free; you can shop safely at MA Micro Limited; the Website works efficiently; we can test improvements; we can advise you based on what you viewed and/or bought before; you receive complete local information. We use pixels (amongst other things) to: personalise content, ads and product recommendations; optimise and analyse our marketing campaigns based on real-time data. We are currently using cookies (or more specifically pixels) from these parties/partners: Meta Google (Google Ads, Google Analytics 4, Google Tag Manager) LinkedIn Impact Klaviyo OneTrust Microsoft Clarity Shopify 2 You can change your cookies preferences at any time by clicking \"Cookies Settings\" at the bottom of the page.",
+        "heading_path": [
+          "Privacy Policy",
+          "13. Cookies"
+        ],
+        "links": [],
+        "html_ids": [
+          "cookies"
+        ],
+        "previous_segment_id": "S14",
+        "next_segment_id": "S16",
+        "previous_segment_text": "1 You may find advertising or other content on our Website that link to other websites. We do not control the content on these websites and are not responsible for the content or the privacy protection of these websites. We advise you to read the privacy policies of those websites.",
+        "extended_context": "1 Processors and other business partners Processors and other business partners We may share your Personal Data with Processors, within the meaning of the Relevant Legislation. We may also share Personal Data with third parties who are not processors, as per contractual obligation, for example, other Controllers who provide services connected to the use of our Platform. With these parties, we make clear agreements about the use and protection of Personal Data. We may share your Personal Data for example with IT service providers, marketing analytics, advertising platforms, payment platforms, cloud based data warehousing, lease companies and consumer review platforms. They will, for example, store and visualize data, process transactions, and perform marketing activities. 2 Others, for legal reasons Others, for legal reasons We may also share data with VanMoof affiliates, subsidiaries, and partners, for legal reasons or in connection with claims or disputes. We may also share Personal Data if we believe it is required by applicable law, regulation, operating license or agreement, legal process or governmental request, or where the disclosure is otherwise appropriate due to safety or similar concerns. 3 Others, with your consent Others, with your consent We may ask for your voluntary participation in online or offline communication about VanMoof, for marketing or informational purposes. 1 The Personal Data that we collect from you is stored within the European Economic Area (\"EEA\"), but may also be transferred to and processed in a country outside of the EEA. Any such transfer of your Personal Data will be carried out in compliance with applicable laws. 1 You may find advertising or other content on our Website that link to other websites. We do not control the content on these websites and are not responsible for the content or the privacy protection of these websites. We advise you to read the privacy policies of those websites."
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [
+          {
+            "value": "Change or withdraw consent",
+            "evidence": "You can change your cookies preferences at any time by clicking \"Cookies Settings\" at the bottom of the page.",
+            "confidence": "extracted",
+            "id": "Vanmoof:S15:choice:1"
+          }
+        ],
+        "request_channel": [
+          {
+            "value": "In-app or device settings",
+            "evidence": "You can change your cookies preferences at any time by clicking \"Cookies Settings\" at the bottom of the page.",
+            "confidence": "extracted",
+            "id": "Vanmoof:S15:channel:1",
+            "linked_ids": [
+              "Vanmoof:S15:choice:1"
+            ],
+            "link": null
+          }
+        ],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S16",
+        "text": "1 You have the following rights: 1. You may request access to the Personal Data we process about you; 2. You may request us to correct, update, shield or delete your personal information in our records; 3. You may request a copy of the Personal Data we have processed about you. We can - on your request - send this copy to another party, so you don't have to send the Personal Data yourself; 4. You may file a complaint against processing your Personal Data; 5. You may file a complaint with the Dutch Data Protection Authority (Autoriteit Persoonsgegevens) if you are under the impression that we process your data unlawfully; 6. You may always withdraw your consent to process your Personal Data. In that case, we will no longer process your Personal Data for the purpose for which consent is necessary. 2 Should you have further questions regarding this privacy policy, please contact us via the information below.",
+        "heading_path": [
+          "Privacy Policy",
+          "14. Your rights under GDPR"
+        ],
+        "links": [],
+        "html_ids": [
+          "your_rights_under_gdpr"
+        ],
+        "previous_segment_id": "S15",
+        "next_segment_id": "S17",
+        "previous_segment_text": "1 VanMoof and its advertising partners use cookies. Cookies are text files that are stored in your device or browser when you visit our website. VanMoof also uses techniques similar to cookies, such as tracking pixels, flash cookies, Java scripts, tags and web beacons. We classify all of these techniques under the term cookies. Cookies are used to send data from a server to your device or browser where they are stored. When you visit the website again, this data is sent back to the server, so that your browser or device is recognised - which helps us to remember your preferences and improve your browsing experience. By storing cookies we make sure that, for example: your items are kept in the shopping cart; you are logged in and you can shop hassle-free; you can shop safely at MA Micro Limited; the Website works efficiently; we can test improvements; we can advise you based on what you viewed and/or bought before; you receive complete local information. We use pixels (amongst other things) to: personalise content, ads and product recommendations; optimise and analyse our marketing campaigns based on real-time data. We are currently using cookies (or more specifically pixels) from these parties/partners: Meta Google (Google Ads, Google Analytics 4, Google Tag Manager) LinkedIn Impact Klaviyo OneTrust Microsoft Clarity Shopify 2 You can change your cookies preferences at any time by clicking \"Cookies Settings\" at the bottom of the page.",
+        "extended_context": "1 The Personal Data that we collect from you is stored within the European Economic Area (\"EEA\"), but may also be transferred to and processed in a country outside of the EEA. Any such transfer of your Personal Data will be carried out in compliance with applicable laws. 1 You may find advertising or other content on our Website that link to other websites. We do not control the content on these websites and are not responsible for the content or the privacy protection of these websites. We advise you to read the privacy policies of those websites. 1 VanMoof and its advertising partners use cookies. Cookies are text files that are stored in your device or browser when you visit our website. VanMoof also uses techniques similar to cookies, such as tracking pixels, flash cookies, Java scripts, tags and web beacons. We classify all of these techniques under the term cookies. Cookies are used to send data from a server to your device or browser where they are stored. When you visit the website again, this data is sent back to the server, so that your browser or device is recognised - which helps us to remember your preferences and improve your browsing experience. By storing cookies we make sure that, for example: your items are kept in the shopping cart; you are logged in and you can shop hassle-free; you can shop safely at MA Micro Limited; the Website works efficiently; we can test improvements; we can advise you based on what you viewed and/or bought before; you receive complete local information. We use pixels (amongst other things) to: personalise content, ads and product recommendations; optimise and analyse our marketing campaigns based on real-time data. We are currently using cookies (or more specifically pixels) from these parties/partners: Meta Google (Google Ads, Google Analytics 4, Google Tag Manager) LinkedIn Impact Klaviyo OneTrust Microsoft Clarity Shopify 2 You can change your cookies preferences at any time by clicking \"Cookies Settings\" at the bottom of the page."
+      },
+      "result": {
+        "right_type": [
+          {
+            "value": "Right of access",
+            "evidence": "You may request access to the Personal Data we process about you",
+            "confidence": "extracted",
+            "id": "Vanmoof:S16:right:1"
+          },
+          {
+            "value": "Right to rectification",
+            "evidence": "You may request us to correct, update, shield or delete your personal information in our records",
+            "confidence": "extracted",
+            "id": "Vanmoof:S16:right:2"
+          },
+          {
+            "value": "Right to erasure",
+            "evidence": "You may request us to correct, update, shield or delete your personal information in our records",
+            "confidence": "extracted",
+            "id": "Vanmoof:S16:right:3"
+          },
+          {
+            "value": "Right to data portability",
+            "evidence": "We can - on your request - send this copy to another party, so you don't have to send the Personal Data yourself",
+            "confidence": "extracted",
+            "id": "Vanmoof:S16:right:4"
+          },
+          {
+            "value": "Right to object",
+            "evidence": "You may file a complaint against processing your Personal Data",
+            "confidence": "extracted",
+            "id": "Vanmoof:S16:right:5"
+          },
+          {
+            "value": "Right of access",
+            "evidence": "You may file a complaint with the Dutch Data Protection Authority (Autoriteit Persoonsgegevens) if you are under the impression that we process your data unlawfully",
+            "confidence": "extracted",
+            "id": "Vanmoof:S16:right:6"
+          }
+        ],
+        "choice_type": [
+          {
+            "value": "Change or withdraw consent",
+            "evidence": "You may always withdraw your consent to process your Personal Data",
+            "confidence": "extracted",
+            "id": "Vanmoof:S16:choice:1"
+          }
+        ],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S17",
+        "text": "1 We may occasionally update this notice. If we make significant changes, we will notify users in advance of the changes through the Platform or through other means, such as e-mail. We encourage users to periodically review this notice for the latest information on our privacy practices. 2 After such notice, the use of our services by users in countries outside the European Union will be understood as consent to the updates to the extent permitted by law.",
+        "heading_path": [
+          "Privacy Policy",
+          "15. Update to this notice"
+        ],
+        "links": [],
+        "html_ids": [
+          "update_to_this_notice"
+        ],
+        "previous_segment_id": "S16",
+        "next_segment_id": "S18",
+        "previous_segment_text": "1 You have the following rights: 1. You may request access to the Personal Data we process about you; 2. You may request us to correct, update, shield or delete your personal information in our records; 3. You may request a copy of the Personal Data we have processed about you. We can - on your request - send this copy to another party, so you don't have to send the Personal Data yourself; 4. You may file a complaint against processing your Personal Data; 5. You may file a complaint with the Dutch Data Protection Authority (Autoriteit Persoonsgegevens) if you are under the impression that we process your data unlawfully; 6. You may always withdraw your consent to process your Personal Data. In that case, we will no longer process your Personal Data for the purpose for which consent is necessary. 2 Should you have further questions regarding this privacy policy, please contact us via the information below.",
+        "extended_context": "1 You may find advertising or other content on our Website that link to other websites. We do not control the content on these websites and are not responsible for the content or the privacy protection of these websites. We advise you to read the privacy policies of those websites. 1 VanMoof and its advertising partners use cookies. Cookies are text files that are stored in your device or browser when you visit our website. VanMoof also uses techniques similar to cookies, such as tracking pixels, flash cookies, Java scripts, tags and web beacons. We classify all of these techniques under the term cookies. Cookies are used to send data from a server to your device or browser where they are stored. When you visit the website again, this data is sent back to the server, so that your browser or device is recognised - which helps us to remember your preferences and improve your browsing experience. By storing cookies we make sure that, for example: your items are kept in the shopping cart; you are logged in and you can shop hassle-free; you can shop safely at MA Micro Limited; the Website works efficiently; we can test improvements; we can advise you based on what you viewed and/or bought before; you receive complete local information. We use pixels (amongst other things) to: personalise content, ads and product recommendations; optimise and analyse our marketing campaigns based on real-time data. We are currently using cookies (or more specifically pixels) from these parties/partners: Meta Google (Google Ads, Google Analytics 4, Google Tag Manager) LinkedIn Impact Klaviyo OneTrust Microsoft Clarity Shopify 2 You can change your cookies preferences at any time by clicking \"Cookies Settings\" at the bottom of the page. 1 You have the following rights: 1. You may request access to the Personal Data we process about you; 2. You may request us to correct, update, shield or delete your personal information in our records; 3. You may request a copy of the Personal Data we have processed about you. We can - on your request - send this copy to another party, so you don't have to send the Personal Data yourself; 4. You may file a complaint against processing your Personal Data; 5. You may file a complaint with the Dutch Data Protection Authority (Autoriteit Persoonsgegevens) if you are under the impression that we process your data unlawfully; 6. You may always withdraw your consent to process your Personal Data. In that case, we will no longer process your Personal Data for the purpose for which consent is necessary. 2 Should you have further questions regarding this privacy policy, please contact us via the information below."
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S18",
+        "text": "1 For the purpose of payment through third party payment providers, we might transfer and process your data to third party payment providers. 2 In order to offer you Klarna's payment methods, we might in the checkout pass your personal data in the form of contact and order details to Klarna, in order for Klarna to assess whether you qualify for their payment methods and to tailor those payment methods for you. Your personal data transferred is processed in line with Klarna's own privacy notice.",
+        "heading_path": [
+          "Privacy Policy",
+          "16. Third party payment providers"
+        ],
+        "links": [
+          {
+            "text": "Klarna's own privacy notice",
+            "href": "https://www.klarna.com/international/privacy-policy/",
+            "kind": "external"
+          }
+        ],
+        "html_ids": [
+          "third_party_payment_providers"
+        ],
+        "previous_segment_id": "S17",
+        "next_segment_id": "S19",
+        "previous_segment_text": "1 We may occasionally update this notice. If we make significant changes, we will notify users in advance of the changes through the Platform or through other means, such as e-mail. We encourage users to periodically review this notice for the latest information on our privacy practices. 2 After such notice, the use of our services by users in countries outside the European Union will be understood as consent to the updates to the extent permitted by law.",
+        "extended_context": "1 VanMoof and its advertising partners use cookies. Cookies are text files that are stored in your device or browser when you visit our website. VanMoof also uses techniques similar to cookies, such as tracking pixels, flash cookies, Java scripts, tags and web beacons. We classify all of these techniques under the term cookies. Cookies are used to send data from a server to your device or browser where they are stored. When you visit the website again, this data is sent back to the server, so that your browser or device is recognised - which helps us to remember your preferences and improve your browsing experience. By storing cookies we make sure that, for example: your items are kept in the shopping cart; you are logged in and you can shop hassle-free; you can shop safely at MA Micro Limited; the Website works efficiently; we can test improvements; we can advise you based on what you viewed and/or bought before; you receive complete local information. We use pixels (amongst other things) to: personalise content, ads and product recommendations; optimise and analyse our marketing campaigns based on real-time data. We are currently using cookies (or more specifically pixels) from these parties/partners: Meta Google (Google Ads, Google Analytics 4, Google Tag Manager) LinkedIn Impact Klaviyo OneTrust Microsoft Clarity Shopify 2 You can change your cookies preferences at any time by clicking \"Cookies Settings\" at the bottom of the page. 1 You have the following rights: 1. You may request access to the Personal Data we process about you; 2. You may request us to correct, update, shield or delete your personal information in our records; 3. You may request a copy of the Personal Data we have processed about you. We can - on your request - send this copy to another party, so you don't have to send the Personal Data yourself; 4. You may file a complaint against processing your Personal Data; 5. You may file a complaint with the Dutch Data Protection Authority (Autoriteit Persoonsgegevens) if you are under the impression that we process your data unlawfully; 6. You may always withdraw your consent to process your Personal Data. In that case, we will no longer process your Personal Data for the purpose for which consent is necessary. 2 Should you have further questions regarding this privacy policy, please contact us via the information below. 1 We may occasionally update this notice. If we make significant changes, we will notify users in advance of the changes through the Platform or through other means, such as e-mail. We encourage users to periodically review this notice for the latest information on our privacy practices. 2 After such notice, the use of our services by users in countries outside the European Union will be understood as consent to the updates to the extent permitted by law."
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S19",
+        "text": "1 MA Micro Limited MA Micro Limited 22 Baker Street, W1U 3BW London England Private Limited Company Company number: 13848998 https://help.vanmoof.com 2 VanMoof Netherlands B.V. VanMoof Netherlands B.V. Company number: 91314089 Nieuwe Looiersdwarsstraat 9, 1017TZ Amsterdam https://help.vanmoof.com 3 MA Micro Netherlands B.V. MA Micro Netherlands B.V. Company number: 91990866 Nieuwe Looiersdwarsstraat 9, 1017TZ Amsterdam https://help.vanmoof.com",
+        "heading_path": [
+          "Privacy Policy",
+          "17. Contact information"
+        ],
+        "links": [
+          {
+            "text": "https://help.vanmoof.com",
+            "href": "https://help.vanmoof.com/",
+            "kind": "external"
+          }
+        ],
+        "html_ids": [
+          "contact_information"
+        ],
+        "previous_segment_id": "S18",
+        "next_segment_id": "S20",
+        "previous_segment_text": "1 For the purpose of payment through third party payment providers, we might transfer and process your data to third party payment providers. 2 In order to offer you Klarna's payment methods, we might in the checkout pass your personal data in the form of contact and order details to Klarna, in order for Klarna to assess whether you qualify for their payment methods and to tailor those payment methods for you. Your personal data transferred is processed in line with Klarna's own privacy notice.",
+        "extended_context": "1 You have the following rights: 1. You may request access to the Personal Data we process about you; 2. You may request us to correct, update, shield or delete your personal information in our records; 3. You may request a copy of the Personal Data we have processed about you. We can - on your request - send this copy to another party, so you don't have to send the Personal Data yourself; 4. You may file a complaint against processing your Personal Data; 5. You may file a complaint with the Dutch Data Protection Authority (Autoriteit Persoonsgegevens) if you are under the impression that we process your data unlawfully; 6. You may always withdraw your consent to process your Personal Data. In that case, we will no longer process your Personal Data for the purpose for which consent is necessary. 2 Should you have further questions regarding this privacy policy, please contact us via the information below. 1 We may occasionally update this notice. If we make significant changes, we will notify users in advance of the changes through the Platform or through other means, such as e-mail. We encourage users to periodically review this notice for the latest information on our privacy practices. 2 After such notice, the use of our services by users in countries outside the European Union will be understood as consent to the updates to the extent permitted by law. 1 For the purpose of payment through third party payment providers, we might transfer and process your data to third party payment providers. 2 In order to offer you Klarna's payment methods, we might in the checkout pass your personal data in the form of contact and order details to Klarna, in order for Klarna to assess whether you qualify for their payment methods and to tailor those payment methods for you. Your personal data transferred is processed in line with Klarna's own privacy notice."
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S20",
+        "text": "Newsletter Be the first to know about product launches and all-things inside VanMoof. Sign up Products Bikes Accessories Ride Pro subscription Customise your S6 Theft Proof service VanMoof app Leasing About us Our story Testing Lab WEEE Blog Careers Press Support Rider Help Find a partner Delivery Returns",
+        "heading_path": [
+          "Privacy Policy",
+          "Our community #VANMOOF"
+        ],
+        "links": [
+          {
+            "text": "Bikes",
+            "href": "https://www.vanmoof.com/our-rides",
+            "kind": "external"
+          },
+          {
+            "text": "Accessories",
+            "href": "https://www.vanmoof.com/accessories",
+            "kind": "external"
+          },
+          {
+            "text": "Ride Pro subscription",
+            "href": "https://www.vanmoof.com/services/ride-pro",
+            "kind": "external"
+          },
+          {
+            "text": "Customise your S6",
+            "href": "https://www.vanmoof.com/s6-series-configurator",
+            "kind": "external"
+          },
+          {
+            "text": "Theft Proof service",
+            "href": "https://www.vanmoof.com/services/theft-proof",
+            "kind": "external"
+          },
+          {
+            "text": "VanMoof app",
+            "href": "https://www.vanmoof.com/app",
+            "kind": "external"
+          },
+          {
+            "text": "Leasing",
+            "href": "https://www.vanmoof.com/leasing",
+            "kind": "external"
+          },
+          {
+            "text": "Our story",
+            "href": "https://www.vanmoof.com/our-story",
+            "kind": "external"
+          },
+          {
+            "text": "Testing Lab",
+            "href": "https://www.vanmoof.com/testing-lab",
+            "kind": "external"
+          },
+          {
+            "text": "WEEE",
+            "href": "https://www.vanmoof.com/weee-compliance",
+            "kind": "external"
+          },
+          {
+            "text": "Blog",
+            "href": "https://www.vanmoof.com/blog/en",
+            "kind": "external"
+          },
+          {
+            "text": "Careers",
+            "href": "https://vanmoof.bamboohr.com/careers",
+            "kind": "external"
+          },
+          {
+            "text": "Press",
+            "href": "https://www.vanmoof.com/news/en-GB/",
+            "kind": "external"
+          },
+          {
+            "text": "Rider Help",
+            "href": "https://help.vanmoof.com/",
+            "kind": "external"
+          },
+          {
+            "text": "Find a partner",
+            "href": "https://www.vanmoof.com/find-a-store",
+            "kind": "external"
+          },
+          {
+            "text": "Delivery",
+            "href": "https://www.vanmoof.com/shipping-and-delivery",
+            "kind": "external"
+          },
+          {
+            "text": "Returns",
+            "href": "https://www.vanmoof.com/return-policy",
+            "kind": "external"
+          }
+        ],
+        "html_ids": [],
+        "previous_segment_id": "S19",
+        "next_segment_id": "S21",
+        "previous_segment_text": "1 MA Micro Limited MA Micro Limited 22 Baker Street, W1U 3BW London England Private Limited Company Company number: 13848998 https://help.vanmoof.com 2 VanMoof Netherlands B.V. VanMoof Netherlands B.V. Company number: 91314089 Nieuwe Looiersdwarsstraat 9, 1017TZ Amsterdam https://help.vanmoof.com 3 MA Micro Netherlands B.V. MA Micro Netherlands B.V. Company number: 91990866 Nieuwe Looiersdwarsstraat 9, 1017TZ Amsterdam https://help.vanmoof.com",
+        "extended_context": "1 We may occasionally update this notice. If we make significant changes, we will notify users in advance of the changes through the Platform or through other means, such as e-mail. We encourage users to periodically review this notice for the latest information on our privacy practices. 2 After such notice, the use of our services by users in countries outside the European Union will be understood as consent to the updates to the extent permitted by law. 1 For the purpose of payment through third party payment providers, we might transfer and process your data to third party payment providers. 2 In order to offer you Klarna's payment methods, we might in the checkout pass your personal data in the form of contact and order details to Klarna, in order for Klarna to assess whether you qualify for their payment methods and to tailor those payment methods for you. Your personal data transferred is processed in line with Klarna's own privacy notice. 1 MA Micro Limited MA Micro Limited 22 Baker Street, W1U 3BW London England Private Limited Company Company number: 13848998 https://help.vanmoof.com 2 VanMoof Netherlands B.V. VanMoof Netherlands B.V. Company number: 91314089 Nieuwe Looiersdwarsstraat 9, 1017TZ Amsterdam https://help.vanmoof.com 3 MA Micro Netherlands B.V. MA Micro Netherlands B.V. Company number: 91990866 Nieuwe Looiersdwarsstraat 9, 1017TZ Amsterdam https://help.vanmoof.com"
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S21",
+        "text": "Instagram YouTube Facebook Privacy Policy Terms & Conditions Impressum Cookie Statement Cookies Settings DE | EN By clicking \"Accept All\" you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts. Go to cookie settings for more information and to set your preferences. Privacy Policy Cookie Statement Accept All Reject All Cookies Settings VanMoof Logo",
+        "heading_path": [
+          "Privacy Policy",
+          "Our community #VANMOOF",
+          "Support"
+        ],
+        "links": [
+          {
+            "text": "Instagram",
+            "href": "https://www.instagram.com/vanmoof/",
+            "kind": "external"
+          },
+          {
+            "text": "YouTube",
+            "href": "https://www.youtube.com/channel/UC39eehCPxcugmSWO7nAqM0g",
+            "kind": "external"
+          },
+          {
+            "text": "Facebook",
+            "href": "https://www.facebook.com/VANMOOF/",
+            "kind": "external"
+          },
+          {
+            "text": "Privacy Policy",
+            "href": "https://www.vanmoof.com/privacy-policy",
+            "kind": "external"
+          },
+          {
+            "text": "Terms & Conditions",
+            "href": "https://www.vanmoof.com/terms-and-conditions",
+            "kind": "external"
+          },
+          {
+            "text": "Impressum",
+            "href": "https://www.vanmoof.com/impressum",
+            "kind": "external"
+          },
+          {
+            "text": "Cookie Statement",
+            "href": "https://www.vanmoof.com/cookie-statement",
+            "kind": "external"
+          },
+          {
+            "text": "Privacy Policy",
+            "href": "https://www.vanmoof.com/en-NL/privacy-policy",
+            "kind": "external"
+          },
+          {
+            "text": "Cookie Statement",
+            "href": "https://www.vanmoof.com/en-NL/cookie-statement",
+            "kind": "external"
+          }
+        ],
+        "html_ids": [
+          "bottom-row"
+        ],
+        "previous_segment_id": "S20",
+        "next_segment_id": "S22",
+        "previous_segment_text": "Newsletter Be the first to know about product launches and all-things inside VanMoof. Sign up Products Bikes Accessories Ride Pro subscription Customise your S6 Theft Proof service VanMoof app Leasing About us Our story Testing Lab WEEE Blog Careers Press Support Rider Help Find a partner Delivery Returns",
+        "extended_context": "1 For the purpose of payment through third party payment providers, we might transfer and process your data to third party payment providers. 2 In order to offer you Klarna's payment methods, we might in the checkout pass your personal data in the form of contact and order details to Klarna, in order for Klarna to assess whether you qualify for their payment methods and to tailor those payment methods for you. Your personal data transferred is processed in line with Klarna's own privacy notice. 1 MA Micro Limited MA Micro Limited 22 Baker Street, W1U 3BW London England Private Limited Company Company number: 13848998 https://help.vanmoof.com 2 VanMoof Netherlands B.V. VanMoof Netherlands B.V. Company number: 91314089 Nieuwe Looiersdwarsstraat 9, 1017TZ Amsterdam https://help.vanmoof.com 3 MA Micro Netherlands B.V. MA Micro Netherlands B.V. Company number: 91990866 Nieuwe Looiersdwarsstraat 9, 1017TZ Amsterdam https://help.vanmoof.com Newsletter Be the first to know about product launches and all-things inside VanMoof. Sign up Products Bikes Accessories Ride Pro subscription Customise your S6 Theft Proof service VanMoof app Leasing About us Our story Testing Lab WEEE Blog Careers Press Support Rider Help Find a partner Delivery Returns"
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [
+          {
+            "value": "Change or withdraw consent",
+            "evidence": "By clicking \"Accept All\" you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts.",
+            "confidence": "extracted",
+            "id": "Vanmoof:S21:choice:1"
+          }
+        ],
+        "request_channel": [
+          {
+            "value": "In-app or device settings",
+            "evidence": "Go to cookie settings for more information and to set your preferences.",
+            "confidence": "extracted",
+            "id": "Vanmoof:S21:channel:1",
+            "linked_ids": [
+              "Vanmoof:S21:choice:1"
+            ],
+            "link": null
+          }
+        ],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S22",
+        "text": "We and our advertising partners use cookies (and similar techniques) to store and access information on the device you are using and to collect (personal) data, such as unique IDs, geolocation, and browsing behavior about you. We use this data to personalize our ads and content, measure the usage of ads and content, for market research, and to improve our products and services. You can save or change your cookie settings by using the buttons below or by going to the privacy settings. More information can be found in our privacy policy and cookie statement. We and our partners process data for the following purposes: Storing and/or accessing information on a device. Personalized ads and content, ad and content measurement, audience insights and product development. Precise geolocation data and identification through device scanning. Privacy Policy Cookie Statement Allow All",
+        "heading_path": [
+          "Privacy Policy",
+          "Privacy Preference Center"
+        ],
+        "links": [
+          {
+            "text": "Privacy Policy",
+            "href": "https://www.vanmoof.com/en-NL/privacy-policy",
+            "kind": "external"
+          },
+          {
+            "text": "Cookie Statement",
+            "href": "https://www.vanmoof.com/en-NL/cookie-statement",
+            "kind": "external"
+          }
+        ],
+        "html_ids": [],
+        "previous_segment_id": "S21",
+        "next_segment_id": "S23",
+        "previous_segment_text": "Instagram YouTube Facebook Privacy Policy Terms & Conditions Impressum Cookie Statement Cookies Settings DE | EN By clicking \"Accept All\" you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts. Go to cookie settings for more information and to set your preferences. Privacy Policy Cookie Statement Accept All Reject All Cookies Settings VanMoof Logo",
+        "extended_context": "1 MA Micro Limited MA Micro Limited 22 Baker Street, W1U 3BW London England Private Limited Company Company number: 13848998 https://help.vanmoof.com 2 VanMoof Netherlands B.V. VanMoof Netherlands B.V. Company number: 91314089 Nieuwe Looiersdwarsstraat 9, 1017TZ Amsterdam https://help.vanmoof.com 3 MA Micro Netherlands B.V. MA Micro Netherlands B.V. Company number: 91990866 Nieuwe Looiersdwarsstraat 9, 1017TZ Amsterdam https://help.vanmoof.com Newsletter Be the first to know about product launches and all-things inside VanMoof. Sign up Products Bikes Accessories Ride Pro subscription Customise your S6 Theft Proof service VanMoof app Leasing About us Our story Testing Lab WEEE Blog Careers Press Support Rider Help Find a partner Delivery Returns Instagram YouTube Facebook Privacy Policy Terms & Conditions Impressum Cookie Statement Cookies Settings DE | EN By clicking \"Accept All\" you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts. Go to cookie settings for more information and to set your preferences. Privacy Policy Cookie Statement Accept All Reject All Cookies Settings VanMoof Logo"
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [
+          {
+            "value": "Change or withdraw consent",
+            "evidence": "You can save or change your cookie settings by using the buttons below or by going to the privacy settings.",
+            "confidence": "extracted",
+            "id": "Vanmoof:S22:choice:1"
+          }
+        ],
+        "request_channel": [
+          {
+            "value": "In-app or device settings",
+            "evidence": "You can save or change your cookie settings by using the buttons below or by going to the privacy settings.",
+            "confidence": "extracted",
+            "id": "Vanmoof:S22:channel:1",
+            "linked_ids": [
+              "Vanmoof:S22:choice:1"
+            ],
+            "link": null
+          }
+        ],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S23",
+        "text": "Always Active These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.",
+        "heading_path": [
+          "Privacy Policy",
+          "Privacy Preference Center",
+          "Manage Consent Preferences",
+          "Strictly Necessary Cookies"
+        ],
+        "links": [],
+        "html_ids": [],
+        "previous_segment_id": "S22",
+        "next_segment_id": "S24",
+        "previous_segment_text": "We and our advertising partners use cookies (and similar techniques) to store and access information on the device you are using and to collect (personal) data, such as unique IDs, geolocation, and browsing behavior about you. We use this data to personalize our ads and content, measure the usage of ads and content, for market research, and to improve our products and services. You can save or change your cookie settings by using the buttons below or by going to the privacy settings. More information can be found in our privacy policy and cookie statement. We and our partners process data for the following purposes: Storing and/or accessing information on a device. Personalized ads and content, ad and content measurement, audience insights and product development. Precise geolocation data and identification through device scanning. Privacy Policy Cookie Statement Allow All",
+        "extended_context": "Newsletter Be the first to know about product launches and all-things inside VanMoof. Sign up Products Bikes Accessories Ride Pro subscription Customise your S6 Theft Proof service VanMoof app Leasing About us Our story Testing Lab WEEE Blog Careers Press Support Rider Help Find a partner Delivery Returns Instagram YouTube Facebook Privacy Policy Terms & Conditions Impressum Cookie Statement Cookies Settings DE | EN By clicking \"Accept All\" you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts. Go to cookie settings for more information and to set your preferences. Privacy Policy Cookie Statement Accept All Reject All Cookies Settings VanMoof Logo We and our advertising partners use cookies (and similar techniques) to store and access information on the device you are using and to collect (personal) data, such as unique IDs, geolocation, and browsing behavior about you. We use this data to personalize our ads and content, measure the usage of ads and content, for market research, and to improve our products and services. You can save or change your cookie settings by using the buttons below or by going to the privacy settings. More information can be found in our privacy policy and cookie statement. We and our partners process data for the following purposes: Storing and/or accessing information on a device. Personalized ads and content, ad and content measurement, audience insights and product development. Precise geolocation data and identification through device scanning. Privacy Policy Cookie Statement Allow All"
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S24",
+        "text": "Performance Cookies These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.",
+        "heading_path": [
+          "Privacy Policy",
+          "Privacy Preference Center",
+          "Manage Consent Preferences",
+          "Performance Cookies"
+        ],
+        "links": [],
+        "html_ids": [],
+        "previous_segment_id": "S23",
+        "next_segment_id": "S25",
+        "previous_segment_text": "Always Active These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.",
+        "extended_context": "Instagram YouTube Facebook Privacy Policy Terms & Conditions Impressum Cookie Statement Cookies Settings DE | EN By clicking \"Accept All\" you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts. Go to cookie settings for more information and to set your preferences. Privacy Policy Cookie Statement Accept All Reject All Cookies Settings VanMoof Logo We and our advertising partners use cookies (and similar techniques) to store and access information on the device you are using and to collect (personal) data, such as unique IDs, geolocation, and browsing behavior about you. We use this data to personalize our ads and content, measure the usage of ads and content, for market research, and to improve our products and services. You can save or change your cookie settings by using the buttons below or by going to the privacy settings. More information can be found in our privacy policy and cookie statement. We and our partners process data for the following purposes: Storing and/or accessing information on a device. Personalized ads and content, ad and content measurement, audience insights and product development. Precise geolocation data and identification through device scanning. Privacy Policy Cookie Statement Allow All Always Active These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information."
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S25",
+        "text": "Targeting Cookies These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising. Back Button",
+        "heading_path": [
+          "Privacy Policy",
+          "Privacy Preference Center",
+          "Manage Consent Preferences",
+          "Targeting Cookies"
+        ],
+        "links": [],
+        "html_ids": [],
+        "previous_segment_id": "S24",
+        "next_segment_id": "S26",
+        "previous_segment_text": "Performance Cookies These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.",
+        "extended_context": "We and our advertising partners use cookies (and similar techniques) to store and access information on the device you are using and to collect (personal) data, such as unique IDs, geolocation, and browsing behavior about you. We use this data to personalize our ads and content, measure the usage of ads and content, for market research, and to improve our products and services. You can save or change your cookie settings by using the buttons below or by going to the privacy settings. More information can be found in our privacy policy and cookie statement. We and our partners process data for the following purposes: Storing and/or accessing information on a device. Personalized ads and content, ad and content measurement, audience insights and product development. Precise geolocation data and identification through device scanning. Privacy Policy Cookie Statement Allow All Always Active These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information. Performance Cookies These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance."
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S26",
+        "text": "Search Icon Filter Icon Clear checkbox label label Apply Cancel Consent Leg.Interest checkbox label label checkbox label label checkbox label label Reject All Confirm My Choices Powered by Onetrust Your Privacy [dialog closed]",
+        "heading_path": [
+          "Privacy Policy",
+          "Privacy Preference Center",
+          "Cookie List"
+        ],
+        "links": [],
+        "html_ids": [],
+        "previous_segment_id": "S25",
+        "next_segment_id": null,
+        "previous_segment_text": "Targeting Cookies These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising. Back Button",
+        "extended_context": "Always Active These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information. Performance Cookies These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance. Targeting Cookies These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising. Back Button"
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    }
+  ]
+}

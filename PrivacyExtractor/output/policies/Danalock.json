@@ -1,0 +1,800 @@
+{
+  "policy": "Danalock",
+  "rows": [
+    {
+      "segment": {
+        "id": "S1",
+        "text": "Start | Legal | Privacy Policy Download pdf in Danish Download pdf in English",
+        "heading_path": [
+          "Privacy Policy"
+        ],
+        "links": [
+          {
+            "text": "Start",
+            "href": "https://danalock.com/",
+            "kind": "external"
+          },
+          {
+            "text": "Legal",
+            "href": "https://danalock.com/legal",
+            "kind": "external"
+          },
+          {
+            "text": "Download pdf in Danish",
+            "href": "http://danalock.com/wp-content/uploads/legal/danalock_persondata_20180525-1.pdf",
+            "kind": "external"
+          },
+          {
+            "text": "Download pdf in English",
+            "href": "http://danalock.com/wp-content/uploads/2018/09/danalock_privacy-policy_en.pdf?_gl=1*126u3m3*_up*MQ..*_ga*MzE4Mjc3NDEyLjE3NzIwMjMxNDQ.*_ga_DKYNTPZRT6*czE3NzIwMjMxNDMkbzEkZzEkdDE3NzIwMjMyMTQkajUxJGwwJGgw",
+            "kind": "external"
+          }
+        ],
+        "html_ids": [
+          "genesis-content"
+        ],
+        "previous_segment_id": null,
+        "next_segment_id": "S2",
+        "previous_segment_text": "",
+        "extended_context": ""
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S2",
+        "text": "Salto Home Solution ApS is required under the General Data Protection Regulation (GDPR) and the Personal Data Protection Act to protect personal data processed on customers, suppliers, partners, employees and other individuals. This personal data policy provides information on how we process personal data in general. We give high priority to correct and lawful processing of personal data. Salto Home Solution ApS acts as controller whenever we process personal data for the pursuit or observance of our own internal interests. That is to say, whenever we decide the purposes for which personal data is collected and processed, and whenever we, on the whole, decide the tools to be used for the processing. In some contexts Salto Home Solution ApS may act as processor. This is the case when we undertake a job for another controller or processor, and where we carry out our processing of personal data exclusively on the basis of instructions received. In these situations we do not decide the purpose of the collection and processing of the personal data, and we do not decide the overall tools to be used for the processing we have been instructed to do. When acting as processor, we enter into a processor agreement with the controller, who stipulates the terms and instructions for our processing of personal data. The agreements are entered into in accordance with Article 28 of the GDPR.",
+        "heading_path": [
+          "Privacy Policy",
+          "Privacy policy for Salto Home Solution ApS",
+          "Introduction"
+        ],
+        "links": [],
+        "html_ids": [],
+        "previous_segment_id": "S1",
+        "next_segment_id": "S3",
+        "previous_segment_text": "Start | Legal | Privacy Policy Download pdf in Danish Download pdf in English",
+        "extended_context": "Start | Legal | Privacy Policy Download pdf in Danish Download pdf in English"
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S3",
+        "text": "As controller we carry out a number of processing activities, including in particular personnel administration, customer and supplier cooperation and marketing activities. We maintain internal records of our processing activities.",
+        "heading_path": [
+          "Privacy Policy",
+          "Privacy policy for Salto Home Solution ApS",
+          "Processing activities"
+        ],
+        "links": [],
+        "html_ids": [],
+        "previous_segment_id": "S2",
+        "next_segment_id": "S4",
+        "previous_segment_text": "Salto Home Solution ApS is required under the General Data Protection Regulation (GDPR) and the Personal Data Protection Act to protect personal data processed on customers, suppliers, partners, employees and other individuals. This personal data policy provides information on how we process personal data in general. We give high priority to correct and lawful processing of personal data. Salto Home Solution ApS acts as controller whenever we process personal data for the pursuit or observance of our own internal interests. That is to say, whenever we decide the purposes for which personal data is collected and processed, and whenever we, on the whole, decide the tools to be used for the processing. In some contexts Salto Home Solution ApS may act as processor. This is the case when we undertake a job for another controller or processor, and where we carry out our processing of personal data exclusively on the basis of instructions received. In these situations we do not decide the purpose of the collection and processing of the personal data, and we do not decide the overall tools to be used for the processing we have been instructed to do. When acting as processor, we enter into a processor agreement with the controller, who stipulates the terms and instructions for our processing of personal data. The agreements are entered into in accordance with Article 28 of the GDPR.",
+        "extended_context": "Start | Legal | Privacy Policy Download pdf in Danish Download pdf in English Salto Home Solution ApS is required under the General Data Protection Regulation (GDPR) and the Personal Data Protection Act to protect personal data processed on customers, suppliers, partners, employees and other individuals. This personal data policy provides information on how we process personal data in general. We give high priority to correct and lawful processing of personal data. Salto Home Solution ApS acts as controller whenever we process personal data for the pursuit or observance of our own internal interests. That is to say, whenever we decide the purposes for which personal data is collected and processed, and whenever we, on the whole, decide the tools to be used for the processing. In some contexts Salto Home Solution ApS may act as processor. This is the case when we undertake a job for another controller or processor, and where we carry out our processing of personal data exclusively on the basis of instructions received. In these situations we do not decide the purpose of the collection and processing of the personal data, and we do not decide the overall tools to be used for the processing we have been instructed to do. When acting as processor, we enter into a processor agreement with the controller, who stipulates the terms and instructions for our processing of personal data. The agreements are entered into in accordance with Article 28 of the GDPR."
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S4",
+        "text": "Within our organisation we inform our employees of our processing of their personal data.",
+        "heading_path": [
+          "Privacy Policy",
+          "Privacy policy for Salto Home Solution ApS",
+          "Personnel administration"
+        ],
+        "links": [],
+        "html_ids": [],
+        "previous_segment_id": "S3",
+        "next_segment_id": "S5",
+        "previous_segment_text": "As controller we carry out a number of processing activities, including in particular personnel administration, customer and supplier cooperation and marketing activities. We maintain internal records of our processing activities.",
+        "extended_context": "Start | Legal | Privacy Policy Download pdf in Danish Download pdf in English Salto Home Solution ApS is required under the General Data Protection Regulation (GDPR) and the Personal Data Protection Act to protect personal data processed on customers, suppliers, partners, employees and other individuals. This personal data policy provides information on how we process personal data in general. We give high priority to correct and lawful processing of personal data. Salto Home Solution ApS acts as controller whenever we process personal data for the pursuit or observance of our own internal interests. That is to say, whenever we decide the purposes for which personal data is collected and processed, and whenever we, on the whole, decide the tools to be used for the processing. In some contexts Salto Home Solution ApS may act as processor. This is the case when we undertake a job for another controller or processor, and where we carry out our processing of personal data exclusively on the basis of instructions received. In these situations we do not decide the purpose of the collection and processing of the personal data, and we do not decide the overall tools to be used for the processing we have been instructed to do. When acting as processor, we enter into a processor agreement with the controller, who stipulates the terms and instructions for our processing of personal data. The agreements are entered into in accordance with Article 28 of the GDPR. As controller we carry out a number of processing activities, including in particular personnel administration, customer and supplier cooperation and marketing activities. We maintain internal records of our processing activities."
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S5",
+        "text": "We collect and process personal data required for our collaboration with our customers. We make efforts to collect only the data that is necessary for fulfilling the collaboration and meeting our obligations. With regard to customer cooperation, we typically only collect and process general personal data such as name, address, telephone number, e-mail address and similar contact details for the customer's owners and contact persons. In addition, we process information exchanged with us, e.g. e-mail correspondence, telephone notes, other mail correspondence etc. The processing of the above personal data is necessary to pursue our legitimate interests regarding the administration of our business and meeting our obligations to our customers.",
+        "heading_path": [
+          "Privacy Policy",
+          "Privacy policy for Salto Home Solution ApS",
+          "Customer collaboration"
+        ],
+        "links": [],
+        "html_ids": [],
+        "previous_segment_id": "S4",
+        "next_segment_id": "S6",
+        "previous_segment_text": "Within our organisation we inform our employees of our processing of their personal data.",
+        "extended_context": "Salto Home Solution ApS is required under the General Data Protection Regulation (GDPR) and the Personal Data Protection Act to protect personal data processed on customers, suppliers, partners, employees and other individuals. This personal data policy provides information on how we process personal data in general. We give high priority to correct and lawful processing of personal data. Salto Home Solution ApS acts as controller whenever we process personal data for the pursuit or observance of our own internal interests. That is to say, whenever we decide the purposes for which personal data is collected and processed, and whenever we, on the whole, decide the tools to be used for the processing. In some contexts Salto Home Solution ApS may act as processor. This is the case when we undertake a job for another controller or processor, and where we carry out our processing of personal data exclusively on the basis of instructions received. In these situations we do not decide the purpose of the collection and processing of the personal data, and we do not decide the overall tools to be used for the processing we have been instructed to do. When acting as processor, we enter into a processor agreement with the controller, who stipulates the terms and instructions for our processing of personal data. The agreements are entered into in accordance with Article 28 of the GDPR. As controller we carry out a number of processing activities, including in particular personnel administration, customer and supplier cooperation and marketing activities. We maintain internal records of our processing activities. Within our organisation we inform our employees of our processing of their personal data."
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S6",
+        "text": "Our Danalock applications receives information entered by you when you download and register the program. Registration with us is mandatory for using the basic functions of the application. When registering with us and using the program, you normally provide (a) your name, e-mail address, age, user name, password and other registration data, (b) information provided by you when you contact us for assistance, (c) information that you enter into our system when using the program, e.g. name, addresses and residence, (d) your permission to let us send you information. In addition, the application can automatically collect certain data, including, but not limited to, the type of mobile device you use, your mobile device's unique entity ID, the mobile device's IP address, your mobile operative system, the type of mobile internet browsers you use, and information about how you use the program. Salto Home Solution ApS may contact you for feedback on your user experience. We keep data provided by users as long as they continue to use the program and the associated domain. You are in full control and may delete all the data entered into the application and on the domain when you want to. We do not use the application to request data from or market ourselves to children. The processing of the above personal data is necessary to pursue our legitimate interests regarding the administration of our business and meeting our obligations to our users.",
+        "heading_path": [
+          "Privacy Policy",
+          "Privacy policy for Salto Home Solution ApS",
+          "Information provided by users"
+        ],
+        "links": [],
+        "html_ids": [],
+        "previous_segment_id": "S5",
+        "next_segment_id": "S7",
+        "previous_segment_text": "We collect and process personal data required for our collaboration with our customers. We make efforts to collect only the data that is necessary for fulfilling the collaboration and meeting our obligations. With regard to customer cooperation, we typically only collect and process general personal data such as name, address, telephone number, e-mail address and similar contact details for the customer's owners and contact persons. In addition, we process information exchanged with us, e.g. e-mail correspondence, telephone notes, other mail correspondence etc. The processing of the above personal data is necessary to pursue our legitimate interests regarding the administration of our business and meeting our obligations to our customers.",
+        "extended_context": "As controller we carry out a number of processing activities, including in particular personnel administration, customer and supplier cooperation and marketing activities. We maintain internal records of our processing activities. Within our organisation we inform our employees of our processing of their personal data. We collect and process personal data required for our collaboration with our customers. We make efforts to collect only the data that is necessary for fulfilling the collaboration and meeting our obligations. With regard to customer cooperation, we typically only collect and process general personal data such as name, address, telephone number, e-mail address and similar contact details for the customer's owners and contact persons. In addition, we process information exchanged with us, e.g. e-mail correspondence, telephone notes, other mail correspondence etc. The processing of the above personal data is necessary to pursue our legitimate interests regarding the administration of our business and meeting our obligations to our customers."
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [
+          {
+            "value": "Delete personal data or account",
+            "evidence": "You are in full control and may delete all the data entered into the application and on the domain when you want to.",
+            "confidence": "extracted",
+            "id": "Danalock:S6:choice:1"
+          }
+        ],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S7",
+        "text": "We collect and process personal data required for our cooperation with our suppliers and other partners. We make efforts to collect only the data that is necessary for the collaboration, including primarily meeting our obligations and looking after our interests regarding the sale of goods and services. With regard to suppliers and other partners, we typically only collect and process general personal data such as name, address, telephone number, e-mail address and similar contact details for relevant contact persons. In addition, we process information exchanged with us, e.g. e-mail correspondence, telephone notes, other mail correspondence etc. The processing of the above personal data is necessary to pursue our legitimate interests regarding the administration of our business and general business activities.",
+        "heading_path": [
+          "Privacy Policy",
+          "Privacy policy for Salto Home Solution ApS",
+          "Suppliers"
+        ],
+        "links": [],
+        "html_ids": [],
+        "previous_segment_id": "S6",
+        "next_segment_id": "S8",
+        "previous_segment_text": "Our Danalock applications receives information entered by you when you download and register the program. Registration with us is mandatory for using the basic functions of the application. When registering with us and using the program, you normally provide (a) your name, e-mail address, age, user name, password and other registration data, (b) information provided by you when you contact us for assistance, (c) information that you enter into our system when using the program, e.g. name, addresses and residence, (d) your permission to let us send you information. In addition, the application can automatically collect certain data, including, but not limited to, the type of mobile device you use, your mobile device's unique entity ID, the mobile device's IP address, your mobile operative system, the type of mobile internet browsers you use, and information about how you use the program. Salto Home Solution ApS may contact you for feedback on your user experience. We keep data provided by users as long as they continue to use the program and the associated domain. You are in full control and may delete all the data entered into the application and on the domain when you want to. We do not use the application to request data from or market ourselves to children. The processing of the above personal data is necessary to pursue our legitimate interests regarding the administration of our business and meeting our obligations to our users.",
+        "extended_context": "Within our organisation we inform our employees of our processing of their personal data. We collect and process personal data required for our collaboration with our customers. We make efforts to collect only the data that is necessary for fulfilling the collaboration and meeting our obligations. With regard to customer cooperation, we typically only collect and process general personal data such as name, address, telephone number, e-mail address and similar contact details for the customer's owners and contact persons. In addition, we process information exchanged with us, e.g. e-mail correspondence, telephone notes, other mail correspondence etc. The processing of the above personal data is necessary to pursue our legitimate interests regarding the administration of our business and meeting our obligations to our customers. Our Danalock applications receives information entered by you when you download and register the program. Registration with us is mandatory for using the basic functions of the application. When registering with us and using the program, you normally provide (a) your name, e-mail address, age, user name, password and other registration data, (b) information provided by you when you contact us for assistance, (c) information that you enter into our system when using the program, e.g. name, addresses and residence, (d) your permission to let us send you information. In addition, the application can automatically collect certain data, including, but not limited to, the type of mobile device you use, your mobile device's unique entity ID, the mobile device's IP address, your mobile operative system, the type of mobile internet browsers you use, and information about how you use the program. Salto Home Solution ApS may contact you for feedback on your user experience. We keep data provided by users as long as they continue to use the program and the associated domain. You are in full control and may delete all the data entered into the application and on the domain when you want to. We do not use the application to request data from or market ourselves to children. The processing of the above personal data is necessary to pursue our legitimate interests regarding the administration of our business and meeting our obligations to our users."
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S8",
+        "text": "We collect and process personal data in connection with our marketing activities. We make efforts to collect only the data that is necessary for meeting the marketing objectives we have defined. Our general marketing activities include the distribution of newsletters, use of cookies on our website, use of pictorial material with recognisable persons etc. We have laid down special terms for our newsletter, and we have a cookie policy on our website.",
+        "heading_path": [
+          "Privacy Policy",
+          "Privacy policy for Salto Home Solution ApS",
+          "Marketing activities"
+        ],
+        "links": [],
+        "html_ids": [],
+        "previous_segment_id": "S7",
+        "next_segment_id": "S9",
+        "previous_segment_text": "We collect and process personal data required for our cooperation with our suppliers and other partners. We make efforts to collect only the data that is necessary for the collaboration, including primarily meeting our obligations and looking after our interests regarding the sale of goods and services. With regard to suppliers and other partners, we typically only collect and process general personal data such as name, address, telephone number, e-mail address and similar contact details for relevant contact persons. In addition, we process information exchanged with us, e.g. e-mail correspondence, telephone notes, other mail correspondence etc. The processing of the above personal data is necessary to pursue our legitimate interests regarding the administration of our business and general business activities.",
+        "extended_context": "We collect and process personal data required for our collaboration with our customers. We make efforts to collect only the data that is necessary for fulfilling the collaboration and meeting our obligations. With regard to customer cooperation, we typically only collect and process general personal data such as name, address, telephone number, e-mail address and similar contact details for the customer's owners and contact persons. In addition, we process information exchanged with us, e.g. e-mail correspondence, telephone notes, other mail correspondence etc. The processing of the above personal data is necessary to pursue our legitimate interests regarding the administration of our business and meeting our obligations to our customers. Our Danalock applications receives information entered by you when you download and register the program. Registration with us is mandatory for using the basic functions of the application. When registering with us and using the program, you normally provide (a) your name, e-mail address, age, user name, password and other registration data, (b) information provided by you when you contact us for assistance, (c) information that you enter into our system when using the program, e.g. name, addresses and residence, (d) your permission to let us send you information. In addition, the application can automatically collect certain data, including, but not limited to, the type of mobile device you use, your mobile device's unique entity ID, the mobile device's IP address, your mobile operative system, the type of mobile internet browsers you use, and information about how you use the program. Salto Home Solution ApS may contact you for feedback on your user experience. We keep data provided by users as long as they continue to use the program and the associated domain. You are in full control and may delete all the data entered into the application and on the domain when you want to. We do not use the application to request data from or market ourselves to children. The processing of the above personal data is necessary to pursue our legitimate interests regarding the administration of our business and meeting our obligations to our users. We collect and process personal data required for our cooperation with our suppliers and other partners. We make efforts to collect only the data that is necessary for the collaboration, including primarily meeting our obligations and looking after our interests regarding the sale of goods and services. With regard to suppliers and other partners, we typically only collect and process general personal data such as name, address, telephone number, e-mail address and similar contact details for relevant contact persons. In addition, we process information exchanged with us, e.g. e-mail correspondence, telephone notes, other mail correspondence etc. The processing of the above personal data is necessary to pursue our legitimate interests regarding the administration of our business and general business activities."
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S9",
+        "text": "The personal data collected and processed by us is primarily collected from the data subjects themselves. However, we also collect certain information from other sources, including public databases.",
+        "heading_path": [
+          "Privacy Policy",
+          "Privacy policy for Salto Home Solution ApS",
+          "Where do we collect information?"
+        ],
+        "links": [],
+        "html_ids": [],
+        "previous_segment_id": "S8",
+        "next_segment_id": "S10",
+        "previous_segment_text": "We collect and process personal data in connection with our marketing activities. We make efforts to collect only the data that is necessary for meeting the marketing objectives we have defined. Our general marketing activities include the distribution of newsletters, use of cookies on our website, use of pictorial material with recognisable persons etc. We have laid down special terms for our newsletter, and we have a cookie policy on our website.",
+        "extended_context": "Our Danalock applications receives information entered by you when you download and register the program. Registration with us is mandatory for using the basic functions of the application. When registering with us and using the program, you normally provide (a) your name, e-mail address, age, user name, password and other registration data, (b) information provided by you when you contact us for assistance, (c) information that you enter into our system when using the program, e.g. name, addresses and residence, (d) your permission to let us send you information. In addition, the application can automatically collect certain data, including, but not limited to, the type of mobile device you use, your mobile device's unique entity ID, the mobile device's IP address, your mobile operative system, the type of mobile internet browsers you use, and information about how you use the program. Salto Home Solution ApS may contact you for feedback on your user experience. We keep data provided by users as long as they continue to use the program and the associated domain. You are in full control and may delete all the data entered into the application and on the domain when you want to. We do not use the application to request data from or market ourselves to children. The processing of the above personal data is necessary to pursue our legitimate interests regarding the administration of our business and meeting our obligations to our users. We collect and process personal data required for our cooperation with our suppliers and other partners. We make efforts to collect only the data that is necessary for the collaboration, including primarily meeting our obligations and looking after our interests regarding the sale of goods and services. With regard to suppliers and other partners, we typically only collect and process general personal data such as name, address, telephone number, e-mail address and similar contact details for relevant contact persons. In addition, we process information exchanged with us, e.g. e-mail correspondence, telephone notes, other mail correspondence etc. The processing of the above personal data is necessary to pursue our legitimate interests regarding the administration of our business and general business activities. We collect and process personal data in connection with our marketing activities. We make efforts to collect only the data that is necessary for meeting the marketing objectives we have defined. Our general marketing activities include the distribution of newsletters, use of cookies on our website, use of pictorial material with recognisable persons etc. We have laid down special terms for our newsletter, and we have a cookie policy on our website."
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S10",
+        "text": "Depending on the nature of the personal data concerned, the purpose of the processing and the context in which the personal data appears, we may disclose personal data to third parties, including public authorities such as municipalities, tax authorities, etc. We also share personal data to some extent with suppliers when this is necessary for the fulfilment of the terms of the collaboration. We ensure that, when disclosing personal data, we have the necessary processing basis for disclosure.",
+        "heading_path": [
+          "Privacy Policy",
+          "Privacy policy for Salto Home Solution ApS",
+          "Disclosure of personal data"
+        ],
+        "links": [],
+        "html_ids": [],
+        "previous_segment_id": "S9",
+        "next_segment_id": "S11",
+        "previous_segment_text": "The personal data collected and processed by us is primarily collected from the data subjects themselves. However, we also collect certain information from other sources, including public databases.",
+        "extended_context": "We collect and process personal data required for our cooperation with our suppliers and other partners. We make efforts to collect only the data that is necessary for the collaboration, including primarily meeting our obligations and looking after our interests regarding the sale of goods and services. With regard to suppliers and other partners, we typically only collect and process general personal data such as name, address, telephone number, e-mail address and similar contact details for relevant contact persons. In addition, we process information exchanged with us, e.g. e-mail correspondence, telephone notes, other mail correspondence etc. The processing of the above personal data is necessary to pursue our legitimate interests regarding the administration of our business and general business activities. We collect and process personal data in connection with our marketing activities. We make efforts to collect only the data that is necessary for meeting the marketing objectives we have defined. Our general marketing activities include the distribution of newsletters, use of cookies on our website, use of pictorial material with recognisable persons etc. We have laid down special terms for our newsletter, and we have a cookie policy on our website. The personal data collected and processed by us is primarily collected from the data subjects themselves. However, we also collect certain information from other sources, including public databases."
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S11",
+        "text": "We ensure the confidentiality, integrity and accessibility of the personal data processed by us through the implementation of technical and organisational security measures. Our technical security measures include the security of the IT support used in our business. Our organisational security measures include the establishment of guidelines and policies which our employees must comply with. We follow up on these measures and train our employees as necessary. Our processing security with respect to personal data also includes ensuring that processing is lawful, including compliance with the processing principles provided by the personal data protection legislation, and we ensure that we have a processing basis for our processing.",
+        "heading_path": [
+          "Privacy Policy",
+          "Privacy policy for Salto Home Solution ApS",
+          "Processing security"
+        ],
+        "links": [],
+        "html_ids": [],
+        "previous_segment_id": "S10",
+        "next_segment_id": "S12",
+        "previous_segment_text": "Depending on the nature of the personal data concerned, the purpose of the processing and the context in which the personal data appears, we may disclose personal data to third parties, including public authorities such as municipalities, tax authorities, etc. We also share personal data to some extent with suppliers when this is necessary for the fulfilment of the terms of the collaboration. We ensure that, when disclosing personal data, we have the necessary processing basis for disclosure.",
+        "extended_context": "We collect and process personal data in connection with our marketing activities. We make efforts to collect only the data that is necessary for meeting the marketing objectives we have defined. Our general marketing activities include the distribution of newsletters, use of cookies on our website, use of pictorial material with recognisable persons etc. We have laid down special terms for our newsletter, and we have a cookie policy on our website. The personal data collected and processed by us is primarily collected from the data subjects themselves. However, we also collect certain information from other sources, including public databases. Depending on the nature of the personal data concerned, the purpose of the processing and the context in which the personal data appears, we may disclose personal data to third parties, including public authorities such as municipalities, tax authorities, etc. We also share personal data to some extent with suppliers when this is necessary for the fulfilment of the terms of the collaboration. We ensure that, when disclosing personal data, we have the necessary processing basis for disclosure."
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S12",
+        "text": "We delete any personal data collected and processed by us when the purpose of the processing has been met and the data is no longer needed.",
+        "heading_path": [
+          "Privacy Policy",
+          "Privacy policy for Salto Home Solution ApS",
+          "Deletion"
+        ],
+        "links": [],
+        "html_ids": [],
+        "previous_segment_id": "S11",
+        "next_segment_id": "S13",
+        "previous_segment_text": "We ensure the confidentiality, integrity and accessibility of the personal data processed by us through the implementation of technical and organisational security measures. Our technical security measures include the security of the IT support used in our business. Our organisational security measures include the establishment of guidelines and policies which our employees must comply with. We follow up on these measures and train our employees as necessary. Our processing security with respect to personal data also includes ensuring that processing is lawful, including compliance with the processing principles provided by the personal data protection legislation, and we ensure that we have a processing basis for our processing.",
+        "extended_context": "The personal data collected and processed by us is primarily collected from the data subjects themselves. However, we also collect certain information from other sources, including public databases. Depending on the nature of the personal data concerned, the purpose of the processing and the context in which the personal data appears, we may disclose personal data to third parties, including public authorities such as municipalities, tax authorities, etc. We also share personal data to some extent with suppliers when this is necessary for the fulfilment of the terms of the collaboration. We ensure that, when disclosing personal data, we have the necessary processing basis for disclosure. We ensure the confidentiality, integrity and accessibility of the personal data processed by us through the implementation of technical and organisational security measures. Our technical security measures include the security of the IT support used in our business. Our organisational security measures include the establishment of guidelines and policies which our employees must comply with. We follow up on these measures and train our employees as necessary. Our processing security with respect to personal data also includes ensuring that processing is lawful, including compliance with the processing principles provided by the personal data protection legislation, and we ensure that we have a processing basis for our processing."
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S13",
+        "text": "The persons whose personal data we process have a number of rights under the personal data protection legislation that we respect. These rights include: 1. the right to request access to and correct or delete personal data processed by us, 2. the right to request limitation of our processing of personal data on the data subject, 3. the right to object to processing, 4. the right, in some cases, for a data subject to receive his or her data (data portability) and 5. the right to withdraw one's consent. If you want to exercise your rights as a data subject, please contact us. Please find our contact details below.",
+        "heading_path": [
+          "Privacy Policy",
+          "Privacy policy for Salto Home Solution ApS",
+          "Rights of the data subject"
+        ],
+        "links": [],
+        "html_ids": [],
+        "previous_segment_id": "S12",
+        "next_segment_id": "S14",
+        "previous_segment_text": "We delete any personal data collected and processed by us when the purpose of the processing has been met and the data is no longer needed.",
+        "extended_context": "Depending on the nature of the personal data concerned, the purpose of the processing and the context in which the personal data appears, we may disclose personal data to third parties, including public authorities such as municipalities, tax authorities, etc. We also share personal data to some extent with suppliers when this is necessary for the fulfilment of the terms of the collaboration. We ensure that, when disclosing personal data, we have the necessary processing basis for disclosure. We ensure the confidentiality, integrity and accessibility of the personal data processed by us through the implementation of technical and organisational security measures. Our technical security measures include the security of the IT support used in our business. Our organisational security measures include the establishment of guidelines and policies which our employees must comply with. We follow up on these measures and train our employees as necessary. Our processing security with respect to personal data also includes ensuring that processing is lawful, including compliance with the processing principles provided by the personal data protection legislation, and we ensure that we have a processing basis for our processing. We delete any personal data collected and processed by us when the purpose of the processing has been met and the data is no longer needed."
+      },
+      "result": {
+        "right_type": [
+          {
+            "value": "Right of access",
+            "evidence": "the right to request access to and correct or delete personal data processed by us",
+            "confidence": "extracted",
+            "id": "Danalock:S13:right:1"
+          },
+          {
+            "value": "Right to rectification",
+            "evidence": "the right to request access to and correct or delete personal data processed by us",
+            "confidence": "extracted",
+            "id": "Danalock:S13:right:2"
+          },
+          {
+            "value": "Right to erasure",
+            "evidence": "the right to request access to and correct or delete personal data processed by us",
+            "confidence": "extracted",
+            "id": "Danalock:S13:right:3"
+          },
+          {
+            "value": "Right to restriction of processing",
+            "evidence": "the right to request limitation of our processing of personal data on the data subject",
+            "confidence": "extracted",
+            "id": "Danalock:S13:right:4"
+          },
+          {
+            "value": "Right to object",
+            "evidence": "the right to object to processing",
+            "confidence": "extracted",
+            "id": "Danalock:S13:right:5"
+          },
+          {
+            "value": "Right to data portability",
+            "evidence": "the right, in some cases, for a data subject to receive his or her data (data portability)",
+            "confidence": "extracted",
+            "id": "Danalock:S13:right:6"
+          }
+        ],
+        "choice_type": [
+          {
+            "value": "Change or withdraw consent",
+            "evidence": "the right to withdraw one's consent",
+            "confidence": "extracted",
+            "id": "Danalock:S13:choice:1"
+          }
+        ],
+        "request_channel": [
+          {
+            "value": "Not specified",
+            "evidence": "If you want to exercise your rights as a data subject, please contact us.",
+            "confidence": "extracted",
+            "id": "Danalock:S13:channel:1",
+            "linked_ids": [
+              "Danalock:S13:right:1",
+              "Danalock:S13:right:2",
+              "Danalock:S13:right:3",
+              "Danalock:S13:right:4",
+              "Danalock:S13:right:5",
+              "Danalock:S13:right:6"
+            ],
+            "link": null
+          },
+          {
+            "value": "Not specified",
+            "evidence": "If you want to exercise your rights as a data subject, please contact us.",
+            "confidence": "extracted",
+            "id": "Danalock:S13:channel:2",
+            "linked_ids": [
+              "Danalock:S13:choice:1"
+            ],
+            "link": null
+          }
+        ],
+        "references": [
+          {
+            "evidence": "Please find our contact details below.",
+            "target_text": "contact details",
+            "confidence": "extracted",
+            "id": "Danalock:S13:reference:1"
+          }
+        ],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S14",
+        "text": "If you do not agree with or are dissatisfied with the way in which we process your personal data, you may send us a complaint. Please find our contact details below. You are also entitled to send a complaint to the Data Protection Agency if you are dissatisfied with the way in which we process your personal data. The Data Protection Agency's contact details are at www.datatilsynet.dk",
+        "heading_path": [
+          "Privacy Policy",
+          "Privacy policy for Salto Home Solution ApS",
+          "Complaints"
+        ],
+        "links": [
+          {
+            "text": "www.datatilsynet.dk",
+            "href": "https://www.datatilsynet.dk/",
+            "kind": "external"
+          }
+        ],
+        "html_ids": [],
+        "previous_segment_id": "S13",
+        "next_segment_id": "S15",
+        "previous_segment_text": "The persons whose personal data we process have a number of rights under the personal data protection legislation that we respect. These rights include: 1. the right to request access to and correct or delete personal data processed by us, 2. the right to request limitation of our processing of personal data on the data subject, 3. the right to object to processing, 4. the right, in some cases, for a data subject to receive his or her data (data portability) and 5. the right to withdraw one's consent. If you want to exercise your rights as a data subject, please contact us. Please find our contact details below.",
+        "extended_context": "We ensure the confidentiality, integrity and accessibility of the personal data processed by us through the implementation of technical and organisational security measures. Our technical security measures include the security of the IT support used in our business. Our organisational security measures include the establishment of guidelines and policies which our employees must comply with. We follow up on these measures and train our employees as necessary. Our processing security with respect to personal data also includes ensuring that processing is lawful, including compliance with the processing principles provided by the personal data protection legislation, and we ensure that we have a processing basis for our processing. We delete any personal data collected and processed by us when the purpose of the processing has been met and the data is no longer needed. The persons whose personal data we process have a number of rights under the personal data protection legislation that we respect. These rights include: 1. the right to request access to and correct or delete personal data processed by us, 2. the right to request limitation of our processing of personal data on the data subject, 3. the right to object to processing, 4. the right, in some cases, for a data subject to receive his or her data (data portability) and 5. the right to withdraw one's consent. If you want to exercise your rights as a data subject, please contact us. Please find our contact details below."
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [
+          {
+            "value": "Lodge a complaint",
+            "evidence": "If you do not agree with or are dissatisfied with the way in which we process your personal data, you may send us a complaint.",
+            "confidence": "extracted",
+            "id": "Danalock:S14:choice:1"
+          }
+        ],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S15",
+        "text": "Our full contact details are: Salto Home Solution ApS Grønhøjvej 64 A 8462 Harlev, Denmark Company registration number: DK33080603 Feel free to contact us if you have questions or want to exercise your rights. You may send an e-mail to: info[at]danalock[dot]com.",
+        "heading_path": [
+          "Privacy Policy",
+          "Privacy policy for Salto Home Solution ApS",
+          "Our contact details"
+        ],
+        "links": [],
+        "html_ids": [],
+        "previous_segment_id": "S14",
+        "next_segment_id": "S16",
+        "previous_segment_text": "If you do not agree with or are dissatisfied with the way in which we process your personal data, you may send us a complaint. Please find our contact details below. You are also entitled to send a complaint to the Data Protection Agency if you are dissatisfied with the way in which we process your personal data. The Data Protection Agency's contact details are at www.datatilsynet.dk",
+        "extended_context": "We delete any personal data collected and processed by us when the purpose of the processing has been met and the data is no longer needed. The persons whose personal data we process have a number of rights under the personal data protection legislation that we respect. These rights include: 1. the right to request access to and correct or delete personal data processed by us, 2. the right to request limitation of our processing of personal data on the data subject, 3. the right to object to processing, 4. the right, in some cases, for a data subject to receive his or her data (data portability) and 5. the right to withdraw one's consent. If you want to exercise your rights as a data subject, please contact us. Please find our contact details below. If you do not agree with or are dissatisfied with the way in which we process your personal data, you may send us a complaint. Please find our contact details below. You are also entitled to send a complaint to the Data Protection Agency if you are dissatisfied with the way in which we process your personal data. The Data Protection Agency's contact details are at www.datatilsynet.dk"
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [
+          {
+            "value": "Request by email",
+            "evidence": "You may send an e-mail to: info[at]danalock[dot]com.",
+            "confidence": "extracted",
+            "id": "Danalock:S15:channel:1",
+            "linked_ids": [],
+            "link": null
+          }
+        ],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S16",
+        "text": "This personal data policy must be updated as required by circumstances. We regularly review our personal data policy to ensure that it is up to date, accurate and in accordance with applicable rules and principles for the processing of personal data. We publish new versions on our website www.danalock.com. *This policy has version no. 2 and is applicable from 19th February 2026.*",
+        "heading_path": [
+          "Privacy Policy",
+          "Privacy policy for Salto Home Solution ApS",
+          "Updating our personal data policy"
+        ],
+        "links": [],
+        "html_ids": [],
+        "previous_segment_id": "S15",
+        "next_segment_id": "S17",
+        "previous_segment_text": "Our full contact details are: Salto Home Solution ApS Grønhøjvej 64 A 8462 Harlev, Denmark Company registration number: DK33080603 Feel free to contact us if you have questions or want to exercise your rights. You may send an e-mail to: info[at]danalock[dot]com.",
+        "extended_context": "The persons whose personal data we process have a number of rights under the personal data protection legislation that we respect. These rights include: 1. the right to request access to and correct or delete personal data processed by us, 2. the right to request limitation of our processing of personal data on the data subject, 3. the right to object to processing, 4. the right, in some cases, for a data subject to receive his or her data (data portability) and 5. the right to withdraw one's consent. If you want to exercise your rights as a data subject, please contact us. Please find our contact details below. If you do not agree with or are dissatisfied with the way in which we process your personal data, you may send us a complaint. Please find our contact details below. You are also entitled to send a complaint to the Data Protection Agency if you are dissatisfied with the way in which we process your personal data. The Data Protection Agency's contact details are at www.datatilsynet.dk Our full contact details are: Salto Home Solution ApS Grønhøjvej 64 A 8462 Harlev, Denmark Company registration number: DK33080603 Feel free to contact us if you have questions or want to exercise your rights. You may send an e-mail to: info[at]danalock[dot]com."
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S17",
+        "text": "Facebook Instagram LinkedIn YouTube",
+        "heading_path": [
+          "Privacy Policy",
+          "Footer",
+          "Social"
+        ],
+        "links": [
+          {
+            "text": "Facebook",
+            "href": "https://www.facebook.com/SaltoSystemsOfficial",
+            "kind": "external"
+          },
+          {
+            "text": "Instagram",
+            "href": "https://www.instagram.com/saltosystems/",
+            "kind": "external"
+          },
+          {
+            "text": "LinkedIn",
+            "href": "https://www.linkedin.com/company/salto-systems-s-l-",
+            "kind": "external"
+          },
+          {
+            "text": "YouTube",
+            "href": "https://www.youtube.com/@danalock8457",
+            "kind": "external"
+          }
+        ],
+        "html_ids": [],
+        "previous_segment_id": "S16",
+        "next_segment_id": "S18",
+        "previous_segment_text": "This personal data policy must be updated as required by circumstances. We regularly review our personal data policy to ensure that it is up to date, accurate and in accordance with applicable rules and principles for the processing of personal data. We publish new versions on our website www.danalock.com. *This policy has version no. 2 and is applicable from 19th February 2026.*",
+        "extended_context": "If you do not agree with or are dissatisfied with the way in which we process your personal data, you may send us a complaint. Please find our contact details below. You are also entitled to send a complaint to the Data Protection Agency if you are dissatisfied with the way in which we process your personal data. The Data Protection Agency's contact details are at www.datatilsynet.dk Our full contact details are: Salto Home Solution ApS Grønhøjvej 64 A 8462 Harlev, Denmark Company registration number: DK33080603 Feel free to contact us if you have questions or want to exercise your rights. You may send an e-mail to: info[at]danalock[dot]com. This personal data policy must be updated as required by circumstances. We regularly review our personal data policy to ensure that it is up to date, accurate and in accordance with applicable rules and principles for the processing of personal data. We publish new versions on our website www.danalock.com. *This policy has version no. 2 and is applicable from 19th February 2026.*"
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S18",
+        "text": "Get it on Google Play icon Get it on Google Play icon",
+        "heading_path": [
+          "Privacy Policy",
+          "Footer",
+          "Get The App"
+        ],
+        "links": [],
+        "html_ids": [],
+        "previous_segment_id": "S17",
+        "next_segment_id": "S19",
+        "previous_segment_text": "Facebook Instagram LinkedIn YouTube",
+        "extended_context": "Our full contact details are: Salto Home Solution ApS Grønhøjvej 64 A 8462 Harlev, Denmark Company registration number: DK33080603 Feel free to contact us if you have questions or want to exercise your rights. You may send an e-mail to: info[at]danalock[dot]com. This personal data policy must be updated as required by circumstances. We regularly review our personal data policy to ensure that it is up to date, accurate and in accordance with applicable rules and principles for the processing of personal data. We publish new versions on our website www.danalock.com. *This policy has version no. 2 and is applicable from 19th February 2026.* Facebook Instagram LinkedIn YouTube"
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S19",
+        "text": "Contact Support Contact Sales SALTO Home Solution ApS Grønhøjvej 64A, 8462 Harlev - DK CVR/ID Number: DK33080603",
+        "heading_path": [
+          "Privacy Policy",
+          "Footer",
+          "About"
+        ],
+        "links": [
+          {
+            "text": "Contact Support",
+            "href": "https://danalock.com/contact-support",
+            "kind": "external"
+          },
+          {
+            "text": "Contact Sales",
+            "href": "https://saltosystems.com/en/contact/",
+            "kind": "external"
+          }
+        ],
+        "html_ids": [],
+        "previous_segment_id": "S18",
+        "next_segment_id": "S20",
+        "previous_segment_text": "Get it on Google Play icon Get it on Google Play icon",
+        "extended_context": "This personal data policy must be updated as required by circumstances. We regularly review our personal data policy to ensure that it is up to date, accurate and in accordance with applicable rules and principles for the processing of personal data. We publish new versions on our website www.danalock.com. *This policy has version no. 2 and is applicable from 19th February 2026.* Facebook Instagram LinkedIn YouTube Get it on Google Play icon Get it on Google Play icon"
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S20",
+        "text": "Products Danalock V3 Danapad V3 Danabridge V3 Universal Module V3 Airbnb Integration About The Danalock Journey Downloads Jobs Legal Contact Contact Support Contact sales (B2B) Extra Keys Support My.Danalock",
+        "heading_path": [
+          "Privacy Policy",
+          "Footer",
+          "Navigation"
+        ],
+        "links": [
+          {
+            "text": "Products",
+            "href": "https://danalock.com/products",
+            "kind": "external"
+          },
+          {
+            "text": "Danalock V3",
+            "href": "https://danalock.com/products/danalock-v3-smart-lock",
+            "kind": "external"
+          },
+          {
+            "text": "Danapad V3",
+            "href": "https://danalock.com/products/danapad-v3",
+            "kind": "external"
+          },
+          {
+            "text": "Danabridge V3",
+            "href": "https://danalock.com/products/danabridge-v3",
+            "kind": "external"
+          },
+          {
+            "text": "Universal Module V3",
+            "href": "https://danalock.com/products/universal-module-v3",
+            "kind": "external"
+          },
+          {
+            "text": "Airbnb Integration",
+            "href": "https://support.saltosystems.com/danalock/my-danalock/airbnb/",
+            "kind": "external"
+          },
+          {
+            "text": "About",
+            "href": "https://danalock.com/danalock-journey",
+            "kind": "external"
+          },
+          {
+            "text": "The Danalock Journey",
+            "href": "https://danalock.com/danalock-journey",
+            "kind": "external"
+          },
+          {
+            "text": "Downloads",
+            "href": "https://danalock.com/press-room",
+            "kind": "external"
+          },
+          {
+            "text": "Jobs",
+            "href": "https://danalock.com/career-at-danalock",
+            "kind": "external"
+          },
+          {
+            "text": "Legal",
+            "href": "https://danalock.com/legal",
+            "kind": "external"
+          },
+          {
+            "text": "Contact",
+            "href": "https://danalock.com/contact-support",
+            "kind": "external"
+          },
+          {
+            "text": "Contact Support",
+            "href": "https://danalock.com/contact-support",
+            "kind": "external"
+          },
+          {
+            "text": "Contact sales (B2B)",
+            "href": "https://saltosystems.com/en/contact/",
+            "kind": "external"
+          },
+          {
+            "text": "Extra Keys",
+            "href": "https://danalock.com/extra-keys",
+            "kind": "external"
+          },
+          {
+            "text": "Support",
+            "href": "https://support.saltosystems.com/danalock",
+            "kind": "external"
+          },
+          {
+            "text": "My.Danalock",
+            "href": "https://my.danalock.com/",
+            "kind": "external"
+          }
+        ],
+        "html_ids": [],
+        "previous_segment_id": "S19",
+        "next_segment_id": "S21",
+        "previous_segment_text": "Contact Support Contact Sales SALTO Home Solution ApS Grønhøjvej 64A, 8462 Harlev - DK CVR/ID Number: DK33080603",
+        "extended_context": "Facebook Instagram LinkedIn YouTube Get it on Google Play icon Get it on Google Play icon Contact Support Contact Sales SALTO Home Solution ApS Grønhøjvej 64A, 8462 Harlev - DK CVR/ID Number: DK33080603"
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S21",
+        "text": "Partner Portal Certificates Legal Terms of sale and delivery Limited Product Warranty Safety & disposal Cookies Sitemap © 2026 · Salto Home Solution ApS Cookiebot session tracker icon loaded",
+        "heading_path": [
+          "Privacy Policy",
+          "Footer",
+          "Useful Links"
+        ],
+        "links": [
+          {
+            "text": "Partner Portal",
+            "href": "https://partners.danalock.com/",
+            "kind": "external"
+          },
+          {
+            "text": "Certificates",
+            "href": "https://danalock.com/legal/certificates",
+            "kind": "external"
+          },
+          {
+            "text": "Legal",
+            "href": "https://danalock.com/legal",
+            "kind": "external"
+          },
+          {
+            "text": "Terms of sale and delivery",
+            "href": "https://danalock.com/legal/sales-and-delivery-terms",
+            "kind": "external"
+          },
+          {
+            "text": "Limited Product Warranty",
+            "href": "https://danalock.com/legal/limited-product-warranty",
+            "kind": "external"
+          },
+          {
+            "text": "Safety & disposal",
+            "href": "https://danalock.com/safety-disposal-guidelines",
+            "kind": "external"
+          },
+          {
+            "text": "Cookies",
+            "href": "https://danalock.com/legal/cookie-declaration",
+            "kind": "external"
+          },
+          {
+            "text": "Sitemap",
+            "href": "https://danalock.com/sitemap",
+            "kind": "external"
+          },
+          {
+            "text": "Salto Home Solution ApS",
+            "href": "https://danalock.com/",
+            "kind": "external"
+          }
+        ],
+        "html_ids": [],
+        "previous_segment_id": "S20",
+        "next_segment_id": null,
+        "previous_segment_text": "Products Danalock V3 Danapad V3 Danabridge V3 Universal Module V3 Airbnb Integration About The Danalock Journey Downloads Jobs Legal Contact Contact Support Contact sales (B2B) Extra Keys Support My.Danalock",
+        "extended_context": "Get it on Google Play icon Get it on Google Play icon Contact Support Contact Sales SALTO Home Solution ApS Grønhøjvej 64A, 8462 Harlev - DK CVR/ID Number: DK33080603 Products Danalock V3 Danapad V3 Danabridge V3 Universal Module V3 Airbnb Integration About The Danalock Journey Downloads Jobs Legal Contact Contact Support Contact sales (B2B) Extra Keys Support My.Danalock"
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    }
+  ]
+}

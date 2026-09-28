@@ -1,0 +1,1418 @@
+{
+  "policy": "Lime",
+  "rows": [
+    {
+      "segment": {
+        "id": "S1",
+        "text": "ES EN Effective: May 1, 2024 Neutron Holdings, Inc. dba Lime and its affiliates (collectively \" Lime,\" \" we,\" \" us,\" or \" our \") are strongly committed to transparency, and we want you (\" you \" or \" your \") to understand how we collect, use, share and protect your information. This Privacy Notice (\" Privacy Notice \") describes how Lime handles information in connection with Lime's websites, Lime-owned vehicles, and related mobile applications and services (collectively, the \" Services \"), and when you otherwise interact with us. When specified, this policy also describes our data practices related to logistics providers or the personnel of logistics providers. We may change this Privacy Notice from time to time. We will inform you about any material changes. The Types of Information We Collect The types of information we collect or receive depends on how you use and interact with our Services. In many cases, you can choose the information you provide to us, although if you choose not to provide certain information (such as account information), we will not be able to provide the Services. We use, disclose and retain this information for the purposes described further below. The types of information we collect include:",
+        "heading_path": [
+          "Privacy Policy"
+        ],
+        "links": [
+          {
+            "text": "ES",
+            "href": "https://www.li.me/es-uy/legal/privacy-policy",
+            "kind": "external"
+          },
+          {
+            "text": "EN",
+            "href": "https://www.li.me/en-uy/legal/privacy-policy",
+            "kind": "external"
+          }
+        ],
+        "html_ids": [],
+        "previous_segment_id": null,
+        "next_segment_id": "S2",
+        "previous_segment_text": "",
+        "extended_context": ""
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S2",
+        "text": "Account Information such as your name, ID number, e-mail address, telephone number, date of birth, gender, address details, and payment information such as your credit card details. Identification documentation: in order to use certain Services, we may also require you to provide photos of your government issued identification (such as your national identity card, driver's license or passport). As part of Lime Access, we also collect proof of low-income status for verification purposes. If you refuse to provide such identification we may not be able to provide you with such Services. We collect and process location data when you sign up and use the Services. For example, to accurately show you Lime vehicles near you, it is necessary to collect and record the location of your mobile device. Lime also collects location data directly from Lime vehicles including when a Lime user is riding. When you use certain products that require a government-issued driver's license, age verification, or the use of a helmet or other protective gear, we may ask you (and your guest(s), if applicable) to take a selfie which we collect. If you link, connect, or login to Lime with a third-party service (e.g. Facebook), the third-party service may send us information such as your profile information from that service. When you ask for customer service, support or other assistance, you can choose to provide us with your contact information so we can better respond to your requests and we may keep information about your engagement with our support services. Lime and third parties (such as Facebook) collect information from your browser, computer, or mobile device, which provide us with technical information such as your device's IP address and device token when you access or use the Services. We use cookies and similar tracking technologies (like pixels and tags) to provide our Services, including to protect the security of the Service, remember your settings and to gather analytics information about you. Third parties may use the technical information to provide measurement services and targeted ads. You can learn more about how we (and third parties) use cookies and similar technologies and how you can opt-out of the information being used for advertising purposes in our Cookies Policy. We collect information you share on the Services such as when you participate in communities or other forums, or comment on our social media accounts or blog entries. We receive information about you when we use third-party partners such as marketing and advertising partners, such as social media networks. If you are a logistics provider, we collect the following types of information:",
+        "heading_path": [
+          "Privacy Policy"
+        ],
+        "links": [
+          {
+            "text": "Lime Access",
+            "href": "https://www.li.me/why/community/lime-access",
+            "kind": "external"
+          },
+          {
+            "text": "Cookies Policy",
+            "href": "https://www.li.me/cookies-policy",
+            "kind": "external"
+          }
+        ],
+        "html_ids": [],
+        "previous_segment_id": "S1",
+        "next_segment_id": "S3",
+        "previous_segment_text": "ES EN Effective: May 1, 2024 Neutron Holdings, Inc. dba Lime and its affiliates (collectively \" Lime,\" \" we,\" \" us,\" or \" our \") are strongly committed to transparency, and we want you (\" you \" or \" your \") to understand how we collect, use, share and protect your information. This Privacy Notice (\" Privacy Notice \") describes how Lime handles information in connection with Lime's websites, Lime-owned vehicles, and related mobile applications and services (collectively, the \" Services \"), and when you otherwise interact with us. When specified, this policy also describes our data practices related to logistics providers or the personnel of logistics providers. We may change this Privacy Notice from time to time. We will inform you about any material changes. The Types of Information We Collect The types of information we collect or receive depends on how you use and interact with our Services. In many cases, you can choose the information you provide to us, although if you choose not to provide certain information (such as account information), we will not be able to provide the Services. We use, disclose and retain this information for the purposes described further below. The types of information we collect include:",
+        "extended_context": "ES EN Effective: May 1, 2024 Neutron Holdings, Inc. dba Lime and its affiliates (collectively \" Lime,\" \" we,\" \" us,\" or \" our \") are strongly committed to transparency, and we want you (\" you \" or \" your \") to understand how we collect, use, share and protect your information. This Privacy Notice (\" Privacy Notice \") describes how Lime handles information in connection with Lime's websites, Lime-owned vehicles, and related mobile applications and services (collectively, the \" Services \"), and when you otherwise interact with us. When specified, this policy also describes our data practices related to logistics providers or the personnel of logistics providers. We may change this Privacy Notice from time to time. We will inform you about any material changes. The Types of Information We Collect The types of information we collect or receive depends on how you use and interact with our Services. In many cases, you can choose the information you provide to us, although if you choose not to provide certain information (such as account information), we will not be able to provide the Services. We use, disclose and retain this information for the purposes described further below. The types of information we collect include:"
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S3",
+        "text": "information submitted as part of your application to engage with Lime as a logistics provider, such as contact information and government issued identification; business operation information, such as business license, tax registration and insurance information; and your bank account details. If you are personnel of a logistics provider, we collect the following types of additional information: contact information; and details of the work you carry out such as information about the vehicles you charge and deploy and other services provided for Lime. How We Use Information We use your information, including information about your location, to:",
+        "heading_path": [
+          "Privacy Policy"
+        ],
+        "links": [],
+        "html_ids": [],
+        "previous_segment_id": "S2",
+        "next_segment_id": "S4",
+        "previous_segment_text": "Account Information such as your name, ID number, e-mail address, telephone number, date of birth, gender, address details, and payment information such as your credit card details. Identification documentation: in order to use certain Services, we may also require you to provide photos of your government issued identification (such as your national identity card, driver's license or passport). As part of Lime Access, we also collect proof of low-income status for verification purposes. If you refuse to provide such identification we may not be able to provide you with such Services. We collect and process location data when you sign up and use the Services. For example, to accurately show you Lime vehicles near you, it is necessary to collect and record the location of your mobile device. Lime also collects location data directly from Lime vehicles including when a Lime user is riding. When you use certain products that require a government-issued driver's license, age verification, or the use of a helmet or other protective gear, we may ask you (and your guest(s), if applicable) to take a selfie which we collect. If you link, connect, or login to Lime with a third-party service (e.g. Facebook), the third-party service may send us information such as your profile information from that service. When you ask for customer service, support or other assistance, you can choose to provide us with your contact information so we can better respond to your requests and we may keep information about your engagement with our support services. Lime and third parties (such as Facebook) collect information from your browser, computer, or mobile device, which provide us with technical information such as your device's IP address and device token when you access or use the Services. We use cookies and similar tracking technologies (like pixels and tags) to provide our Services, including to protect the security of the Service, remember your settings and to gather analytics information about you. Third parties may use the technical information to provide measurement services and targeted ads. You can learn more about how we (and third parties) use cookies and similar technologies and how you can opt-out of the information being used for advertising purposes in our Cookies Policy. We collect information you share on the Services such as when you participate in communities or other forums, or comment on our social media accounts or blog entries. We receive information about you when we use third-party partners such as marketing and advertising partners, such as social media networks. If you are a logistics provider, we collect the following types of information:",
+        "extended_context": "ES EN Effective: May 1, 2024 Neutron Holdings, Inc. dba Lime and its affiliates (collectively \" Lime,\" \" we,\" \" us,\" or \" our \") are strongly committed to transparency, and we want you (\" you \" or \" your \") to understand how we collect, use, share and protect your information. This Privacy Notice (\" Privacy Notice \") describes how Lime handles information in connection with Lime's websites, Lime-owned vehicles, and related mobile applications and services (collectively, the \" Services \"), and when you otherwise interact with us. When specified, this policy also describes our data practices related to logistics providers or the personnel of logistics providers. We may change this Privacy Notice from time to time. We will inform you about any material changes. The Types of Information We Collect The types of information we collect or receive depends on how you use and interact with our Services. In many cases, you can choose the information you provide to us, although if you choose not to provide certain information (such as account information), we will not be able to provide the Services. We use, disclose and retain this information for the purposes described further below. The types of information we collect include: Account Information such as your name, ID number, e-mail address, telephone number, date of birth, gender, address details, and payment information such as your credit card details. Identification documentation: in order to use certain Services, we may also require you to provide photos of your government issued identification (such as your national identity card, driver's license or passport). As part of Lime Access, we also collect proof of low-income status for verification purposes. If you refuse to provide such identification we may not be able to provide you with such Services. We collect and process location data when you sign up and use the Services. For example, to accurately show you Lime vehicles near you, it is necessary to collect and record the location of your mobile device. Lime also collects location data directly from Lime vehicles including when a Lime user is riding. When you use certain products that require a government-issued driver's license, age verification, or the use of a helmet or other protective gear, we may ask you (and your guest(s), if applicable) to take a selfie which we collect. If you link, connect, or login to Lime with a third-party service (e.g. Facebook), the third-party service may send us information such as your profile information from that service. When you ask for customer service, support or other assistance, you can choose to provide us with your contact information so we can better respond to your requests and we may keep information about your engagement with our support services. Lime and third parties (such as Facebook) collect information from your browser, computer, or mobile device, which provide us with technical information such as your device's IP address and device token when you access or use the Services. We use cookies and similar tracking technologies (like pixels and tags) to provide our Services, including to protect the security of the Service, remember your settings and to gather analytics information about you. Third parties may use the technical information to provide measurement services and targeted ads. You can learn more about how we (and third parties) use cookies and similar technologies and how you can opt-out of the information being used for advertising purposes in our Cookies Policy. We collect information you share on the Services such as when you participate in communities or other forums, or comment on our social media accounts or blog entries. We receive information about you when we use third-party partners such as marketing and advertising partners, such as social media networks. If you are a logistics provider, we collect the following types of information:"
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S4",
+        "text": "provide the Services to you at your request including to manage your account and ride history. This includes where you access the Services via Integrated Partner services, such as Uber. Lime is the controller for this processing; for more information on the division of responsibility between Lime and Uber, you can contact Lime here; confirm your government-issued ID (if provided) is not currently linked to any other Lime account, and has not expired; confirm your identity and that you are old enough to use our products by verifying your selfie matches your government issued identification (e.g., driver's license) such as by using facial recognition technology; monitor, track and service the Lime vehicles, including when they are in use by you. Where applicable, this includes collecting images and/or video footage of your ride; confirm you are wearing a helmet and other protective gear, where required; process payments, subscriptions or donations and any discounts or special offers such as free unlocks; communicate with you about your account, interactions or transactions including service-related announcements such as changes to our policies. As allowed by local law, we may also send you surveys or marketing communications on behalf of Lime and/or third parties, including information about features and enhancements to our Services; personalize advertisements to you (for more information, see the \"Advertising and Analytics\" section below); optimize, develop and improve our Services, including via the creation and training of machine learning models. To do this we may use third party analytics providers to understand how the Service is being used and to help us to improve the Services; where necessary, comply with our legal obligations including to meet regulatory or local law requirements; detect, investigate, and prevent activities that may violate Lime's policies or terms or be illegal, including in cases of traffic or parking violations or accidents, which may include sharing information with government agencies, such as law enforcement agencies and municipal authorities, which may be located outside of your home country; and share and collaborate with third parties such as universities, local government authorities and other third parties to build or improve transportation infrastructure, as described in the \"Who Do We Share Your Information With?\" section below. In addition, if you are a logistics provider or personnel of a logistics provider, we use your information to: allow you to provide your services for us; have visibility into and compensate you for the services you provide to Lime; and track Lime vehicles. Who Do We Share Your Information With? We share your information with:",
+        "heading_path": [
+          "Privacy Policy"
+        ],
+        "links": [
+          {
+            "text": "here",
+            "href": "https://help.li.me/hc/en-us/requests/new",
+            "kind": "external"
+          },
+          {
+            "text": "donations",
+            "href": "https://www.li.me/blog/lime-hero-donation-module-lets-riders-give-back-to-community",
+            "kind": "external"
+          },
+          {
+            "text": "terms",
+            "href": "https://www.li.me/user-agreement",
+            "kind": "external"
+          }
+        ],
+        "html_ids": [],
+        "previous_segment_id": "S3",
+        "next_segment_id": "S5",
+        "previous_segment_text": "information submitted as part of your application to engage with Lime as a logistics provider, such as contact information and government issued identification; business operation information, such as business license, tax registration and insurance information; and your bank account details. If you are personnel of a logistics provider, we collect the following types of additional information: contact information; and details of the work you carry out such as information about the vehicles you charge and deploy and other services provided for Lime. How We Use Information We use your information, including information about your location, to:",
+        "extended_context": "ES EN Effective: May 1, 2024 Neutron Holdings, Inc. dba Lime and its affiliates (collectively \" Lime,\" \" we,\" \" us,\" or \" our \") are strongly committed to transparency, and we want you (\" you \" or \" your \") to understand how we collect, use, share and protect your information. This Privacy Notice (\" Privacy Notice \") describes how Lime handles information in connection with Lime's websites, Lime-owned vehicles, and related mobile applications and services (collectively, the \" Services \"), and when you otherwise interact with us. When specified, this policy also describes our data practices related to logistics providers or the personnel of logistics providers. We may change this Privacy Notice from time to time. We will inform you about any material changes. The Types of Information We Collect The types of information we collect or receive depends on how you use and interact with our Services. In many cases, you can choose the information you provide to us, although if you choose not to provide certain information (such as account information), we will not be able to provide the Services. We use, disclose and retain this information for the purposes described further below. The types of information we collect include: Account Information such as your name, ID number, e-mail address, telephone number, date of birth, gender, address details, and payment information such as your credit card details. Identification documentation: in order to use certain Services, we may also require you to provide photos of your government issued identification (such as your national identity card, driver's license or passport). As part of Lime Access, we also collect proof of low-income status for verification purposes. If you refuse to provide such identification we may not be able to provide you with such Services. We collect and process location data when you sign up and use the Services. For example, to accurately show you Lime vehicles near you, it is necessary to collect and record the location of your mobile device. Lime also collects location data directly from Lime vehicles including when a Lime user is riding. When you use certain products that require a government-issued driver's license, age verification, or the use of a helmet or other protective gear, we may ask you (and your guest(s), if applicable) to take a selfie which we collect. If you link, connect, or login to Lime with a third-party service (e.g. Facebook), the third-party service may send us information such as your profile information from that service. When you ask for customer service, support or other assistance, you can choose to provide us with your contact information so we can better respond to your requests and we may keep information about your engagement with our support services. Lime and third parties (such as Facebook) collect information from your browser, computer, or mobile device, which provide us with technical information such as your device's IP address and device token when you access or use the Services. We use cookies and similar tracking technologies (like pixels and tags) to provide our Services, including to protect the security of the Service, remember your settings and to gather analytics information about you. Third parties may use the technical information to provide measurement services and targeted ads. You can learn more about how we (and third parties) use cookies and similar technologies and how you can opt-out of the information being used for advertising purposes in our Cookies Policy. We collect information you share on the Services such as when you participate in communities or other forums, or comment on our social media accounts or blog entries. We receive information about you when we use third-party partners such as marketing and advertising partners, such as social media networks. If you are a logistics provider, we collect the following types of information: information submitted as part of your application to engage with Lime as a logistics provider, such as contact information and government issued identification; business operation information, such as business license, tax registration and insurance information; and your bank account details. If you are personnel of a logistics provider, we collect the following types of additional information: contact information; and details of the work you carry out such as information about the vehicles you charge and deploy and other services provided for Lime. How We Use Information We use your information, including information about your location, to:"
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": [
+          {
+            "attribute": "reference",
+            "evidence": "for more information, see the \"Advertising and Analytics\" section below",
+            "target_text": "Advertising and Analytics",
+            "reason": "reference_target_not_rights_relevant"
+          },
+          {
+            "attribute": "reference",
+            "evidence": "as described in the \"Who Do We Share Your Information With?\" section below",
+            "target_text": "Who Do We Share Your Information With?",
+            "reason": "reference_target_not_rights_relevant"
+          }
+        ]
+      }
+    },
+    {
+      "segment": {
+        "id": "S5",
+        "text": "Our service providers and partners: We share your information with our trusted service providers, partners, and their personnel who provide services to Lime such as hosting data and our infrastructure, providing ID verification services, processing payments and donations, supporting and improving the Services, performing customer service, or providing marketing and advertising services. For example, we share information with credit card issuers in order to process your payments and refunds. Collaborations with third parties: After removing certain identifiers, such as your name, phone, and e-mail address (where provided), and combining the resulting information with similar information from other users, Lime may share your information, including individual trip records and trip location (journey) history, with third parties for research, business or other purposes. For example, Lime partners with universities to collaborate on research projects such as understanding traffic and travel patterns in a city. Learn more about these collaborations here. Government, municipal, regulatory and law enforcement agencies: We may share your information with government, municipal, regulatory, and law enforcement agencies to meet federal, state, regulatory or local law requirements, as part of a judicial process, to detect, investigate, prevent, and address fraud and other illegal activity, to address security or technical issues, or to prevent harm or injury to you, members of the public, our staff, other third parties, or ourselves; or if we need to do so to defend our legal rights or property, to take action regarding illegal activities or traffic offenses, or to enforce our contracts, such as our User Agreement. Integrated Partners: We share your information with third party services which integrate or provide access to Lime vehicles and/or the Services on their platforms or that make their products available on our Services. For example, Lime has partnered with Uber so users can rent a Lime scooter through the Uber app. Cities, local authorities and public transport operators: We share your information with these recipients where necessary to fulfill conditions of our license or where necessary to operate in a particular city or location or for the purposes of city planning and understanding mobility insights. This may include the recipients contacting riders to request participation in surveys and integration into public transport operators' apps and journey planning apps. For example, in the UK, Lime partners with the Department for Transport (\" DfT \") to assist the DfT to understand and build a picture of vehicle demand and to assess the safety of vehicles in the UK. Lime affiliates: We may share your information with Lime affiliate companies to help provide, maintain and improve the Services. Business re-organization: We may also share your information as part of a sale, merger, change in control or business restructuring. Advertising and Analytics",
+        "heading_path": [
+          "Privacy Policy"
+        ],
+        "links": [
+          {
+            "text": "here",
+            "href": "https://www.li.me/research",
+            "kind": "external"
+          },
+          {
+            "text": "User Agreement",
+            "href": "https://www.li.me/user-agreement",
+            "kind": "external"
+          }
+        ],
+        "html_ids": [],
+        "previous_segment_id": "S4",
+        "next_segment_id": "S6",
+        "previous_segment_text": "provide the Services to you at your request including to manage your account and ride history. This includes where you access the Services via Integrated Partner services, such as Uber. Lime is the controller for this processing; for more information on the division of responsibility between Lime and Uber, you can contact Lime here; confirm your government-issued ID (if provided) is not currently linked to any other Lime account, and has not expired; confirm your identity and that you are old enough to use our products by verifying your selfie matches your government issued identification (e.g., driver's license) such as by using facial recognition technology; monitor, track and service the Lime vehicles, including when they are in use by you. Where applicable, this includes collecting images and/or video footage of your ride; confirm you are wearing a helmet and other protective gear, where required; process payments, subscriptions or donations and any discounts or special offers such as free unlocks; communicate with you about your account, interactions or transactions including service-related announcements such as changes to our policies. As allowed by local law, we may also send you surveys or marketing communications on behalf of Lime and/or third parties, including information about features and enhancements to our Services; personalize advertisements to you (for more information, see the \"Advertising and Analytics\" section below); optimize, develop and improve our Services, including via the creation and training of machine learning models. To do this we may use third party analytics providers to understand how the Service is being used and to help us to improve the Services; where necessary, comply with our legal obligations including to meet regulatory or local law requirements; detect, investigate, and prevent activities that may violate Lime's policies or terms or be illegal, including in cases of traffic or parking violations or accidents, which may include sharing information with government agencies, such as law enforcement agencies and municipal authorities, which may be located outside of your home country; and share and collaborate with third parties such as universities, local government authorities and other third parties to build or improve transportation infrastructure, as described in the \"Who Do We Share Your Information With?\" section below. In addition, if you are a logistics provider or personnel of a logistics provider, we use your information to: allow you to provide your services for us; have visibility into and compensate you for the services you provide to Lime; and track Lime vehicles. Who Do We Share Your Information With? We share your information with:",
+        "extended_context": "Account Information such as your name, ID number, e-mail address, telephone number, date of birth, gender, address details, and payment information such as your credit card details. Identification documentation: in order to use certain Services, we may also require you to provide photos of your government issued identification (such as your national identity card, driver's license or passport). As part of Lime Access, we also collect proof of low-income status for verification purposes. If you refuse to provide such identification we may not be able to provide you with such Services. We collect and process location data when you sign up and use the Services. For example, to accurately show you Lime vehicles near you, it is necessary to collect and record the location of your mobile device. Lime also collects location data directly from Lime vehicles including when a Lime user is riding. When you use certain products that require a government-issued driver's license, age verification, or the use of a helmet or other protective gear, we may ask you (and your guest(s), if applicable) to take a selfie which we collect. If you link, connect, or login to Lime with a third-party service (e.g. Facebook), the third-party service may send us information such as your profile information from that service. When you ask for customer service, support or other assistance, you can choose to provide us with your contact information so we can better respond to your requests and we may keep information about your engagement with our support services. Lime and third parties (such as Facebook) collect information from your browser, computer, or mobile device, which provide us with technical information such as your device's IP address and device token when you access or use the Services. We use cookies and similar tracking technologies (like pixels and tags) to provide our Services, including to protect the security of the Service, remember your settings and to gather analytics information about you. Third parties may use the technical information to provide measurement services and targeted ads. You can learn more about how we (and third parties) use cookies and similar technologies and how you can opt-out of the information being used for advertising purposes in our Cookies Policy. We collect information you share on the Services such as when you participate in communities or other forums, or comment on our social media accounts or blog entries. We receive information about you when we use third-party partners such as marketing and advertising partners, such as social media networks. If you are a logistics provider, we collect the following types of information: information submitted as part of your application to engage with Lime as a logistics provider, such as contact information and government issued identification; business operation information, such as business license, tax registration and insurance information; and your bank account details. If you are personnel of a logistics provider, we collect the following types of additional information: contact information; and details of the work you carry out such as information about the vehicles you charge and deploy and other services provided for Lime. How We Use Information We use your information, including information about your location, to: provide the Services to you at your request including to manage your account and ride history. This includes where you access the Services via Integrated Partner services, such as Uber. Lime is the controller for this processing; for more information on the division of responsibility between Lime and Uber, you can contact Lime here; confirm your government-issued ID (if provided) is not currently linked to any other Lime account, and has not expired; confirm your identity and that you are old enough to use our products by verifying your selfie matches your government issued identification (e.g., driver's license) such as by using facial recognition technology; monitor, track and service the Lime vehicles, including when they are in use by you. Where applicable, this includes collecting images and/or video footage of your ride; confirm you are wearing a helmet and other protective gear, where required; process payments, subscriptions or donations and any discounts or special offers such as free unlocks; communicate with you about your account, interactions or transactions including service-related announcements such as changes to our policies. As allowed by local law, we may also send you surveys or marketing communications on behalf of Lime and/or third parties, including information about features and enhancements to our Services; personalize advertisements to you (for more information, see the \"Advertising and Analytics\" section below); optimize, develop and improve our Services, including via the creation and training of machine learning models. To do this we may use third party analytics providers to understand how the Service is being used and to help us to improve the Services; where necessary, comply with our legal obligations including to meet regulatory or local law requirements; detect, investigate, and prevent activities that may violate Lime's policies or terms or be illegal, including in cases of traffic or parking violations or accidents, which may include sharing information with government agencies, such as law enforcement agencies and municipal authorities, which may be located outside of your home country; and share and collaborate with third parties such as universities, local government authorities and other third parties to build or improve transportation infrastructure, as described in the \"Who Do We Share Your Information With?\" section below. In addition, if you are a logistics provider or personnel of a logistics provider, we use your information to: allow you to provide your services for us; have visibility into and compensate you for the services you provide to Lime; and track Lime vehicles. Who Do We Share Your Information With? We share your information with:"
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": [
+          {
+            "attribute": "reference",
+            "evidence": "Learn more about these collaborations here.",
+            "target_text": "these collaborations",
+            "reason": "not_an_unresolved_reference"
+          }
+        ]
+      }
+    },
+    {
+      "segment": {
+        "id": "S6",
+        "text": "We allow others to provide analytics services and serve advertisements on our Services and on our behalf across the web and in mobile apps. These entities may use cookies, web beacons, device identifiers, and other technologies to collect information about your use of our Services and other websites and applications, including your IP address, web browser, mobile network information, pages viewed, time spent on pages or in mobile apps, links clicked, and conversion information. This information may be used by Lime and others to, among other things, analyze and track data, determine the popularity of certain content, deliver advertising and content targeted to your interests on our Services and other websites, measure the effectiveness of our advertising, and better understand your online activity. You can find more information about why we use cookies and similar technologies in our Cookies Policy. Where Lime uses the Meta pixel (a type of cookie) to provide advertising to you, Lime and Meta Ireland are joint controllers for this processing. Lime and Meta Ireland have entered into a Controller Addendum to divide their respective responsibilities under the General Data Protection Regulation in respect of this joint processing, for example, Lime is responsible for providing this notice to you and Meta Ireland is responsible for managing your individual rights relating to the joint processing. For information on how to exercise your rights with Meta Ireland in relation to the joint processing, and for information on how Meta Ireland subsequently processes your personal information as independent data controller, please see the Meta Ireland's Privacy Policy. We also work with third parties to serve ads to you as part of customized campaigns on third-party platforms (such as Facebook and Instagram). As part of these ad campaigns, we or the third-party platforms may convert information about you, such as your email address and phone number, into a unique value that can be matched with a user account on these platforms to allow us to learn about your interests and serve you advertising that is customized to your interests. Note that the third-party platforms may offer you choices about whether you see these types of customized ads. We do not sell your personal information with third parties for their direct marketing purposes. Our Legal Basis for Using Your Information If you are located in the European Economic Area (\"EEA\"), United Kingdom, or Switzerland, Lime relies on a number of legal bases to collect, use, share, and otherwise process your information for the purposes described in this Privacy Notice, including where:",
+        "heading_path": [
+          "Privacy Policy"
+        ],
+        "links": [
+          {
+            "text": "Cookies Policy",
+            "href": "https://www.li.me/cookies-policy",
+            "kind": "external"
+          },
+          {
+            "text": "Meta Ireland's Privacy Policy.",
+            "href": "https://www.facebook.com/privacy/policy/?entry_point=data_policy_redirect&entry=0",
+            "kind": "external"
+          },
+          {
+            "text": "legal bases",
+            "href": "https://www.li.me/legal/legal-bases",
+            "kind": "external"
+          }
+        ],
+        "html_ids": [],
+        "previous_segment_id": "S5",
+        "next_segment_id": "S7",
+        "previous_segment_text": "Our service providers and partners: We share your information with our trusted service providers, partners, and their personnel who provide services to Lime such as hosting data and our infrastructure, providing ID verification services, processing payments and donations, supporting and improving the Services, performing customer service, or providing marketing and advertising services. For example, we share information with credit card issuers in order to process your payments and refunds. Collaborations with third parties: After removing certain identifiers, such as your name, phone, and e-mail address (where provided), and combining the resulting information with similar information from other users, Lime may share your information, including individual trip records and trip location (journey) history, with third parties for research, business or other purposes. For example, Lime partners with universities to collaborate on research projects such as understanding traffic and travel patterns in a city. Learn more about these collaborations here. Government, municipal, regulatory and law enforcement agencies: We may share your information with government, municipal, regulatory, and law enforcement agencies to meet federal, state, regulatory or local law requirements, as part of a judicial process, to detect, investigate, prevent, and address fraud and other illegal activity, to address security or technical issues, or to prevent harm or injury to you, members of the public, our staff, other third parties, or ourselves; or if we need to do so to defend our legal rights or property, to take action regarding illegal activities or traffic offenses, or to enforce our contracts, such as our User Agreement. Integrated Partners: We share your information with third party services which integrate or provide access to Lime vehicles and/or the Services on their platforms or that make their products available on our Services. For example, Lime has partnered with Uber so users can rent a Lime scooter through the Uber app. Cities, local authorities and public transport operators: We share your information with these recipients where necessary to fulfill conditions of our license or where necessary to operate in a particular city or location or for the purposes of city planning and understanding mobility insights. This may include the recipients contacting riders to request participation in surveys and integration into public transport operators' apps and journey planning apps. For example, in the UK, Lime partners with the Department for Transport (\" DfT \") to assist the DfT to understand and build a picture of vehicle demand and to assess the safety of vehicles in the UK. Lime affiliates: We may share your information with Lime affiliate companies to help provide, maintain and improve the Services. Business re-organization: We may also share your information as part of a sale, merger, change in control or business restructuring. Advertising and Analytics",
+        "extended_context": "information submitted as part of your application to engage with Lime as a logistics provider, such as contact information and government issued identification; business operation information, such as business license, tax registration and insurance information; and your bank account details. If you are personnel of a logistics provider, we collect the following types of additional information: contact information; and details of the work you carry out such as information about the vehicles you charge and deploy and other services provided for Lime. How We Use Information We use your information, including information about your location, to: provide the Services to you at your request including to manage your account and ride history. This includes where you access the Services via Integrated Partner services, such as Uber. Lime is the controller for this processing; for more information on the division of responsibility between Lime and Uber, you can contact Lime here; confirm your government-issued ID (if provided) is not currently linked to any other Lime account, and has not expired; confirm your identity and that you are old enough to use our products by verifying your selfie matches your government issued identification (e.g., driver's license) such as by using facial recognition technology; monitor, track and service the Lime vehicles, including when they are in use by you. Where applicable, this includes collecting images and/or video footage of your ride; confirm you are wearing a helmet and other protective gear, where required; process payments, subscriptions or donations and any discounts or special offers such as free unlocks; communicate with you about your account, interactions or transactions including service-related announcements such as changes to our policies. As allowed by local law, we may also send you surveys or marketing communications on behalf of Lime and/or third parties, including information about features and enhancements to our Services; personalize advertisements to you (for more information, see the \"Advertising and Analytics\" section below); optimize, develop and improve our Services, including via the creation and training of machine learning models. To do this we may use third party analytics providers to understand how the Service is being used and to help us to improve the Services; where necessary, comply with our legal obligations including to meet regulatory or local law requirements; detect, investigate, and prevent activities that may violate Lime's policies or terms or be illegal, including in cases of traffic or parking violations or accidents, which may include sharing information with government agencies, such as law enforcement agencies and municipal authorities, which may be located outside of your home country; and share and collaborate with third parties such as universities, local government authorities and other third parties to build or improve transportation infrastructure, as described in the \"Who Do We Share Your Information With?\" section below. In addition, if you are a logistics provider or personnel of a logistics provider, we use your information to: allow you to provide your services for us; have visibility into and compensate you for the services you provide to Lime; and track Lime vehicles. Who Do We Share Your Information With? We share your information with: Our service providers and partners: We share your information with our trusted service providers, partners, and their personnel who provide services to Lime such as hosting data and our infrastructure, providing ID verification services, processing payments and donations, supporting and improving the Services, performing customer service, or providing marketing and advertising services. For example, we share information with credit card issuers in order to process your payments and refunds. Collaborations with third parties: After removing certain identifiers, such as your name, phone, and e-mail address (where provided), and combining the resulting information with similar information from other users, Lime may share your information, including individual trip records and trip location (journey) history, with third parties for research, business or other purposes. For example, Lime partners with universities to collaborate on research projects such as understanding traffic and travel patterns in a city. Learn more about these collaborations here. Government, municipal, regulatory and law enforcement agencies: We may share your information with government, municipal, regulatory, and law enforcement agencies to meet federal, state, regulatory or local law requirements, as part of a judicial process, to detect, investigate, prevent, and address fraud and other illegal activity, to address security or technical issues, or to prevent harm or injury to you, members of the public, our staff, other third parties, or ourselves; or if we need to do so to defend our legal rights or property, to take action regarding illegal activities or traffic offenses, or to enforce our contracts, such as our User Agreement. Integrated Partners: We share your information with third party services which integrate or provide access to Lime vehicles and/or the Services on their platforms or that make their products available on our Services. For example, Lime has partnered with Uber so users can rent a Lime scooter through the Uber app. Cities, local authorities and public transport operators: We share your information with these recipients where necessary to fulfill conditions of our license or where necessary to operate in a particular city or location or for the purposes of city planning and understanding mobility insights. This may include the recipients contacting riders to request participation in surveys and integration into public transport operators' apps and journey planning apps. For example, in the UK, Lime partners with the Department for Transport (\" DfT \") to assist the DfT to understand and build a picture of vehicle demand and to assess the safety of vehicles in the UK. Lime affiliates: We may share your information with Lime affiliate companies to help provide, maintain and improve the Services. Business re-organization: We may also share your information as part of a sale, merger, change in control or business restructuring. Advertising and Analytics"
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S7",
+        "text": "it is necessary to provide the Services and perform our obligations in accordance with our terms. For example, we cannot provide the Services unless we collect and process information about you and your location; you have consented to us processing your information (in which case you may revoke your consent at any time); necessary to comply with a legal obligation, including, for example, responding to government agency or law enforcement information requests or to establish, exercise or defend legal claims; it is necessary to protect vital interests of our users, logistics providers and personnel of logistics providers, staff, and members of the public both on and off the Services; and/ or the processing is necessary for the purposes of Lime's or a third party's legitimate interests, provided that we have balanced these against your fundamental rights and interests. More information on our lawful basis for processing your personal information in the European Economic Area, the United Kingdom and Switzerland is available here. In Israel, Lime relies on your consent to collect, use, share and otherwise process your information for the purposes described in this Privacy Notice, and consent to this Privacy Notice and to the use of our Services based on it, constitutes valid consent as stated. You know that you do not have an obligation to provide the information to Lime, but if you do not provide it, you will not be able to use the Services. How We Transfer Your Information As we offer our Services in many locations globally, we may transfer your information to or from these locations for the purposes of providing you Services. For Residents of the European Economic Area, Switzerland, or the United Kingdom: please be aware that certain countries outside the EEA, Switzerland, or the United Kingdom may not offer the same level of data protection as in your home country. Where the European Commission has recognized a country as providing an adequate level of data protection, Lime may rely on the Commission's adequacy decision, as applicable, to transfer data. Lime also relies on Standard Contractual Clauses approved by the European Commission or other appropriate transfer mechanism(s) to transfer data from the EEA, Switzerland and the United Kingdom to the United States and other countries outside of where you live. You may request a copy of Standard Contractual Clauses by contacting us at dpo@li.me. In certain limited circumstances, we may use derogations where appropriate to process personal information, when there are no other data transfer mechanisms applicable. How Long We Keep Information We keep your information for as long as is reasonably necessary to provide the Services to you or until your account is deleted, whichever is longer, subject to any longer period as may be required by applicable law or notified to you. For example:",
+        "heading_path": [
+          "Privacy Policy"
+        ],
+        "links": [
+          {
+            "text": "legitimate",
+            "href": "https://www.li.me/legal-bases",
+            "kind": "external"
+          },
+          {
+            "text": "here",
+            "href": "https://www.li.me/legal/legal-bases",
+            "kind": "external"
+          },
+          {
+            "text": "dpo@li.me",
+            "href": "mailto:dpo@li.me",
+            "kind": "email"
+          }
+        ],
+        "html_ids": [],
+        "previous_segment_id": "S6",
+        "next_segment_id": "S8",
+        "previous_segment_text": "We allow others to provide analytics services and serve advertisements on our Services and on our behalf across the web and in mobile apps. These entities may use cookies, web beacons, device identifiers, and other technologies to collect information about your use of our Services and other websites and applications, including your IP address, web browser, mobile network information, pages viewed, time spent on pages or in mobile apps, links clicked, and conversion information. This information may be used by Lime and others to, among other things, analyze and track data, determine the popularity of certain content, deliver advertising and content targeted to your interests on our Services and other websites, measure the effectiveness of our advertising, and better understand your online activity. You can find more information about why we use cookies and similar technologies in our Cookies Policy. Where Lime uses the Meta pixel (a type of cookie) to provide advertising to you, Lime and Meta Ireland are joint controllers for this processing. Lime and Meta Ireland have entered into a Controller Addendum to divide their respective responsibilities under the General Data Protection Regulation in respect of this joint processing, for example, Lime is responsible for providing this notice to you and Meta Ireland is responsible for managing your individual rights relating to the joint processing. For information on how to exercise your rights with Meta Ireland in relation to the joint processing, and for information on how Meta Ireland subsequently processes your personal information as independent data controller, please see the Meta Ireland's Privacy Policy. We also work with third parties to serve ads to you as part of customized campaigns on third-party platforms (such as Facebook and Instagram). As part of these ad campaigns, we or the third-party platforms may convert information about you, such as your email address and phone number, into a unique value that can be matched with a user account on these platforms to allow us to learn about your interests and serve you advertising that is customized to your interests. Note that the third-party platforms may offer you choices about whether you see these types of customized ads. We do not sell your personal information with third parties for their direct marketing purposes. Our Legal Basis for Using Your Information If you are located in the European Economic Area (\"EEA\"), United Kingdom, or Switzerland, Lime relies on a number of legal bases to collect, use, share, and otherwise process your information for the purposes described in this Privacy Notice, including where:",
+        "extended_context": "provide the Services to you at your request including to manage your account and ride history. This includes where you access the Services via Integrated Partner services, such as Uber. Lime is the controller for this processing; for more information on the division of responsibility between Lime and Uber, you can contact Lime here; confirm your government-issued ID (if provided) is not currently linked to any other Lime account, and has not expired; confirm your identity and that you are old enough to use our products by verifying your selfie matches your government issued identification (e.g., driver's license) such as by using facial recognition technology; monitor, track and service the Lime vehicles, including when they are in use by you. Where applicable, this includes collecting images and/or video footage of your ride; confirm you are wearing a helmet and other protective gear, where required; process payments, subscriptions or donations and any discounts or special offers such as free unlocks; communicate with you about your account, interactions or transactions including service-related announcements such as changes to our policies. As allowed by local law, we may also send you surveys or marketing communications on behalf of Lime and/or third parties, including information about features and enhancements to our Services; personalize advertisements to you (for more information, see the \"Advertising and Analytics\" section below); optimize, develop and improve our Services, including via the creation and training of machine learning models. To do this we may use third party analytics providers to understand how the Service is being used and to help us to improve the Services; where necessary, comply with our legal obligations including to meet regulatory or local law requirements; detect, investigate, and prevent activities that may violate Lime's policies or terms or be illegal, including in cases of traffic or parking violations or accidents, which may include sharing information with government agencies, such as law enforcement agencies and municipal authorities, which may be located outside of your home country; and share and collaborate with third parties such as universities, local government authorities and other third parties to build or improve transportation infrastructure, as described in the \"Who Do We Share Your Information With?\" section below. In addition, if you are a logistics provider or personnel of a logistics provider, we use your information to: allow you to provide your services for us; have visibility into and compensate you for the services you provide to Lime; and track Lime vehicles. Who Do We Share Your Information With? We share your information with: Our service providers and partners: We share your information with our trusted service providers, partners, and their personnel who provide services to Lime such as hosting data and our infrastructure, providing ID verification services, processing payments and donations, supporting and improving the Services, performing customer service, or providing marketing and advertising services. For example, we share information with credit card issuers in order to process your payments and refunds. Collaborations with third parties: After removing certain identifiers, such as your name, phone, and e-mail address (where provided), and combining the resulting information with similar information from other users, Lime may share your information, including individual trip records and trip location (journey) history, with third parties for research, business or other purposes. For example, Lime partners with universities to collaborate on research projects such as understanding traffic and travel patterns in a city. Learn more about these collaborations here. Government, municipal, regulatory and law enforcement agencies: We may share your information with government, municipal, regulatory, and law enforcement agencies to meet federal, state, regulatory or local law requirements, as part of a judicial process, to detect, investigate, prevent, and address fraud and other illegal activity, to address security or technical issues, or to prevent harm or injury to you, members of the public, our staff, other third parties, or ourselves; or if we need to do so to defend our legal rights or property, to take action regarding illegal activities or traffic offenses, or to enforce our contracts, such as our User Agreement. Integrated Partners: We share your information with third party services which integrate or provide access to Lime vehicles and/or the Services on their platforms or that make their products available on our Services. For example, Lime has partnered with Uber so users can rent a Lime scooter through the Uber app. Cities, local authorities and public transport operators: We share your information with these recipients where necessary to fulfill conditions of our license or where necessary to operate in a particular city or location or for the purposes of city planning and understanding mobility insights. This may include the recipients contacting riders to request participation in surveys and integration into public transport operators' apps and journey planning apps. For example, in the UK, Lime partners with the Department for Transport (\" DfT \") to assist the DfT to understand and build a picture of vehicle demand and to assess the safety of vehicles in the UK. Lime affiliates: We may share your information with Lime affiliate companies to help provide, maintain and improve the Services. Business re-organization: We may also share your information as part of a sale, merger, change in control or business restructuring. Advertising and Analytics We allow others to provide analytics services and serve advertisements on our Services and on our behalf across the web and in mobile apps. These entities may use cookies, web beacons, device identifiers, and other technologies to collect information about your use of our Services and other websites and applications, including your IP address, web browser, mobile network information, pages viewed, time spent on pages or in mobile apps, links clicked, and conversion information. This information may be used by Lime and others to, among other things, analyze and track data, determine the popularity of certain content, deliver advertising and content targeted to your interests on our Services and other websites, measure the effectiveness of our advertising, and better understand your online activity. You can find more information about why we use cookies and similar technologies in our Cookies Policy. Where Lime uses the Meta pixel (a type of cookie) to provide advertising to you, Lime and Meta Ireland are joint controllers for this processing. Lime and Meta Ireland have entered into a Controller Addendum to divide their respective responsibilities under the General Data Protection Regulation in respect of this joint processing, for example, Lime is responsible for providing this notice to you and Meta Ireland is responsible for managing your individual rights relating to the joint processing. For information on how to exercise your rights with Meta Ireland in relation to the joint processing, and for information on how Meta Ireland subsequently processes your personal information as independent data controller, please see the Meta Ireland's Privacy Policy. We also work with third parties to serve ads to you as part of customized campaigns on third-party platforms (such as Facebook and Instagram). As part of these ad campaigns, we or the third-party platforms may convert information about you, such as your email address and phone number, into a unique value that can be matched with a user account on these platforms to allow us to learn about your interests and serve you advertising that is customized to your interests. Note that the third-party platforms may offer you choices about whether you see these types of customized ads. We do not sell your personal information with third parties for their direct marketing purposes. Our Legal Basis for Using Your Information If you are located in the European Economic Area (\"EEA\"), United Kingdom, or Switzerland, Lime relies on a number of legal bases to collect, use, share, and otherwise process your information for the purposes described in this Privacy Notice, including where:"
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [
+          {
+            "value": "Change or withdraw consent",
+            "evidence": "you have consented to us processing your information (in which case you may revoke your consent at any time)",
+            "confidence": "extracted",
+            "id": "Lime:S7:choice:1"
+          }
+        ],
+        "request_channel": [
+          {
+            "value": "Request by email",
+            "evidence": "You may request a copy of Standard Contractual Clauses by contacting us at dpo@li.me.",
+            "confidence": "extracted",
+            "id": "Lime:S7:channel:1",
+            "linked_ids": [],
+            "link": {
+              "url": "mailto:dpo@li.me",
+              "kind": "email",
+              "visible_text": "dpo@li.me"
+            }
+          },
+          {
+            "value": "Web page or online form",
+            "evidence": "More information on our lawful basis for processing your personal information in the European Economic Area, the United Kingdom and Switzerland is available here.",
+            "confidence": "extracted",
+            "id": "Lime:S7:channel:2",
+            "linked_ids": [],
+            "link": {
+              "url": "https://www.li.me/legal/legal-bases",
+              "kind": "external",
+              "visible_text": "here"
+            }
+          }
+        ],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S8",
+        "text": "We retain account information, such as your email address and your date of birth, for the lifetime of the account. Certain information relating to transactions relating to an account are retained for 7 years in line with Lime's accounting obligations; We retain information related to customer support queries for the lifetime of the account. When you delete your account, it may take us additional time to fully delete your information from our databases and system logs. We may also retain information from deleted accounts to prevent fraud, collect fees, enforce the User Agreement, to comply with our legal obligations or enforce our legal rights. In addition, if you are a logistics provider or personnel of a logistics provider, Lime retains certain information to the extent necessary to comply with our legal obligations. For example, Lime may keep some of your information in order to comply with applicable tax, legal, reporting and auditing obligations and other requirements in the countries in which we operate. Your Rights Depending on where you live, you may benefit from a number of rights in relation to your information, including: Right to object (marketing) You have the right to object to processing for direct marketing purposes at any time. Right to object (legitimate interest) Where we process your information based on legitimate interests, you can object to this processing in certain circumstances. Unless we have compelling legitimate grounds or where it is needed for legal reasons, we will cease processing your information when you object. Right of access You can access much of your information by logging into your account. You can also request a copy of the information we have about you and information explaining how the information is used. Right of rectification You have the right to request that we rectify inaccurate information about you. You may be able to edit this information in the Settings of the Lime app. Right of erasure You have the right to request that we delete your information. Right to restrict processing You have the right, in certain cases, to temporarily restrict the processing of your information by us, provided there are valid grounds for doing so. Right to data portability You may have the right to receive certain of your information in a structured, commonly used and machine-readable format and to transmit such information to another controller. Right to withdraw consent Where you have previously provided your consent, such as to send you direct marketing, you have the right to withdraw consent at any time. However, this will not affect the lawfulness of the processing based on consent before its withdrawal. Furthermore, even in case of a withdrawal, we may continue to use your information as permitted or required by law.",
+        "heading_path": [
+          "Privacy Policy"
+        ],
+        "links": [
+          {
+            "text": "User Agreement",
+            "href": "https://www.li.me/user-agreement",
+            "kind": "external"
+          }
+        ],
+        "html_ids": [],
+        "previous_segment_id": "S7",
+        "next_segment_id": "S9",
+        "previous_segment_text": "it is necessary to provide the Services and perform our obligations in accordance with our terms. For example, we cannot provide the Services unless we collect and process information about you and your location; you have consented to us processing your information (in which case you may revoke your consent at any time); necessary to comply with a legal obligation, including, for example, responding to government agency or law enforcement information requests or to establish, exercise or defend legal claims; it is necessary to protect vital interests of our users, logistics providers and personnel of logistics providers, staff, and members of the public both on and off the Services; and/ or the processing is necessary for the purposes of Lime's or a third party's legitimate interests, provided that we have balanced these against your fundamental rights and interests. More information on our lawful basis for processing your personal information in the European Economic Area, the United Kingdom and Switzerland is available here. In Israel, Lime relies on your consent to collect, use, share and otherwise process your information for the purposes described in this Privacy Notice, and consent to this Privacy Notice and to the use of our Services based on it, constitutes valid consent as stated. You know that you do not have an obligation to provide the information to Lime, but if you do not provide it, you will not be able to use the Services. How We Transfer Your Information As we offer our Services in many locations globally, we may transfer your information to or from these locations for the purposes of providing you Services. For Residents of the European Economic Area, Switzerland, or the United Kingdom: please be aware that certain countries outside the EEA, Switzerland, or the United Kingdom may not offer the same level of data protection as in your home country. Where the European Commission has recognized a country as providing an adequate level of data protection, Lime may rely on the Commission's adequacy decision, as applicable, to transfer data. Lime also relies on Standard Contractual Clauses approved by the European Commission or other appropriate transfer mechanism(s) to transfer data from the EEA, Switzerland and the United Kingdom to the United States and other countries outside of where you live. You may request a copy of Standard Contractual Clauses by contacting us at dpo@li.me. In certain limited circumstances, we may use derogations where appropriate to process personal information, when there are no other data transfer mechanisms applicable. How Long We Keep Information We keep your information for as long as is reasonably necessary to provide the Services to you or until your account is deleted, whichever is longer, subject to any longer period as may be required by applicable law or notified to you. For example:",
+        "extended_context": "Our service providers and partners: We share your information with our trusted service providers, partners, and their personnel who provide services to Lime such as hosting data and our infrastructure, providing ID verification services, processing payments and donations, supporting and improving the Services, performing customer service, or providing marketing and advertising services. For example, we share information with credit card issuers in order to process your payments and refunds. Collaborations with third parties: After removing certain identifiers, such as your name, phone, and e-mail address (where provided), and combining the resulting information with similar information from other users, Lime may share your information, including individual trip records and trip location (journey) history, with third parties for research, business or other purposes. For example, Lime partners with universities to collaborate on research projects such as understanding traffic and travel patterns in a city. Learn more about these collaborations here. Government, municipal, regulatory and law enforcement agencies: We may share your information with government, municipal, regulatory, and law enforcement agencies to meet federal, state, regulatory or local law requirements, as part of a judicial process, to detect, investigate, prevent, and address fraud and other illegal activity, to address security or technical issues, or to prevent harm or injury to you, members of the public, our staff, other third parties, or ourselves; or if we need to do so to defend our legal rights or property, to take action regarding illegal activities or traffic offenses, or to enforce our contracts, such as our User Agreement. Integrated Partners: We share your information with third party services which integrate or provide access to Lime vehicles and/or the Services on their platforms or that make their products available on our Services. For example, Lime has partnered with Uber so users can rent a Lime scooter through the Uber app. Cities, local authorities and public transport operators: We share your information with these recipients where necessary to fulfill conditions of our license or where necessary to operate in a particular city or location or for the purposes of city planning and understanding mobility insights. This may include the recipients contacting riders to request participation in surveys and integration into public transport operators' apps and journey planning apps. For example, in the UK, Lime partners with the Department for Transport (\" DfT \") to assist the DfT to understand and build a picture of vehicle demand and to assess the safety of vehicles in the UK. Lime affiliates: We may share your information with Lime affiliate companies to help provide, maintain and improve the Services. Business re-organization: We may also share your information as part of a sale, merger, change in control or business restructuring. Advertising and Analytics We allow others to provide analytics services and serve advertisements on our Services and on our behalf across the web and in mobile apps. These entities may use cookies, web beacons, device identifiers, and other technologies to collect information about your use of our Services and other websites and applications, including your IP address, web browser, mobile network information, pages viewed, time spent on pages or in mobile apps, links clicked, and conversion information. This information may be used by Lime and others to, among other things, analyze and track data, determine the popularity of certain content, deliver advertising and content targeted to your interests on our Services and other websites, measure the effectiveness of our advertising, and better understand your online activity. You can find more information about why we use cookies and similar technologies in our Cookies Policy. Where Lime uses the Meta pixel (a type of cookie) to provide advertising to you, Lime and Meta Ireland are joint controllers for this processing. Lime and Meta Ireland have entered into a Controller Addendum to divide their respective responsibilities under the General Data Protection Regulation in respect of this joint processing, for example, Lime is responsible for providing this notice to you and Meta Ireland is responsible for managing your individual rights relating to the joint processing. For information on how to exercise your rights with Meta Ireland in relation to the joint processing, and for information on how Meta Ireland subsequently processes your personal information as independent data controller, please see the Meta Ireland's Privacy Policy. We also work with third parties to serve ads to you as part of customized campaigns on third-party platforms (such as Facebook and Instagram). As part of these ad campaigns, we or the third-party platforms may convert information about you, such as your email address and phone number, into a unique value that can be matched with a user account on these platforms to allow us to learn about your interests and serve you advertising that is customized to your interests. Note that the third-party platforms may offer you choices about whether you see these types of customized ads. We do not sell your personal information with third parties for their direct marketing purposes. Our Legal Basis for Using Your Information If you are located in the European Economic Area (\"EEA\"), United Kingdom, or Switzerland, Lime relies on a number of legal bases to collect, use, share, and otherwise process your information for the purposes described in this Privacy Notice, including where: it is necessary to provide the Services and perform our obligations in accordance with our terms. For example, we cannot provide the Services unless we collect and process information about you and your location; you have consented to us processing your information (in which case you may revoke your consent at any time); necessary to comply with a legal obligation, including, for example, responding to government agency or law enforcement information requests or to establish, exercise or defend legal claims; it is necessary to protect vital interests of our users, logistics providers and personnel of logistics providers, staff, and members of the public both on and off the Services; and/ or the processing is necessary for the purposes of Lime's or a third party's legitimate interests, provided that we have balanced these against your fundamental rights and interests. More information on our lawful basis for processing your personal information in the European Economic Area, the United Kingdom and Switzerland is available here. In Israel, Lime relies on your consent to collect, use, share and otherwise process your information for the purposes described in this Privacy Notice, and consent to this Privacy Notice and to the use of our Services based on it, constitutes valid consent as stated. You know that you do not have an obligation to provide the information to Lime, but if you do not provide it, you will not be able to use the Services. How We Transfer Your Information As we offer our Services in many locations globally, we may transfer your information to or from these locations for the purposes of providing you Services. For Residents of the European Economic Area, Switzerland, or the United Kingdom: please be aware that certain countries outside the EEA, Switzerland, or the United Kingdom may not offer the same level of data protection as in your home country. Where the European Commission has recognized a country as providing an adequate level of data protection, Lime may rely on the Commission's adequacy decision, as applicable, to transfer data. Lime also relies on Standard Contractual Clauses approved by the European Commission or other appropriate transfer mechanism(s) to transfer data from the EEA, Switzerland and the United Kingdom to the United States and other countries outside of where you live. You may request a copy of Standard Contractual Clauses by contacting us at dpo@li.me. In certain limited circumstances, we may use derogations where appropriate to process personal information, when there are no other data transfer mechanisms applicable. How Long We Keep Information We keep your information for as long as is reasonably necessary to provide the Services to you or until your account is deleted, whichever is longer, subject to any longer period as may be required by applicable law or notified to you. For example:"
+      },
+      "result": {
+        "right_type": [
+          {
+            "value": "Right to object",
+            "evidence": "You have the right to object to processing for direct marketing purposes at any time.",
+            "confidence": "extracted",
+            "id": "Lime:S8:right:1"
+          },
+          {
+            "value": "Right to object",
+            "evidence": "Where we process your information based on legitimate interests, you can object to this processing in certain circumstances.",
+            "confidence": "extracted",
+            "id": "Lime:S8:right:2"
+          },
+          {
+            "value": "Right of access",
+            "evidence": "You can also request a copy of the information we have about you and information explaining how the information is used.",
+            "confidence": "extracted",
+            "id": "Lime:S8:right:3"
+          },
+          {
+            "value": "Right to rectification",
+            "evidence": "You have the right to request that we rectify inaccurate information about you.",
+            "confidence": "extracted",
+            "id": "Lime:S8:right:4"
+          },
+          {
+            "value": "Right to erasure",
+            "evidence": "You have the right to request that we delete your information.",
+            "confidence": "extracted",
+            "id": "Lime:S8:right:5"
+          },
+          {
+            "value": "Right to restriction of processing",
+            "evidence": "You have the right, in certain cases, to temporarily restrict the processing of your information by us, provided there are valid grounds for doing so.",
+            "confidence": "extracted",
+            "id": "Lime:S8:right:6"
+          },
+          {
+            "value": "Right to data portability",
+            "evidence": "You may have the right to receive certain of your information in a structured, commonly used and machine-readable format and to transmit such information to another controller.",
+            "confidence": "extracted",
+            "id": "Lime:S8:right:7"
+          }
+        ],
+        "choice_type": [
+          {
+            "value": "Change or withdraw consent",
+            "evidence": "you have the right to withdraw consent at any time",
+            "confidence": "extracted",
+            "id": "Lime:S8:choice:1"
+          }
+        ],
+        "request_channel": [
+          {
+            "value": "In-app or device settings",
+            "evidence": "You may be able to edit this information in the Settings of the Lime app.",
+            "confidence": "extracted",
+            "id": "Lime:S8:channel:1",
+            "linked_ids": [
+              "Lime:S8:right:4"
+            ],
+            "link": null
+          }
+        ],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S9",
+        "text": "Please get in touch with us as set out in the \"Who Is Responsible for My Information?\" section below if you would like to exercise any of these rights or in case you should have any concerns about how we process your information. For security purposes, we may require that you follow certain steps in order to verify that you are the owner of a Lime account. For example, we may require that you have a verified email associated with your Lime account and that you get in touch with us using the verified email associated with your Lime account. You also have the right to lodge a complaint with your local supervisory authority for data protection. You can access a list of EU supervisory authorities here. You can also contact Lime's Data Protection Officer at dpo@li.me. California Privacy Rights: If you are a California resident, you are entitled to certain rights over your personal information. For more information about those rights and how to exercise them, please see our California Privacy Notice, which is incorporated by reference into this policy. Your Choices and How You Can Manage Your Information: We believe you should have choices about the collection, use and sharing of your information. If you do not want Lime to collect your information, please do not use the Services. Emails and Other Communications: If you would like to change the types of communications you receive from us, including opting out of promotional communications from us, you may do so at any time by updating the communication preferences specified in your account profile. If you opt out of receiving promotional communications from us, we may continue to send non-promotional communications and other information about your use of the Service. Accessing and Managing Your Information: If you have an account with Lime, you can review, change or delete your information by logging into your account and editing your profile. You can change your mobile phone number or email address by using our in-app change feature. You can delete your Lime account at any time by selecting \"Delete your account\" from the Settings screen in the app, by submitting a request to us at support@li.me or by using the in-app \"Submit a Request\" feature. If you are a logistic provider or personnel of a logistics Provider and wish to delete your account, please email juicer@li.me. Who Is Responsible for My Information? To see who is responsible for your personal information and how to contact them, please click here.",
+        "heading_path": [
+          "Privacy Policy"
+        ],
+        "links": [
+          {
+            "text": "here",
+            "href": "https://edpb.europa.eu/about-edpb/board/members_en",
+            "kind": "external"
+          },
+          {
+            "text": "dpo@li.me",
+            "href": "mailto:dpo@li.me",
+            "kind": "email"
+          },
+          {
+            "text": "California Privacy Notice",
+            "href": "https://www.li.me/privacy/california",
+            "kind": "external"
+          },
+          {
+            "text": "support@li.me",
+            "href": "mailto:support@li.me",
+            "kind": "email"
+          },
+          {
+            "text": "juicer@li.me",
+            "href": "mailto:juicer@li.me",
+            "kind": "email"
+          },
+          {
+            "text": "here",
+            "href": "https://www.li.me/myinformation",
+            "kind": "external"
+          }
+        ],
+        "html_ids": [],
+        "previous_segment_id": "S8",
+        "next_segment_id": "S10",
+        "previous_segment_text": "We retain account information, such as your email address and your date of birth, for the lifetime of the account. Certain information relating to transactions relating to an account are retained for 7 years in line with Lime's accounting obligations; We retain information related to customer support queries for the lifetime of the account. When you delete your account, it may take us additional time to fully delete your information from our databases and system logs. We may also retain information from deleted accounts to prevent fraud, collect fees, enforce the User Agreement, to comply with our legal obligations or enforce our legal rights. In addition, if you are a logistics provider or personnel of a logistics provider, Lime retains certain information to the extent necessary to comply with our legal obligations. For example, Lime may keep some of your information in order to comply with applicable tax, legal, reporting and auditing obligations and other requirements in the countries in which we operate. Your Rights Depending on where you live, you may benefit from a number of rights in relation to your information, including: Right to object (marketing) You have the right to object to processing for direct marketing purposes at any time. Right to object (legitimate interest) Where we process your information based on legitimate interests, you can object to this processing in certain circumstances. Unless we have compelling legitimate grounds or where it is needed for legal reasons, we will cease processing your information when you object. Right of access You can access much of your information by logging into your account. You can also request a copy of the information we have about you and information explaining how the information is used. Right of rectification You have the right to request that we rectify inaccurate information about you. You may be able to edit this information in the Settings of the Lime app. Right of erasure You have the right to request that we delete your information. Right to restrict processing You have the right, in certain cases, to temporarily restrict the processing of your information by us, provided there are valid grounds for doing so. Right to data portability You may have the right to receive certain of your information in a structured, commonly used and machine-readable format and to transmit such information to another controller. Right to withdraw consent Where you have previously provided your consent, such as to send you direct marketing, you have the right to withdraw consent at any time. However, this will not affect the lawfulness of the processing based on consent before its withdrawal. Furthermore, even in case of a withdrawal, we may continue to use your information as permitted or required by law.",
+        "extended_context": "We allow others to provide analytics services and serve advertisements on our Services and on our behalf across the web and in mobile apps. These entities may use cookies, web beacons, device identifiers, and other technologies to collect information about your use of our Services and other websites and applications, including your IP address, web browser, mobile network information, pages viewed, time spent on pages or in mobile apps, links clicked, and conversion information. This information may be used by Lime and others to, among other things, analyze and track data, determine the popularity of certain content, deliver advertising and content targeted to your interests on our Services and other websites, measure the effectiveness of our advertising, and better understand your online activity. You can find more information about why we use cookies and similar technologies in our Cookies Policy. Where Lime uses the Meta pixel (a type of cookie) to provide advertising to you, Lime and Meta Ireland are joint controllers for this processing. Lime and Meta Ireland have entered into a Controller Addendum to divide their respective responsibilities under the General Data Protection Regulation in respect of this joint processing, for example, Lime is responsible for providing this notice to you and Meta Ireland is responsible for managing your individual rights relating to the joint processing. For information on how to exercise your rights with Meta Ireland in relation to the joint processing, and for information on how Meta Ireland subsequently processes your personal information as independent data controller, please see the Meta Ireland's Privacy Policy. We also work with third parties to serve ads to you as part of customized campaigns on third-party platforms (such as Facebook and Instagram). As part of these ad campaigns, we or the third-party platforms may convert information about you, such as your email address and phone number, into a unique value that can be matched with a user account on these platforms to allow us to learn about your interests and serve you advertising that is customized to your interests. Note that the third-party platforms may offer you choices about whether you see these types of customized ads. We do not sell your personal information with third parties for their direct marketing purposes. Our Legal Basis for Using Your Information If you are located in the European Economic Area (\"EEA\"), United Kingdom, or Switzerland, Lime relies on a number of legal bases to collect, use, share, and otherwise process your information for the purposes described in this Privacy Notice, including where: it is necessary to provide the Services and perform our obligations in accordance with our terms. For example, we cannot provide the Services unless we collect and process information about you and your location; you have consented to us processing your information (in which case you may revoke your consent at any time); necessary to comply with a legal obligation, including, for example, responding to government agency or law enforcement information requests or to establish, exercise or defend legal claims; it is necessary to protect vital interests of our users, logistics providers and personnel of logistics providers, staff, and members of the public both on and off the Services; and/ or the processing is necessary for the purposes of Lime's or a third party's legitimate interests, provided that we have balanced these against your fundamental rights and interests. More information on our lawful basis for processing your personal information in the European Economic Area, the United Kingdom and Switzerland is available here. In Israel, Lime relies on your consent to collect, use, share and otherwise process your information for the purposes described in this Privacy Notice, and consent to this Privacy Notice and to the use of our Services based on it, constitutes valid consent as stated. You know that you do not have an obligation to provide the information to Lime, but if you do not provide it, you will not be able to use the Services. How We Transfer Your Information As we offer our Services in many locations globally, we may transfer your information to or from these locations for the purposes of providing you Services. For Residents of the European Economic Area, Switzerland, or the United Kingdom: please be aware that certain countries outside the EEA, Switzerland, or the United Kingdom may not offer the same level of data protection as in your home country. Where the European Commission has recognized a country as providing an adequate level of data protection, Lime may rely on the Commission's adequacy decision, as applicable, to transfer data. Lime also relies on Standard Contractual Clauses approved by the European Commission or other appropriate transfer mechanism(s) to transfer data from the EEA, Switzerland and the United Kingdom to the United States and other countries outside of where you live. You may request a copy of Standard Contractual Clauses by contacting us at dpo@li.me. In certain limited circumstances, we may use derogations where appropriate to process personal information, when there are no other data transfer mechanisms applicable. How Long We Keep Information We keep your information for as long as is reasonably necessary to provide the Services to you or until your account is deleted, whichever is longer, subject to any longer period as may be required by applicable law or notified to you. For example: We retain account information, such as your email address and your date of birth, for the lifetime of the account. Certain information relating to transactions relating to an account are retained for 7 years in line with Lime's accounting obligations; We retain information related to customer support queries for the lifetime of the account. When you delete your account, it may take us additional time to fully delete your information from our databases and system logs. We may also retain information from deleted accounts to prevent fraud, collect fees, enforce the User Agreement, to comply with our legal obligations or enforce our legal rights. In addition, if you are a logistics provider or personnel of a logistics provider, Lime retains certain information to the extent necessary to comply with our legal obligations. For example, Lime may keep some of your information in order to comply with applicable tax, legal, reporting and auditing obligations and other requirements in the countries in which we operate. Your Rights Depending on where you live, you may benefit from a number of rights in relation to your information, including: Right to object (marketing) You have the right to object to processing for direct marketing purposes at any time. Right to object (legitimate interest) Where we process your information based on legitimate interests, you can object to this processing in certain circumstances. Unless we have compelling legitimate grounds or where it is needed for legal reasons, we will cease processing your information when you object. Right of access You can access much of your information by logging into your account. You can also request a copy of the information we have about you and information explaining how the information is used. Right of rectification You have the right to request that we rectify inaccurate information about you. You may be able to edit this information in the Settings of the Lime app. Right of erasure You have the right to request that we delete your information. Right to restrict processing You have the right, in certain cases, to temporarily restrict the processing of your information by us, provided there are valid grounds for doing so. Right to data portability You may have the right to receive certain of your information in a structured, commonly used and machine-readable format and to transmit such information to another controller. Right to withdraw consent Where you have previously provided your consent, such as to send you direct marketing, you have the right to withdraw consent at any time. However, this will not affect the lawfulness of the processing based on consent before its withdrawal. Furthermore, even in case of a withdrawal, we may continue to use your information as permitted or required by law."
+      },
+      "result": {
+        "right_type": [
+          {
+            "value": "Right of access",
+            "evidence": "You also have the right to lodge a complaint with your local supervisory authority for data protection.",
+            "confidence": "extracted",
+            "id": "Lime:S9:right:1"
+          }
+        ],
+        "choice_type": [
+          {
+            "value": "Manage notifications and communications",
+            "evidence": "If you would like to change the types of communications you receive from us, including opting out of promotional communications from us, you may do so at any time by updating the communication preferences specified in your account profile.",
+            "confidence": "extracted",
+            "id": "Lime:S9:choice:1"
+          },
+          {
+            "value": "Delete personal data or account",
+            "evidence": "You can delete your Lime account at any time by selecting \"Delete your account\" from the Settings screen in the app, by submitting a request to us at support@li.me or by using the in-app \"Submit a Request\" feature.",
+            "confidence": "extracted",
+            "id": "Lime:S9:choice:2"
+          },
+          {
+            "value": "View and update personal data",
+            "evidence": "If you have an account with Lime, you can review, change or delete your information by logging into your account and editing your profile.",
+            "confidence": "extracted",
+            "id": "Lime:S9:choice:3"
+          },
+          {
+            "value": "Change or withdraw consent",
+            "evidence": "If you opt out of receiving promotional communications from us, we may continue to send non-promotional communications and other information about your use of the Service.",
+            "confidence": "extracted",
+            "id": "Lime:S9:choice:4"
+          }
+        ],
+        "request_channel": [
+          {
+            "value": "Request by email",
+            "evidence": "You can also contact Lime's Data Protection Officer at dpo@li.me.",
+            "confidence": "extracted",
+            "id": "Lime:S9:channel:1",
+            "linked_ids": [],
+            "link": {
+              "url": "mailto:dpo@li.me",
+              "kind": "email",
+              "visible_text": "dpo@li.me"
+            }
+          },
+          {
+            "value": "Request by email",
+            "evidence": "by submitting a request to us at support@li.me",
+            "confidence": "extracted",
+            "id": "Lime:S9:channel:2",
+            "linked_ids": [
+              "Lime:S9:choice:2"
+            ],
+            "link": {
+              "url": "mailto:support@li.me",
+              "kind": "email",
+              "visible_text": "support@li.me"
+            }
+          },
+          {
+            "value": "Request by email",
+            "evidence": "please email juicer@li.me",
+            "confidence": "extracted",
+            "id": "Lime:S9:channel:3",
+            "linked_ids": [
+              "Lime:S9:choice:2"
+            ],
+            "link": {
+              "url": "mailto:juicer@li.me",
+              "kind": "email",
+              "visible_text": "juicer@li.me"
+            }
+          },
+          {
+            "value": "In-app or device settings",
+            "evidence": "by selecting \"Delete your account\" from the Settings screen in the app",
+            "confidence": "extracted",
+            "id": "Lime:S9:channel:4",
+            "linked_ids": [
+              "Lime:S9:choice:2"
+            ],
+            "link": null
+          },
+          {
+            "value": "In-app or device settings",
+            "evidence": "by using the in-app \"Submit a Request\" feature",
+            "confidence": "extracted",
+            "id": "Lime:S9:channel:5",
+            "linked_ids": [
+              "Lime:S9:choice:2"
+            ],
+            "link": null
+          }
+        ],
+        "references": [],
+        "rejected": [
+          {
+            "attribute": "reference",
+            "evidence": "Please get in touch with us as set out in the \"Who Is Responsible for My Information?\" section below",
+            "target_text": "Who Is Responsible for My Information?",
+            "reason": "reference_target_not_rights_relevant"
+          },
+          {
+            "attribute": "reference",
+            "evidence": "please see our California Privacy Notice, which is incorporated by reference into this policy.",
+            "target_text": "California Privacy Notice",
+            "reason": "not_an_unresolved_reference"
+          }
+        ]
+      }
+    },
+    {
+      "segment": {
+        "id": "S10",
+        "text": "Careers Press Partners",
+        "heading_path": [
+          "Privacy Policy",
+          "Join Us"
+        ],
+        "links": [
+          {
+            "text": "Careers",
+            "href": "https://www.li.me/en-uy/about/careers",
+            "kind": "external"
+          },
+          {
+            "text": "Press",
+            "href": "https://www.li.me/en-uy/about/newsroom",
+            "kind": "external"
+          },
+          {
+            "text": "Partners",
+            "href": "https://www.li.me/en-uy/about/partners",
+            "kind": "external"
+          }
+        ],
+        "html_ids": [],
+        "previous_segment_id": "S9",
+        "next_segment_id": "S11",
+        "previous_segment_text": "Please get in touch with us as set out in the \"Who Is Responsible for My Information?\" section below if you would like to exercise any of these rights or in case you should have any concerns about how we process your information. For security purposes, we may require that you follow certain steps in order to verify that you are the owner of a Lime account. For example, we may require that you have a verified email associated with your Lime account and that you get in touch with us using the verified email associated with your Lime account. You also have the right to lodge a complaint with your local supervisory authority for data protection. You can access a list of EU supervisory authorities here. You can also contact Lime's Data Protection Officer at dpo@li.me. California Privacy Rights: If you are a California resident, you are entitled to certain rights over your personal information. For more information about those rights and how to exercise them, please see our California Privacy Notice, which is incorporated by reference into this policy. Your Choices and How You Can Manage Your Information: We believe you should have choices about the collection, use and sharing of your information. If you do not want Lime to collect your information, please do not use the Services. Emails and Other Communications: If you would like to change the types of communications you receive from us, including opting out of promotional communications from us, you may do so at any time by updating the communication preferences specified in your account profile. If you opt out of receiving promotional communications from us, we may continue to send non-promotional communications and other information about your use of the Service. Accessing and Managing Your Information: If you have an account with Lime, you can review, change or delete your information by logging into your account and editing your profile. You can change your mobile phone number or email address by using our in-app change feature. You can delete your Lime account at any time by selecting \"Delete your account\" from the Settings screen in the app, by submitting a request to us at support@li.me or by using the in-app \"Submit a Request\" feature. If you are a logistic provider or personnel of a logistics Provider and wish to delete your account, please email juicer@li.me. Who Is Responsible for My Information? To see who is responsible for your personal information and how to contact them, please click here.",
+        "extended_context": "it is necessary to provide the Services and perform our obligations in accordance with our terms. For example, we cannot provide the Services unless we collect and process information about you and your location; you have consented to us processing your information (in which case you may revoke your consent at any time); necessary to comply with a legal obligation, including, for example, responding to government agency or law enforcement information requests or to establish, exercise or defend legal claims; it is necessary to protect vital interests of our users, logistics providers and personnel of logistics providers, staff, and members of the public both on and off the Services; and/ or the processing is necessary for the purposes of Lime's or a third party's legitimate interests, provided that we have balanced these against your fundamental rights and interests. More information on our lawful basis for processing your personal information in the European Economic Area, the United Kingdom and Switzerland is available here. In Israel, Lime relies on your consent to collect, use, share and otherwise process your information for the purposes described in this Privacy Notice, and consent to this Privacy Notice and to the use of our Services based on it, constitutes valid consent as stated. You know that you do not have an obligation to provide the information to Lime, but if you do not provide it, you will not be able to use the Services. How We Transfer Your Information As we offer our Services in many locations globally, we may transfer your information to or from these locations for the purposes of providing you Services. For Residents of the European Economic Area, Switzerland, or the United Kingdom: please be aware that certain countries outside the EEA, Switzerland, or the United Kingdom may not offer the same level of data protection as in your home country. Where the European Commission has recognized a country as providing an adequate level of data protection, Lime may rely on the Commission's adequacy decision, as applicable, to transfer data. Lime also relies on Standard Contractual Clauses approved by the European Commission or other appropriate transfer mechanism(s) to transfer data from the EEA, Switzerland and the United Kingdom to the United States and other countries outside of where you live. You may request a copy of Standard Contractual Clauses by contacting us at dpo@li.me. In certain limited circumstances, we may use derogations where appropriate to process personal information, when there are no other data transfer mechanisms applicable. How Long We Keep Information We keep your information for as long as is reasonably necessary to provide the Services to you or until your account is deleted, whichever is longer, subject to any longer period as may be required by applicable law or notified to you. For example: We retain account information, such as your email address and your date of birth, for the lifetime of the account. Certain information relating to transactions relating to an account are retained for 7 years in line with Lime's accounting obligations; We retain information related to customer support queries for the lifetime of the account. When you delete your account, it may take us additional time to fully delete your information from our databases and system logs. We may also retain information from deleted accounts to prevent fraud, collect fees, enforce the User Agreement, to comply with our legal obligations or enforce our legal rights. In addition, if you are a logistics provider or personnel of a logistics provider, Lime retains certain information to the extent necessary to comply with our legal obligations. For example, Lime may keep some of your information in order to comply with applicable tax, legal, reporting and auditing obligations and other requirements in the countries in which we operate. Your Rights Depending on where you live, you may benefit from a number of rights in relation to your information, including: Right to object (marketing) You have the right to object to processing for direct marketing purposes at any time. Right to object (legitimate interest) Where we process your information based on legitimate interests, you can object to this processing in certain circumstances. Unless we have compelling legitimate grounds or where it is needed for legal reasons, we will cease processing your information when you object. Right of access You can access much of your information by logging into your account. You can also request a copy of the information we have about you and information explaining how the information is used. Right of rectification You have the right to request that we rectify inaccurate information about you. You may be able to edit this information in the Settings of the Lime app. Right of erasure You have the right to request that we delete your information. Right to restrict processing You have the right, in certain cases, to temporarily restrict the processing of your information by us, provided there are valid grounds for doing so. Right to data portability You may have the right to receive certain of your information in a structured, commonly used and machine-readable format and to transmit such information to another controller. Right to withdraw consent Where you have previously provided your consent, such as to send you direct marketing, you have the right to withdraw consent at any time. However, this will not affect the lawfulness of the processing based on consent before its withdrawal. Furthermore, even in case of a withdrawal, we may continue to use your information as permitted or required by law. Please get in touch with us as set out in the \"Who Is Responsible for My Information?\" section below if you would like to exercise any of these rights or in case you should have any concerns about how we process your information. For security purposes, we may require that you follow certain steps in order to verify that you are the owner of a Lime account. For example, we may require that you have a verified email associated with your Lime account and that you get in touch with us using the verified email associated with your Lime account. You also have the right to lodge a complaint with your local supervisory authority for data protection. You can access a list of EU supervisory authorities here. You can also contact Lime's Data Protection Officer at dpo@li.me. California Privacy Rights: If you are a California resident, you are entitled to certain rights over your personal information. For more information about those rights and how to exercise them, please see our California Privacy Notice, which is incorporated by reference into this policy. Your Choices and How You Can Manage Your Information: We believe you should have choices about the collection, use and sharing of your information. If you do not want Lime to collect your information, please do not use the Services. Emails and Other Communications: If you would like to change the types of communications you receive from us, including opting out of promotional communications from us, you may do so at any time by updating the communication preferences specified in your account profile. If you opt out of receiving promotional communications from us, we may continue to send non-promotional communications and other information about your use of the Service. Accessing and Managing Your Information: If you have an account with Lime, you can review, change or delete your information by logging into your account and editing your profile. You can change your mobile phone number or email address by using our in-app change feature. You can delete your Lime account at any time by selecting \"Delete your account\" from the Settings screen in the app, by submitting a request to us at support@li.me or by using the in-app \"Submit a Request\" feature. If you are a logistic provider or personnel of a logistics Provider and wish to delete your account, please email juicer@li.me. Who Is Responsible for My Information? To see who is responsible for your personal information and how to contact them, please click here."
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S11",
+        "text": "Community Electric Bike Electric Scooter Sustainability Innovation Safety",
+        "heading_path": [
+          "Privacy Policy",
+          "About"
+        ],
+        "links": [
+          {
+            "text": "Community",
+            "href": "https://www.li.me/en-uy/why/community",
+            "kind": "external"
+          },
+          {
+            "text": "Electric Bike",
+            "href": "https://www.li.me/en-uy/vehicles/electric-bike",
+            "kind": "external"
+          },
+          {
+            "text": "Electric Scooter",
+            "href": "https://www.li.me/en-uy/vehicles/scooter",
+            "kind": "external"
+          },
+          {
+            "text": "Sustainability",
+            "href": "https://www.li.me/en-uy/why/sustainability",
+            "kind": "external"
+          },
+          {
+            "text": "Innovation",
+            "href": "https://www.li.me/en-uy/why/innovation",
+            "kind": "external"
+          },
+          {
+            "text": "Safety",
+            "href": "https://www.li.me/en-uy/why/safety",
+            "kind": "external"
+          }
+        ],
+        "html_ids": [],
+        "previous_segment_id": "S10",
+        "next_segment_id": "S12",
+        "previous_segment_text": "Careers Press Partners",
+        "extended_context": "We retain account information, such as your email address and your date of birth, for the lifetime of the account. Certain information relating to transactions relating to an account are retained for 7 years in line with Lime's accounting obligations; We retain information related to customer support queries for the lifetime of the account. When you delete your account, it may take us additional time to fully delete your information from our databases and system logs. We may also retain information from deleted accounts to prevent fraud, collect fees, enforce the User Agreement, to comply with our legal obligations or enforce our legal rights. In addition, if you are a logistics provider or personnel of a logistics provider, Lime retains certain information to the extent necessary to comply with our legal obligations. For example, Lime may keep some of your information in order to comply with applicable tax, legal, reporting and auditing obligations and other requirements in the countries in which we operate. Your Rights Depending on where you live, you may benefit from a number of rights in relation to your information, including: Right to object (marketing) You have the right to object to processing for direct marketing purposes at any time. Right to object (legitimate interest) Where we process your information based on legitimate interests, you can object to this processing in certain circumstances. Unless we have compelling legitimate grounds or where it is needed for legal reasons, we will cease processing your information when you object. Right of access You can access much of your information by logging into your account. You can also request a copy of the information we have about you and information explaining how the information is used. Right of rectification You have the right to request that we rectify inaccurate information about you. You may be able to edit this information in the Settings of the Lime app. Right of erasure You have the right to request that we delete your information. Right to restrict processing You have the right, in certain cases, to temporarily restrict the processing of your information by us, provided there are valid grounds for doing so. Right to data portability You may have the right to receive certain of your information in a structured, commonly used and machine-readable format and to transmit such information to another controller. Right to withdraw consent Where you have previously provided your consent, such as to send you direct marketing, you have the right to withdraw consent at any time. However, this will not affect the lawfulness of the processing based on consent before its withdrawal. Furthermore, even in case of a withdrawal, we may continue to use your information as permitted or required by law. Please get in touch with us as set out in the \"Who Is Responsible for My Information?\" section below if you would like to exercise any of these rights or in case you should have any concerns about how we process your information. For security purposes, we may require that you follow certain steps in order to verify that you are the owner of a Lime account. For example, we may require that you have a verified email associated with your Lime account and that you get in touch with us using the verified email associated with your Lime account. You also have the right to lodge a complaint with your local supervisory authority for data protection. You can access a list of EU supervisory authorities here. You can also contact Lime's Data Protection Officer at dpo@li.me. California Privacy Rights: If you are a California resident, you are entitled to certain rights over your personal information. For more information about those rights and how to exercise them, please see our California Privacy Notice, which is incorporated by reference into this policy. Your Choices and How You Can Manage Your Information: We believe you should have choices about the collection, use and sharing of your information. If you do not want Lime to collect your information, please do not use the Services. Emails and Other Communications: If you would like to change the types of communications you receive from us, including opting out of promotional communications from us, you may do so at any time by updating the communication preferences specified in your account profile. If you opt out of receiving promotional communications from us, we may continue to send non-promotional communications and other information about your use of the Service. Accessing and Managing Your Information: If you have an account with Lime, you can review, change or delete your information by logging into your account and editing your profile. You can change your mobile phone number or email address by using our in-app change feature. You can delete your Lime account at any time by selecting \"Delete your account\" from the Settings screen in the app, by submitting a request to us at support@li.me or by using the in-app \"Submit a Request\" feature. If you are a logistic provider or personnel of a logistics Provider and wish to delete your account, please email juicer@li.me. Who Is Responsible for My Information? To see who is responsible for your personal information and how to contact them, please click here. Careers Press Partners"
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S12",
+        "text": "Lime Ads Lime Access Lime Hero Lime Able Insurance Our Cities Find Location Get Help Sitemap 2026 Lime Users Agreement and Terms and Conditions of Service Privacy Policy Data Requests Research Legal Bases My Information Imprint",
+        "heading_path": [
+          "Privacy Policy",
+          "Programs"
+        ],
+        "links": [
+          {
+            "text": "Lime Ads",
+            "href": "https://www.li.me/en-uy/about/partners/lime-ads",
+            "kind": "external"
+          },
+          {
+            "text": "Lime Access",
+            "href": "https://www.li.me/en-uy/why/community/lime-access",
+            "kind": "external"
+          },
+          {
+            "text": "Lime Hero",
+            "href": "https://www.li.me/en-uy/why/community/lime-hero",
+            "kind": "external"
+          },
+          {
+            "text": "Lime Able",
+            "href": "https://www.li.me/en-uy/why/community/lime-able",
+            "kind": "external"
+          },
+          {
+            "text": "Insurance",
+            "href": "https://www.li.me/en-uy/insurance",
+            "kind": "external"
+          },
+          {
+            "text": "Our Cities",
+            "href": "https://www.li.me/en-uy/locations",
+            "kind": "external"
+          },
+          {
+            "text": "Find Location",
+            "href": "https://www.li.me/en-uy/locations",
+            "kind": "external"
+          },
+          {
+            "text": "Get Help",
+            "href": "https://help.li.me/",
+            "kind": "external"
+          },
+          {
+            "text": "Sitemap",
+            "href": "https://www.li.me/en-uy/sitemap",
+            "kind": "external"
+          },
+          {
+            "text": "Users Agreement and Terms and Conditions of Service",
+            "href": "https://www.li.me/en-uy/user-agreement",
+            "kind": "external"
+          },
+          {
+            "text": "Privacy Policy",
+            "href": "https://www.li.me/en-uy/legal/privacy-policy",
+            "kind": "external"
+          },
+          {
+            "text": "Data Requests",
+            "href": "https://www.li.me/en-uy/legal/guidelines-third-party-data-requests",
+            "kind": "external"
+          },
+          {
+            "text": "Research",
+            "href": "https://www.li.me/en-uy/legal/research",
+            "kind": "external"
+          },
+          {
+            "text": "Legal Bases",
+            "href": "https://www.li.me/en-uy/legal/legal-bases",
+            "kind": "external"
+          },
+          {
+            "text": "My Information",
+            "href": "https://www.li.me/en-uy/my-information",
+            "kind": "external"
+          },
+          {
+            "text": "Imprint",
+            "href": "https://www.li.me/en-uy/imprint",
+            "kind": "external"
+          }
+        ],
+        "html_ids": [],
+        "previous_segment_id": "S11",
+        "next_segment_id": "S13",
+        "previous_segment_text": "Community Electric Bike Electric Scooter Sustainability Innovation Safety",
+        "extended_context": "Please get in touch with us as set out in the \"Who Is Responsible for My Information?\" section below if you would like to exercise any of these rights or in case you should have any concerns about how we process your information. For security purposes, we may require that you follow certain steps in order to verify that you are the owner of a Lime account. For example, we may require that you have a verified email associated with your Lime account and that you get in touch with us using the verified email associated with your Lime account. You also have the right to lodge a complaint with your local supervisory authority for data protection. You can access a list of EU supervisory authorities here. You can also contact Lime's Data Protection Officer at dpo@li.me. California Privacy Rights: If you are a California resident, you are entitled to certain rights over your personal information. For more information about those rights and how to exercise them, please see our California Privacy Notice, which is incorporated by reference into this policy. Your Choices and How You Can Manage Your Information: We believe you should have choices about the collection, use and sharing of your information. If you do not want Lime to collect your information, please do not use the Services. Emails and Other Communications: If you would like to change the types of communications you receive from us, including opting out of promotional communications from us, you may do so at any time by updating the communication preferences specified in your account profile. If you opt out of receiving promotional communications from us, we may continue to send non-promotional communications and other information about your use of the Service. Accessing and Managing Your Information: If you have an account with Lime, you can review, change or delete your information by logging into your account and editing your profile. You can change your mobile phone number or email address by using our in-app change feature. You can delete your Lime account at any time by selecting \"Delete your account\" from the Settings screen in the app, by submitting a request to us at support@li.me or by using the in-app \"Submit a Request\" feature. If you are a logistic provider or personnel of a logistics Provider and wish to delete your account, please email juicer@li.me. Who Is Responsible for My Information? To see who is responsible for your personal information and how to contact them, please click here. Careers Press Partners Community Electric Bike Electric Scooter Sustainability Innovation Safety"
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S13",
+        "text": "United States Argentina Australia Austria Belgium Brazil Bulgaria Canada Chile Colombia Cyprus Czech Republic Denmark Finland France Germany Greece Hungary Israel Italy Japan Mexico Netherlands New Zealand Norway Peru Poland Portugal Romania Spain Sweden Switzerland UAE United Kingdom Uruguay",
+        "heading_path": [
+          "Privacy Policy",
+          "Select your Region"
+        ],
+        "links": [],
+        "html_ids": [],
+        "previous_segment_id": "S12",
+        "next_segment_id": "S14",
+        "previous_segment_text": "Lime Ads Lime Access Lime Hero Lime Able Insurance Our Cities Find Location Get Help Sitemap 2026 Lime Users Agreement and Terms and Conditions of Service Privacy Policy Data Requests Research Legal Bases My Information Imprint",
+        "extended_context": "Careers Press Partners Community Electric Bike Electric Scooter Sustainability Innovation Safety Lime Ads Lime Access Lime Hero Lime Able Insurance Our Cities Find Location Get Help Sitemap 2026 Lime Users Agreement and Terms and Conditions of Service Privacy Policy Data Requests Research Legal Bases My Information Imprint"
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S14",
+        "text": "Español English English Deutsch English Français Nederlands English Português English Български English English Français Español English Español English English Ελληνικά Čeština English Dansk English Suomi Svenska English Français English Deutsch English Ελληνικά English Magyar English עברית English Italiano English",
+        "heading_path": [
+          "Privacy Policy",
+          "Select your Language"
+        ],
+        "links": [
+          {
+            "text": "Español",
+            "href": "https://www.li.me/es-ar/redirector",
+            "kind": "external"
+          },
+          {
+            "text": "English",
+            "href": "https://www.li.me/en-ar/redirector",
+            "kind": "external"
+          },
+          {
+            "text": "English",
+            "href": "https://www.li.me/en-au/redirector",
+            "kind": "external"
+          },
+          {
+            "text": "Deutsch",
+            "href": "https://www.li.me/de-at/redirector",
+            "kind": "external"
+          },
+          {
+            "text": "English",
+            "href": "https://www.li.me/en-at/redirector",
+            "kind": "external"
+          },
+          {
+            "text": "Français",
+            "href": "https://www.li.me/fr-be/redirector",
+            "kind": "external"
+          },
+          {
+            "text": "Nederlands",
+            "href": "https://www.li.me/nl-be/redirector",
+            "kind": "external"
+          },
+          {
+            "text": "English",
+            "href": "https://www.li.me/en-be/redirector",
+            "kind": "external"
+          },
+          {
+            "text": "Português",
+            "href": "https://www.li.me/pt-br/redirector",
+            "kind": "external"
+          },
+          {
+            "text": "English",
+            "href": "https://www.li.me/en-br/redirector",
+            "kind": "external"
+          },
+          {
+            "text": "Български",
+            "href": "https://www.li.me/bg-bg/redirector",
+            "kind": "external"
+          },
+          {
+            "text": "English",
+            "href": "https://www.li.me/en-bg/redirector",
+            "kind": "external"
+          },
+          {
+            "text": "English",
+            "href": "https://www.li.me/en-ca/redirector",
+            "kind": "external"
+          },
+          {
+            "text": "Français",
+            "href": "https://www.li.me/fr-ca/redirector",
+            "kind": "external"
+          },
+          {
+            "text": "Español",
+            "href": "https://www.li.me/es-cl/redirector",
+            "kind": "external"
+          },
+          {
+            "text": "English",
+            "href": "https://www.li.me/en-cl/redirector",
+            "kind": "external"
+          },
+          {
+            "text": "Español",
+            "href": "https://www.li.me/es-co/redirector",
+            "kind": "external"
+          },
+          {
+            "text": "English",
+            "href": "https://www.li.me/en-co/redirector",
+            "kind": "external"
+          },
+          {
+            "text": "English",
+            "href": "https://www.li.me/en-cy/redirector",
+            "kind": "external"
+          },
+          {
+            "text": "Ελληνικά",
+            "href": "https://www.li.me/el-cy/redirector",
+            "kind": "external"
+          },
+          {
+            "text": "Čeština",
+            "href": "https://www.li.me/cs-cz/redirector",
+            "kind": "external"
+          },
+          {
+            "text": "English",
+            "href": "https://www.li.me/en-cz/redirector",
+            "kind": "external"
+          },
+          {
+            "text": "Dansk",
+            "href": "https://www.li.me/da-dk/redirector",
+            "kind": "external"
+          },
+          {
+            "text": "English",
+            "href": "https://www.li.me/en-dk/redirector",
+            "kind": "external"
+          },
+          {
+            "text": "Suomi",
+            "href": "https://www.li.me/fi-fi/redirector",
+            "kind": "external"
+          },
+          {
+            "text": "Svenska",
+            "href": "https://www.li.me/sv-fi/redirector",
+            "kind": "external"
+          },
+          {
+            "text": "English",
+            "href": "https://www.li.me/en-fi/redirector",
+            "kind": "external"
+          },
+          {
+            "text": "Français",
+            "href": "https://www.li.me/fr-fr/redirector",
+            "kind": "external"
+          },
+          {
+            "text": "English",
+            "href": "https://www.li.me/en-fr/redirector",
+            "kind": "external"
+          },
+          {
+            "text": "Deutsch",
+            "href": "https://www.li.me/de-de/redirector",
+            "kind": "external"
+          },
+          {
+            "text": "English",
+            "href": "https://www.li.me/en-de/redirector",
+            "kind": "external"
+          },
+          {
+            "text": "Ελληνικά",
+            "href": "https://www.li.me/el-gr/redirector",
+            "kind": "external"
+          },
+          {
+            "text": "English",
+            "href": "https://www.li.me/en-gr/redirector",
+            "kind": "external"
+          },
+          {
+            "text": "Magyar",
+            "href": "https://www.li.me/hu-hu/redirector",
+            "kind": "external"
+          },
+          {
+            "text": "English",
+            "href": "https://www.li.me/en-hu/redirector",
+            "kind": "external"
+          },
+          {
+            "text": "עברית",
+            "href": "https://www.li.me/he-il/redirector",
+            "kind": "external"
+          },
+          {
+            "text": "English",
+            "href": "https://www.li.me/en-il/redirector",
+            "kind": "external"
+          },
+          {
+            "text": "Italiano",
+            "href": "https://www.li.me/it-it/redirector",
+            "kind": "external"
+          },
+          {
+            "text": "English",
+            "href": "https://www.li.me/en-it/redirector",
+            "kind": "external"
+          }
+        ],
+        "html_ids": [],
+        "previous_segment_id": "S13",
+        "next_segment_id": "S15",
+        "previous_segment_text": "United States Argentina Australia Austria Belgium Brazil Bulgaria Canada Chile Colombia Cyprus Czech Republic Denmark Finland France Germany Greece Hungary Israel Italy Japan Mexico Netherlands New Zealand Norway Peru Poland Portugal Romania Spain Sweden Switzerland UAE United Kingdom Uruguay",
+        "extended_context": "Community Electric Bike Electric Scooter Sustainability Innovation Safety Lime Ads Lime Access Lime Hero Lime Able Insurance Our Cities Find Location Get Help Sitemap 2026 Lime Users Agreement and Terms and Conditions of Service Privacy Policy Data Requests Research Legal Bases My Information Imprint United States Argentina Australia Austria Belgium Brazil Bulgaria Canada Chile Colombia Cyprus Czech Republic Denmark Finland France Germany Greece Hungary Israel Italy Japan Mexico Netherlands New Zealand Norway Peru Poland Portugal Romania Spain Sweden Switzerland UAE United Kingdom Uruguay"
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S15",
+        "text": "日本語 Español English Nederlands English English English Norsk bokmål Español English Polski English Português English Română English Español English Català Svenska English Français Deutsch Italiano English العربية English English English Español বাংলা 中文（简体） 中文（繁體） Français 한국어 Русский اردو",
+        "heading_path": [
+          "Privacy Policy",
+          "Select your Language"
+        ],
+        "links": [
+          {
+            "text": "日本語",
+            "href": "https://www.li.me/ja-jp/redirector",
+            "kind": "external"
+          },
+          {
+            "text": "Español",
+            "href": "https://www.li.me/es-mx/redirector",
+            "kind": "external"
+          },
+          {
+            "text": "English",
+            "href": "https://www.li.me/en-mx/redirector",
+            "kind": "external"
+          },
+          {
+            "text": "Nederlands",
+            "href": "https://www.li.me/nl-nl/redirector",
+            "kind": "external"
+          },
+          {
+            "text": "English",
+            "href": "https://www.li.me/en-nl/redirector",
+            "kind": "external"
+          },
+          {
+            "text": "English",
+            "href": "https://www.li.me/en-nz/redirector",
+            "kind": "external"
+          },
+          {
+            "text": "English",
+            "href": "https://www.li.me/en-no/redirector",
+            "kind": "external"
+          },
+          {
+            "text": "Norsk bokmål",
+            "href": "https://www.li.me/nb-no/redirector",
+            "kind": "external"
+          },
+          {
+            "text": "Español",
+            "href": "https://www.li.me/es-pe/redirector",
+            "kind": "external"
+          },
+          {
+            "text": "English",
+            "href": "https://www.li.me/en-pe/redirector",
+            "kind": "external"
+          },
+          {
+            "text": "Polski",
+            "href": "https://www.li.me/pl-pl/redirector",
+            "kind": "external"
+          },
+          {
+            "text": "English",
+            "href": "https://www.li.me/en-po/redirector",
+            "kind": "external"
+          },
+          {
+            "text": "Português",
+            "href": "https://www.li.me/pt-pt/redirector",
+            "kind": "external"
+          },
+          {
+            "text": "English",
+            "href": "https://www.li.me/en-pt/redirector",
+            "kind": "external"
+          },
+          {
+            "text": "Română",
+            "href": "https://www.li.me/ro-ro/redirector",
+            "kind": "external"
+          },
+          {
+            "text": "English",
+            "href": "https://www.li.me/en-ro/redirector",
+            "kind": "external"
+          },
+          {
+            "text": "Español",
+            "href": "https://www.li.me/es-es/redirector",
+            "kind": "external"
+          },
+          {
+            "text": "English",
+            "href": "https://www.li.me/en-es/redirector",
+            "kind": "external"
+          },
+          {
+            "text": "Català",
+            "href": "https://www.li.me/es-ca/redirector",
+            "kind": "external"
+          },
+          {
+            "text": "Svenska",
+            "href": "https://www.li.me/sv-se/redirector",
+            "kind": "external"
+          },
+          {
+            "text": "English",
+            "href": "https://www.li.me/en-se/redirector",
+            "kind": "external"
+          },
+          {
+            "text": "Français",
+            "href": "https://www.li.me/fr-ch/redirector",
+            "kind": "external"
+          },
+          {
+            "text": "Deutsch",
+            "href": "https://www.li.me/de-ch/redirector",
+            "kind": "external"
+          },
+          {
+            "text": "Italiano",
+            "href": "https://www.li.me/it-ch/redirector",
+            "kind": "external"
+          },
+          {
+            "text": "English",
+            "href": "https://www.li.me/en-ch/redirector",
+            "kind": "external"
+          },
+          {
+            "text": "العربية",
+            "href": "https://www.li.me/ar-ae/redirector",
+            "kind": "external"
+          },
+          {
+            "text": "English",
+            "href": "https://www.li.me/en-ae/redirector",
+            "kind": "external"
+          },
+          {
+            "text": "English",
+            "href": "https://www.li.me/en-gb/redirector",
+            "kind": "external"
+          },
+          {
+            "text": "English",
+            "href": "https://www.li.me/redirector",
+            "kind": "external"
+          },
+          {
+            "text": "Español",
+            "href": "https://www.li.me/es-us/redirector",
+            "kind": "external"
+          },
+          {
+            "text": "বাংলা",
+            "href": "https://www.li.me/bn-us/redirector",
+            "kind": "external"
+          },
+          {
+            "text": "中文（简体）",
+            "href": "https://www.li.me/zh-cn-us/redirector",
+            "kind": "external"
+          },
+          {
+            "text": "中文（繁體）",
+            "href": "https://www.li.me/zh-hk-us/redirector",
+            "kind": "external"
+          },
+          {
+            "text": "Français",
+            "href": "https://www.li.me/ht-us/redirector",
+            "kind": "external"
+          },
+          {
+            "text": "한국어",
+            "href": "https://www.li.me/ko-us/redirector",
+            "kind": "external"
+          },
+          {
+            "text": "Русский",
+            "href": "https://www.li.me/ru-us/redirector",
+            "kind": "external"
+          },
+          {
+            "text": "اردو",
+            "href": "https://www.li.me/ur-us/redirector",
+            "kind": "external"
+          }
+        ],
+        "html_ids": [],
+        "previous_segment_id": "S14",
+        "next_segment_id": "S16",
+        "previous_segment_text": "Español English English Deutsch English Français Nederlands English Português English Български English English Français Español English Español English English Ελληνικά Čeština English Dansk English Suomi Svenska English Français English Deutsch English Ελληνικά English Magyar English עברית English Italiano English",
+        "extended_context": "Lime Ads Lime Access Lime Hero Lime Able Insurance Our Cities Find Location Get Help Sitemap 2026 Lime Users Agreement and Terms and Conditions of Service Privacy Policy Data Requests Research Legal Bases My Information Imprint United States Argentina Australia Austria Belgium Brazil Bulgaria Canada Chile Colombia Cyprus Czech Republic Denmark Finland France Germany Greece Hungary Israel Italy Japan Mexico Netherlands New Zealand Norway Peru Poland Portugal Romania Spain Sweden Switzerland UAE United Kingdom Uruguay Español English English Deutsch English Français Nederlands English Português English Български English English Français Español English Español English English Ελληνικά Čeština English Dansk English Suomi Svenska English Français English Deutsch English Ελληνικά English Magyar English עברית English Italiano English"
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S16",
+        "text": "ייִדיש Español English By clicking \"Accept All Cookies\", you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts. Reject Cookies Accept All Cookies Cookies Settings Company Logo",
+        "heading_path": [
+          "Privacy Policy",
+          "Select your Language"
+        ],
+        "links": [
+          {
+            "text": "ייִדיש",
+            "href": "https://www.li.me/yi-us/redirector",
+            "kind": "external"
+          },
+          {
+            "text": "Español",
+            "href": "https://www.li.me/es-uy/redirector",
+            "kind": "external"
+          },
+          {
+            "text": "English",
+            "href": "https://www.li.me/en-uy/redirector",
+            "kind": "external"
+          }
+        ],
+        "html_ids": [],
+        "previous_segment_id": "S15",
+        "next_segment_id": "S17",
+        "previous_segment_text": "日本語 Español English Nederlands English English English Norsk bokmål Español English Polski English Português English Română English Español English Català Svenska English Français Deutsch Italiano English العربية English English English Español বাংলা 中文（简体） 中文（繁體） Français 한국어 Русский اردو",
+        "extended_context": "United States Argentina Australia Austria Belgium Brazil Bulgaria Canada Chile Colombia Cyprus Czech Republic Denmark Finland France Germany Greece Hungary Israel Italy Japan Mexico Netherlands New Zealand Norway Peru Poland Portugal Romania Spain Sweden Switzerland UAE United Kingdom Uruguay Español English English Deutsch English Français Nederlands English Português English Български English English Français Español English Español English English Ελληνικά Čeština English Dansk English Suomi Svenska English Français English Deutsch English Ελληνικά English Magyar English עברית English Italiano English 日本語 Español English Nederlands English English English Norsk bokmål Español English Polski English Português English Română English Español English Català Svenska English Français Deutsch Italiano English العربية English English English Español বাংলা 中文（简体） 中文（繁體） Français 한국어 Русский اردو"
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S17",
+        "text": "Your Privacy Strictly Necessary Cookies Performance Cookies Functional Cookies Targeting Cookies",
+        "heading_path": [
+          "Privacy Policy",
+          "Privacy Preference Center"
+        ],
+        "links": [],
+        "html_ids": [],
+        "previous_segment_id": "S16",
+        "next_segment_id": "S18",
+        "previous_segment_text": "ייִדיש Español English By clicking \"Accept All Cookies\", you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts. Reject Cookies Accept All Cookies Cookies Settings Company Logo",
+        "extended_context": "Español English English Deutsch English Français Nederlands English Português English Български English English Français Español English Español English English Ελληνικά Čeština English Dansk English Suomi Svenska English Français English Deutsch English Ελληνικά English Magyar English עברית English Italiano English 日本語 Español English Nederlands English English English Norsk bokmål Español English Polski English Português English Română English Español English Català Svenska English Français Deutsch Italiano English العربية English English English Español বাংলা 中文（简体） 中文（繁體） Français 한국어 Русский اردو ייִדיש Español English By clicking \"Accept All Cookies\", you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts. Reject Cookies Accept All Cookies Cookies Settings Company Logo"
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S18",
+        "text": "When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. However, blocking some types of cookies may impact your experience of the site and the services we are able to offer. More information",
+        "heading_path": [
+          "Privacy Policy",
+          "Privacy Preference Center",
+          "Your Privacy"
+        ],
+        "links": [
+          {
+            "text": "More information",
+            "href": "https://cookiepedia.co.uk/giving-consent-to-cookies",
+            "kind": "external"
+          }
+        ],
+        "html_ids": [],
+        "previous_segment_id": "S17",
+        "next_segment_id": "S19",
+        "previous_segment_text": "Your Privacy Strictly Necessary Cookies Performance Cookies Functional Cookies Targeting Cookies",
+        "extended_context": "日本語 Español English Nederlands English English English Norsk bokmål Español English Polski English Português English Română English Español English Català Svenska English Français Deutsch Italiano English العربية English English English Español বাংলা 中文（简体） 中文（繁體） Français 한국어 Русский اردو ייִדיש Español English By clicking \"Accept All Cookies\", you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts. Reject Cookies Accept All Cookies Cookies Settings Company Logo Your Privacy Strictly Necessary Cookies Performance Cookies Functional Cookies Targeting Cookies"
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [
+          {
+            "value": "Change or withdraw consent",
+            "evidence": "you can choose not to allow some types of cookies",
+            "confidence": "extracted",
+            "id": "Lime:S18:choice:1"
+          }
+        ],
+        "request_channel": [
+          {
+            "value": "Web page or online form",
+            "evidence": "Click on the different category headings to find out more and change our default settings",
+            "confidence": "extracted",
+            "id": "Lime:S18:channel:1",
+            "linked_ids": [
+              "Lime:S18:choice:1"
+            ],
+            "link": null
+          }
+        ],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S19",
+        "text": "Always Active These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.",
+        "heading_path": [
+          "Privacy Policy",
+          "Privacy Preference Center",
+          "Strictly Necessary Cookies"
+        ],
+        "links": [],
+        "html_ids": [],
+        "previous_segment_id": "S18",
+        "next_segment_id": "S20",
+        "previous_segment_text": "When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. However, blocking some types of cookies may impact your experience of the site and the services we are able to offer. More information",
+        "extended_context": "ייִדיש Español English By clicking \"Accept All Cookies\", you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts. Reject Cookies Accept All Cookies Cookies Settings Company Logo Your Privacy Strictly Necessary Cookies Performance Cookies Functional Cookies Targeting Cookies When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. However, blocking some types of cookies may impact your experience of the site and the services we are able to offer. More information"
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S20",
+        "text": "Performance Cookies These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.",
+        "heading_path": [
+          "Privacy Policy",
+          "Privacy Preference Center",
+          "Performance Cookies"
+        ],
+        "links": [],
+        "html_ids": [],
+        "previous_segment_id": "S19",
+        "next_segment_id": "S21",
+        "previous_segment_text": "Always Active These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.",
+        "extended_context": "Your Privacy Strictly Necessary Cookies Performance Cookies Functional Cookies Targeting Cookies When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. However, blocking some types of cookies may impact your experience of the site and the services we are able to offer. More information Always Active These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information."
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S21",
+        "text": "Functional Cookies These cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.",
+        "heading_path": [
+          "Privacy Policy",
+          "Privacy Preference Center",
+          "Functional Cookies"
+        ],
+        "links": [],
+        "html_ids": [],
+        "previous_segment_id": "S20",
+        "next_segment_id": "S22",
+        "previous_segment_text": "Performance Cookies These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.",
+        "extended_context": "When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. However, blocking some types of cookies may impact your experience of the site and the services we are able to offer. More information Always Active These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information. Performance Cookies These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance."
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S22",
+        "text": "Targeting Cookies These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising. Back Button",
+        "heading_path": [
+          "Privacy Policy",
+          "Privacy Preference Center",
+          "Targeting Cookies"
+        ],
+        "links": [],
+        "html_ids": [],
+        "previous_segment_id": "S21",
+        "next_segment_id": "S23",
+        "previous_segment_text": "Functional Cookies These cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.",
+        "extended_context": "Always Active These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information. Performance Cookies These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance. Functional Cookies These cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly."
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S23",
+        "text": "Filter Button Consent Leg.Interest checkbox label label checkbox label label checkbox label label Clear checkbox label label Apply Cancel Confirm My Choices Allow All Powered by Onetrust Your Privacy [dialog closed]",
+        "heading_path": [
+          "Privacy Policy",
+          "Privacy Preference Center",
+          "Cookie List"
+        ],
+        "links": [],
+        "html_ids": [],
+        "previous_segment_id": "S22",
+        "next_segment_id": null,
+        "previous_segment_text": "Targeting Cookies These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising. Back Button",
+        "extended_context": "Performance Cookies These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance. Functional Cookies These cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly. Targeting Cookies These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising. Back Button"
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    }
+  ]
+}

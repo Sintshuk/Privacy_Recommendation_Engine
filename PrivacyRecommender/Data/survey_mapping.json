@@ -1,0 +1,279 @@
+{
+  "_methodology": {
+    "purpose": "Maps policy-supported recommendation candidates to the 33 survey questions used to characterise the privacy personas.",
+    "important": "The persona z-scores are observed survey measurements. The mapping itself is researcher-defined and should remain reviewable.",
+    "multi_signal_rule": "A recommendation may use several relevant questions. Direct mappings receive full mapping weight, supporting mappings receive reduced weight, and contextual mappings are explanation-only.",
+    "domain_balance": "Signals are combined within each survey domain first, then domain scores are averaged so a domain does not dominate merely because more questions were mapped to it.",
+    "direction": {
+      "high": "A higher-than-average response makes this recommendation more relevant.",
+      "low": "A lower-than-average response makes this recommendation more relevant. The z-score is reversed for scoring."
+    },
+    "individual_comfort_note": "QCT_7-QCT_9 are concern-worded questions. Their individual z-scores remain in their original question direction. They were only sign-reversed in the research when forming the aligned domain-level Comfort aggregate."
+  },
+  "right_type": {
+    "Right of access": {
+      "signals": [
+        {
+          "question": "QA_6",
+          "question_text": "I am aware that I have the right to access for my personal data.",
+          "direction": "low",
+          "strength": "direct",
+          "reason": "Lower awareness of the right of access increases the usefulness of surfacing the access right."
+        },
+        {
+          "question": "QP_2",
+          "question_text": "I am aware that I have the right to access, and I have used this right to request information from organization(s).",
+          "direction": "high",
+          "strength": "direct",
+          "reason": "Prior awareness or use of the access right indicates direct fit with an access recommendation."
+        },
+        {
+          "question": "QP_3",
+          "question_text": "I was not aware of my right to access before, but now I am interested in learning how to use this right.",
+          "direction": "high",
+          "strength": "direct",
+          "reason": "Interest in learning how to use the access right directly supports surfacing this recommendation."
+        }
+      ]
+    },
+    "Right to rectification": {
+      "signals": [
+        {
+          "question": "QA_5",
+          "question_text": "I am aware of the privacy choices available to me in the IoT devices I use.",
+          "direction": "low",
+          "strength": "contextual",
+          "reason": "General awareness of privacy choices may affect how this right is explained, but the survey does not directly measure rectification."
+        }
+      ]
+    },
+    "Right to erasure": {
+      "signals": [
+        {
+          "question": "QCT_7",
+          "question_text": "I am concerned about my lack of control over my personal data collected by IoT devices.",
+          "direction": "high",
+          "strength": "supporting",
+          "reason": "Greater concern about lack of control can support surfacing a deletion right, but the survey item does not directly measure deletion."
+        }
+      ]
+    },
+    "Right to restriction of processing": {
+      "signals": [
+        {
+          "question": "QCT_7",
+          "question_text": "I am concerned about my lack of control over my personal data collected by IoT devices.",
+          "direction": "high",
+          "strength": "supporting",
+          "reason": "Concern about lack of control is related to restricting processing, but the survey does not directly ask about this legal right."
+        }
+      ]
+    },
+    "Obligation to notify recipients": {
+      "signals": []
+    },
+    "Right to data portability": {
+      "signals": [
+        {
+          "question": "QA_5",
+          "question_text": "I am aware of the privacy choices available to me in the IoT devices I use.",
+          "direction": "low",
+          "strength": "contextual",
+          "reason": "General privacy-choice awareness can guide explanation, but there is no direct portability question in the 33 clustering items."
+        }
+      ]
+    },
+    "Right to object": {
+      "signals": [
+        {
+          "question": "QCT_1",
+          "question_text": "I am comfortable with IoT devices collecting and using my personal data for targeted advertisement.",
+          "direction": "low",
+          "strength": "supporting",
+          "reason": "Lower comfort with targeted advertising can make an objection right relevant where objection relates to advertising, but the legal right is broader."
+        }
+      ]
+    },
+    "Right to not be subject to automated decision-making (to profiling)": {
+      "signals": [
+        {
+          "question": "QCT_9",
+          "question_text": "I am concerned about my lack of control over how (artificial intelligence) AI systems process, analyze, and make decisions using my personal data.",
+          "direction": "high",
+          "strength": "direct",
+          "reason": "Greater concern about lack of control over AI processing and automated decisions directly supports surfacing this right."
+        },
+        {
+          "question": "QCT_7",
+          "question_text": "I am concerned about my lack of control over my personal data collected by IoT devices.",
+          "direction": "high",
+          "strength": "supporting",
+          "reason": "General concern about lack of control over personal data supports the direct AI-control signal."
+        }
+      ]
+    }
+  },
+  "choice_type": {
+    "View and update personal data": {
+      "signals": [
+        {
+          "question": "QA_5",
+          "question_text": "I am aware of the privacy choices available to me in the IoT devices I use.",
+          "direction": "low",
+          "strength": "supporting",
+          "reason": "Lower awareness of available privacy choices can increase the usefulness of surfacing a view or update control."
+        }
+      ]
+    },
+    "Lodge a complaint": {
+      "signals": []
+    },
+    "Manage notifications and communications": {
+      "signals": [
+        {
+          "question": "QA_5",
+          "question_text": "I am aware of the privacy choices available to me in the IoT devices I use.",
+          "direction": "low",
+          "strength": "contextual",
+          "reason": "General privacy-choice awareness may guide presentation, but the survey does not directly measure notification preferences."
+        }
+      ]
+    },
+    "Delete personal data or account": {
+      "signals": [
+        {
+          "question": "QCT_7",
+          "question_text": "I am concerned about my lack of control over my personal data collected by IoT devices.",
+          "direction": "high",
+          "strength": "supporting",
+          "reason": "Greater concern about lack of control can support surfacing deletion controls, but the survey does not directly measure deletion preference."
+        }
+      ]
+    },
+    "Change or withdraw consent": {
+      "signals": [
+        {
+          "question": "QPB_1",
+          "question_text": "I often click 'I agree' or 'OK' or 'I Consent' to accept privacy policies without reading them thoroughly.",
+          "direction": "high",
+          "strength": "supporting",
+          "reason": "More frequent acceptance of privacy policies without thorough reading can increase the usefulness of revisiting consent controls."
+        },
+        {
+          "question": "QA_5",
+          "question_text": "I am aware of the privacy choices available to me in the IoT devices I use.",
+          "direction": "low",
+          "strength": "contextual",
+          "reason": "Lower awareness of privacy choices can guide how the consent control is presented."
+        }
+      ]
+    },
+    "Opt out of marketing": {
+      "signals": [
+        {
+          "question": "QA_3",
+          "question_text": "I am aware of the opt-out option in privacy policies.",
+          "direction": "low",
+          "strength": "direct",
+          "reason": "Lower awareness of opt-out options directly supports surfacing an available opt-out."
+        },
+        {
+          "question": "QCT_1",
+          "question_text": "I am comfortable with IoT devices collecting and using my personal data for targeted advertisement.",
+          "direction": "low",
+          "strength": "direct",
+          "reason": "Lower comfort with targeted advertising directly supports surfacing a marketing opt-out."
+        }
+      ]
+    },
+    "Opt out of sale, sharing, or targeted advertising": {
+      "signals": [
+        {
+          "question": "QA_3",
+          "question_text": "I am aware of the opt-out option in privacy policies.",
+          "direction": "low",
+          "strength": "direct",
+          "reason": "Lower awareness of opt-out options supports surfacing the available opt-out."
+        },
+        {
+          "question": "QCT_1",
+          "question_text": "I am comfortable with IoT devices collecting and using my personal data for targeted advertisement.",
+          "direction": "low",
+          "strength": "direct",
+          "reason": "Lower comfort with targeted advertising directly supports this opt-out."
+        },
+        {
+          "question": "QCT_4",
+          "question_text": "I am comfortable with IoT devices collecting my personal data and sharing it with third-parties, such as advertising partners, data brokers, or other service partners.",
+          "direction": "low",
+          "strength": "direct",
+          "reason": "Lower comfort with third-party sharing directly supports a sharing opt-out."
+        },
+        {
+          "question": "QCT_7",
+          "question_text": "I am concerned about my lack of control over my personal data collected by IoT devices.",
+          "direction": "high",
+          "strength": "supporting",
+          "reason": "Greater concern about lack of control supports the direct opt-out signals."
+        }
+      ]
+    },
+    "Device and app permission controls": {
+      "signals": [
+        {
+          "question": "QA_5",
+          "question_text": "I am aware of the privacy choices available to me in the IoT devices I use.",
+          "direction": "low",
+          "strength": "supporting",
+          "reason": "Lower awareness of privacy choices can increase the usefulness of surfacing permission controls."
+        },
+        {
+          "question": "QCT_7",
+          "question_text": "I am concerned about my lack of control over my personal data collected by IoT devices.",
+          "direction": "high",
+          "strength": "supporting",
+          "reason": "Greater concern about lack of control supports surfacing available permission controls."
+        },
+        {
+          "question": "QP_6",
+          "question_text": "I would prefer to have privacy by default settings enabled for personal data in IoT devices.",
+          "direction": "high",
+          "strength": "supporting",
+          "reason": "Preference for privacy-by-default settings for personal data supports privacy-protective permission controls."
+        }
+      ]
+    },
+    "Data sharing and integration controls": {
+      "signals": [
+        {
+          "question": "QCT_4",
+          "question_text": "I am comfortable with IoT devices collecting my personal data and sharing it with third-parties, such as advertising partners, data brokers, or other service partners.",
+          "direction": "low",
+          "strength": "direct",
+          "reason": "Lower comfort with third-party sharing directly supports surfacing data-sharing controls."
+        },
+        {
+          "question": "QC_8",
+          "question_text": "I can clearly understand with whom my personal and sensitive data are shared (such as third-parties, business partners).",
+          "direction": "low",
+          "strength": "supporting",
+          "reason": "Lower comprehension of who personal or sensitive data is shared with supports highlighting an available sharing control."
+        },
+        {
+          "question": "QCT_8",
+          "question_text": "I am concerned about my lack of control when information collected by my IoT devices is combined with data about me from other sources (such as, social media, online purchases, public records).",
+          "direction": "high",
+          "strength": "supporting",
+          "reason": "Greater concern about data being combined with information from other sources supports surfacing integration controls."
+        },
+        {
+          "question": "QP_6",
+          "question_text": "I would prefer to have privacy by default settings enabled for personal data in IoT devices.",
+          "direction": "high",
+          "strength": "supporting",
+          "reason": "Preference for privacy-by-default settings supports surfacing privacy-protective sharing controls."
+        }
+      ]
+    }
+  }
+}

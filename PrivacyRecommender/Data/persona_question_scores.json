@@ -1,0 +1,1041 @@
+{
+  "_methodology": {
+    "source": "510-response clustered survey dataset",
+    "meaning": "Each z-score is the persona's mean answer to one survey item relative to the full-sample mean, divided by the full-sample population standard deviation.",
+    "important": "These are observed persona measurements. They are not recommendation relevance weights."
+  },
+  "personas": {
+    "0": {
+      "cluster_id": 0,
+      "name": "Informed Protectors",
+      "size": 68,
+      "questions": {
+        "QA_1": {
+          "domain": "Awareness",
+          "mean": 4.602941,
+          "z": 0.623382
+        },
+        "QA_2": {
+          "domain": "Awareness",
+          "mean": 4.602941,
+          "z": 0.608596
+        },
+        "QC_1": {
+          "domain": "Comprehension",
+          "mean": 3.220588,
+          "z": 0.218901
+        },
+        "QC_2": {
+          "domain": "Comprehension",
+          "mean": 2.823529,
+          "z": 0.180945
+        },
+        "QC_3": {
+          "domain": "Comprehension",
+          "mean": 3.25,
+          "z": 0.516237
+        },
+        "QC_4": {
+          "domain": "Comprehension",
+          "mean": 4.132353,
+          "z": 0.679165
+        },
+        "QC_5": {
+          "domain": "Comprehension",
+          "mean": 3.323529,
+          "z": 0.426933
+        },
+        "QC_6": {
+          "domain": "Comprehension",
+          "mean": 4.117647,
+          "z": 0.679385
+        },
+        "QC_7": {
+          "domain": "Comprehension",
+          "mean": 3.470588,
+          "z": 0.616951
+        },
+        "QC_8": {
+          "domain": "Comprehension",
+          "mean": 2.470588,
+          "z": 0.102076
+        },
+        "QA_3": {
+          "domain": "Awareness",
+          "mean": 4.014706,
+          "z": 0.64993
+        },
+        "QA_4": {
+          "domain": "Awareness",
+          "mean": 3.794118,
+          "z": 0.562744
+        },
+        "QA_5": {
+          "domain": "Awareness",
+          "mean": 4.161765,
+          "z": 0.786739
+        },
+        "QP_1": {
+          "domain": "Preferences",
+          "mean": 3.852941,
+          "z": 0.268104
+        },
+        "QA_6": {
+          "domain": "Awareness",
+          "mean": 4.338235,
+          "z": 0.529957
+        },
+        "QP_2": {
+          "domain": "Preferences",
+          "mean": 3.235294,
+          "z": 0.376421
+        },
+        "QP_3": {
+          "domain": "Preferences",
+          "mean": 2.588235,
+          "z": -0.280669
+        },
+        "QPB_1": {
+          "domain": "Privacy Behaviours",
+          "mean": 3.279412,
+          "z": -0.621837
+        },
+        "QP_4": {
+          "domain": "Preferences",
+          "mean": 3.397059,
+          "z": 0.501155
+        },
+        "QPB_2": {
+          "domain": "Privacy Behaviours",
+          "mean": 2.985294,
+          "z": 0.655476
+        },
+        "QPB_3": {
+          "domain": "Privacy Behaviours",
+          "mean": 3.661765,
+          "z": 0.845059
+        },
+        "QCT_1": {
+          "domain": "Comfort",
+          "mean": 1.779412,
+          "z": -0.642303
+        },
+        "QCT_2": {
+          "domain": "Comfort",
+          "mean": 2.602941,
+          "z": -0.372612
+        },
+        "QCT_3": {
+          "domain": "Comfort",
+          "mean": 2.117647,
+          "z": -0.365616
+        },
+        "QCT_4": {
+          "domain": "Comfort",
+          "mean": 1.220588,
+          "z": -0.526798
+        },
+        "QCT_5": {
+          "domain": "Comfort",
+          "mean": 1.411765,
+          "z": -0.378992
+        },
+        "QCT_6": {
+          "domain": "Comfort",
+          "mean": 2.882353,
+          "z": -0.29358
+        },
+        "QCT_7": {
+          "domain": "Comfort",
+          "mean": 4.176471,
+          "z": 0.562279
+        },
+        "QCT_8": {
+          "domain": "Comfort",
+          "mean": 4.455882,
+          "z": 0.631536
+        },
+        "QCT_9": {
+          "domain": "Comfort",
+          "mean": 4.308824,
+          "z": 0.560926
+        },
+        "QP_5": {
+          "domain": "Preferences",
+          "mean": 2.117647,
+          "z": 0.595044
+        },
+        "QP_6": {
+          "domain": "Preferences",
+          "mean": 4.279412,
+          "z": 0.40479
+        },
+        "QP_7": {
+          "domain": "Preferences",
+          "mean": 4.205882,
+          "z": 0.296568
+        }
+      }
+    },
+    "1": {
+      "cluster_id": 1,
+      "name": "Passive Accepters",
+      "size": 82,
+      "questions": {
+        "QA_1": {
+          "domain": "Awareness",
+          "mean": 3.670732,
+          "z": -0.635101
+        },
+        "QA_2": {
+          "domain": "Awareness",
+          "mean": 3.695122,
+          "z": -0.563015
+        },
+        "QC_1": {
+          "domain": "Comprehension",
+          "mean": 2.207317,
+          "z": -0.743831
+        },
+        "QC_2": {
+          "domain": "Comprehension",
+          "mean": 1.865854,
+          "z": -0.711743
+        },
+        "QC_3": {
+          "domain": "Comprehension",
+          "mean": 1.939024,
+          "z": -0.671903
+        },
+        "QC_4": {
+          "domain": "Comprehension",
+          "mean": 2.682927,
+          "z": -0.769735
+        },
+        "QC_5": {
+          "domain": "Comprehension",
+          "mean": 2.073171,
+          "z": -0.767136
+        },
+        "QC_6": {
+          "domain": "Comprehension",
+          "mean": 2.439024,
+          "z": -0.892561
+        },
+        "QC_7": {
+          "domain": "Comprehension",
+          "mean": 1.95122,
+          "z": -0.814371
+        },
+        "QC_8": {
+          "domain": "Comprehension",
+          "mean": 1.54878,
+          "z": -0.725306
+        },
+        "QA_3": {
+          "domain": "Awareness",
+          "mean": 2.439024,
+          "z": -0.704888
+        },
+        "QA_4": {
+          "domain": "Awareness",
+          "mean": 2.280488,
+          "z": -0.765729
+        },
+        "QA_5": {
+          "domain": "Awareness",
+          "mean": 2.52439,
+          "z": -0.845497
+        },
+        "QP_1": {
+          "domain": "Preferences",
+          "mean": 3.5,
+          "z": -0.05578
+        },
+        "QA_6": {
+          "domain": "Awareness",
+          "mean": 2.926829,
+          "z": -0.778695
+        },
+        "QP_2": {
+          "domain": "Preferences",
+          "mean": 1.707317,
+          "z": -0.778432
+        },
+        "QP_3": {
+          "domain": "Preferences",
+          "mean": 3.536585,
+          "z": 0.461124
+        },
+        "QPB_1": {
+          "domain": "Privacy Behaviours",
+          "mean": 4.365854,
+          "z": 0.39304
+        },
+        "QP_4": {
+          "domain": "Preferences",
+          "mean": 2.719512,
+          "z": -0.071319
+        },
+        "QPB_2": {
+          "domain": "Privacy Behaviours",
+          "mean": 1.792683,
+          "z": -0.381406
+        },
+        "QPB_3": {
+          "domain": "Privacy Behaviours",
+          "mean": 2.060976,
+          "z": -0.370638
+        },
+        "QCT_1": {
+          "domain": "Comfort",
+          "mean": 2.256098,
+          "z": -0.22866
+        },
+        "QCT_2": {
+          "domain": "Comfort",
+          "mean": 3.02439,
+          "z": -0.007742
+        },
+        "QCT_3": {
+          "domain": "Comfort",
+          "mean": 2.121951,
+          "z": -0.361521
+        },
+        "QCT_4": {
+          "domain": "Comfort",
+          "mean": 1.402439,
+          "z": -0.323649
+        },
+        "QCT_5": {
+          "domain": "Comfort",
+          "mean": 1.45122,
+          "z": -0.341425
+        },
+        "QCT_6": {
+          "domain": "Comfort",
+          "mean": 3.121951,
+          "z": -0.069367
+        },
+        "QCT_7": {
+          "domain": "Comfort",
+          "mean": 3.914634,
+          "z": 0.288247
+        },
+        "QCT_8": {
+          "domain": "Comfort",
+          "mean": 4.182927,
+          "z": 0.342819
+        },
+        "QCT_9": {
+          "domain": "Comfort",
+          "mean": 4.04878,
+          "z": 0.298523
+        },
+        "QP_5": {
+          "domain": "Preferences",
+          "mean": 0.853659,
+          "z": -0.272797
+        },
+        "QP_6": {
+          "domain": "Preferences",
+          "mean": 3.95122,
+          "z": 0.056446
+        },
+        "QP_7": {
+          "domain": "Preferences",
+          "mean": 4.012195,
+          "z": 0.122192
+        }
+      }
+    },
+    "2": {
+      "cluster_id": 2,
+      "name": "Practical Realists",
+      "size": 139,
+      "questions": {
+        "QA_1": {
+          "domain": "Awareness",
+          "mean": 4.194245,
+          "z": 0.071642
+        },
+        "QA_2": {
+          "domain": "Awareness",
+          "mean": 4.143885,
+          "z": 0.016148
+        },
+        "QC_1": {
+          "domain": "Comprehension",
+          "mean": 3.316547,
+          "z": 0.310073
+        },
+        "QC_2": {
+          "domain": "Comprehension",
+          "mean": 2.848921,
+          "z": 0.204613
+        },
+        "QC_3": {
+          "domain": "Comprehension",
+          "mean": 2.776978,
+          "z": 0.087536
+        },
+        "QC_4": {
+          "domain": "Comprehension",
+          "mean": 3.726619,
+          "z": 0.273578
+        },
+        "QC_5": {
+          "domain": "Comprehension",
+          "mean": 3.115108,
+          "z": 0.227894
+        },
+        "QC_6": {
+          "domain": "Comprehension",
+          "mean": 3.582734,
+          "z": 0.178466
+        },
+        "QC_7": {
+          "domain": "Comprehension",
+          "mean": 3.014388,
+          "z": 0.187187
+        },
+        "QC_8": {
+          "domain": "Comprehension",
+          "mean": 2.52518,
+          "z": 0.151075
+        },
+        "QA_3": {
+          "domain": "Awareness",
+          "mean": 3.374101,
+          "z": 0.099119
+        },
+        "QA_4": {
+          "domain": "Awareness",
+          "mean": 3.330935,
+          "z": 0.156221
+        },
+        "QA_5": {
+          "domain": "Awareness",
+          "mean": 3.453237,
+          "z": 0.080435
+        },
+        "QP_1": {
+          "domain": "Preferences",
+          "mean": 3.618705,
+          "z": 0.053152
+        },
+        "QA_6": {
+          "domain": "Awareness",
+          "mean": 3.841727,
+          "z": 0.069595
+        },
+        "QP_2": {
+          "domain": "Preferences",
+          "mean": 2.956835,
+          "z": 0.165959
+        },
+        "QP_3": {
+          "domain": "Preferences",
+          "mean": 2.906475,
+          "z": -0.031745
+        },
+        "QPB_1": {
+          "domain": "Privacy Behaviours",
+          "mean": 4.007194,
+          "z": 0.058006
+        },
+        "QP_4": {
+          "domain": "Preferences",
+          "mean": 2.748201,
+          "z": -0.047079
+        },
+        "QPB_2": {
+          "domain": "Privacy Behaviours",
+          "mean": 2.107914,
+          "z": -0.107338
+        },
+        "QPB_3": {
+          "domain": "Privacy Behaviours",
+          "mean": 2.352518,
+          "z": -0.149231
+        },
+        "QCT_1": {
+          "domain": "Comfort",
+          "mean": 2.726619,
+          "z": 0.179633
+        },
+        "QCT_2": {
+          "domain": "Comfort",
+          "mean": 3.079137,
+          "z": 0.039654
+        },
+        "QCT_3": {
+          "domain": "Comfort",
+          "mean": 2.503597,
+          "z": 0.001557
+        },
+        "QCT_4": {
+          "domain": "Comfort",
+          "mean": 1.640288,
+          "z": -0.057944
+        },
+        "QCT_5": {
+          "domain": "Comfort",
+          "mean": 1.856115,
+          "z": 0.044095
+        },
+        "QCT_6": {
+          "domain": "Comfort",
+          "mean": 3.294964,
+          "z": 0.092536
+        },
+        "QCT_7": {
+          "domain": "Comfort",
+          "mean": 3.52518,
+          "z": -0.119347
+        },
+        "QCT_8": {
+          "domain": "Comfort",
+          "mean": 3.848921,
+          "z": -0.010474
+        },
+        "QCT_9": {
+          "domain": "Comfort",
+          "mean": 3.669065,
+          "z": -0.084637
+        },
+        "QP_5": {
+          "domain": "Preferences",
+          "mean": 0.899281,
+          "z": -0.241473
+        },
+        "QP_6": {
+          "domain": "Preferences",
+          "mean": 3.654676,
+          "z": -0.258306
+        },
+        "QP_7": {
+          "domain": "Preferences",
+          "mean": 3.676259,
+          "z": -0.180249
+        }
+      }
+    },
+    "3": {
+      "cluster_id": 3,
+      "name": "Open Sharers",
+      "size": 52,
+      "questions": {
+        "QA_1": {
+          "domain": "Awareness",
+          "mean": 3.653846,
+          "z": -0.657896
+        },
+        "QA_2": {
+          "domain": "Awareness",
+          "mean": 3.75,
+          "z": -0.492191
+        },
+        "QC_1": {
+          "domain": "Comprehension",
+          "mean": 2.846154,
+          "z": -0.136858
+        },
+        "QC_2": {
+          "domain": "Comprehension",
+          "mean": 2.519231,
+          "z": -0.102704
+        },
+        "QC_3": {
+          "domain": "Comprehension",
+          "mean": 2.365385,
+          "z": -0.285492
+        },
+        "QC_4": {
+          "domain": "Comprehension",
+          "mean": 2.923077,
+          "z": -0.529672
+        },
+        "QC_5": {
+          "domain": "Comprehension",
+          "mean": 2.634615,
+          "z": -0.230967
+        },
+        "QC_6": {
+          "domain": "Comprehension",
+          "mean": 3.0,
+          "z": -0.367235
+        },
+        "QC_7": {
+          "domain": "Comprehension",
+          "mean": 2.5,
+          "z": -0.297392
+        },
+        "QC_8": {
+          "domain": "Comprehension",
+          "mean": 2.384615,
+          "z": 0.02491
+        },
+        "QA_3": {
+          "domain": "Awareness",
+          "mean": 2.634615,
+          "z": -0.536713
+        },
+        "QA_4": {
+          "domain": "Awareness",
+          "mean": 2.615385,
+          "z": -0.471799
+        },
+        "QA_5": {
+          "domain": "Awareness",
+          "mean": 2.884615,
+          "z": -0.486403
+        },
+        "QP_1": {
+          "domain": "Preferences",
+          "mean": 3.192308,
+          "z": -0.33814
+        },
+        "QA_6": {
+          "domain": "Awareness",
+          "mean": 3.211538,
+          "z": -0.514714
+        },
+        "QP_2": {
+          "domain": "Preferences",
+          "mean": 2.538462,
+          "z": -0.150249
+        },
+        "QP_3": {
+          "domain": "Preferences",
+          "mean": 3.076923,
+          "z": 0.101579
+        },
+        "QPB_1": {
+          "domain": "Privacy Behaviours",
+          "mean": 4.480769,
+          "z": 0.500386
+        },
+        "QP_4": {
+          "domain": "Preferences",
+          "mean": 2.038462,
+          "z": -0.646754
+        },
+        "QPB_2": {
+          "domain": "Privacy Behaviours",
+          "mean": 1.538462,
+          "z": -0.602432
+        },
+        "QPB_3": {
+          "domain": "Privacy Behaviours",
+          "mean": 1.615385,
+          "z": -0.709037
+        },
+        "QCT_1": {
+          "domain": "Comfort",
+          "mean": 3.423077,
+          "z": 0.783983
+        },
+        "QCT_2": {
+          "domain": "Comfort",
+          "mean": 3.730769,
+          "z": 0.603805
+        },
+        "QCT_3": {
+          "domain": "Comfort",
+          "mean": 3.057692,
+          "z": 0.528693
+        },
+        "QCT_4": {
+          "domain": "Comfort",
+          "mean": 2.442308,
+          "z": 0.838008
+        },
+        "QCT_5": {
+          "domain": "Comfort",
+          "mean": 2.173077,
+          "z": 0.345889
+        },
+        "QCT_6": {
+          "domain": "Comfort",
+          "mean": 3.423077,
+          "z": 0.212422
+        },
+        "QCT_7": {
+          "domain": "Comfort",
+          "mean": 2.846154,
+          "z": -0.83
+        },
+        "QCT_8": {
+          "domain": "Comfort",
+          "mean": 2.961538,
+          "z": -0.949099
+        },
+        "QCT_9": {
+          "domain": "Comfort",
+          "mean": 2.903846,
+          "z": -0.856798
+        },
+        "QP_5": {
+          "domain": "Preferences",
+          "mean": 0.980769,
+          "z": -0.185524
+        },
+        "QP_6": {
+          "domain": "Preferences",
+          "mean": 3.538462,
+          "z": -0.381657
+        },
+        "QP_7": {
+          "domain": "Preferences",
+          "mean": 3.480769,
+          "z": -0.356248
+        }
+      }
+    },
+    "4": {
+      "cluster_id": 4,
+      "name": "Overwhelmed Seekers",
+      "size": 84,
+      "questions": {
+        "QA_1": {
+          "domain": "Awareness",
+          "mean": 4.369048,
+          "z": 0.307626
+        },
+        "QA_2": {
+          "domain": "Awareness",
+          "mean": 4.345238,
+          "z": 0.27601
+        },
+        "QC_1": {
+          "domain": "Comprehension",
+          "mean": 2.25,
+          "z": -0.703277
+        },
+        "QC_2": {
+          "domain": "Comprehension",
+          "mean": 1.845238,
+          "z": -0.73096
+        },
+        "QC_3": {
+          "domain": "Comprehension",
+          "mean": 2.011905,
+          "z": -0.605851
+        },
+        "QC_4": {
+          "domain": "Comprehension",
+          "mean": 3.059524,
+          "z": -0.393275
+        },
+        "QC_5": {
+          "domain": "Comprehension",
+          "mean": 2.071429,
+          "z": -0.7688
+        },
+        "QC_6": {
+          "domain": "Comprehension",
+          "mean": 3.011905,
+          "z": -0.356087
+        },
+        "QC_7": {
+          "domain": "Comprehension",
+          "mean": 1.964286,
+          "z": -0.802062
+        },
+        "QC_8": {
+          "domain": "Comprehension",
+          "mean": 1.559524,
+          "z": -0.715663
+        },
+        "QA_3": {
+          "domain": "Awareness",
+          "mean": 3.083333,
+          "z": -0.150892
+        },
+        "QA_4": {
+          "domain": "Awareness",
+          "mean": 2.761905,
+          "z": -0.343202
+        },
+        "QA_5": {
+          "domain": "Awareness",
+          "mean": 3.190476,
+          "z": -0.181502
+        },
+        "QP_1": {
+          "domain": "Preferences",
+          "mean": 3.559524,
+          "z": -0.001157
+        },
+        "QA_6": {
+          "domain": "Awareness",
+          "mean": 3.869048,
+          "z": 0.094927
+        },
+        "QP_2": {
+          "domain": "Preferences",
+          "mean": 2.52381,
+          "z": -0.161323
+        },
+        "QP_3": {
+          "domain": "Preferences",
+          "mean": 2.738095,
+          "z": -0.16345
+        },
+        "QPB_1": {
+          "domain": "Privacy Behaviours",
+          "mean": 3.857143,
+          "z": -0.082161
+        },
+        "QP_4": {
+          "domain": "Preferences",
+          "mean": 2.952381,
+          "z": 0.125437
+        },
+        "QPB_2": {
+          "domain": "Privacy Behaviours",
+          "mean": 2.892857,
+          "z": 0.575109
+        },
+        "QPB_3": {
+          "domain": "Privacy Behaviours",
+          "mean": 3.285714,
+          "z": 0.559473
+        },
+        "QCT_1": {
+          "domain": "Comfort",
+          "mean": 1.428571,
+          "z": -0.946744
+        },
+        "QCT_2": {
+          "domain": "Comfort",
+          "mean": 1.97619,
+          "z": -0.915221
+        },
+        "QCT_3": {
+          "domain": "Comfort",
+          "mean": 1.880952,
+          "z": -0.590794
+        },
+        "QCT_4": {
+          "domain": "Comfort",
+          "mean": 1.083333,
+          "z": -0.680128
+        },
+        "QCT_5": {
+          "domain": "Comfort",
+          "mean": 1.27381,
+          "z": -0.510346
+        },
+        "QCT_6": {
+          "domain": "Comfort",
+          "mean": 2.440476,
+          "z": -0.707083
+        },
+        "QCT_7": {
+          "domain": "Comfort",
+          "mean": 4.404762,
+          "z": 0.801203
+        },
+        "QCT_8": {
+          "domain": "Comfort",
+          "mean": 4.488095,
+          "z": 0.665609
+        },
+        "QCT_9": {
+          "domain": "Comfort",
+          "mean": 4.52381,
+          "z": 0.777862
+        },
+        "QP_5": {
+          "domain": "Preferences",
+          "mean": 2.107143,
+          "z": 0.587831
+        },
+        "QP_6": {
+          "domain": "Preferences",
+          "mean": 4.130952,
+          "z": 0.247215
+        },
+        "QP_7": {
+          "domain": "Preferences",
+          "mean": 4.238095,
+          "z": 0.325569
+        }
+      }
+    },
+    "5": {
+      "cluster_id": 5,
+      "name": "Confident Sharers",
+      "size": 85,
+      "questions": {
+        "QA_1": {
+          "domain": "Awareness",
+          "mean": 4.211765,
+          "z": 0.095294
+        },
+        "QA_2": {
+          "domain": "Awareness",
+          "mean": 4.176471,
+          "z": 0.058202
+        },
+        "QC_1": {
+          "domain": "Comprehension",
+          "mean": 3.847059,
+          "z": 0.814125
+        },
+        "QC_2": {
+          "domain": "Comprehension",
+          "mean": 3.694118,
+          "z": 0.992455
+        },
+        "QC_3": {
+          "domain": "Comprehension",
+          "mean": 3.635294,
+          "z": 0.865429
+        },
+        "QC_4": {
+          "domain": "Comprehension",
+          "mean": 3.917647,
+          "z": 0.464537
+        },
+        "QC_5": {
+          "domain": "Comprehension",
+          "mean": 3.847059,
+          "z": 0.926893
+        },
+        "QC_6": {
+          "domain": "Comprehension",
+          "mean": 4.035294,
+          "z": 0.602266
+        },
+        "QC_7": {
+          "domain": "Comprehension",
+          "mean": 3.835294,
+          "z": 0.960522
+        },
+        "QC_8": {
+          "domain": "Comprehension",
+          "mean": 3.541176,
+          "z": 1.062998
+        },
+        "QA_3": {
+          "domain": "Awareness",
+          "mean": 3.811765,
+          "z": 0.475435
+        },
+        "QA_4": {
+          "domain": "Awareness",
+          "mean": 3.905882,
+          "z": 0.660836
+        },
+        "QA_5": {
+          "domain": "Awareness",
+          "mean": 3.905882,
+          "z": 0.53166
+        },
+        "QP_1": {
+          "domain": "Preferences",
+          "mean": 3.517647,
+          "z": -0.039586
+        },
+        "QA_6": {
+          "domain": "Awareness",
+          "mean": 4.235294,
+          "z": 0.43451
+        },
+        "QP_2": {
+          "domain": "Preferences",
+          "mean": 3.305882,
+          "z": 0.429772
+        },
+        "QP_3": {
+          "domain": "Preferences",
+          "mean": 2.858824,
+          "z": -0.069017
+        },
+        "QPB_1": {
+          "domain": "Privacy Behaviours",
+          "mean": 3.729412,
+          "z": -0.201479
+        },
+        "QP_4": {
+          "domain": "Preferences",
+          "mean": 2.823529,
+          "z": 0.016567
+        },
+        "QPB_2": {
+          "domain": "Privacy Behaviours",
+          "mean": 2.023529,
+          "z": -0.180703
+        },
+        "QPB_3": {
+          "domain": "Privacy Behaviours",
+          "mean": 2.294118,
+          "z": -0.193582
+        },
+        "QCT_1": {
+          "domain": "Comfort",
+          "mean": 3.552941,
+          "z": 0.896672
+        },
+        "QCT_2": {
+          "domain": "Comfort",
+          "mean": 3.929412,
+          "z": 0.77578
+        },
+        "QCT_3": {
+          "domain": "Comfort",
+          "mean": 3.447059,
+          "z": 0.899116
+        },
+        "QCT_4": {
+          "domain": "Comfort",
+          "mean": 2.576471,
+          "z": 0.987884
+        },
+        "QCT_5": {
+          "domain": "Comfort",
+          "mean": 2.705882,
+          "z": 0.853199
+        },
+        "QCT_6": {
+          "domain": "Comfort",
+          "mean": 3.964706,
+          "z": 0.719272
+        },
+        "QCT_7": {
+          "domain": "Comfort",
+          "mean": 2.858824,
+          "z": -0.816741
+        },
+        "QCT_8": {
+          "domain": "Comfort",
+          "mean": 3.011765,
+          "z": -0.895973
+        },
+        "QCT_9": {
+          "domain": "Comfort",
+          "mean": 2.917647,
+          "z": -0.842872
+        },
+        "QP_5": {
+          "domain": "Preferences",
+          "mean": 0.835294,
+          "z": -0.285405
+        },
+        "QP_6": {
+          "domain": "Preferences",
+          "mean": 3.929412,
+          "z": 0.033299
+        },
+        "QP_7": {
+          "domain": "Preferences",
+          "mean": 3.694118,
+          "z": -0.164171
+        }
+      }
+    }
+  }
+}

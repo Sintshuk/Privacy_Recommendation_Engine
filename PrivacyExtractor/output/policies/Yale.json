@@ -1,0 +1,1112 @@
+{
+  "policy": "Yale",
+  "rows": [
+    {
+      "segment": {
+        "id": "S1",
+        "text": "This is the Yale UK Privacy Notice. Yale UK is committed to protecting your personal data. This privacy notice describes: the types of personal data we collect from you in connection with this website; how we use that information and why; who we share it with and where; how long we store it for; your rights, including how you can contact us if you have additional questions about the processing of your personal data; and how we can make changes to this notice Yale UK is a brand of ASSA ABLOY Ltd, a company registered in England and Wales under number 2096505, of School Street, Willenhall, West Midlands, WV13 3PW, United Kingdom as \"data controller\" is responsible for the processing of your personal data. For further information on our use of cookies, please see our Cookie Policy. For information on our Privacy Policy for the Yale Home Subscription, please view the Subscription Privacy Notice.",
+        "heading_path": [
+          "Privacy Notice"
+        ],
+        "links": [
+          {
+            "text": "Cookie Policy",
+            "href": "https://yalehome.co.uk/cookie-policy",
+            "kind": "external"
+          },
+          {
+            "text": "Subscription Privacy Notice",
+            "href": "https://www.yalehome.com/global/en/privacy-and-legal-center/user-terms-and-privacy-notice-for-yale-home-subscriptions/europe-english/europe-privacy-notice-yale-home-subscription-english",
+            "kind": "external"
+          }
+        ],
+        "html_ids": [
+          "maincontent"
+        ],
+        "previous_segment_id": null,
+        "next_segment_id": "S2",
+        "previous_segment_text": "",
+        "extended_context": ""
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": [
+          {
+            "attribute": "reference",
+            "evidence": "For further information on our use of cookies, please see our Cookie Policy.",
+            "target_text": "Cookie Policy",
+            "reason": "not_an_unresolved_reference"
+          },
+          {
+            "attribute": "reference",
+            "evidence": "For information on our Privacy Policy for the Yale Home Subscription, please view the Subscription Privacy Notice.",
+            "target_text": "Subscription Privacy Notice",
+            "reason": "not_an_unresolved_reference"
+          }
+        ]
+      }
+    },
+    {
+      "segment": {
+        "id": "S2",
+        "text": "We collect and store: Your email address which you submit in order to sign-up for electronic direct marketing from us. Contact and delivery details as well as payment information in order to process and deliver any purchases from the website. Your name, address, telephone number and email address in order to arrange the installations of a product purchased from the website when installation or servicing has also been purchased. Your name, address, post code, email address, telephone number and any supporting documents you provide if you request the support of the Customer Support team. In order to provide support for security products, we may request a proof of purchase and proof of identification. If you have a video call with the Customer Support team we will collect your name, telephone number and email address, as well as images and audio from the call. Your name, email address and telephone number if you use our Chat Assistant. Your name, email address, address and date of purchase when your register an anti-snap guarantee. Your name, email address, address, telephone number and order details when you create and use a Yale Account. In addition to the information you submit we are gathering your IP address to serve you with geographically-relevant content and personalisation purposes.",
+        "heading_path": [
+          "Privacy Notice",
+          "What personal data do we collect?"
+        ],
+        "links": [],
+        "html_ids": [],
+        "previous_segment_id": "S1",
+        "next_segment_id": "S3",
+        "previous_segment_text": "This is the Yale UK Privacy Notice. Yale UK is committed to protecting your personal data. This privacy notice describes: the types of personal data we collect from you in connection with this website; how we use that information and why; who we share it with and where; how long we store it for; your rights, including how you can contact us if you have additional questions about the processing of your personal data; and how we can make changes to this notice Yale UK is a brand of ASSA ABLOY Ltd, a company registered in England and Wales under number 2096505, of School Street, Willenhall, West Midlands, WV13 3PW, United Kingdom as \"data controller\" is responsible for the processing of your personal data. For further information on our use of cookies, please see our Cookie Policy. For information on our Privacy Policy for the Yale Home Subscription, please view the Subscription Privacy Notice.",
+        "extended_context": "This is the Yale UK Privacy Notice. Yale UK is committed to protecting your personal data. This privacy notice describes: the types of personal data we collect from you in connection with this website; how we use that information and why; who we share it with and where; how long we store it for; your rights, including how you can contact us if you have additional questions about the processing of your personal data; and how we can make changes to this notice Yale UK is a brand of ASSA ABLOY Ltd, a company registered in England and Wales under number 2096505, of School Street, Willenhall, West Midlands, WV13 3PW, United Kingdom as \"data controller\" is responsible for the processing of your personal data. For further information on our use of cookies, please see our Cookie Policy. For information on our Privacy Policy for the Yale Home Subscription, please view the Subscription Privacy Notice."
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S3",
+        "text": "Why do we process this personal data?, 1 = What is the legal basis for processing?. To process and dispatch orders made via the website., 1 = In order to perform our contract of sale with you.. To send your requests to rate and review our service via Trustpilot, website questionnaires and our trusted market research partners., 1 = It is in our legitimate interest to gain insight into the performance of our service, research new business opportunities and to respond to customer concerns and feedback.. To register anti-snap guarantees and administer claims., 1 = In order to perform our contract with you.. To respond to queries from customers and provide product support., 1 = It is in our legitimate interest to respond to customer queries and provide product support.. To record calls in relation to our provision of customer services., 1 = Prior to the call commencing you will be told the call is being recorded. Recording calls is within Yale's legitimate interests to enable us to provide a better quality service and to ensure we respond efficiently to your query.. To register and administer Yale Accounts., 1 = It is in our legitimate interest to provide this service as requested by customers. To carry out statistical analysis about the use of the website to better understand how our website is used and make improvements to it, as well as tailor your experience of the website., 1 = When you have provided your consent to do so.. To send you communications about relevant products & promotions, in accordance with your marketing preferences., 1 = We will only send you relevant content where we have your consent to do so.. To comply with legal requirements to which we are subject, such as tax or financial reporting requirements., 1 = Using your personal data in this way is necessary for us to comply with our legal obligations.. To track where you have been referred to Yale by one of our affiliate partners, to monitor our marketing activities and pay commission to our affiliate partners. For more information see our cookie notice., 1 = When you have provided your consent to do so.. To share hashed purchase history information from your purchase (such as email) with Google for conversion measurement to help us understand which adverts lead to sales. See our Cookie Policy for more information., 1 = When you have provided your consent to do so Why do we process this personal data? What is the legal basis for processing? To track where you have been referred to Yale by one of our affiliate partners, to monitor our marketing activities and pay commission to our affiliate partners. For more information see our cookie notice.",
+        "heading_path": [
+          "Privacy Notice",
+          "How and why will we use your personal data?"
+        ],
+        "links": [
+          {
+            "text": "cookie notice.",
+            "href": "https://yalehome.co.uk/cookie-policy",
+            "kind": "external"
+          }
+        ],
+        "html_ids": [],
+        "previous_segment_id": "S2",
+        "next_segment_id": "S4",
+        "previous_segment_text": "We collect and store: Your email address which you submit in order to sign-up for electronic direct marketing from us. Contact and delivery details as well as payment information in order to process and deliver any purchases from the website. Your name, address, telephone number and email address in order to arrange the installations of a product purchased from the website when installation or servicing has also been purchased. Your name, address, post code, email address, telephone number and any supporting documents you provide if you request the support of the Customer Support team. In order to provide support for security products, we may request a proof of purchase and proof of identification. If you have a video call with the Customer Support team we will collect your name, telephone number and email address, as well as images and audio from the call. Your name, email address and telephone number if you use our Chat Assistant. Your name, email address, address and date of purchase when your register an anti-snap guarantee. Your name, email address, address, telephone number and order details when you create and use a Yale Account. In addition to the information you submit we are gathering your IP address to serve you with geographically-relevant content and personalisation purposes.",
+        "extended_context": "This is the Yale UK Privacy Notice. Yale UK is committed to protecting your personal data. This privacy notice describes: the types of personal data we collect from you in connection with this website; how we use that information and why; who we share it with and where; how long we store it for; your rights, including how you can contact us if you have additional questions about the processing of your personal data; and how we can make changes to this notice Yale UK is a brand of ASSA ABLOY Ltd, a company registered in England and Wales under number 2096505, of School Street, Willenhall, West Midlands, WV13 3PW, United Kingdom as \"data controller\" is responsible for the processing of your personal data. For further information on our use of cookies, please see our Cookie Policy. For information on our Privacy Policy for the Yale Home Subscription, please view the Subscription Privacy Notice. We collect and store: Your email address which you submit in order to sign-up for electronic direct marketing from us. Contact and delivery details as well as payment information in order to process and deliver any purchases from the website. Your name, address, telephone number and email address in order to arrange the installations of a product purchased from the website when installation or servicing has also been purchased. Your name, address, post code, email address, telephone number and any supporting documents you provide if you request the support of the Customer Support team. In order to provide support for security products, we may request a proof of purchase and proof of identification. If you have a video call with the Customer Support team we will collect your name, telephone number and email address, as well as images and audio from the call. Your name, email address and telephone number if you use our Chat Assistant. Your name, email address, address and date of purchase when your register an anti-snap guarantee. Your name, email address, address, telephone number and order details when you create and use a Yale Account. In addition to the information you submit we are gathering your IP address to serve you with geographically-relevant content and personalisation purposes."
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": [
+          {
+            "attribute": "reference",
+            "evidence": "see our cookie notice.",
+            "target_text": "cookie notice",
+            "reason": "not_an_unresolved_reference"
+          },
+          {
+            "attribute": "reference",
+            "evidence": "See our Cookie Policy for more information.",
+            "target_text": "Cookie Policy",
+            "reason": "not_an_unresolved_reference"
+          }
+        ]
+      }
+    },
+    {
+      "segment": {
+        "id": "S4",
+        "text": "We may transfer your personal data for the purposes set out above: To organizations of the ASSA ABLOY Group which support us to provide the website and associated products and services, for the purposes described in the privacy notice. To third parties who provide services connected to this website or its functions, but only to the extent necessary to provide these services: 1. IT (Information Technology) providers who host, develop and offer support for this website 2. Digital Analytics providers who provide us with tools that help us improve your experience on our website 3. To our trusted third-party contractors who provide servicing and installation services on our behalf 4. To Trustpilot, in order to send you invitations to rate and review our service 5. Market research agencies who support us to gain insight into the performance of our services or research new business opportunities 6. To couriers in order to dispatch and deliver orders to you 7. Digital Marketing agencies who support us with our digital marketing activities, including email marketing and affiliate marketing. When required by law; and/or To a buyer or a potential future buyer of our business. Some recipients are located in countries outside the UK or EU/European Economic Area (EEA). As in some cases these countries have a lower level of protection than that within the UK or EU/EEA, when transferring personal data to countries outside of the UK or EU/EEA we use standard contractual clauses approved by the European Commission or Information Commissioner's Office to ensure a sufficient level of protection for your personal data. We take measures to protect all personal data transferred to a third party, or to other countries, in accordance with applicable data protection laws and as stated above.",
+        "heading_path": [
+          "Privacy Notice",
+          "Who and where will your personal data be transferred to?"
+        ],
+        "links": [],
+        "html_ids": [],
+        "previous_segment_id": "S3",
+        "next_segment_id": "S5",
+        "previous_segment_text": "Why do we process this personal data?, 1 = What is the legal basis for processing?. To process and dispatch orders made via the website., 1 = In order to perform our contract of sale with you.. To send your requests to rate and review our service via Trustpilot, website questionnaires and our trusted market research partners., 1 = It is in our legitimate interest to gain insight into the performance of our service, research new business opportunities and to respond to customer concerns and feedback.. To register anti-snap guarantees and administer claims., 1 = In order to perform our contract with you.. To respond to queries from customers and provide product support., 1 = It is in our legitimate interest to respond to customer queries and provide product support.. To record calls in relation to our provision of customer services., 1 = Prior to the call commencing you will be told the call is being recorded. Recording calls is within Yale's legitimate interests to enable us to provide a better quality service and to ensure we respond efficiently to your query.. To register and administer Yale Accounts., 1 = It is in our legitimate interest to provide this service as requested by customers. To carry out statistical analysis about the use of the website to better understand how our website is used and make improvements to it, as well as tailor your experience of the website., 1 = When you have provided your consent to do so.. To send you communications about relevant products & promotions, in accordance with your marketing preferences., 1 = We will only send you relevant content where we have your consent to do so.. To comply with legal requirements to which we are subject, such as tax or financial reporting requirements., 1 = Using your personal data in this way is necessary for us to comply with our legal obligations.. To track where you have been referred to Yale by one of our affiliate partners, to monitor our marketing activities and pay commission to our affiliate partners. For more information see our cookie notice., 1 = When you have provided your consent to do so.. To share hashed purchase history information from your purchase (such as email) with Google for conversion measurement to help us understand which adverts lead to sales. See our Cookie Policy for more information., 1 = When you have provided your consent to do so Why do we process this personal data? What is the legal basis for processing? To track where you have been referred to Yale by one of our affiliate partners, to monitor our marketing activities and pay commission to our affiliate partners. For more information see our cookie notice.",
+        "extended_context": "This is the Yale UK Privacy Notice. Yale UK is committed to protecting your personal data. This privacy notice describes: the types of personal data we collect from you in connection with this website; how we use that information and why; who we share it with and where; how long we store it for; your rights, including how you can contact us if you have additional questions about the processing of your personal data; and how we can make changes to this notice Yale UK is a brand of ASSA ABLOY Ltd, a company registered in England and Wales under number 2096505, of School Street, Willenhall, West Midlands, WV13 3PW, United Kingdom as \"data controller\" is responsible for the processing of your personal data. For further information on our use of cookies, please see our Cookie Policy. For information on our Privacy Policy for the Yale Home Subscription, please view the Subscription Privacy Notice. We collect and store: Your email address which you submit in order to sign-up for electronic direct marketing from us. Contact and delivery details as well as payment information in order to process and deliver any purchases from the website. Your name, address, telephone number and email address in order to arrange the installations of a product purchased from the website when installation or servicing has also been purchased. Your name, address, post code, email address, telephone number and any supporting documents you provide if you request the support of the Customer Support team. In order to provide support for security products, we may request a proof of purchase and proof of identification. If you have a video call with the Customer Support team we will collect your name, telephone number and email address, as well as images and audio from the call. Your name, email address and telephone number if you use our Chat Assistant. Your name, email address, address and date of purchase when your register an anti-snap guarantee. Your name, email address, address, telephone number and order details when you create and use a Yale Account. In addition to the information you submit we are gathering your IP address to serve you with geographically-relevant content and personalisation purposes. Why do we process this personal data?, 1 = What is the legal basis for processing?. To process and dispatch orders made via the website., 1 = In order to perform our contract of sale with you.. To send your requests to rate and review our service via Trustpilot, website questionnaires and our trusted market research partners., 1 = It is in our legitimate interest to gain insight into the performance of our service, research new business opportunities and to respond to customer concerns and feedback.. To register anti-snap guarantees and administer claims., 1 = In order to perform our contract with you.. To respond to queries from customers and provide product support., 1 = It is in our legitimate interest to respond to customer queries and provide product support.. To record calls in relation to our provision of customer services., 1 = Prior to the call commencing you will be told the call is being recorded. Recording calls is within Yale's legitimate interests to enable us to provide a better quality service and to ensure we respond efficiently to your query.. To register and administer Yale Accounts., 1 = It is in our legitimate interest to provide this service as requested by customers. To carry out statistical analysis about the use of the website to better understand how our website is used and make improvements to it, as well as tailor your experience of the website., 1 = When you have provided your consent to do so.. To send you communications about relevant products & promotions, in accordance with your marketing preferences., 1 = We will only send you relevant content where we have your consent to do so.. To comply with legal requirements to which we are subject, such as tax or financial reporting requirements., 1 = Using your personal data in this way is necessary for us to comply with our legal obligations.. To track where you have been referred to Yale by one of our affiliate partners, to monitor our marketing activities and pay commission to our affiliate partners. For more information see our cookie notice., 1 = When you have provided your consent to do so.. To share hashed purchase history information from your purchase (such as email) with Google for conversion measurement to help us understand which adverts lead to sales. See our Cookie Policy for more information., 1 = When you have provided your consent to do so Why do we process this personal data? What is the legal basis for processing? To track where you have been referred to Yale by one of our affiliate partners, to monitor our marketing activities and pay commission to our affiliate partners. For more information see our cookie notice."
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S5",
+        "text": "We store personal data for as long as necessary to fulfil the purpose for which the data has been collected, and in accordance with our internal record retention schedule. This means that we delete your personal data when such data is no longer necessary to process a request or to manage our relationship. Statistics which have been anonymised may be saved for longer. If you choose to have a video call with the Customer Support team we will retain a recording of the call. Recording the call allows us to refer back to the conversation if required, in order to provide after-call support. When there is no need to retain the recording, we will delete it. This will usually be straight after our call, however, may be longer depending on the reason for the call, such as if the recording is required to identify a fault. Recordings will be stored no longer than one month. Your Rights In relation to the personal data that we hold about you, you have the right to: Request a copy of your personal data from our records; Ask that we correct or erase your personal data (though this may mean that we cannot process requests or orders, or that your account expires); Ask us to stop processing your personal data (for example as regards the use of the data to improve our website), or restrict how we process it (for example if you deem the data to be incorrect); Request the personal data used to provide you with information you requested, process an order, or manage your account or our relationship in a machine-readable format, which you are entitled to transfer to another data controller; and Withdraw your consent to us processing your data for marketing purposes at any time. We may not accept a request to erase your personal data where we require it to comply with a legal obligation or in relation to a legal claim. Requests to exercise your rights should be addressed to privacy@yale.co.uk or to our Customer Support Team. If you have a complaint regarding our processing of your personal data you are entitled to report this to the ICO (Information Commissioner's Office) at ico.org.uk or to the supervisory authority where you live or work if different, list of which can be found at ec.europa.eu.",
+        "heading_path": [
+          "Privacy Notice",
+          "For how long will we store your personal data for?"
+        ],
+        "links": [
+          {
+            "text": "privacy@yale.co.uk",
+            "href": "mailto:privacy@yale.co.uk",
+            "kind": "email"
+          },
+          {
+            "text": "Customer Support Team",
+            "href": "https://yale-smart-residential.kustomer.support/contact/uk-contact-form-r1Fjg5mdh",
+            "kind": "external"
+          }
+        ],
+        "html_ids": [],
+        "previous_segment_id": "S4",
+        "next_segment_id": "S6",
+        "previous_segment_text": "We may transfer your personal data for the purposes set out above: To organizations of the ASSA ABLOY Group which support us to provide the website and associated products and services, for the purposes described in the privacy notice. To third parties who provide services connected to this website or its functions, but only to the extent necessary to provide these services: 1. IT (Information Technology) providers who host, develop and offer support for this website 2. Digital Analytics providers who provide us with tools that help us improve your experience on our website 3. To our trusted third-party contractors who provide servicing and installation services on our behalf 4. To Trustpilot, in order to send you invitations to rate and review our service 5. Market research agencies who support us to gain insight into the performance of our services or research new business opportunities 6. To couriers in order to dispatch and deliver orders to you 7. Digital Marketing agencies who support us with our digital marketing activities, including email marketing and affiliate marketing. When required by law; and/or To a buyer or a potential future buyer of our business. Some recipients are located in countries outside the UK or EU/European Economic Area (EEA). As in some cases these countries have a lower level of protection than that within the UK or EU/EEA, when transferring personal data to countries outside of the UK or EU/EEA we use standard contractual clauses approved by the European Commission or Information Commissioner's Office to ensure a sufficient level of protection for your personal data. We take measures to protect all personal data transferred to a third party, or to other countries, in accordance with applicable data protection laws and as stated above.",
+        "extended_context": "We collect and store: Your email address which you submit in order to sign-up for electronic direct marketing from us. Contact and delivery details as well as payment information in order to process and deliver any purchases from the website. Your name, address, telephone number and email address in order to arrange the installations of a product purchased from the website when installation or servicing has also been purchased. Your name, address, post code, email address, telephone number and any supporting documents you provide if you request the support of the Customer Support team. In order to provide support for security products, we may request a proof of purchase and proof of identification. If you have a video call with the Customer Support team we will collect your name, telephone number and email address, as well as images and audio from the call. Your name, email address and telephone number if you use our Chat Assistant. Your name, email address, address and date of purchase when your register an anti-snap guarantee. Your name, email address, address, telephone number and order details when you create and use a Yale Account. In addition to the information you submit we are gathering your IP address to serve you with geographically-relevant content and personalisation purposes. Why do we process this personal data?, 1 = What is the legal basis for processing?. To process and dispatch orders made via the website., 1 = In order to perform our contract of sale with you.. To send your requests to rate and review our service via Trustpilot, website questionnaires and our trusted market research partners., 1 = It is in our legitimate interest to gain insight into the performance of our service, research new business opportunities and to respond to customer concerns and feedback.. To register anti-snap guarantees and administer claims., 1 = In order to perform our contract with you.. To respond to queries from customers and provide product support., 1 = It is in our legitimate interest to respond to customer queries and provide product support.. To record calls in relation to our provision of customer services., 1 = Prior to the call commencing you will be told the call is being recorded. Recording calls is within Yale's legitimate interests to enable us to provide a better quality service and to ensure we respond efficiently to your query.. To register and administer Yale Accounts., 1 = It is in our legitimate interest to provide this service as requested by customers. To carry out statistical analysis about the use of the website to better understand how our website is used and make improvements to it, as well as tailor your experience of the website., 1 = When you have provided your consent to do so.. To send you communications about relevant products & promotions, in accordance with your marketing preferences., 1 = We will only send you relevant content where we have your consent to do so.. To comply with legal requirements to which we are subject, such as tax or financial reporting requirements., 1 = Using your personal data in this way is necessary for us to comply with our legal obligations.. To track where you have been referred to Yale by one of our affiliate partners, to monitor our marketing activities and pay commission to our affiliate partners. For more information see our cookie notice., 1 = When you have provided your consent to do so.. To share hashed purchase history information from your purchase (such as email) with Google for conversion measurement to help us understand which adverts lead to sales. See our Cookie Policy for more information., 1 = When you have provided your consent to do so Why do we process this personal data? What is the legal basis for processing? To track where you have been referred to Yale by one of our affiliate partners, to monitor our marketing activities and pay commission to our affiliate partners. For more information see our cookie notice. We may transfer your personal data for the purposes set out above: To organizations of the ASSA ABLOY Group which support us to provide the website and associated products and services, for the purposes described in the privacy notice. To third parties who provide services connected to this website or its functions, but only to the extent necessary to provide these services: 1. IT (Information Technology) providers who host, develop and offer support for this website 2. Digital Analytics providers who provide us with tools that help us improve your experience on our website 3. To our trusted third-party contractors who provide servicing and installation services on our behalf 4. To Trustpilot, in order to send you invitations to rate and review our service 5. Market research agencies who support us to gain insight into the performance of our services or research new business opportunities 6. To couriers in order to dispatch and deliver orders to you 7. Digital Marketing agencies who support us with our digital marketing activities, including email marketing and affiliate marketing. When required by law; and/or To a buyer or a potential future buyer of our business. Some recipients are located in countries outside the UK or EU/European Economic Area (EEA). As in some cases these countries have a lower level of protection than that within the UK or EU/EEA, when transferring personal data to countries outside of the UK or EU/EEA we use standard contractual clauses approved by the European Commission or Information Commissioner's Office to ensure a sufficient level of protection for your personal data. We take measures to protect all personal data transferred to a third party, or to other countries, in accordance with applicable data protection laws and as stated above."
+      },
+      "result": {
+        "right_type": [
+          {
+            "value": "Right of access",
+            "evidence": "Request a copy of your personal data from our records",
+            "confidence": "extracted",
+            "id": "Yale:S5:right:1"
+          },
+          {
+            "value": "Right to rectification",
+            "evidence": "Ask that we correct or erase your personal data",
+            "confidence": "extracted",
+            "id": "Yale:S5:right:2"
+          },
+          {
+            "value": "Right to erasure",
+            "evidence": "Ask that we correct or erase your personal data",
+            "confidence": "extracted",
+            "id": "Yale:S5:right:3"
+          },
+          {
+            "value": "Right to restriction of processing",
+            "evidence": "Ask us to stop processing your personal data (for example as regards the use of the data to improve our website), or restrict how we process it (for example if you deem the data to be incorrect)",
+            "confidence": "extracted",
+            "id": "Yale:S5:right:4"
+          },
+          {
+            "value": "Right to data portability",
+            "evidence": "Request the personal data used to provide you with information you requested, process an order, or manage your account or our relationship in a machine-readable format, which you are entitled to transfer to another data controller",
+            "confidence": "extracted",
+            "id": "Yale:S5:right:5"
+          }
+        ],
+        "choice_type": [
+          {
+            "value": "Change or withdraw consent",
+            "evidence": "Withdraw your consent to us processing your data for marketing purposes at any time",
+            "confidence": "extracted",
+            "id": "Yale:S5:choice:1"
+          }
+        ],
+        "request_channel": [
+          {
+            "value": "Request by email",
+            "evidence": "Requests to exercise your rights should be addressed to privacy@yale.co.uk",
+            "confidence": "extracted",
+            "id": "Yale:S5:channel:1",
+            "linked_ids": [
+              "Yale:S5:right:1",
+              "Yale:S5:right:2",
+              "Yale:S5:right:3",
+              "Yale:S5:right:4",
+              "Yale:S5:right:5"
+            ],
+            "link": {
+              "url": "mailto:privacy@yale.co.uk",
+              "kind": "email",
+              "visible_text": "privacy@yale.co.uk"
+            }
+          }
+        ],
+        "references": [],
+        "rejected": [
+          {
+            "attribute": "request_channel",
+            "value": "Web page or online form",
+            "evidence": "Requests to exercise your rights should be addressed to ... our Customer Support Team",
+            "reason": "evidence_not_exact"
+          }
+        ]
+      }
+    },
+    {
+      "segment": {
+        "id": "S6",
+        "text": "We may update this privacy notice from time to time in response to changing legal, regulatory or operational requirements. We will notify you of any such changes (including when they will take effect). Your continued use of the website after any such updates takes effect will constitute acceptance of those changes. If you do not accept any updates to this privacy notice, you should stop using this website. Version 1.4 - July 2023",
+        "heading_path": [
+          "Privacy Notice",
+          "How can we make changes to this privacy policy?"
+        ],
+        "links": [],
+        "html_ids": [],
+        "previous_segment_id": "S5",
+        "next_segment_id": "S7",
+        "previous_segment_text": "We store personal data for as long as necessary to fulfil the purpose for which the data has been collected, and in accordance with our internal record retention schedule. This means that we delete your personal data when such data is no longer necessary to process a request or to manage our relationship. Statistics which have been anonymised may be saved for longer. If you choose to have a video call with the Customer Support team we will retain a recording of the call. Recording the call allows us to refer back to the conversation if required, in order to provide after-call support. When there is no need to retain the recording, we will delete it. This will usually be straight after our call, however, may be longer depending on the reason for the call, such as if the recording is required to identify a fault. Recordings will be stored no longer than one month. Your Rights In relation to the personal data that we hold about you, you have the right to: Request a copy of your personal data from our records; Ask that we correct or erase your personal data (though this may mean that we cannot process requests or orders, or that your account expires); Ask us to stop processing your personal data (for example as regards the use of the data to improve our website), or restrict how we process it (for example if you deem the data to be incorrect); Request the personal data used to provide you with information you requested, process an order, or manage your account or our relationship in a machine-readable format, which you are entitled to transfer to another data controller; and Withdraw your consent to us processing your data for marketing purposes at any time. We may not accept a request to erase your personal data where we require it to comply with a legal obligation or in relation to a legal claim. Requests to exercise your rights should be addressed to privacy@yale.co.uk or to our Customer Support Team. If you have a complaint regarding our processing of your personal data you are entitled to report this to the ICO (Information Commissioner's Office) at ico.org.uk or to the supervisory authority where you live or work if different, list of which can be found at ec.europa.eu.",
+        "extended_context": "Why do we process this personal data?, 1 = What is the legal basis for processing?. To process and dispatch orders made via the website., 1 = In order to perform our contract of sale with you.. To send your requests to rate and review our service via Trustpilot, website questionnaires and our trusted market research partners., 1 = It is in our legitimate interest to gain insight into the performance of our service, research new business opportunities and to respond to customer concerns and feedback.. To register anti-snap guarantees and administer claims., 1 = In order to perform our contract with you.. To respond to queries from customers and provide product support., 1 = It is in our legitimate interest to respond to customer queries and provide product support.. To record calls in relation to our provision of customer services., 1 = Prior to the call commencing you will be told the call is being recorded. Recording calls is within Yale's legitimate interests to enable us to provide a better quality service and to ensure we respond efficiently to your query.. To register and administer Yale Accounts., 1 = It is in our legitimate interest to provide this service as requested by customers. To carry out statistical analysis about the use of the website to better understand how our website is used and make improvements to it, as well as tailor your experience of the website., 1 = When you have provided your consent to do so.. To send you communications about relevant products & promotions, in accordance with your marketing preferences., 1 = We will only send you relevant content where we have your consent to do so.. To comply with legal requirements to which we are subject, such as tax or financial reporting requirements., 1 = Using your personal data in this way is necessary for us to comply with our legal obligations.. To track where you have been referred to Yale by one of our affiliate partners, to monitor our marketing activities and pay commission to our affiliate partners. For more information see our cookie notice., 1 = When you have provided your consent to do so.. To share hashed purchase history information from your purchase (such as email) with Google for conversion measurement to help us understand which adverts lead to sales. See our Cookie Policy for more information., 1 = When you have provided your consent to do so Why do we process this personal data? What is the legal basis for processing? To track where you have been referred to Yale by one of our affiliate partners, to monitor our marketing activities and pay commission to our affiliate partners. For more information see our cookie notice. We may transfer your personal data for the purposes set out above: To organizations of the ASSA ABLOY Group which support us to provide the website and associated products and services, for the purposes described in the privacy notice. To third parties who provide services connected to this website or its functions, but only to the extent necessary to provide these services: 1. IT (Information Technology) providers who host, develop and offer support for this website 2. Digital Analytics providers who provide us with tools that help us improve your experience on our website 3. To our trusted third-party contractors who provide servicing and installation services on our behalf 4. To Trustpilot, in order to send you invitations to rate and review our service 5. Market research agencies who support us to gain insight into the performance of our services or research new business opportunities 6. To couriers in order to dispatch and deliver orders to you 7. Digital Marketing agencies who support us with our digital marketing activities, including email marketing and affiliate marketing. When required by law; and/or To a buyer or a potential future buyer of our business. Some recipients are located in countries outside the UK or EU/European Economic Area (EEA). As in some cases these countries have a lower level of protection than that within the UK or EU/EEA, when transferring personal data to countries outside of the UK or EU/EEA we use standard contractual clauses approved by the European Commission or Information Commissioner's Office to ensure a sufficient level of protection for your personal data. We take measures to protect all personal data transferred to a third party, or to other countries, in accordance with applicable data protection laws and as stated above. We store personal data for as long as necessary to fulfil the purpose for which the data has been collected, and in accordance with our internal record retention schedule. This means that we delete your personal data when such data is no longer necessary to process a request or to manage our relationship. Statistics which have been anonymised may be saved for longer. If you choose to have a video call with the Customer Support team we will retain a recording of the call. Recording the call allows us to refer back to the conversation if required, in order to provide after-call support. When there is no need to retain the recording, we will delete it. This will usually be straight after our call, however, may be longer depending on the reason for the call, such as if the recording is required to identify a fault. Recordings will be stored no longer than one month. Your Rights In relation to the personal data that we hold about you, you have the right to: Request a copy of your personal data from our records; Ask that we correct or erase your personal data (though this may mean that we cannot process requests or orders, or that your account expires); Ask us to stop processing your personal data (for example as regards the use of the data to improve our website), or restrict how we process it (for example if you deem the data to be incorrect); Request the personal data used to provide you with information you requested, process an order, or manage your account or our relationship in a machine-readable format, which you are entitled to transfer to another data controller; and Withdraw your consent to us processing your data for marketing purposes at any time. We may not accept a request to erase your personal data where we require it to comply with a legal obligation or in relation to a legal claim. Requests to exercise your rights should be addressed to privacy@yale.co.uk or to our Customer Support Team. If you have a complaint regarding our processing of your personal data you are entitled to report this to the ICO (Information Commissioner's Office) at ico.org.uk or to the supervisory authority where you live or work if different, list of which can be found at ec.europa.eu."
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S7",
+        "text": "This policy governs the products, software, applications and services which are Yale-branded, including without limitation, the Yale smart products, Yale Access mobile app (\"App\"), including corresponding services and corresponding web portal (collectively \"Services\"). We are committed to protecting your personal data in connection with your use of the Services. The purpose of this Privacy Notice is to describe how we collect and process the personal data that we receive in connection with your use of the Services. ASSA ABLOY is committed to protecting your personal data. This privacy notice describes: How we treat data relating to the Yale Access Products/Services What personal data we may collect How and why we use your personal data Who and where is your personal data transferred to How long will we store your personal data Your rights Cookies How we can make changes to this notice Contact us Please click on the links above to navigate directly to the relevant section of this privacy notice. The first link relates to Yale Access products only, whereas the remainder of the document relates to all personal data we process including Yale Access products. Other than for Yale Access products (see link above), ASSA ABLOY Limited (trading as Yale), company registered in England and Wales under number 2096505, of School Street, Willenhall, West Midlands, WV13 3PW, United Kingdom as \"data controller\" is responsible for the processing of your personal data.",
+        "heading_path": [
+          "Privacy Notice",
+          "Smart product & Apps Privacy Policy"
+        ],
+        "links": [],
+        "html_ids": [],
+        "previous_segment_id": "S6",
+        "next_segment_id": "S8",
+        "previous_segment_text": "We may update this privacy notice from time to time in response to changing legal, regulatory or operational requirements. We will notify you of any such changes (including when they will take effect). Your continued use of the website after any such updates takes effect will constitute acceptance of those changes. If you do not accept any updates to this privacy notice, you should stop using this website. Version 1.4 - July 2023",
+        "extended_context": "We may transfer your personal data for the purposes set out above: To organizations of the ASSA ABLOY Group which support us to provide the website and associated products and services, for the purposes described in the privacy notice. To third parties who provide services connected to this website or its functions, but only to the extent necessary to provide these services: 1. IT (Information Technology) providers who host, develop and offer support for this website 2. Digital Analytics providers who provide us with tools that help us improve your experience on our website 3. To our trusted third-party contractors who provide servicing and installation services on our behalf 4. To Trustpilot, in order to send you invitations to rate and review our service 5. Market research agencies who support us to gain insight into the performance of our services or research new business opportunities 6. To couriers in order to dispatch and deliver orders to you 7. Digital Marketing agencies who support us with our digital marketing activities, including email marketing and affiliate marketing. When required by law; and/or To a buyer or a potential future buyer of our business. Some recipients are located in countries outside the UK or EU/European Economic Area (EEA). As in some cases these countries have a lower level of protection than that within the UK or EU/EEA, when transferring personal data to countries outside of the UK or EU/EEA we use standard contractual clauses approved by the European Commission or Information Commissioner's Office to ensure a sufficient level of protection for your personal data. We take measures to protect all personal data transferred to a third party, or to other countries, in accordance with applicable data protection laws and as stated above. We store personal data for as long as necessary to fulfil the purpose for which the data has been collected, and in accordance with our internal record retention schedule. This means that we delete your personal data when such data is no longer necessary to process a request or to manage our relationship. Statistics which have been anonymised may be saved for longer. If you choose to have a video call with the Customer Support team we will retain a recording of the call. Recording the call allows us to refer back to the conversation if required, in order to provide after-call support. When there is no need to retain the recording, we will delete it. This will usually be straight after our call, however, may be longer depending on the reason for the call, such as if the recording is required to identify a fault. Recordings will be stored no longer than one month. Your Rights In relation to the personal data that we hold about you, you have the right to: Request a copy of your personal data from our records; Ask that we correct or erase your personal data (though this may mean that we cannot process requests or orders, or that your account expires); Ask us to stop processing your personal data (for example as regards the use of the data to improve our website), or restrict how we process it (for example if you deem the data to be incorrect); Request the personal data used to provide you with information you requested, process an order, or manage your account or our relationship in a machine-readable format, which you are entitled to transfer to another data controller; and Withdraw your consent to us processing your data for marketing purposes at any time. We may not accept a request to erase your personal data where we require it to comply with a legal obligation or in relation to a legal claim. Requests to exercise your rights should be addressed to privacy@yale.co.uk or to our Customer Support Team. If you have a complaint regarding our processing of your personal data you are entitled to report this to the ICO (Information Commissioner's Office) at ico.org.uk or to the supervisory authority where you live or work if different, list of which can be found at ec.europa.eu. We may update this privacy notice from time to time in response to changing legal, regulatory or operational requirements. We will notify you of any such changes (including when they will take effect). Your continued use of the website after any such updates takes effect will constitute acceptance of those changes. If you do not accept any updates to this privacy notice, you should stop using this website. Version 1.4 - July 2023"
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": [
+          {
+            "attribute": "reference",
+            "evidence": "see link above",
+            "target_text": "Yale Access products",
+            "reason": "not_an_unresolved_reference"
+          }
+        ]
+      }
+    },
+    {
+      "segment": {
+        "id": "S8",
+        "text": "What personal data do we collect for Yale ACCESS Products/Services? Who and where will your personal data be transferred to? Invitees We collect and store: Yale Access products, software, applications and services are offered by Security & Risk Communications, registration number 417550, address Parkway Business Centre, Ballymount, Dublin 12, trading as Yale, which are manufactured, licensed or operated by August Home Inc. (a member of the ASSA ABLOY Group and a wholly owned subsidiary of ASSA ABLOY AB) and which are Yale-branded, including without limitation, the Yale Access mobile app (\"App\"), including corresponding services and corresponding web portal (collectively \"Services\"). For purposes of the Services, Security & Risk Communications, registration number 417550, address Parkway Business Centre, Ballymount, Dublin 12 (\"Yale\") is the \"data controller\" and August Home Inc. is the \"processor\" responsible for the processing of your personal data.",
+        "heading_path": [
+          "Privacy Notice",
+          "How we treat data relating to the Yale Access Products/Services"
+        ],
+        "links": [],
+        "html_ids": [],
+        "previous_segment_id": "S7",
+        "next_segment_id": "S9",
+        "previous_segment_text": "This policy governs the products, software, applications and services which are Yale-branded, including without limitation, the Yale smart products, Yale Access mobile app (\"App\"), including corresponding services and corresponding web portal (collectively \"Services\"). We are committed to protecting your personal data in connection with your use of the Services. The purpose of this Privacy Notice is to describe how we collect and process the personal data that we receive in connection with your use of the Services. ASSA ABLOY is committed to protecting your personal data. This privacy notice describes: How we treat data relating to the Yale Access Products/Services What personal data we may collect How and why we use your personal data Who and where is your personal data transferred to How long will we store your personal data Your rights Cookies How we can make changes to this notice Contact us Please click on the links above to navigate directly to the relevant section of this privacy notice. The first link relates to Yale Access products only, whereas the remainder of the document relates to all personal data we process including Yale Access products. Other than for Yale Access products (see link above), ASSA ABLOY Limited (trading as Yale), company registered in England and Wales under number 2096505, of School Street, Willenhall, West Midlands, WV13 3PW, United Kingdom as \"data controller\" is responsible for the processing of your personal data.",
+        "extended_context": "We store personal data for as long as necessary to fulfil the purpose for which the data has been collected, and in accordance with our internal record retention schedule. This means that we delete your personal data when such data is no longer necessary to process a request or to manage our relationship. Statistics which have been anonymised may be saved for longer. If you choose to have a video call with the Customer Support team we will retain a recording of the call. Recording the call allows us to refer back to the conversation if required, in order to provide after-call support. When there is no need to retain the recording, we will delete it. This will usually be straight after our call, however, may be longer depending on the reason for the call, such as if the recording is required to identify a fault. Recordings will be stored no longer than one month. Your Rights In relation to the personal data that we hold about you, you have the right to: Request a copy of your personal data from our records; Ask that we correct or erase your personal data (though this may mean that we cannot process requests or orders, or that your account expires); Ask us to stop processing your personal data (for example as regards the use of the data to improve our website), or restrict how we process it (for example if you deem the data to be incorrect); Request the personal data used to provide you with information you requested, process an order, or manage your account or our relationship in a machine-readable format, which you are entitled to transfer to another data controller; and Withdraw your consent to us processing your data for marketing purposes at any time. We may not accept a request to erase your personal data where we require it to comply with a legal obligation or in relation to a legal claim. Requests to exercise your rights should be addressed to privacy@yale.co.uk or to our Customer Support Team. If you have a complaint regarding our processing of your personal data you are entitled to report this to the ICO (Information Commissioner's Office) at ico.org.uk or to the supervisory authority where you live or work if different, list of which can be found at ec.europa.eu. We may update this privacy notice from time to time in response to changing legal, regulatory or operational requirements. We will notify you of any such changes (including when they will take effect). Your continued use of the website after any such updates takes effect will constitute acceptance of those changes. If you do not accept any updates to this privacy notice, you should stop using this website. Version 1.4 - July 2023 This policy governs the products, software, applications and services which are Yale-branded, including without limitation, the Yale smart products, Yale Access mobile app (\"App\"), including corresponding services and corresponding web portal (collectively \"Services\"). We are committed to protecting your personal data in connection with your use of the Services. The purpose of this Privacy Notice is to describe how we collect and process the personal data that we receive in connection with your use of the Services. ASSA ABLOY is committed to protecting your personal data. This privacy notice describes: How we treat data relating to the Yale Access Products/Services What personal data we may collect How and why we use your personal data Who and where is your personal data transferred to How long will we store your personal data Your rights Cookies How we can make changes to this notice Contact us Please click on the links above to navigate directly to the relevant section of this privacy notice. The first link relates to Yale Access products only, whereas the remainder of the document relates to all personal data we process including Yale Access products. Other than for Yale Access products (see link above), ASSA ABLOY Limited (trading as Yale), company registered in England and Wales under number 2096505, of School Street, Willenhall, West Midlands, WV13 3PW, United Kingdom as \"data controller\" is responsible for the processing of your personal data."
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S9",
+        "text": "What personal data do we collect for Yale ACCESS Products/Services? Who and where will your personal data be transferred to? Invitees We collect and store: Personal Data We Require for Use of the Services. When you download the App and in order to use the Services, we require you to establish an account and collect and store the following: Your name, email, password, telephone number, Product ID and user verification identifiers. Personal Data collected based on your use of the Services. We collect personal data that you may provide about yourself, such as user-name, as well as personal data about other people who have access to your Products, such as other family members, guests, service providers like gardeners, house cleaners and/or others (\"Invitees\"). For example, you may include email addresses and telephone numbers of Invitees who you are allowing to access your Products. We may ask for access to your contact list and you may consent to providing access to such list which includes personal data. We collect personal data that you may include in help requests, customer service correspondence and/or in any feedback you send to us. We also collect personal data included in messages that you may send from within the App whether those messages are sent to us, an Invitee or a third party. If you enable the Auto-Unlock feature, the App will request your consent in order to track your location in order to determine when your App nears Products that you have permission to access (e.g. when you are near home). Location information will only be stored on your device, and not on our servers. This information will tell your mobile device to start listening for your lock more often (increasing the polling). This improves the device's performance and saves your mobile device's battery life. Personal Data we automatically collect. When you use the App, we will create a user ID. In addition, we also gather the following information for purposes of providing the Services when you download the App and/or access the Services: usage data about how and when you interact with the Services, Product status, logs of those who lock/unlock your Products, the people that you invite to use the Services and Product, and those people who may invite you to use their products. We also collect the following information about the devices on which the App is downloaded and the Products you use: operating system of the device on which the App is downloaded (e.g. you, Guests), the version of the App on such devices, information about your Products, including serial numbers, MAC address, software versions on such Products and installation dates.",
+        "heading_path": [
+          "Privacy Notice",
+          "What personal data do we collect for Yale ACCESS Products/Services?"
+        ],
+        "links": [],
+        "html_ids": [],
+        "previous_segment_id": "S8",
+        "next_segment_id": "S10",
+        "previous_segment_text": "What personal data do we collect for Yale ACCESS Products/Services? Who and where will your personal data be transferred to? Invitees We collect and store: Yale Access products, software, applications and services are offered by Security & Risk Communications, registration number 417550, address Parkway Business Centre, Ballymount, Dublin 12, trading as Yale, which are manufactured, licensed or operated by August Home Inc. (a member of the ASSA ABLOY Group and a wholly owned subsidiary of ASSA ABLOY AB) and which are Yale-branded, including without limitation, the Yale Access mobile app (\"App\"), including corresponding services and corresponding web portal (collectively \"Services\"). For purposes of the Services, Security & Risk Communications, registration number 417550, address Parkway Business Centre, Ballymount, Dublin 12 (\"Yale\") is the \"data controller\" and August Home Inc. is the \"processor\" responsible for the processing of your personal data.",
+        "extended_context": "We may update this privacy notice from time to time in response to changing legal, regulatory or operational requirements. We will notify you of any such changes (including when they will take effect). Your continued use of the website after any such updates takes effect will constitute acceptance of those changes. If you do not accept any updates to this privacy notice, you should stop using this website. Version 1.4 - July 2023 This policy governs the products, software, applications and services which are Yale-branded, including without limitation, the Yale smart products, Yale Access mobile app (\"App\"), including corresponding services and corresponding web portal (collectively \"Services\"). We are committed to protecting your personal data in connection with your use of the Services. The purpose of this Privacy Notice is to describe how we collect and process the personal data that we receive in connection with your use of the Services. ASSA ABLOY is committed to protecting your personal data. This privacy notice describes: How we treat data relating to the Yale Access Products/Services What personal data we may collect How and why we use your personal data Who and where is your personal data transferred to How long will we store your personal data Your rights Cookies How we can make changes to this notice Contact us Please click on the links above to navigate directly to the relevant section of this privacy notice. The first link relates to Yale Access products only, whereas the remainder of the document relates to all personal data we process including Yale Access products. Other than for Yale Access products (see link above), ASSA ABLOY Limited (trading as Yale), company registered in England and Wales under number 2096505, of School Street, Willenhall, West Midlands, WV13 3PW, United Kingdom as \"data controller\" is responsible for the processing of your personal data. What personal data do we collect for Yale ACCESS Products/Services? Who and where will your personal data be transferred to? Invitees We collect and store: Yale Access products, software, applications and services are offered by Security & Risk Communications, registration number 417550, address Parkway Business Centre, Ballymount, Dublin 12, trading as Yale, which are manufactured, licensed or operated by August Home Inc. (a member of the ASSA ABLOY Group and a wholly owned subsidiary of ASSA ABLOY AB) and which are Yale-branded, including without limitation, the Yale Access mobile app (\"App\"), including corresponding services and corresponding web portal (collectively \"Services\"). For purposes of the Services, Security & Risk Communications, registration number 417550, address Parkway Business Centre, Ballymount, Dublin 12 (\"Yale\") is the \"data controller\" and August Home Inc. is the \"processor\" responsible for the processing of your personal data."
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S10",
+        "text": "Personal Data we receive when you use third party products and services. If you access the Services through a third-party (e.g. by managing your device via your television remote or connecting your device to your home security system), use a third-party applications or services through the \"Works With\" feature, otherwise use a third party service provider in connection with the Services and Products, or request or authorize us to give access or data to a third-party service provider (e.g. a delivery service, property management or rental service), then that third party will send data about you and your Invitees, such as User ID.",
+        "heading_path": [
+          "Privacy Notice",
+          "What personal data do we collect for Yale ACCESS Products/Services?"
+        ],
+        "links": [],
+        "html_ids": [],
+        "previous_segment_id": "S9",
+        "next_segment_id": "S11",
+        "previous_segment_text": "What personal data do we collect for Yale ACCESS Products/Services? Who and where will your personal data be transferred to? Invitees We collect and store: Personal Data We Require for Use of the Services. When you download the App and in order to use the Services, we require you to establish an account and collect and store the following: Your name, email, password, telephone number, Product ID and user verification identifiers. Personal Data collected based on your use of the Services. We collect personal data that you may provide about yourself, such as user-name, as well as personal data about other people who have access to your Products, such as other family members, guests, service providers like gardeners, house cleaners and/or others (\"Invitees\"). For example, you may include email addresses and telephone numbers of Invitees who you are allowing to access your Products. We may ask for access to your contact list and you may consent to providing access to such list which includes personal data. We collect personal data that you may include in help requests, customer service correspondence and/or in any feedback you send to us. We also collect personal data included in messages that you may send from within the App whether those messages are sent to us, an Invitee or a third party. If you enable the Auto-Unlock feature, the App will request your consent in order to track your location in order to determine when your App nears Products that you have permission to access (e.g. when you are near home). Location information will only be stored on your device, and not on our servers. This information will tell your mobile device to start listening for your lock more often (increasing the polling). This improves the device's performance and saves your mobile device's battery life. Personal Data we automatically collect. When you use the App, we will create a user ID. In addition, we also gather the following information for purposes of providing the Services when you download the App and/or access the Services: usage data about how and when you interact with the Services, Product status, logs of those who lock/unlock your Products, the people that you invite to use the Services and Product, and those people who may invite you to use their products. We also collect the following information about the devices on which the App is downloaded and the Products you use: operating system of the device on which the App is downloaded (e.g. you, Guests), the version of the App on such devices, information about your Products, including serial numbers, MAC address, software versions on such Products and installation dates.",
+        "extended_context": "This policy governs the products, software, applications and services which are Yale-branded, including without limitation, the Yale smart products, Yale Access mobile app (\"App\"), including corresponding services and corresponding web portal (collectively \"Services\"). We are committed to protecting your personal data in connection with your use of the Services. The purpose of this Privacy Notice is to describe how we collect and process the personal data that we receive in connection with your use of the Services. ASSA ABLOY is committed to protecting your personal data. This privacy notice describes: How we treat data relating to the Yale Access Products/Services What personal data we may collect How and why we use your personal data Who and where is your personal data transferred to How long will we store your personal data Your rights Cookies How we can make changes to this notice Contact us Please click on the links above to navigate directly to the relevant section of this privacy notice. The first link relates to Yale Access products only, whereas the remainder of the document relates to all personal data we process including Yale Access products. Other than for Yale Access products (see link above), ASSA ABLOY Limited (trading as Yale), company registered in England and Wales under number 2096505, of School Street, Willenhall, West Midlands, WV13 3PW, United Kingdom as \"data controller\" is responsible for the processing of your personal data. What personal data do we collect for Yale ACCESS Products/Services? Who and where will your personal data be transferred to? Invitees We collect and store: Yale Access products, software, applications and services are offered by Security & Risk Communications, registration number 417550, address Parkway Business Centre, Ballymount, Dublin 12, trading as Yale, which are manufactured, licensed or operated by August Home Inc. (a member of the ASSA ABLOY Group and a wholly owned subsidiary of ASSA ABLOY AB) and which are Yale-branded, including without limitation, the Yale Access mobile app (\"App\"), including corresponding services and corresponding web portal (collectively \"Services\"). For purposes of the Services, Security & Risk Communications, registration number 417550, address Parkway Business Centre, Ballymount, Dublin 12 (\"Yale\") is the \"data controller\" and August Home Inc. is the \"processor\" responsible for the processing of your personal data. What personal data do we collect for Yale ACCESS Products/Services? Who and where will your personal data be transferred to? Invitees We collect and store: Personal Data We Require for Use of the Services. When you download the App and in order to use the Services, we require you to establish an account and collect and store the following: Your name, email, password, telephone number, Product ID and user verification identifiers. Personal Data collected based on your use of the Services. We collect personal data that you may provide about yourself, such as user-name, as well as personal data about other people who have access to your Products, such as other family members, guests, service providers like gardeners, house cleaners and/or others (\"Invitees\"). For example, you may include email addresses and telephone numbers of Invitees who you are allowing to access your Products. We may ask for access to your contact list and you may consent to providing access to such list which includes personal data. We collect personal data that you may include in help requests, customer service correspondence and/or in any feedback you send to us. We also collect personal data included in messages that you may send from within the App whether those messages are sent to us, an Invitee or a third party. If you enable the Auto-Unlock feature, the App will request your consent in order to track your location in order to determine when your App nears Products that you have permission to access (e.g. when you are near home). Location information will only be stored on your device, and not on our servers. This information will tell your mobile device to start listening for your lock more often (increasing the polling). This improves the device's performance and saves your mobile device's battery life. Personal Data we automatically collect. When you use the App, we will create a user ID. In addition, we also gather the following information for purposes of providing the Services when you download the App and/or access the Services: usage data about how and when you interact with the Services, Product status, logs of those who lock/unlock your Products, the people that you invite to use the Services and Product, and those people who may invite you to use their products. We also collect the following information about the devices on which the App is downloaded and the Products you use: operating system of the device on which the App is downloaded (e.g. you, Guests), the version of the App on such devices, information about your Products, including serial numbers, MAC address, software versions on such Products and installation dates."
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S11",
+        "text": "We will transfer personal data for the purposes set out in the section entitled \"how we use that information and why\"; To August Home, Inc. who is responsible for the processing of your personal data and who in turn may engage third parties to perform functions necessary for us to provide the following for the Services: hosting, development, maintenance, billing services, mobile application functionality, facilitate communications, enable customer support and any features or functionality available as part of the Services, provided only to the extent necessary to provide the Services. August Home and any third-party service providers may only use your personal data in accordance with our instructions. To your Invitees when you invite them to access your Products. For example, if you invite a guest to access your Products, then we will share certain elements of your information with them, such as your name, in order for your guest to understand the invite and access the Product. To third parties that you choose when you use the \"Works With\" feature of the Services to connect your Products with such third party products or services. Digital Analytics providers who provide tools that help us improve your experience. These service providers may only use your personal data in accordance with our instructions. To a buyer or a potential future buyer of our business. As required by law",
+        "heading_path": [
+          "Privacy Notice",
+          "Who and where will your personal data be transferred to?"
+        ],
+        "links": [],
+        "html_ids": [],
+        "previous_segment_id": "S10",
+        "next_segment_id": "S12",
+        "previous_segment_text": "Personal Data we receive when you use third party products and services. If you access the Services through a third-party (e.g. by managing your device via your television remote or connecting your device to your home security system), use a third-party applications or services through the \"Works With\" feature, otherwise use a third party service provider in connection with the Services and Products, or request or authorize us to give access or data to a third-party service provider (e.g. a delivery service, property management or rental service), then that third party will send data about you and your Invitees, such as User ID.",
+        "extended_context": "What personal data do we collect for Yale ACCESS Products/Services? Who and where will your personal data be transferred to? Invitees We collect and store: Yale Access products, software, applications and services are offered by Security & Risk Communications, registration number 417550, address Parkway Business Centre, Ballymount, Dublin 12, trading as Yale, which are manufactured, licensed or operated by August Home Inc. (a member of the ASSA ABLOY Group and a wholly owned subsidiary of ASSA ABLOY AB) and which are Yale-branded, including without limitation, the Yale Access mobile app (\"App\"), including corresponding services and corresponding web portal (collectively \"Services\"). For purposes of the Services, Security & Risk Communications, registration number 417550, address Parkway Business Centre, Ballymount, Dublin 12 (\"Yale\") is the \"data controller\" and August Home Inc. is the \"processor\" responsible for the processing of your personal data. What personal data do we collect for Yale ACCESS Products/Services? Who and where will your personal data be transferred to? Invitees We collect and store: Personal Data We Require for Use of the Services. When you download the App and in order to use the Services, we require you to establish an account and collect and store the following: Your name, email, password, telephone number, Product ID and user verification identifiers. Personal Data collected based on your use of the Services. We collect personal data that you may provide about yourself, such as user-name, as well as personal data about other people who have access to your Products, such as other family members, guests, service providers like gardeners, house cleaners and/or others (\"Invitees\"). For example, you may include email addresses and telephone numbers of Invitees who you are allowing to access your Products. We may ask for access to your contact list and you may consent to providing access to such list which includes personal data. We collect personal data that you may include in help requests, customer service correspondence and/or in any feedback you send to us. We also collect personal data included in messages that you may send from within the App whether those messages are sent to us, an Invitee or a third party. If you enable the Auto-Unlock feature, the App will request your consent in order to track your location in order to determine when your App nears Products that you have permission to access (e.g. when you are near home). Location information will only be stored on your device, and not on our servers. This information will tell your mobile device to start listening for your lock more often (increasing the polling). This improves the device's performance and saves your mobile device's battery life. Personal Data we automatically collect. When you use the App, we will create a user ID. In addition, we also gather the following information for purposes of providing the Services when you download the App and/or access the Services: usage data about how and when you interact with the Services, Product status, logs of those who lock/unlock your Products, the people that you invite to use the Services and Product, and those people who may invite you to use their products. We also collect the following information about the devices on which the App is downloaded and the Products you use: operating system of the device on which the App is downloaded (e.g. you, Guests), the version of the App on such devices, information about your Products, including serial numbers, MAC address, software versions on such Products and installation dates. Personal Data we receive when you use third party products and services. If you access the Services through a third-party (e.g. by managing your device via your television remote or connecting your device to your home security system), use a third-party applications or services through the \"Works With\" feature, otherwise use a third party service provider in connection with the Services and Products, or request or authorize us to give access or data to a third-party service provider (e.g. a delivery service, property management or rental service), then that third party will send data about you and your Invitees, such as User ID."
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S12",
+        "text": "Invitees. As part of our Services, you may give Invitees permission levels to access your Products - e.g. to unlock and lock your door, and possibly even to pass this access along to others. Needless to say, you must be careful of the people that you invite and the access that you give them. You are responsible for all uses of your account, so be careful to secure this information and only give access to people you trust. Additionally, certain portions of your personal data, as well as other information about your use of the Service and your Products may be shared with Invitees, such as your name and the status of the lock (e.g. locked or unlocked). In connection with the guest invitation process, we may ask for access to your contact list. We will only store information for contacts that you add as guests. We will only access and store such information with your express consent. If you are an Invitee, we collect your personal data when you use the Services and Products, as set forth in this Privacy Policy. All such information (including your service usage information) is subject to, and will be used and disclosed as set forth in, this Privacy Policy.",
+        "heading_path": [
+          "Privacy Notice",
+          "Invitees"
+        ],
+        "links": [],
+        "html_ids": [],
+        "previous_segment_id": "S11",
+        "next_segment_id": "S13",
+        "previous_segment_text": "We will transfer personal data for the purposes set out in the section entitled \"how we use that information and why\"; To August Home, Inc. who is responsible for the processing of your personal data and who in turn may engage third parties to perform functions necessary for us to provide the following for the Services: hosting, development, maintenance, billing services, mobile application functionality, facilitate communications, enable customer support and any features or functionality available as part of the Services, provided only to the extent necessary to provide the Services. August Home and any third-party service providers may only use your personal data in accordance with our instructions. To your Invitees when you invite them to access your Products. For example, if you invite a guest to access your Products, then we will share certain elements of your information with them, such as your name, in order for your guest to understand the invite and access the Product. To third parties that you choose when you use the \"Works With\" feature of the Services to connect your Products with such third party products or services. Digital Analytics providers who provide tools that help us improve your experience. These service providers may only use your personal data in accordance with our instructions. To a buyer or a potential future buyer of our business. As required by law",
+        "extended_context": "What personal data do we collect for Yale ACCESS Products/Services? Who and where will your personal data be transferred to? Invitees We collect and store: Personal Data We Require for Use of the Services. When you download the App and in order to use the Services, we require you to establish an account and collect and store the following: Your name, email, password, telephone number, Product ID and user verification identifiers. Personal Data collected based on your use of the Services. We collect personal data that you may provide about yourself, such as user-name, as well as personal data about other people who have access to your Products, such as other family members, guests, service providers like gardeners, house cleaners and/or others (\"Invitees\"). For example, you may include email addresses and telephone numbers of Invitees who you are allowing to access your Products. We may ask for access to your contact list and you may consent to providing access to such list which includes personal data. We collect personal data that you may include in help requests, customer service correspondence and/or in any feedback you send to us. We also collect personal data included in messages that you may send from within the App whether those messages are sent to us, an Invitee or a third party. If you enable the Auto-Unlock feature, the App will request your consent in order to track your location in order to determine when your App nears Products that you have permission to access (e.g. when you are near home). Location information will only be stored on your device, and not on our servers. This information will tell your mobile device to start listening for your lock more often (increasing the polling). This improves the device's performance and saves your mobile device's battery life. Personal Data we automatically collect. When you use the App, we will create a user ID. In addition, we also gather the following information for purposes of providing the Services when you download the App and/or access the Services: usage data about how and when you interact with the Services, Product status, logs of those who lock/unlock your Products, the people that you invite to use the Services and Product, and those people who may invite you to use their products. We also collect the following information about the devices on which the App is downloaded and the Products you use: operating system of the device on which the App is downloaded (e.g. you, Guests), the version of the App on such devices, information about your Products, including serial numbers, MAC address, software versions on such Products and installation dates. Personal Data we receive when you use third party products and services. If you access the Services through a third-party (e.g. by managing your device via your television remote or connecting your device to your home security system), use a third-party applications or services through the \"Works With\" feature, otherwise use a third party service provider in connection with the Services and Products, or request or authorize us to give access or data to a third-party service provider (e.g. a delivery service, property management or rental service), then that third party will send data about you and your Invitees, such as User ID. We will transfer personal data for the purposes set out in the section entitled \"how we use that information and why\"; To August Home, Inc. who is responsible for the processing of your personal data and who in turn may engage third parties to perform functions necessary for us to provide the following for the Services: hosting, development, maintenance, billing services, mobile application functionality, facilitate communications, enable customer support and any features or functionality available as part of the Services, provided only to the extent necessary to provide the Services. August Home and any third-party service providers may only use your personal data in accordance with our instructions. To your Invitees when you invite them to access your Products. For example, if you invite a guest to access your Products, then we will share certain elements of your information with them, such as your name, in order for your guest to understand the invite and access the Product. To third parties that you choose when you use the \"Works With\" feature of the Services to connect your Products with such third party products or services. Digital Analytics providers who provide tools that help us improve your experience. These service providers may only use your personal data in accordance with our instructions. To a buyer or a potential future buyer of our business. As required by law"
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S13",
+        "text": "Apps, 1 = User submitted. Apps, 2 = Gathered Information. Yale Smart Living Home, 1 = Phone no, email, password. Yale Smart Living Home, 2 = Device ID, IP address, pictures, activity logging. Yale Home View, 1 = Email, password. Yale Home View, 2 = Device ID, IP address, activity logging. Yale View, 1 = Email, password. Yale View, 2 = Device ID, IP address, location, activity logging. Yale CCTV, 1 =. Yale CCTV, 2 = Device ID, IP address, activity logging. Yale Access mobile app (for further information see \"How we treat data relating to the Yale Access Products/Services\"), 1 = name, email, password, telephone number, Product ID and user verification information. Yale Access mobile app (for further information see \"How we treat data relating to the Yale Access Products/Services\"), 2 = Device ID, IP address, pictures, activity logging Apps User submitted Gathered Information",
+        "heading_path": [
+          "Privacy Notice",
+          "What personal data will we collect?"
+        ],
+        "links": [],
+        "html_ids": [],
+        "previous_segment_id": "S12",
+        "next_segment_id": "S14",
+        "previous_segment_text": "Invitees. As part of our Services, you may give Invitees permission levels to access your Products - e.g. to unlock and lock your door, and possibly even to pass this access along to others. Needless to say, you must be careful of the people that you invite and the access that you give them. You are responsible for all uses of your account, so be careful to secure this information and only give access to people you trust. Additionally, certain portions of your personal data, as well as other information about your use of the Service and your Products may be shared with Invitees, such as your name and the status of the lock (e.g. locked or unlocked). In connection with the guest invitation process, we may ask for access to your contact list. We will only store information for contacts that you add as guests. We will only access and store such information with your express consent. If you are an Invitee, we collect your personal data when you use the Services and Products, as set forth in this Privacy Policy. All such information (including your service usage information) is subject to, and will be used and disclosed as set forth in, this Privacy Policy.",
+        "extended_context": "Personal Data we receive when you use third party products and services. If you access the Services through a third-party (e.g. by managing your device via your television remote or connecting your device to your home security system), use a third-party applications or services through the \"Works With\" feature, otherwise use a third party service provider in connection with the Services and Products, or request or authorize us to give access or data to a third-party service provider (e.g. a delivery service, property management or rental service), then that third party will send data about you and your Invitees, such as User ID. We will transfer personal data for the purposes set out in the section entitled \"how we use that information and why\"; To August Home, Inc. who is responsible for the processing of your personal data and who in turn may engage third parties to perform functions necessary for us to provide the following for the Services: hosting, development, maintenance, billing services, mobile application functionality, facilitate communications, enable customer support and any features or functionality available as part of the Services, provided only to the extent necessary to provide the Services. August Home and any third-party service providers may only use your personal data in accordance with our instructions. To your Invitees when you invite them to access your Products. For example, if you invite a guest to access your Products, then we will share certain elements of your information with them, such as your name, in order for your guest to understand the invite and access the Product. To third parties that you choose when you use the \"Works With\" feature of the Services to connect your Products with such third party products or services. Digital Analytics providers who provide tools that help us improve your experience. These service providers may only use your personal data in accordance with our instructions. To a buyer or a potential future buyer of our business. As required by law Invitees. As part of our Services, you may give Invitees permission levels to access your Products - e.g. to unlock and lock your door, and possibly even to pass this access along to others. Needless to say, you must be careful of the people that you invite and the access that you give them. You are responsible for all uses of your account, so be careful to secure this information and only give access to people you trust. Additionally, certain portions of your personal data, as well as other information about your use of the Service and your Products may be shared with Invitees, such as your name and the status of the lock (e.g. locked or unlocked). In connection with the guest invitation process, we may ask for access to your contact list. We will only store information for contacts that you add as guests. We will only access and store such information with your express consent. If you are an Invitee, we collect your personal data when you use the Services and Products, as set forth in this Privacy Policy. All such information (including your service usage information) is subject to, and will be used and disclosed as set forth in, this Privacy Policy."
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": [
+          {
+            "attribute": "reference",
+            "evidence": "for further information see \"How we treat data relating to the Yale Access Products/Services\"",
+            "target_text": "How we treat data relating to the Yale Access Products/Services",
+            "reason": "not_an_unresolved_reference"
+          }
+        ]
+      }
+    },
+    {
+      "segment": {
+        "id": "S14",
+        "text": "Why do we process this personal data?, 1 = Gathered information. To provide you with the service you request when using the product. This may include identifying/authenticating you when you use Yale App, providing any features and functionality in Yale App and the Products that you elect to use, maintenance which includes software updates, and communicating with you specific to the Services., 1 = Using your personal data in this way is necessary for us to respond to your request. We are performing our obligations under the agreement we have with you to provide the services you have requested. We are unable to provide the services without processing your personal data.. To personalize the Services for purposes of you signing in and using the Services and your Products, including to set up and manage your account, for example by providing customer support and sending you notifications of changes to your account details., 1 = Using your personal data in this way is necessary for us to provide you with the service. We are performing our obligations under the agreement we have with you to provide the services you have requested. If we are prohibited from processing your personal data in this way we will be unable to manage your account and our service to you will deteriorate or be terminated.. To record calls in relation to our provision of customer services, 1 = Prior to the call commencing you will be told the call is being recorded. If you proceed with the call you will have consented to the recording. We will record the conversation to enable us to provide a better quality service and to ensure we respond efficiently to your query.. To ensure only you and your Invitees have access to the Products., 1 = We are performing our obligations under the agreement we have with you to provide the services you have requested.. To protect the security of our services and products, to detect or prevent unauthorized use of the service or product and / or to detect and prevent fraud, virus attacks, etc., 1 = It is in our legitimate interests to process personal data in maintaining the security of your personal data and the integrity of our services and networks.. To carry out statistical analysis about the product to better understand how our product is used and make improvements., 1 = It is in our legitimate interest to look at this information to understand how our product is being used and manage and to improve the service we can provide to you and other users. Since the personal data that we will process for these purposes is limited and often in an aggregated and anonymous format, we have concluded that our legitimate interest to conduct the improvements and analysis does not impede your privacy interest.. To send you communications about relevant products or services which may be of interest., 1 = For existing customers, it is in our legitimate interest to provide you with information about products or services that may be relevant and adapted for you and the products you are using.",
+        "heading_path": [
+          "Privacy Notice",
+          "How and why will we use your personal data?"
+        ],
+        "links": [],
+        "html_ids": [],
+        "previous_segment_id": "S13",
+        "next_segment_id": "S15",
+        "previous_segment_text": "Apps, 1 = User submitted. Apps, 2 = Gathered Information. Yale Smart Living Home, 1 = Phone no, email, password. Yale Smart Living Home, 2 = Device ID, IP address, pictures, activity logging. Yale Home View, 1 = Email, password. Yale Home View, 2 = Device ID, IP address, activity logging. Yale View, 1 = Email, password. Yale View, 2 = Device ID, IP address, location, activity logging. Yale CCTV, 1 =. Yale CCTV, 2 = Device ID, IP address, activity logging. Yale Access mobile app (for further information see \"How we treat data relating to the Yale Access Products/Services\"), 1 = name, email, password, telephone number, Product ID and user verification information. Yale Access mobile app (for further information see \"How we treat data relating to the Yale Access Products/Services\"), 2 = Device ID, IP address, pictures, activity logging Apps User submitted Gathered Information",
+        "extended_context": "We will transfer personal data for the purposes set out in the section entitled \"how we use that information and why\"; To August Home, Inc. who is responsible for the processing of your personal data and who in turn may engage third parties to perform functions necessary for us to provide the following for the Services: hosting, development, maintenance, billing services, mobile application functionality, facilitate communications, enable customer support and any features or functionality available as part of the Services, provided only to the extent necessary to provide the Services. August Home and any third-party service providers may only use your personal data in accordance with our instructions. To your Invitees when you invite them to access your Products. For example, if you invite a guest to access your Products, then we will share certain elements of your information with them, such as your name, in order for your guest to understand the invite and access the Product. To third parties that you choose when you use the \"Works With\" feature of the Services to connect your Products with such third party products or services. Digital Analytics providers who provide tools that help us improve your experience. These service providers may only use your personal data in accordance with our instructions. To a buyer or a potential future buyer of our business. As required by law Invitees. As part of our Services, you may give Invitees permission levels to access your Products - e.g. to unlock and lock your door, and possibly even to pass this access along to others. Needless to say, you must be careful of the people that you invite and the access that you give them. You are responsible for all uses of your account, so be careful to secure this information and only give access to people you trust. Additionally, certain portions of your personal data, as well as other information about your use of the Service and your Products may be shared with Invitees, such as your name and the status of the lock (e.g. locked or unlocked). In connection with the guest invitation process, we may ask for access to your contact list. We will only store information for contacts that you add as guests. We will only access and store such information with your express consent. If you are an Invitee, we collect your personal data when you use the Services and Products, as set forth in this Privacy Policy. All such information (including your service usage information) is subject to, and will be used and disclosed as set forth in, this Privacy Policy. Apps, 1 = User submitted. Apps, 2 = Gathered Information. Yale Smart Living Home, 1 = Phone no, email, password. Yale Smart Living Home, 2 = Device ID, IP address, pictures, activity logging. Yale Home View, 1 = Email, password. Yale Home View, 2 = Device ID, IP address, activity logging. Yale View, 1 = Email, password. Yale View, 2 = Device ID, IP address, location, activity logging. Yale CCTV, 1 =. Yale CCTV, 2 = Device ID, IP address, activity logging. Yale Access mobile app (for further information see \"How we treat data relating to the Yale Access Products/Services\"), 1 = name, email, password, telephone number, Product ID and user verification information. Yale Access mobile app (for further information see \"How we treat data relating to the Yale Access Products/Services\"), 2 = Device ID, IP address, pictures, activity logging Apps User submitted Gathered Information"
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S15",
+        "text": "For new customers, we will only send you information about products or services that may be relevant and adapted for you and the products you are using where you have elected to receive such information (\"Opt-In\"). To comply with legal requirements to which we are subject, such as tax, accounting/financial reporting requirements, mandatory disclosures and/or law enforcement., 1 = Using your personal data in this way is necessary for us to comply with our legal obligations. Why do we process this personal data? Gathered information For existing customers, it is in our legitimate interest to provide you with information about products or services that may be relevant and adapted for you and the products you are using. For new customers, we will only send you information about products or services that may be relevant and adapted for you and the products you are using where you have elected to receive such information (\"Opt-In\")",
+        "heading_path": [
+          "Privacy Notice",
+          "How and why will we use your personal data?"
+        ],
+        "links": [],
+        "html_ids": [],
+        "previous_segment_id": "S14",
+        "next_segment_id": "S16",
+        "previous_segment_text": "Why do we process this personal data?, 1 = Gathered information. To provide you with the service you request when using the product. This may include identifying/authenticating you when you use Yale App, providing any features and functionality in Yale App and the Products that you elect to use, maintenance which includes software updates, and communicating with you specific to the Services., 1 = Using your personal data in this way is necessary for us to respond to your request. We are performing our obligations under the agreement we have with you to provide the services you have requested. We are unable to provide the services without processing your personal data.. To personalize the Services for purposes of you signing in and using the Services and your Products, including to set up and manage your account, for example by providing customer support and sending you notifications of changes to your account details., 1 = Using your personal data in this way is necessary for us to provide you with the service. We are performing our obligations under the agreement we have with you to provide the services you have requested. If we are prohibited from processing your personal data in this way we will be unable to manage your account and our service to you will deteriorate or be terminated.. To record calls in relation to our provision of customer services, 1 = Prior to the call commencing you will be told the call is being recorded. If you proceed with the call you will have consented to the recording. We will record the conversation to enable us to provide a better quality service and to ensure we respond efficiently to your query.. To ensure only you and your Invitees have access to the Products., 1 = We are performing our obligations under the agreement we have with you to provide the services you have requested.. To protect the security of our services and products, to detect or prevent unauthorized use of the service or product and / or to detect and prevent fraud, virus attacks, etc., 1 = It is in our legitimate interests to process personal data in maintaining the security of your personal data and the integrity of our services and networks.. To carry out statistical analysis about the product to better understand how our product is used and make improvements., 1 = It is in our legitimate interest to look at this information to understand how our product is being used and manage and to improve the service we can provide to you and other users. Since the personal data that we will process for these purposes is limited and often in an aggregated and anonymous format, we have concluded that our legitimate interest to conduct the improvements and analysis does not impede your privacy interest.. To send you communications about relevant products or services which may be of interest., 1 = For existing customers, it is in our legitimate interest to provide you with information about products or services that may be relevant and adapted for you and the products you are using.",
+        "extended_context": "Invitees. As part of our Services, you may give Invitees permission levels to access your Products - e.g. to unlock and lock your door, and possibly even to pass this access along to others. Needless to say, you must be careful of the people that you invite and the access that you give them. You are responsible for all uses of your account, so be careful to secure this information and only give access to people you trust. Additionally, certain portions of your personal data, as well as other information about your use of the Service and your Products may be shared with Invitees, such as your name and the status of the lock (e.g. locked or unlocked). In connection with the guest invitation process, we may ask for access to your contact list. We will only store information for contacts that you add as guests. We will only access and store such information with your express consent. If you are an Invitee, we collect your personal data when you use the Services and Products, as set forth in this Privacy Policy. All such information (including your service usage information) is subject to, and will be used and disclosed as set forth in, this Privacy Policy. Apps, 1 = User submitted. Apps, 2 = Gathered Information. Yale Smart Living Home, 1 = Phone no, email, password. Yale Smart Living Home, 2 = Device ID, IP address, pictures, activity logging. Yale Home View, 1 = Email, password. Yale Home View, 2 = Device ID, IP address, activity logging. Yale View, 1 = Email, password. Yale View, 2 = Device ID, IP address, location, activity logging. Yale CCTV, 1 =. Yale CCTV, 2 = Device ID, IP address, activity logging. Yale Access mobile app (for further information see \"How we treat data relating to the Yale Access Products/Services\"), 1 = name, email, password, telephone number, Product ID and user verification information. Yale Access mobile app (for further information see \"How we treat data relating to the Yale Access Products/Services\"), 2 = Device ID, IP address, pictures, activity logging Apps User submitted Gathered Information Why do we process this personal data?, 1 = Gathered information. To provide you with the service you request when using the product. This may include identifying/authenticating you when you use Yale App, providing any features and functionality in Yale App and the Products that you elect to use, maintenance which includes software updates, and communicating with you specific to the Services., 1 = Using your personal data in this way is necessary for us to respond to your request. We are performing our obligations under the agreement we have with you to provide the services you have requested. We are unable to provide the services without processing your personal data.. To personalize the Services for purposes of you signing in and using the Services and your Products, including to set up and manage your account, for example by providing customer support and sending you notifications of changes to your account details., 1 = Using your personal data in this way is necessary for us to provide you with the service. We are performing our obligations under the agreement we have with you to provide the services you have requested. If we are prohibited from processing your personal data in this way we will be unable to manage your account and our service to you will deteriorate or be terminated.. To record calls in relation to our provision of customer services, 1 = Prior to the call commencing you will be told the call is being recorded. If you proceed with the call you will have consented to the recording. We will record the conversation to enable us to provide a better quality service and to ensure we respond efficiently to your query.. To ensure only you and your Invitees have access to the Products., 1 = We are performing our obligations under the agreement we have with you to provide the services you have requested.. To protect the security of our services and products, to detect or prevent unauthorized use of the service or product and / or to detect and prevent fraud, virus attacks, etc., 1 = It is in our legitimate interests to process personal data in maintaining the security of your personal data and the integrity of our services and networks.. To carry out statistical analysis about the product to better understand how our product is used and make improvements., 1 = It is in our legitimate interest to look at this information to understand how our product is being used and manage and to improve the service we can provide to you and other users. Since the personal data that we will process for these purposes is limited and often in an aggregated and anonymous format, we have concluded that our legitimate interest to conduct the improvements and analysis does not impede your privacy interest.. To send you communications about relevant products or services which may be of interest., 1 = For existing customers, it is in our legitimate interest to provide you with information about products or services that may be relevant and adapted for you and the products you are using."
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [
+          {
+            "value": "Opt out of marketing",
+            "evidence": "For new customers, we will only send you information about products or services that may be relevant and adapted for you and the products you are using where you have elected to receive such information (\"Opt-In\")",
+            "confidence": "extracted",
+            "id": "Yale:S15:choice:1"
+          }
+        ],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S16",
+        "text": "We may transfer your personal data for the purposes set out above: To organizations of the ASSA ABLOY Group, whether or not going to market as ASSA ABLOY, that market, sell and support our solutions in your country, for example, to August Home, Inc. who is responsible for the processing of your personal data in relation to Yale Access Products. To third parties who provide customer support services connected to this product or its functions, but only to the extent necessary to provide these services, for example, to Amazon Web Services who may store your personal data on our behalf, or to third parties you choose when you use the \"Works With\" feature of the Services to connect your Products with such third party products or services. To Invitees or third parties that you have requested us to send your personal data to for example when using the \"connected to\" or \"Works with\" functions on some devices (see \"How we treat data relating to the Yale Access Products/Services\"). When required by law, including to government agencies and institutions, where legally required. To a buyer or a potential future buyer of our business. We do not sell or rent your personal data to third parties. Privacy policies of other websites: When you use the \"Works With\" feature in the App, you may be linked to third-party services and websites that you choose. Also, when using the App, you may use features that link you to social media websites, such as Facebook or Twitter. We are not responsible for the privacy practices or content of any of these third parties or the linked sites. Linked sites may collect personal data from you that is not subject to our control. We encourage you to review the privacy policies on any linked website you visit. Some recipients are located in countries outside the EU/European Economic Area (EEA). As in some cases these countries have a lower level of protection than that within the EU/EEA, when transferring personal data to countries outside the EU/EEA we use standard contractual clauses approved by the European Commission to ensure a sufficient level of protection for your personal data. These standard contractual clauses can be found at: https://eur-lex.europa.eu/legal-content/en/TXT/?uri=CELEX%3A32010D0087 We take measures to protect all personal data transferred to a third party, or to other countries, in accordance with applicable data protection laws. A list of countries and recipient entities can be provided upon request, see Contact Us below.",
+        "heading_path": [
+          "Privacy Notice",
+          "Who and where is your personal data transferred to?"
+        ],
+        "links": [],
+        "html_ids": [],
+        "previous_segment_id": "S15",
+        "next_segment_id": "S17",
+        "previous_segment_text": "For new customers, we will only send you information about products or services that may be relevant and adapted for you and the products you are using where you have elected to receive such information (\"Opt-In\"). To comply with legal requirements to which we are subject, such as tax, accounting/financial reporting requirements, mandatory disclosures and/or law enforcement., 1 = Using your personal data in this way is necessary for us to comply with our legal obligations. Why do we process this personal data? Gathered information For existing customers, it is in our legitimate interest to provide you with information about products or services that may be relevant and adapted for you and the products you are using. For new customers, we will only send you information about products or services that may be relevant and adapted for you and the products you are using where you have elected to receive such information (\"Opt-In\")",
+        "extended_context": "Apps, 1 = User submitted. Apps, 2 = Gathered Information. Yale Smart Living Home, 1 = Phone no, email, password. Yale Smart Living Home, 2 = Device ID, IP address, pictures, activity logging. Yale Home View, 1 = Email, password. Yale Home View, 2 = Device ID, IP address, activity logging. Yale View, 1 = Email, password. Yale View, 2 = Device ID, IP address, location, activity logging. Yale CCTV, 1 =. Yale CCTV, 2 = Device ID, IP address, activity logging. Yale Access mobile app (for further information see \"How we treat data relating to the Yale Access Products/Services\"), 1 = name, email, password, telephone number, Product ID and user verification information. Yale Access mobile app (for further information see \"How we treat data relating to the Yale Access Products/Services\"), 2 = Device ID, IP address, pictures, activity logging Apps User submitted Gathered Information Why do we process this personal data?, 1 = Gathered information. To provide you with the service you request when using the product. This may include identifying/authenticating you when you use Yale App, providing any features and functionality in Yale App and the Products that you elect to use, maintenance which includes software updates, and communicating with you specific to the Services., 1 = Using your personal data in this way is necessary for us to respond to your request. We are performing our obligations under the agreement we have with you to provide the services you have requested. We are unable to provide the services without processing your personal data.. To personalize the Services for purposes of you signing in and using the Services and your Products, including to set up and manage your account, for example by providing customer support and sending you notifications of changes to your account details., 1 = Using your personal data in this way is necessary for us to provide you with the service. We are performing our obligations under the agreement we have with you to provide the services you have requested. If we are prohibited from processing your personal data in this way we will be unable to manage your account and our service to you will deteriorate or be terminated.. To record calls in relation to our provision of customer services, 1 = Prior to the call commencing you will be told the call is being recorded. If you proceed with the call you will have consented to the recording. We will record the conversation to enable us to provide a better quality service and to ensure we respond efficiently to your query.. To ensure only you and your Invitees have access to the Products., 1 = We are performing our obligations under the agreement we have with you to provide the services you have requested.. To protect the security of our services and products, to detect or prevent unauthorized use of the service or product and / or to detect and prevent fraud, virus attacks, etc., 1 = It is in our legitimate interests to process personal data in maintaining the security of your personal data and the integrity of our services and networks.. To carry out statistical analysis about the product to better understand how our product is used and make improvements., 1 = It is in our legitimate interest to look at this information to understand how our product is being used and manage and to improve the service we can provide to you and other users. Since the personal data that we will process for these purposes is limited and often in an aggregated and anonymous format, we have concluded that our legitimate interest to conduct the improvements and analysis does not impede your privacy interest.. To send you communications about relevant products or services which may be of interest., 1 = For existing customers, it is in our legitimate interest to provide you with information about products or services that may be relevant and adapted for you and the products you are using. For new customers, we will only send you information about products or services that may be relevant and adapted for you and the products you are using where you have elected to receive such information (\"Opt-In\"). To comply with legal requirements to which we are subject, such as tax, accounting/financial reporting requirements, mandatory disclosures and/or law enforcement., 1 = Using your personal data in this way is necessary for us to comply with our legal obligations. Why do we process this personal data? Gathered information For existing customers, it is in our legitimate interest to provide you with information about products or services that may be relevant and adapted for you and the products you are using. For new customers, we will only send you information about products or services that may be relevant and adapted for you and the products you are using where you have elected to receive such information (\"Opt-In\")"
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": [
+          {
+            "attribute": "reference",
+            "evidence": "see Contact Us below",
+            "target_text": "Contact Us",
+            "reason": "not_an_unresolved_reference"
+          }
+        ]
+      }
+    },
+    {
+      "segment": {
+        "id": "S17",
+        "text": "We store personal data for as long as necessary to fulfil the purpose for which the data has been collected, and in accordance with our internal record retention schedule. This means that we delete your personal data when such data is no longer necessary to process a request, or to manage your account or our client relationship. Statistics which have been anonymised may be saved for longer. In relation to the personal data that we hold about you, you have the right to: Request a copy of your personal data from our records; Ask that we correct or erase your personal data (though this may mean that we cannot process requests, or that your account expires); Ask us to stop processing your personal data (for example as regards the use of the data to improve our product), or restrict how we process it (for example if you deem the data to be incorrect); Request the personal data used to provide you with information you requested, or manage your account or our relationship in a machine-readable format, which you are entitled to transfer to another data controller; and Withdraw your consent to us processing your data for marketing purposes at any time. We may not accept a request to erase your personal data where we require it to comply with a legal obligation or in relation to a legal claim. For information about how to requests to exercise your rights, see Contact Us below. If you have a complaint regarding our processing of your personal data you are entitled to report this to the ICO (Information Commissioner's Office) at https://ico.org.uk/concerns or to the supervisory authority where you live or work if different, list of which can be found at http://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=612080.",
+        "heading_path": [
+          "Privacy Notice",
+          "For how long will we store your personal data for?"
+        ],
+        "links": [
+          {
+            "text": "http://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=612080.",
+            "href": "http://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=612080",
+            "kind": "external"
+          }
+        ],
+        "html_ids": [],
+        "previous_segment_id": "S16",
+        "next_segment_id": "S18",
+        "previous_segment_text": "We may transfer your personal data for the purposes set out above: To organizations of the ASSA ABLOY Group, whether or not going to market as ASSA ABLOY, that market, sell and support our solutions in your country, for example, to August Home, Inc. who is responsible for the processing of your personal data in relation to Yale Access Products. To third parties who provide customer support services connected to this product or its functions, but only to the extent necessary to provide these services, for example, to Amazon Web Services who may store your personal data on our behalf, or to third parties you choose when you use the \"Works With\" feature of the Services to connect your Products with such third party products or services. To Invitees or third parties that you have requested us to send your personal data to for example when using the \"connected to\" or \"Works with\" functions on some devices (see \"How we treat data relating to the Yale Access Products/Services\"). When required by law, including to government agencies and institutions, where legally required. To a buyer or a potential future buyer of our business. We do not sell or rent your personal data to third parties. Privacy policies of other websites: When you use the \"Works With\" feature in the App, you may be linked to third-party services and websites that you choose. Also, when using the App, you may use features that link you to social media websites, such as Facebook or Twitter. We are not responsible for the privacy practices or content of any of these third parties or the linked sites. Linked sites may collect personal data from you that is not subject to our control. We encourage you to review the privacy policies on any linked website you visit. Some recipients are located in countries outside the EU/European Economic Area (EEA). As in some cases these countries have a lower level of protection than that within the EU/EEA, when transferring personal data to countries outside the EU/EEA we use standard contractual clauses approved by the European Commission to ensure a sufficient level of protection for your personal data. These standard contractual clauses can be found at: https://eur-lex.europa.eu/legal-content/en/TXT/?uri=CELEX%3A32010D0087 We take measures to protect all personal data transferred to a third party, or to other countries, in accordance with applicable data protection laws. A list of countries and recipient entities can be provided upon request, see Contact Us below.",
+        "extended_context": "Why do we process this personal data?, 1 = Gathered information. To provide you with the service you request when using the product. This may include identifying/authenticating you when you use Yale App, providing any features and functionality in Yale App and the Products that you elect to use, maintenance which includes software updates, and communicating with you specific to the Services., 1 = Using your personal data in this way is necessary for us to respond to your request. We are performing our obligations under the agreement we have with you to provide the services you have requested. We are unable to provide the services without processing your personal data.. To personalize the Services for purposes of you signing in and using the Services and your Products, including to set up and manage your account, for example by providing customer support and sending you notifications of changes to your account details., 1 = Using your personal data in this way is necessary for us to provide you with the service. We are performing our obligations under the agreement we have with you to provide the services you have requested. If we are prohibited from processing your personal data in this way we will be unable to manage your account and our service to you will deteriorate or be terminated.. To record calls in relation to our provision of customer services, 1 = Prior to the call commencing you will be told the call is being recorded. If you proceed with the call you will have consented to the recording. We will record the conversation to enable us to provide a better quality service and to ensure we respond efficiently to your query.. To ensure only you and your Invitees have access to the Products., 1 = We are performing our obligations under the agreement we have with you to provide the services you have requested.. To protect the security of our services and products, to detect or prevent unauthorized use of the service or product and / or to detect and prevent fraud, virus attacks, etc., 1 = It is in our legitimate interests to process personal data in maintaining the security of your personal data and the integrity of our services and networks.. To carry out statistical analysis about the product to better understand how our product is used and make improvements., 1 = It is in our legitimate interest to look at this information to understand how our product is being used and manage and to improve the service we can provide to you and other users. Since the personal data that we will process for these purposes is limited and often in an aggregated and anonymous format, we have concluded that our legitimate interest to conduct the improvements and analysis does not impede your privacy interest.. To send you communications about relevant products or services which may be of interest., 1 = For existing customers, it is in our legitimate interest to provide you with information about products or services that may be relevant and adapted for you and the products you are using. For new customers, we will only send you information about products or services that may be relevant and adapted for you and the products you are using where you have elected to receive such information (\"Opt-In\"). To comply with legal requirements to which we are subject, such as tax, accounting/financial reporting requirements, mandatory disclosures and/or law enforcement., 1 = Using your personal data in this way is necessary for us to comply with our legal obligations. Why do we process this personal data? Gathered information For existing customers, it is in our legitimate interest to provide you with information about products or services that may be relevant and adapted for you and the products you are using. For new customers, we will only send you information about products or services that may be relevant and adapted for you and the products you are using where you have elected to receive such information (\"Opt-In\") We may transfer your personal data for the purposes set out above: To organizations of the ASSA ABLOY Group, whether or not going to market as ASSA ABLOY, that market, sell and support our solutions in your country, for example, to August Home, Inc. who is responsible for the processing of your personal data in relation to Yale Access Products. To third parties who provide customer support services connected to this product or its functions, but only to the extent necessary to provide these services, for example, to Amazon Web Services who may store your personal data on our behalf, or to third parties you choose when you use the \"Works With\" feature of the Services to connect your Products with such third party products or services. To Invitees or third parties that you have requested us to send your personal data to for example when using the \"connected to\" or \"Works with\" functions on some devices (see \"How we treat data relating to the Yale Access Products/Services\"). When required by law, including to government agencies and institutions, where legally required. To a buyer or a potential future buyer of our business. We do not sell or rent your personal data to third parties. Privacy policies of other websites: When you use the \"Works With\" feature in the App, you may be linked to third-party services and websites that you choose. Also, when using the App, you may use features that link you to social media websites, such as Facebook or Twitter. We are not responsible for the privacy practices or content of any of these third parties or the linked sites. Linked sites may collect personal data from you that is not subject to our control. We encourage you to review the privacy policies on any linked website you visit. Some recipients are located in countries outside the EU/European Economic Area (EEA). As in some cases these countries have a lower level of protection than that within the EU/EEA, when transferring personal data to countries outside the EU/EEA we use standard contractual clauses approved by the European Commission to ensure a sufficient level of protection for your personal data. These standard contractual clauses can be found at: https://eur-lex.europa.eu/legal-content/en/TXT/?uri=CELEX%3A32010D0087 We take measures to protect all personal data transferred to a third party, or to other countries, in accordance with applicable data protection laws. A list of countries and recipient entities can be provided upon request, see Contact Us below."
+      },
+      "result": {
+        "right_type": [
+          {
+            "value": "Right of access",
+            "evidence": "Request a copy of your personal data from our records",
+            "confidence": "extracted",
+            "id": "Yale:S17:right:1"
+          },
+          {
+            "value": "Right to rectification",
+            "evidence": "Ask that we correct or erase your personal data",
+            "confidence": "extracted",
+            "id": "Yale:S17:right:2"
+          },
+          {
+            "value": "Right to erasure",
+            "evidence": "Ask that we correct or erase your personal data",
+            "confidence": "extracted",
+            "id": "Yale:S17:right:3"
+          },
+          {
+            "value": "Right to restriction of processing",
+            "evidence": "Ask us to stop processing your personal data (for example as regards the use of the data to improve our product), or restrict how we process it (for example if you deem the data to be incorrect)",
+            "confidence": "extracted",
+            "id": "Yale:S17:right:4"
+          },
+          {
+            "value": "Right to data portability",
+            "evidence": "Request the personal data used to provide you with information you requested, or manage your account or our relationship in a machine-readable format, which you are entitled to transfer to another data controller",
+            "confidence": "extracted",
+            "id": "Yale:S17:right:5"
+          }
+        ],
+        "choice_type": [
+          {
+            "value": "Change or withdraw consent",
+            "evidence": "Withdraw your consent to us processing your data for marketing purposes at any time",
+            "confidence": "extracted",
+            "id": "Yale:S17:choice:1"
+          }
+        ],
+        "request_channel": [],
+        "references": [],
+        "rejected": [
+          {
+            "attribute": "reference",
+            "evidence": "see Contact Us below",
+            "target_text": "Contact Us",
+            "reason": "not_an_unresolved_reference"
+          }
+        ]
+      }
+    },
+    {
+      "segment": {
+        "id": "S18",
+        "text": "For further information on our use of cookies, please see our Cookie Policy We make use of Google Analytics, an analysis service provided by Google, to help us track usage statistics.",
+        "heading_path": [
+          "Privacy Notice",
+          "Cookies"
+        ],
+        "links": [
+          {
+            "text": "Cookie Policy",
+            "href": "https://yalehome.co.uk/cookie-policy",
+            "kind": "external"
+          }
+        ],
+        "html_ids": [],
+        "previous_segment_id": "S17",
+        "next_segment_id": "S19",
+        "previous_segment_text": "We store personal data for as long as necessary to fulfil the purpose for which the data has been collected, and in accordance with our internal record retention schedule. This means that we delete your personal data when such data is no longer necessary to process a request, or to manage your account or our client relationship. Statistics which have been anonymised may be saved for longer. In relation to the personal data that we hold about you, you have the right to: Request a copy of your personal data from our records; Ask that we correct or erase your personal data (though this may mean that we cannot process requests, or that your account expires); Ask us to stop processing your personal data (for example as regards the use of the data to improve our product), or restrict how we process it (for example if you deem the data to be incorrect); Request the personal data used to provide you with information you requested, or manage your account or our relationship in a machine-readable format, which you are entitled to transfer to another data controller; and Withdraw your consent to us processing your data for marketing purposes at any time. We may not accept a request to erase your personal data where we require it to comply with a legal obligation or in relation to a legal claim. For information about how to requests to exercise your rights, see Contact Us below. If you have a complaint regarding our processing of your personal data you are entitled to report this to the ICO (Information Commissioner's Office) at https://ico.org.uk/concerns or to the supervisory authority where you live or work if different, list of which can be found at http://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=612080.",
+        "extended_context": "For new customers, we will only send you information about products or services that may be relevant and adapted for you and the products you are using where you have elected to receive such information (\"Opt-In\"). To comply with legal requirements to which we are subject, such as tax, accounting/financial reporting requirements, mandatory disclosures and/or law enforcement., 1 = Using your personal data in this way is necessary for us to comply with our legal obligations. Why do we process this personal data? Gathered information For existing customers, it is in our legitimate interest to provide you with information about products or services that may be relevant and adapted for you and the products you are using. For new customers, we will only send you information about products or services that may be relevant and adapted for you and the products you are using where you have elected to receive such information (\"Opt-In\") We may transfer your personal data for the purposes set out above: To organizations of the ASSA ABLOY Group, whether or not going to market as ASSA ABLOY, that market, sell and support our solutions in your country, for example, to August Home, Inc. who is responsible for the processing of your personal data in relation to Yale Access Products. To third parties who provide customer support services connected to this product or its functions, but only to the extent necessary to provide these services, for example, to Amazon Web Services who may store your personal data on our behalf, or to third parties you choose when you use the \"Works With\" feature of the Services to connect your Products with such third party products or services. To Invitees or third parties that you have requested us to send your personal data to for example when using the \"connected to\" or \"Works with\" functions on some devices (see \"How we treat data relating to the Yale Access Products/Services\"). When required by law, including to government agencies and institutions, where legally required. To a buyer or a potential future buyer of our business. We do not sell or rent your personal data to third parties. Privacy policies of other websites: When you use the \"Works With\" feature in the App, you may be linked to third-party services and websites that you choose. Also, when using the App, you may use features that link you to social media websites, such as Facebook or Twitter. We are not responsible for the privacy practices or content of any of these third parties or the linked sites. Linked sites may collect personal data from you that is not subject to our control. We encourage you to review the privacy policies on any linked website you visit. Some recipients are located in countries outside the EU/European Economic Area (EEA). As in some cases these countries have a lower level of protection than that within the EU/EEA, when transferring personal data to countries outside the EU/EEA we use standard contractual clauses approved by the European Commission to ensure a sufficient level of protection for your personal data. These standard contractual clauses can be found at: https://eur-lex.europa.eu/legal-content/en/TXT/?uri=CELEX%3A32010D0087 We take measures to protect all personal data transferred to a third party, or to other countries, in accordance with applicable data protection laws. A list of countries and recipient entities can be provided upon request, see Contact Us below. We store personal data for as long as necessary to fulfil the purpose for which the data has been collected, and in accordance with our internal record retention schedule. This means that we delete your personal data when such data is no longer necessary to process a request, or to manage your account or our client relationship. Statistics which have been anonymised may be saved for longer. In relation to the personal data that we hold about you, you have the right to: Request a copy of your personal data from our records; Ask that we correct or erase your personal data (though this may mean that we cannot process requests, or that your account expires); Ask us to stop processing your personal data (for example as regards the use of the data to improve our product), or restrict how we process it (for example if you deem the data to be incorrect); Request the personal data used to provide you with information you requested, or manage your account or our relationship in a machine-readable format, which you are entitled to transfer to another data controller; and Withdraw your consent to us processing your data for marketing purposes at any time. We may not accept a request to erase your personal data where we require it to comply with a legal obligation or in relation to a legal claim. For information about how to requests to exercise your rights, see Contact Us below. If you have a complaint regarding our processing of your personal data you are entitled to report this to the ICO (Information Commissioner's Office) at https://ico.org.uk/concerns or to the supervisory authority where you live or work if different, list of which can be found at http://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=612080."
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": [
+          {
+            "attribute": "reference",
+            "evidence": "please see our Cookie Policy",
+            "target_text": "Cookie Policy",
+            "reason": "not_an_unresolved_reference"
+          }
+        ]
+      }
+    },
+    {
+      "segment": {
+        "id": "S19",
+        "text": "We may update this privacy notice from time to time in response to changing legal, regulatory or operational requirements. If we make any material changes to this Privacy Notice, we will notify you by placing a prominent notice on our website or in the app. Your continued use of the product after any such updates take effect will constitute acceptance of those changes. If you do not accept any updates to this privacy notice, you should stop using this product.",
+        "heading_path": [
+          "Privacy Notice",
+          "How can we make changes to this privacy notice?"
+        ],
+        "links": [],
+        "html_ids": [],
+        "previous_segment_id": "S18",
+        "next_segment_id": "S20",
+        "previous_segment_text": "For further information on our use of cookies, please see our Cookie Policy We make use of Google Analytics, an analysis service provided by Google, to help us track usage statistics.",
+        "extended_context": "We may transfer your personal data for the purposes set out above: To organizations of the ASSA ABLOY Group, whether or not going to market as ASSA ABLOY, that market, sell and support our solutions in your country, for example, to August Home, Inc. who is responsible for the processing of your personal data in relation to Yale Access Products. To third parties who provide customer support services connected to this product or its functions, but only to the extent necessary to provide these services, for example, to Amazon Web Services who may store your personal data on our behalf, or to third parties you choose when you use the \"Works With\" feature of the Services to connect your Products with such third party products or services. To Invitees or third parties that you have requested us to send your personal data to for example when using the \"connected to\" or \"Works with\" functions on some devices (see \"How we treat data relating to the Yale Access Products/Services\"). When required by law, including to government agencies and institutions, where legally required. To a buyer or a potential future buyer of our business. We do not sell or rent your personal data to third parties. Privacy policies of other websites: When you use the \"Works With\" feature in the App, you may be linked to third-party services and websites that you choose. Also, when using the App, you may use features that link you to social media websites, such as Facebook or Twitter. We are not responsible for the privacy practices or content of any of these third parties or the linked sites. Linked sites may collect personal data from you that is not subject to our control. We encourage you to review the privacy policies on any linked website you visit. Some recipients are located in countries outside the EU/European Economic Area (EEA). As in some cases these countries have a lower level of protection than that within the EU/EEA, when transferring personal data to countries outside the EU/EEA we use standard contractual clauses approved by the European Commission to ensure a sufficient level of protection for your personal data. These standard contractual clauses can be found at: https://eur-lex.europa.eu/legal-content/en/TXT/?uri=CELEX%3A32010D0087 We take measures to protect all personal data transferred to a third party, or to other countries, in accordance with applicable data protection laws. A list of countries and recipient entities can be provided upon request, see Contact Us below. We store personal data for as long as necessary to fulfil the purpose for which the data has been collected, and in accordance with our internal record retention schedule. This means that we delete your personal data when such data is no longer necessary to process a request, or to manage your account or our client relationship. Statistics which have been anonymised may be saved for longer. In relation to the personal data that we hold about you, you have the right to: Request a copy of your personal data from our records; Ask that we correct or erase your personal data (though this may mean that we cannot process requests, or that your account expires); Ask us to stop processing your personal data (for example as regards the use of the data to improve our product), or restrict how we process it (for example if you deem the data to be incorrect); Request the personal data used to provide you with information you requested, or manage your account or our relationship in a machine-readable format, which you are entitled to transfer to another data controller; and Withdraw your consent to us processing your data for marketing purposes at any time. We may not accept a request to erase your personal data where we require it to comply with a legal obligation or in relation to a legal claim. For information about how to requests to exercise your rights, see Contact Us below. If you have a complaint regarding our processing of your personal data you are entitled to report this to the ICO (Information Commissioner's Office) at https://ico.org.uk/concerns or to the supervisory authority where you live or work if different, list of which can be found at http://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=612080. For further information on our use of cookies, please see our Cookie Policy We make use of Google Analytics, an analysis service provided by Google, to help us track usage statistics."
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S20",
+        "text": "If you have any questions about this Privacy and Legal Notice, please use our Privacy Contact Centre.",
+        "heading_path": [
+          "Privacy Notice",
+          "Contact us"
+        ],
+        "links": [
+          {
+            "text": "Privacy Contact Centre.",
+            "href": "https://yalehome.co.uk/privacy-policy",
+            "kind": "external"
+          }
+        ],
+        "html_ids": [],
+        "previous_segment_id": "S19",
+        "next_segment_id": "S21",
+        "previous_segment_text": "We may update this privacy notice from time to time in response to changing legal, regulatory or operational requirements. If we make any material changes to this Privacy Notice, we will notify you by placing a prominent notice on our website or in the app. Your continued use of the product after any such updates take effect will constitute acceptance of those changes. If you do not accept any updates to this privacy notice, you should stop using this product.",
+        "extended_context": "We store personal data for as long as necessary to fulfil the purpose for which the data has been collected, and in accordance with our internal record retention schedule. This means that we delete your personal data when such data is no longer necessary to process a request, or to manage your account or our client relationship. Statistics which have been anonymised may be saved for longer. In relation to the personal data that we hold about you, you have the right to: Request a copy of your personal data from our records; Ask that we correct or erase your personal data (though this may mean that we cannot process requests, or that your account expires); Ask us to stop processing your personal data (for example as regards the use of the data to improve our product), or restrict how we process it (for example if you deem the data to be incorrect); Request the personal data used to provide you with information you requested, or manage your account or our relationship in a machine-readable format, which you are entitled to transfer to another data controller; and Withdraw your consent to us processing your data for marketing purposes at any time. We may not accept a request to erase your personal data where we require it to comply with a legal obligation or in relation to a legal claim. For information about how to requests to exercise your rights, see Contact Us below. If you have a complaint regarding our processing of your personal data you are entitled to report this to the ICO (Information Commissioner's Office) at https://ico.org.uk/concerns or to the supervisory authority where you live or work if different, list of which can be found at http://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=612080. For further information on our use of cookies, please see our Cookie Policy We make use of Google Analytics, an analysis service provided by Google, to help us track usage statistics. We may update this privacy notice from time to time in response to changing legal, regulatory or operational requirements. If we make any material changes to this Privacy Notice, we will notify you by placing a prominent notice on our website or in the app. Your continued use of the product after any such updates take effect will constitute acceptance of those changes. If you do not accept any updates to this privacy notice, you should stop using this product."
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [
+          {
+            "value": "Web page or online form",
+            "evidence": "please use our Privacy Contact Centre.",
+            "confidence": "extracted",
+            "id": "Yale:S20:channel:1",
+            "linked_ids": [],
+            "link": {
+              "url": "https://yalehome.co.uk/privacy-policy",
+              "kind": "external",
+              "visible_text": "Privacy Contact Centre."
+            }
+          }
+        ],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S21",
+        "text": "Important note: Please read carefully all the terms and conditions of this agreement before you use Yale App services. Once you register and log in, you are confirming acceptance of all terms and conditions. The Privacy Notice informs you of our policies regarding the collection, use and disclosure of Personal Information we receive from users of the App. By using the App, you agree to the collection and use of information in accordance with the Privacy Notice.",
+        "heading_path": [
+          "Privacy Notice",
+          "Yale app services Terms and Conditions"
+        ],
+        "links": [],
+        "html_ids": [],
+        "previous_segment_id": "S20",
+        "next_segment_id": "S22",
+        "previous_segment_text": "If you have any questions about this Privacy and Legal Notice, please use our Privacy Contact Centre.",
+        "extended_context": "For further information on our use of cookies, please see our Cookie Policy We make use of Google Analytics, an analysis service provided by Google, to help us track usage statistics. We may update this privacy notice from time to time in response to changing legal, regulatory or operational requirements. If we make any material changes to this Privacy Notice, we will notify you by placing a prominent notice on our website or in the app. Your continued use of the product after any such updates take effect will constitute acceptance of those changes. If you do not accept any updates to this privacy notice, you should stop using this product. If you have any questions about this Privacy and Legal Notice, please use our Privacy Contact Centre."
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S22",
+        "text": "When using Yale App services, the user must comply with the following principles. 1. Abide by the relevant regulations and policies of your country; 2. Comply with all web service network agreements, terms and conditions; 3. Login and use only through the Yale App; 4. Do not use the service for any illegal activity, invasion of privacy or slander purposes;",
+        "heading_path": [
+          "Privacy Notice",
+          "Service regulations"
+        ],
+        "links": [],
+        "html_ids": [],
+        "previous_segment_id": "S21",
+        "next_segment_id": "S23",
+        "previous_segment_text": "Important note: Please read carefully all the terms and conditions of this agreement before you use Yale App services. Once you register and log in, you are confirming acceptance of all terms and conditions. The Privacy Notice informs you of our policies regarding the collection, use and disclosure of Personal Information we receive from users of the App. By using the App, you agree to the collection and use of information in accordance with the Privacy Notice.",
+        "extended_context": "We may update this privacy notice from time to time in response to changing legal, regulatory or operational requirements. If we make any material changes to this Privacy Notice, we will notify you by placing a prominent notice on our website or in the app. Your continued use of the product after any such updates take effect will constitute acceptance of those changes. If you do not accept any updates to this privacy notice, you should stop using this product. If you have any questions about this Privacy and Legal Notice, please use our Privacy Contact Centre. Important note: Please read carefully all the terms and conditions of this agreement before you use Yale App services. Once you register and log in, you are confirming acceptance of all terms and conditions. The Privacy Notice informs you of our policies regarding the collection, use and disclosure of Personal Information we receive from users of the App. By using the App, you agree to the collection and use of information in accordance with the Privacy Notice."
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S23",
+        "text": "Yale reserves the right to upgrade and make adjustments at any time. App upgrades may require a relevant upgrade on the users' equipment to the relevant operating system in order to access new functionality. Yale cannot guarantee support for old operating systems indefinitely. In addition, Yale retains the right to change or limit some of the functions on the App. The user accepts this and the possible impact of this.",
+        "heading_path": [
+          "Privacy Notice",
+          "App upgrades"
+        ],
+        "links": [],
+        "html_ids": [],
+        "previous_segment_id": "S22",
+        "next_segment_id": "S24",
+        "previous_segment_text": "When using Yale App services, the user must comply with the following principles. 1. Abide by the relevant regulations and policies of your country; 2. Comply with all web service network agreements, terms and conditions; 3. Login and use only through the Yale App; 4. Do not use the service for any illegal activity, invasion of privacy or slander purposes;",
+        "extended_context": "If you have any questions about this Privacy and Legal Notice, please use our Privacy Contact Centre. Important note: Please read carefully all the terms and conditions of this agreement before you use Yale App services. Once you register and log in, you are confirming acceptance of all terms and conditions. The Privacy Notice informs you of our policies regarding the collection, use and disclosure of Personal Information we receive from users of the App. By using the App, you agree to the collection and use of information in accordance with the Privacy Notice. When using Yale App services, the user must comply with the following principles. 1. Abide by the relevant regulations and policies of your country; 2. Comply with all web service network agreements, terms and conditions; 3. Login and use only through the Yale App; 4. Do not use the service for any illegal activity, invasion of privacy or slander purposes;"
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S24",
+        "text": "In cases where customer support requires access to your system, you could be prompted to temporarily change the password. It is your duty to immediately revert back the password after the support case has ended.",
+        "heading_path": [
+          "Privacy Notice",
+          "Customer Support Access"
+        ],
+        "links": [],
+        "html_ids": [],
+        "previous_segment_id": "S23",
+        "next_segment_id": "S25",
+        "previous_segment_text": "Yale reserves the right to upgrade and make adjustments at any time. App upgrades may require a relevant upgrade on the users' equipment to the relevant operating system in order to access new functionality. Yale cannot guarantee support for old operating systems indefinitely. In addition, Yale retains the right to change or limit some of the functions on the App. The user accepts this and the possible impact of this.",
+        "extended_context": "Important note: Please read carefully all the terms and conditions of this agreement before you use Yale App services. Once you register and log in, you are confirming acceptance of all terms and conditions. The Privacy Notice informs you of our policies regarding the collection, use and disclosure of Personal Information we receive from users of the App. By using the App, you agree to the collection and use of information in accordance with the Privacy Notice. When using Yale App services, the user must comply with the following principles. 1. Abide by the relevant regulations and policies of your country; 2. Comply with all web service network agreements, terms and conditions; 3. Login and use only through the Yale App; 4. Do not use the service for any illegal activity, invasion of privacy or slander purposes; Yale reserves the right to upgrade and make adjustments at any time. App upgrades may require a relevant upgrade on the users' equipment to the relevant operating system in order to access new functionality. Yale cannot guarantee support for old operating systems indefinitely. In addition, Yale retains the right to change or limit some of the functions on the App. The user accepts this and the possible impact of this."
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S25",
+        "text": "The security of your Personal Information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage, is 100% secure. While we strive to use commercially acceptable means to protect your Personal Information, we cannot guarantee its absolute security. We recommend that you never re-use any password or share your password with any third party to protect the security of your account. If you believe your account has been compromised, please notify Yale immediately. Yale cannot be held responsible for any losses resulting from your account being compromised.",
+        "heading_path": [
+          "Privacy Notice",
+          "Security"
+        ],
+        "links": [],
+        "html_ids": [],
+        "previous_segment_id": "S24",
+        "next_segment_id": "S26",
+        "previous_segment_text": "In cases where customer support requires access to your system, you could be prompted to temporarily change the password. It is your duty to immediately revert back the password after the support case has ended.",
+        "extended_context": "When using Yale App services, the user must comply with the following principles. 1. Abide by the relevant regulations and policies of your country; 2. Comply with all web service network agreements, terms and conditions; 3. Login and use only through the Yale App; 4. Do not use the service for any illegal activity, invasion of privacy or slander purposes; Yale reserves the right to upgrade and make adjustments at any time. App upgrades may require a relevant upgrade on the users' equipment to the relevant operating system in order to access new functionality. Yale cannot guarantee support for old operating systems indefinitely. In addition, Yale retains the right to change or limit some of the functions on the App. The user accepts this and the possible impact of this. In cases where customer support requires access to your system, you could be prompted to temporarily change the password. It is your duty to immediately revert back the password after the support case has ended."
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S26",
+        "text": "This Legal Notice is effective as of date specified above and will remain in effect until further notice. We reserve the right to update or change our Legal Notice at any time and you should check this Legal Notice periodically. Your continued use of the Service after we post any modifications to the Legal Notice on this page will constitute your acknowledgment of the modifications and your consent to abide and be bound by the modified Legal Notice. If we make any material changes to this Legal Notice, we will notify you by placing a prominent notice on our website or in the app.",
+        "heading_path": [
+          "Privacy Notice",
+          "Changes to this Legal Notice"
+        ],
+        "links": [],
+        "html_ids": [],
+        "previous_segment_id": "S25",
+        "next_segment_id": "S27",
+        "previous_segment_text": "The security of your Personal Information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage, is 100% secure. While we strive to use commercially acceptable means to protect your Personal Information, we cannot guarantee its absolute security. We recommend that you never re-use any password or share your password with any third party to protect the security of your account. If you believe your account has been compromised, please notify Yale immediately. Yale cannot be held responsible for any losses resulting from your account being compromised.",
+        "extended_context": "Yale reserves the right to upgrade and make adjustments at any time. App upgrades may require a relevant upgrade on the users' equipment to the relevant operating system in order to access new functionality. Yale cannot guarantee support for old operating systems indefinitely. In addition, Yale retains the right to change or limit some of the functions on the App. The user accepts this and the possible impact of this. In cases where customer support requires access to your system, you could be prompted to temporarily change the password. It is your duty to immediately revert back the password after the support case has ended. The security of your Personal Information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage, is 100% secure. While we strive to use commercially acceptable means to protect your Personal Information, we cannot guarantee its absolute security. We recommend that you never re-use any password or share your password with any third party to protect the security of your account. If you believe your account has been compromised, please notify Yale immediately. Yale cannot be held responsible for any losses resulting from your account being compromised."
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S27",
+        "text": "This Legal Notice applies to the use of Yale App's to operate Yale smart products. In the event of any dispute all parties agree that the jurisdiction and laws of England & Wales will be applied.",
+        "heading_path": [
+          "Privacy Notice",
+          "Jurisdiction"
+        ],
+        "links": [],
+        "html_ids": [],
+        "previous_segment_id": "S26",
+        "next_segment_id": "S28",
+        "previous_segment_text": "This Legal Notice is effective as of date specified above and will remain in effect until further notice. We reserve the right to update or change our Legal Notice at any time and you should check this Legal Notice periodically. Your continued use of the Service after we post any modifications to the Legal Notice on this page will constitute your acknowledgment of the modifications and your consent to abide and be bound by the modified Legal Notice. If we make any material changes to this Legal Notice, we will notify you by placing a prominent notice on our website or in the app.",
+        "extended_context": "In cases where customer support requires access to your system, you could be prompted to temporarily change the password. It is your duty to immediately revert back the password after the support case has ended. The security of your Personal Information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage, is 100% secure. While we strive to use commercially acceptable means to protect your Personal Information, we cannot guarantee its absolute security. We recommend that you never re-use any password or share your password with any third party to protect the security of your account. If you believe your account has been compromised, please notify Yale immediately. Yale cannot be held responsible for any losses resulting from your account being compromised. This Legal Notice is effective as of date specified above and will remain in effect until further notice. We reserve the right to update or change our Legal Notice at any time and you should check this Legal Notice periodically. Your continued use of the Service after we post any modifications to the Legal Notice on this page will constitute your acknowledgment of the modifications and your consent to abide and be bound by the modified Legal Notice. If we make any material changes to this Legal Notice, we will notify you by placing a prominent notice on our website or in the app."
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S28",
+        "text": "If you have any questions about this Privacy and Legal Notice, please use our Privacy Contact Centre.",
+        "heading_path": [
+          "Privacy Notice",
+          "Contact us"
+        ],
+        "links": [
+          {
+            "text": "Privacy Contact Centre.",
+            "href": "https://yalehome.co.uk/contact-us",
+            "kind": "external"
+          }
+        ],
+        "html_ids": [],
+        "previous_segment_id": "S27",
+        "next_segment_id": "S29",
+        "previous_segment_text": "This Legal Notice applies to the use of Yale App's to operate Yale smart products. In the event of any dispute all parties agree that the jurisdiction and laws of England & Wales will be applied.",
+        "extended_context": "The security of your Personal Information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage, is 100% secure. While we strive to use commercially acceptable means to protect your Personal Information, we cannot guarantee its absolute security. We recommend that you never re-use any password or share your password with any third party to protect the security of your account. If you believe your account has been compromised, please notify Yale immediately. Yale cannot be held responsible for any losses resulting from your account being compromised. This Legal Notice is effective as of date specified above and will remain in effect until further notice. We reserve the right to update or change our Legal Notice at any time and you should check this Legal Notice periodically. Your continued use of the Service after we post any modifications to the Legal Notice on this page will constitute your acknowledgment of the modifications and your consent to abide and be bound by the modified Legal Notice. If we make any material changes to this Legal Notice, we will notify you by placing a prominent notice on our website or in the app. This Legal Notice applies to the use of Yale App's to operate Yale smart products. In the event of any dispute all parties agree that the jurisdiction and laws of England & Wales will be applied."
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [
+          {
+            "value": "Web page or online form",
+            "evidence": "please use our Privacy Contact Centre.",
+            "confidence": "extracted",
+            "id": "Yale:S28:channel:1",
+            "linked_ids": [],
+            "link": {
+              "url": "https://yalehome.co.uk/contact-us",
+              "kind": "external",
+              "visible_text": "Privacy Contact Centre."
+            }
+          }
+        ],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S29",
+        "text": "Get instant updates about our new products and promotions! Send",
+        "heading_path": [
+          "Privacy Notice",
+          "Contact us",
+          "Newsletter"
+        ],
+        "links": [],
+        "html_ids": [],
+        "previous_segment_id": "S28",
+        "next_segment_id": "S30",
+        "previous_segment_text": "If you have any questions about this Privacy and Legal Notice, please use our Privacy Contact Centre.",
+        "extended_context": "This Legal Notice is effective as of date specified above and will remain in effect until further notice. We reserve the right to update or change our Legal Notice at any time and you should check this Legal Notice periodically. Your continued use of the Service after we post any modifications to the Legal Notice on this page will constitute your acknowledgment of the modifications and your consent to abide and be bound by the modified Legal Notice. If we make any material changes to this Legal Notice, we will notify you by placing a prominent notice on our website or in the app. This Legal Notice applies to the use of Yale App's to operate Yale smart products. In the event of any dispute all parties agree that the jurisdiction and laws of England & Wales will be applied. If you have any questions about this Privacy and Legal Notice, please use our Privacy Contact Centre."
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S30",
+        "text": "© ASSA ABLOY Part of ASSA ABLOY Company Logo",
+        "heading_path": [
+          "Privacy Notice",
+          "Contact us",
+          "Complaints"
+        ],
+        "links": [
+          {
+            "text": "Part of ASSA ABLOY",
+            "href": "https://www.assaabloy.com/",
+            "kind": "external"
+          }
+        ],
+        "html_ids": [],
+        "previous_segment_id": "S29",
+        "next_segment_id": "S31",
+        "previous_segment_text": "Get instant updates about our new products and promotions! Send",
+        "extended_context": "This Legal Notice applies to the use of Yale App's to operate Yale smart products. In the event of any dispute all parties agree that the jurisdiction and laws of England & Wales will be applied. If you have any questions about this Privacy and Legal Notice, please use our Privacy Contact Centre. Get instant updates about our new products and promotions! Send"
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S31",
+        "text": "When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. However, blocking some types of cookies may impact your experience of the site and the services we are able to offer. More information Allow All",
+        "heading_path": [
+          "Privacy Notice",
+          "Privacy Preference Center"
+        ],
+        "links": [
+          {
+            "text": "More information",
+            "href": "https://cookiepedia.co.uk/giving-consent-to-cookies",
+            "kind": "external"
+          }
+        ],
+        "html_ids": [],
+        "previous_segment_id": "S30",
+        "next_segment_id": "S32",
+        "previous_segment_text": "© ASSA ABLOY Part of ASSA ABLOY Company Logo",
+        "extended_context": "If you have any questions about this Privacy and Legal Notice, please use our Privacy Contact Centre. Get instant updates about our new products and promotions! Send © ASSA ABLOY Part of ASSA ABLOY Company Logo"
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [
+          {
+            "value": "Change or withdraw consent",
+            "evidence": "you can choose not to allow some types of cookies",
+            "confidence": "extracted",
+            "id": "Yale:S31:choice:1"
+          }
+        ],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S32",
+        "text": "Functional These cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly. Cookies Details",
+        "heading_path": [
+          "Privacy Notice",
+          "Privacy Preference Center",
+          "Manage Consent Preferences",
+          "Functional"
+        ],
+        "links": [],
+        "html_ids": [],
+        "previous_segment_id": "S31",
+        "next_segment_id": "S33",
+        "previous_segment_text": "When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. However, blocking some types of cookies may impact your experience of the site and the services we are able to offer. More information Allow All",
+        "extended_context": "Get instant updates about our new products and promotions! Send © ASSA ABLOY Part of ASSA ABLOY Company Logo When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. However, blocking some types of cookies may impact your experience of the site and the services we are able to offer. More information Allow All"
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S33",
+        "text": "Performance These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors interact with our website through behavioral metrics, heatmaps, and session replay. All information these cookies collect is aggregated and therefore anonymous. Use of session replay functionality is also anonymised. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance. Cookies Details",
+        "heading_path": [
+          "Privacy Notice",
+          "Privacy Preference Center",
+          "Manage Consent Preferences",
+          "Performance"
+        ],
+        "links": [],
+        "html_ids": [],
+        "previous_segment_id": "S32",
+        "next_segment_id": "S34",
+        "previous_segment_text": "Functional These cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly. Cookies Details",
+        "extended_context": "© ASSA ABLOY Part of ASSA ABLOY Company Logo When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. However, blocking some types of cookies may impact your experience of the site and the services we are able to offer. More information Allow All Functional These cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly. Cookies Details"
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S34",
+        "text": "Marketing These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. Most marketing cookies we use do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you purchase something from our site and allow marketing cookies, we may share your email and phone number in a securely hashed format with Google to allow us to more accurately attribute sales to our adverts and better understand which marketing channels are most effective. If you do not allow these cookies, you will experience less targeted advertising. Cookies Details",
+        "heading_path": [
+          "Privacy Notice",
+          "Privacy Preference Center",
+          "Manage Consent Preferences",
+          "Marketing"
+        ],
+        "links": [],
+        "html_ids": [],
+        "previous_segment_id": "S33",
+        "next_segment_id": "S35",
+        "previous_segment_text": "Performance These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors interact with our website through behavioral metrics, heatmaps, and session replay. All information these cookies collect is aggregated and therefore anonymous. Use of session replay functionality is also anonymised. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance. Cookies Details",
+        "extended_context": "When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. However, blocking some types of cookies may impact your experience of the site and the services we are able to offer. More information Allow All Functional These cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly. Cookies Details Performance These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors interact with our website through behavioral metrics, heatmaps, and session replay. All information these cookies collect is aggregated and therefore anonymous. Use of session replay functionality is also anonymised. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance. Cookies Details"
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S35",
+        "text": "Always Active These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information. Cookies Details Back Button",
+        "heading_path": [
+          "Privacy Notice",
+          "Privacy Preference Center",
+          "Manage Consent Preferences",
+          "Essential"
+        ],
+        "links": [],
+        "html_ids": [],
+        "previous_segment_id": "S34",
+        "next_segment_id": "S36",
+        "previous_segment_text": "Marketing These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. Most marketing cookies we use do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you purchase something from our site and allow marketing cookies, we may share your email and phone number in a securely hashed format with Google to allow us to more accurately attribute sales to our adverts and better understand which marketing channels are most effective. If you do not allow these cookies, you will experience less targeted advertising. Cookies Details",
+        "extended_context": "Functional These cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly. Cookies Details Performance These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors interact with our website through behavioral metrics, heatmaps, and session replay. All information these cookies collect is aggregated and therefore anonymous. Use of session replay functionality is also anonymised. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance. Cookies Details Marketing These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. Most marketing cookies we use do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you purchase something from our site and allow marketing cookies, we may share your email and phone number in a securely hashed format with Google to allow us to more accurately attribute sales to our adverts and better understand which marketing channels are most effective. If you do not allow these cookies, you will experience less targeted advertising. Cookies Details"
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S36",
+        "text": "Search Icon Filter Icon Clear checkbox label label Apply Cancel Consent Leg.Interest checkbox label label checkbox label label checkbox label label Confirm My Choices Powered by Onetrust",
+        "heading_path": [
+          "Privacy Notice",
+          "Privacy Preference Center",
+          "Cookie List"
+        ],
+        "links": [],
+        "html_ids": [],
+        "previous_segment_id": "S35",
+        "next_segment_id": null,
+        "previous_segment_text": "Always Active These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information. Cookies Details Back Button",
+        "extended_context": "Performance These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors interact with our website through behavioral metrics, heatmaps, and session replay. All information these cookies collect is aggregated and therefore anonymous. Use of session replay functionality is also anonymised. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance. Cookies Details Marketing These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. Most marketing cookies we use do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you purchase something from our site and allow marketing cookies, we may share your email and phone number in a securely hashed format with Google to allow us to more accurately attribute sales to our adverts and better understand which marketing channels are most effective. If you do not allow these cookies, you will experience less targeted advertising. Cookies Details Always Active These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information. Cookies Details Back Button"
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    }
+  ]
+}

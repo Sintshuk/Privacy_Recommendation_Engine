@@ -1,0 +1,30 @@
+{
+  "policy": "Ultrahuman",
+  "rows": [
+    {
+      "segment": {
+        "id": "S1",
+        "text": "Browse through our products and find something for you. Back to browse Instant WhatsApp Support Pre-Purchase Consultation chat_bot_icon",
+        "heading_path": [
+          "Your cart is empty"
+        ],
+        "links": [],
+        "html_ids": [
+          "__next",
+          "main-content"
+        ],
+        "previous_segment_id": null,
+        "next_segment_id": null,
+        "previous_segment_text": "",
+        "extended_context": ""
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    }
+  ]
+}

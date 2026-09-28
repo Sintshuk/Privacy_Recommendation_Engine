@@ -1,0 +1,1352 @@
+{
+  "policy": "Verisure",
+  "rows": [
+    {
+      "segment": {
+        "id": "S1",
+        "text": "Verisure Desktop Hero Expert alarm monitoring team icon Expert alarm monitoring team icon Are you a business customer of Verisure? Expert alarm monitoring team icon Expert alarm monitoring team icon Are you a visitor to a business customer of Verisure? Expert alarm monitoring team icon Expert alarm monitoring team icon Camera guidance for business customers Expert alarm monitoring team icon Expert alarm monitoring team icon Are you a residential customer of Verisure? Expert alarm monitoring team icon Expert alarm monitoring team icon Are you a visitor to a residential customer of Verisure? Expert alarm monitoring team icon Expert alarm monitoring team icon Camera guidance for residential customers",
+        "heading_path": [
+          "Privacy",
+          "Page"
+        ],
+        "links": [
+          {
+            "text": "Are you a business customer of Verisure?",
+            "href": "https://www.verisure.co.uk/privacy-page#business",
+            "kind": "external"
+          },
+          {
+            "text": "Are you a visitor to a business customer of Verisure?",
+            "href": "https://www.verisure.co.uk/privacy-page#business-visitor",
+            "kind": "external"
+          },
+          {
+            "text": "Camera guidance for business customers",
+            "href": "https://www.verisure.co.uk/privacy-page#business-camera-guidance",
+            "kind": "external"
+          },
+          {
+            "text": "Are you a residential customer of Verisure?",
+            "href": "https://www.verisure.co.uk/privacy-page#residential",
+            "kind": "external"
+          },
+          {
+            "text": "Are you a visitor to a residential customer of Verisure?",
+            "href": "https://www.verisure.co.uk/privacy-page#residential-visitor",
+            "kind": "external"
+          },
+          {
+            "text": "Camera guidance for residential customers",
+            "href": "https://www.verisure.co.uk/privacy-page#residential-camera-guidance",
+            "kind": "external"
+          }
+        ],
+        "html_ids": [],
+        "previous_segment_id": null,
+        "next_segment_id": "S2",
+        "previous_segment_text": "",
+        "extended_context": ""
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S2",
+        "text": "If you are a business representative or an assigned user General information and the scope of this Privacy Notice Your right to data protection is very important for us at Verisure. We aim to ensure that you feel comfortable about our processing of your personal data. The purpose of this privacy notice (\" Privacy Notice \") is to provide information about how we ensure that your personal data is processed in compliance with applicable data protection legislation. This Privacy Notice concerns the processing of personal data when a business customer (\" Business Customer \") uses our services, including our products provided for the delivery of our security alarm monitoring services, devices and cameras, including the provision of our App (\" Services \"). As such, this Privacy Notice applies to you as the representative of our business customers (\" Business Representative \") and, when applicable, you as a user assigned by our Business Customer (\" Assigned User \") who uses our Services. The Business Customer is asked to ensure that this Privacy Notice is shared with their Business Representatives and Assigned Users. If you are a Residential Customer, please find the applicable Privacy Notice here. If you visit a business premises using Verisure Services, please find the applicable Privacy Notice here. If you visit a residential premises using Verisure Services, please find the applicable Privacy Notice here. Verisure is the data controller for the processing of your personal data in accordance with this Privacy Notice and we are thus responsible for ensuring that our processing of personal data complies with applicable data protection legislation. For certain processing of personal data, the Business Customer is the data controller, either independently or jointly with Verisure. When we are processing personal data as a data controller, we ensure that applicable data protection legislation is always complied with and that we only process your personal data for the purposes described in this Privacy Notice. Verisure entities have implemented an Intra-Group Agreement to comply with the legal requirements for personal data transfers. The agreement will ensure that the sharing and transfer of personal data between the entities are lawful. Additionally, the Intra-Group Agreement will ensure the lawful transfers of personal data from the EEA to non-EEA countries.",
+        "heading_path": [
+          "Privacy",
+          "Page",
+          "You are a business customer of Verisure",
+          "Summary - Privacy Notice for Business Customers"
+        ],
+        "links": [
+          {
+            "text": "here",
+            "href": "https://www.verisure.co.uk/privacy-page#residential",
+            "kind": "external"
+          },
+          {
+            "text": "here",
+            "href": "https://www.verisure.co.uk/privacy-page#business-visitor",
+            "kind": "external"
+          },
+          {
+            "text": "here",
+            "href": "https://www.verisure.co.uk/privacy-page#residential-visitor",
+            "kind": "external"
+          }
+        ],
+        "html_ids": [],
+        "previous_segment_id": "S1",
+        "next_segment_id": "S3",
+        "previous_segment_text": "Verisure Desktop Hero Expert alarm monitoring team icon Expert alarm monitoring team icon Are you a business customer of Verisure? Expert alarm monitoring team icon Expert alarm monitoring team icon Are you a visitor to a business customer of Verisure? Expert alarm monitoring team icon Expert alarm monitoring team icon Camera guidance for business customers Expert alarm monitoring team icon Expert alarm monitoring team icon Are you a residential customer of Verisure? Expert alarm monitoring team icon Expert alarm monitoring team icon Are you a visitor to a residential customer of Verisure? Expert alarm monitoring team icon Expert alarm monitoring team icon Camera guidance for residential customers",
+        "extended_context": "Verisure Desktop Hero Expert alarm monitoring team icon Expert alarm monitoring team icon Are you a business customer of Verisure? Expert alarm monitoring team icon Expert alarm monitoring team icon Are you a visitor to a business customer of Verisure? Expert alarm monitoring team icon Expert alarm monitoring team icon Camera guidance for business customers Expert alarm monitoring team icon Expert alarm monitoring team icon Are you a residential customer of Verisure? Expert alarm monitoring team icon Expert alarm monitoring team icon Are you a visitor to a residential customer of Verisure? Expert alarm monitoring team icon Expert alarm monitoring team icon Camera guidance for residential customers"
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S3",
+        "text": "Due to the international nature of its business, Verisure Services (UK) Limited may, in the ordinary course of business, transfer personal data to other Verisure entities which are companies that fall within the Verisure Group as defined in the Intra-Group Agreement. These Verisure entities are affiliates, and they may share personal data during the operation of their businesses. For example, in order to manage and deliver related services, they may need to collect, access, process, and/or transfer (collectively, \"transfers\") personal data about Verisure Services (UK) Limited's customers. For more information about the Services which you have chosen to use and the functionality of those Services, please refer to Verisure's General Terms and Conditions, Terms of Service as well as available instructions and manuals. Our Data Processing Agreement (Appendix I and II - Data Processing Agreement and Joint Controller Arrangement) can be found here. How and why we process your personal data We only process your personal data if the processing is necessary to fulfil the purposes of the processing described below. We process your personal data for the following purposes:",
+        "heading_path": [
+          "Privacy",
+          "Page",
+          "You are a business customer of Verisure",
+          "Summary - Privacy Notice for Business Customers"
+        ],
+        "links": [
+          {
+            "text": "here",
+            "href": "https://www.verisure.co.uk/sites/uk/files/flmngr/Editor/PDF/Appendix-I-II-Data-Processing-Agreement-and-Joint-Controller-Arrangement.pdf",
+            "kind": "external"
+          }
+        ],
+        "html_ids": [],
+        "previous_segment_id": "S2",
+        "next_segment_id": "S4",
+        "previous_segment_text": "If you are a business representative or an assigned user General information and the scope of this Privacy Notice Your right to data protection is very important for us at Verisure. We aim to ensure that you feel comfortable about our processing of your personal data. The purpose of this privacy notice (\" Privacy Notice \") is to provide information about how we ensure that your personal data is processed in compliance with applicable data protection legislation. This Privacy Notice concerns the processing of personal data when a business customer (\" Business Customer \") uses our services, including our products provided for the delivery of our security alarm monitoring services, devices and cameras, including the provision of our App (\" Services \"). As such, this Privacy Notice applies to you as the representative of our business customers (\" Business Representative \") and, when applicable, you as a user assigned by our Business Customer (\" Assigned User \") who uses our Services. The Business Customer is asked to ensure that this Privacy Notice is shared with their Business Representatives and Assigned Users. If you are a Residential Customer, please find the applicable Privacy Notice here. If you visit a business premises using Verisure Services, please find the applicable Privacy Notice here. If you visit a residential premises using Verisure Services, please find the applicable Privacy Notice here. Verisure is the data controller for the processing of your personal data in accordance with this Privacy Notice and we are thus responsible for ensuring that our processing of personal data complies with applicable data protection legislation. For certain processing of personal data, the Business Customer is the data controller, either independently or jointly with Verisure. When we are processing personal data as a data controller, we ensure that applicable data protection legislation is always complied with and that we only process your personal data for the purposes described in this Privacy Notice. Verisure entities have implemented an Intra-Group Agreement to comply with the legal requirements for personal data transfers. The agreement will ensure that the sharing and transfer of personal data between the entities are lawful. Additionally, the Intra-Group Agreement will ensure the lawful transfers of personal data from the EEA to non-EEA countries.",
+        "extended_context": "Verisure Desktop Hero Expert alarm monitoring team icon Expert alarm monitoring team icon Are you a business customer of Verisure? Expert alarm monitoring team icon Expert alarm monitoring team icon Are you a visitor to a business customer of Verisure? Expert alarm monitoring team icon Expert alarm monitoring team icon Camera guidance for business customers Expert alarm monitoring team icon Expert alarm monitoring team icon Are you a residential customer of Verisure? Expert alarm monitoring team icon Expert alarm monitoring team icon Are you a visitor to a residential customer of Verisure? Expert alarm monitoring team icon Expert alarm monitoring team icon Camera guidance for residential customers If you are a business representative or an assigned user General information and the scope of this Privacy Notice Your right to data protection is very important for us at Verisure. We aim to ensure that you feel comfortable about our processing of your personal data. The purpose of this privacy notice (\" Privacy Notice \") is to provide information about how we ensure that your personal data is processed in compliance with applicable data protection legislation. This Privacy Notice concerns the processing of personal data when a business customer (\" Business Customer \") uses our services, including our products provided for the delivery of our security alarm monitoring services, devices and cameras, including the provision of our App (\" Services \"). As such, this Privacy Notice applies to you as the representative of our business customers (\" Business Representative \") and, when applicable, you as a user assigned by our Business Customer (\" Assigned User \") who uses our Services. The Business Customer is asked to ensure that this Privacy Notice is shared with their Business Representatives and Assigned Users. If you are a Residential Customer, please find the applicable Privacy Notice here. If you visit a business premises using Verisure Services, please find the applicable Privacy Notice here. If you visit a residential premises using Verisure Services, please find the applicable Privacy Notice here. Verisure is the data controller for the processing of your personal data in accordance with this Privacy Notice and we are thus responsible for ensuring that our processing of personal data complies with applicable data protection legislation. For certain processing of personal data, the Business Customer is the data controller, either independently or jointly with Verisure. When we are processing personal data as a data controller, we ensure that applicable data protection legislation is always complied with and that we only process your personal data for the purposes described in this Privacy Notice. Verisure entities have implemented an Intra-Group Agreement to comply with the legal requirements for personal data transfers. The agreement will ensure that the sharing and transfer of personal data between the entities are lawful. Additionally, the Intra-Group Agreement will ensure the lawful transfers of personal data from the EEA to non-EEA countries."
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": [
+          {
+            "attribute": "reference",
+            "evidence": "For more information about the Services which you have chosen to use and the functionality of those Services, please refer to Verisure's General Terms and Conditions, Terms of Service as well as available instructions and manuals.",
+            "target_text": "Verisure's General Terms and Conditions, Terms of Service as well as available instructions and manuals",
+            "reason": "reference_target_not_rights_relevant"
+          },
+          {
+            "attribute": "reference",
+            "evidence": "Our Data Processing Agreement (Appendix I and II - Data Processing Agreement and Joint Controller Arrangement) can be found here.",
+            "target_text": "Appendix I and II - Data Processing Agreement and Joint Controller Arrangement",
+            "reason": "not_an_unresolved_reference"
+          }
+        ]
+      }
+    },
+    {
+      "segment": {
+        "id": "S4",
+        "text": "1. Establishment and maintenance of the customer relationship 1. To enter into a contract with the Business Customer 2. To administer the contract with the Business Customers, including payments for Services 3. To administer and enable the existing and returning customer relationship with the utmost care 2. Provision of Services 1. To monitor the premises through the Services 2. To manage alarm triggering events 3. To follow up previous alarm triggering events 4. To ensure that we meet our legal obligations in respect of previously active customers 3. Provision of support to the Business Customers in relation to the Services 1. To provide customer service and technical support in relation to our Services 2. To assist Business Customers in case of an insurance claim or other legal claims 3. To handle customer complaints 4. To cooperate with law enforcement or regulators to fight crime, comply with our legal obligations or protect the security interests of our Business Customers 4. Development of Verisure's Services 1. Quality assurance 2. Training of Verisure's personnel 3. Development of Verisure's Services 4. To train an AI model used for the purpose of developing Verisure's Services (training and development of new products and services) 5. Provision of Verisure App and Customer Area 6. Provision of the Verisure web shop 1. To provide and administer the Business Customer's orders in our online shop 7. Marketing and analytics 1. To market our Services 2. To administer and analyse our campaigns, promotions, referral programmes, etc. or perform marketing analysis 8. Verisure's legal interests 1. To comply with our legal obligations 2. To enable restructurings or mergers of the business 3. To protect our legal interests in the event of a dispute Complete information about how we process your personal data, including information about the applicable legal bases, the recipients of your personal data, international transfers of personal data and the criteria used to determine applicable retention periods is available here. Your rights",
+        "heading_path": [
+          "Privacy",
+          "Page",
+          "You are a business customer of Verisure",
+          "Summary - Privacy Notice for Business Customers"
+        ],
+        "links": [
+          {
+            "text": "here",
+            "href": "https://www.verisure.co.uk/privacy-notice",
+            "kind": "external"
+          }
+        ],
+        "html_ids": [
+          "business-purposes-1",
+          "business-purposes-6"
+        ],
+        "previous_segment_id": "S3",
+        "next_segment_id": "S5",
+        "previous_segment_text": "Due to the international nature of its business, Verisure Services (UK) Limited may, in the ordinary course of business, transfer personal data to other Verisure entities which are companies that fall within the Verisure Group as defined in the Intra-Group Agreement. These Verisure entities are affiliates, and they may share personal data during the operation of their businesses. For example, in order to manage and deliver related services, they may need to collect, access, process, and/or transfer (collectively, \"transfers\") personal data about Verisure Services (UK) Limited's customers. For more information about the Services which you have chosen to use and the functionality of those Services, please refer to Verisure's General Terms and Conditions, Terms of Service as well as available instructions and manuals. Our Data Processing Agreement (Appendix I and II - Data Processing Agreement and Joint Controller Arrangement) can be found here. How and why we process your personal data We only process your personal data if the processing is necessary to fulfil the purposes of the processing described below. We process your personal data for the following purposes:",
+        "extended_context": "Verisure Desktop Hero Expert alarm monitoring team icon Expert alarm monitoring team icon Are you a business customer of Verisure? Expert alarm monitoring team icon Expert alarm monitoring team icon Are you a visitor to a business customer of Verisure? Expert alarm monitoring team icon Expert alarm monitoring team icon Camera guidance for business customers Expert alarm monitoring team icon Expert alarm monitoring team icon Are you a residential customer of Verisure? Expert alarm monitoring team icon Expert alarm monitoring team icon Are you a visitor to a residential customer of Verisure? Expert alarm monitoring team icon Expert alarm monitoring team icon Camera guidance for residential customers If you are a business representative or an assigned user General information and the scope of this Privacy Notice Your right to data protection is very important for us at Verisure. We aim to ensure that you feel comfortable about our processing of your personal data. The purpose of this privacy notice (\" Privacy Notice \") is to provide information about how we ensure that your personal data is processed in compliance with applicable data protection legislation. This Privacy Notice concerns the processing of personal data when a business customer (\" Business Customer \") uses our services, including our products provided for the delivery of our security alarm monitoring services, devices and cameras, including the provision of our App (\" Services \"). As such, this Privacy Notice applies to you as the representative of our business customers (\" Business Representative \") and, when applicable, you as a user assigned by our Business Customer (\" Assigned User \") who uses our Services. The Business Customer is asked to ensure that this Privacy Notice is shared with their Business Representatives and Assigned Users. If you are a Residential Customer, please find the applicable Privacy Notice here. If you visit a business premises using Verisure Services, please find the applicable Privacy Notice here. If you visit a residential premises using Verisure Services, please find the applicable Privacy Notice here. Verisure is the data controller for the processing of your personal data in accordance with this Privacy Notice and we are thus responsible for ensuring that our processing of personal data complies with applicable data protection legislation. For certain processing of personal data, the Business Customer is the data controller, either independently or jointly with Verisure. When we are processing personal data as a data controller, we ensure that applicable data protection legislation is always complied with and that we only process your personal data for the purposes described in this Privacy Notice. Verisure entities have implemented an Intra-Group Agreement to comply with the legal requirements for personal data transfers. The agreement will ensure that the sharing and transfer of personal data between the entities are lawful. Additionally, the Intra-Group Agreement will ensure the lawful transfers of personal data from the EEA to non-EEA countries. Due to the international nature of its business, Verisure Services (UK) Limited may, in the ordinary course of business, transfer personal data to other Verisure entities which are companies that fall within the Verisure Group as defined in the Intra-Group Agreement. These Verisure entities are affiliates, and they may share personal data during the operation of their businesses. For example, in order to manage and deliver related services, they may need to collect, access, process, and/or transfer (collectively, \"transfers\") personal data about Verisure Services (UK) Limited's customers. For more information about the Services which you have chosen to use and the functionality of those Services, please refer to Verisure's General Terms and Conditions, Terms of Service as well as available instructions and manuals. Our Data Processing Agreement (Appendix I and II - Data Processing Agreement and Joint Controller Arrangement) can be found here. How and why we process your personal data We only process your personal data if the processing is necessary to fulfil the purposes of the processing described below. We process your personal data for the following purposes:"
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": [
+          {
+            "attribute": "reference",
+            "evidence": "Complete information about how we process your personal data, including information about the applicable legal bases, the recipients of your personal data, international transfers of personal data and the criteria used to determine applicable retention periods is available here.",
+            "target_text": "https://www.verisure.co.uk/privacy-notice",
+            "reason": "not_an_unresolved_reference"
+          }
+        ]
+      }
+    },
+    {
+      "segment": {
+        "id": "S5",
+        "text": "You have the right to be informed about which personal data relating to you we process and what we do with your personal data. You also have the right of access to your personal data and the right to complain to us if you think we have not handled personal data responsibly and in line with good practice. In certain situations you also have the right to have your personal data erased, to request restriction of the processing of your personal data, the right to data portability, the right not to be subject to a decision based on automatic processing as well as the right to object to our processing of your personal data. If we process your personal data based on your consent, you always have the right to withdraw your consent. If you believe that we have processed your data in an unlawful manner, or you are dissatisfied about how we have responded to your request or complaint, you have the right to lodge a complaint with the United Kingdom's Information Commissioner's Office whose contact details are: Information Commissioner's Office, Wycliffe House, Water Lane, Wilmslow, Cheshire, SK9 5AF Telephone: 0303 123 1113. Contact details If you have any questions regarding this Privacy Notice, our processing of your personal data or if you wish to exercise your rights, please do not hesitate to contact us: Verisure Services (UK) Limited, company registration number 08840095 Postal address: Q12 Quorum Business Park, Benton Lane, Newcastle Upon Tyne, Tyne and Wear, NE12 8BU E-mail: dataprotection@verisure.co.uk Data Subject Request Form: Click Here Website: www.verisure.co.uk",
+        "heading_path": [
+          "Privacy",
+          "Page",
+          "You are a business customer of Verisure",
+          "Summary - Privacy Notice for Business Customers"
+        ],
+        "links": [
+          {
+            "text": "dataprotection@verisure.co.uk",
+            "href": "mailto:dataprotection@verisure.co.uk",
+            "kind": "email"
+          },
+          {
+            "text": "Click Here",
+            "href": "https://privacyportal-de.onetrust.com/webform/440f8dbd-7e3d-4580-9d61-d51b763da1ca/f3558dec-5d87-4f12-b5ef-8bb6d482f95d",
+            "kind": "external"
+          },
+          {
+            "text": "www.verisure.co.uk",
+            "href": "https://www.verisure.co.uk/",
+            "kind": "external"
+          }
+        ],
+        "html_ids": [
+          "business-rights-7",
+          "business-visitor-rights-6",
+          "residential-rights-9-7",
+          "residential-visitor-rights-6"
+        ],
+        "previous_segment_id": "S4",
+        "next_segment_id": "S6",
+        "previous_segment_text": "1. Establishment and maintenance of the customer relationship 1. To enter into a contract with the Business Customer 2. To administer the contract with the Business Customers, including payments for Services 3. To administer and enable the existing and returning customer relationship with the utmost care 2. Provision of Services 1. To monitor the premises through the Services 2. To manage alarm triggering events 3. To follow up previous alarm triggering events 4. To ensure that we meet our legal obligations in respect of previously active customers 3. Provision of support to the Business Customers in relation to the Services 1. To provide customer service and technical support in relation to our Services 2. To assist Business Customers in case of an insurance claim or other legal claims 3. To handle customer complaints 4. To cooperate with law enforcement or regulators to fight crime, comply with our legal obligations or protect the security interests of our Business Customers 4. Development of Verisure's Services 1. Quality assurance 2. Training of Verisure's personnel 3. Development of Verisure's Services 4. To train an AI model used for the purpose of developing Verisure's Services (training and development of new products and services) 5. Provision of Verisure App and Customer Area 6. Provision of the Verisure web shop 1. To provide and administer the Business Customer's orders in our online shop 7. Marketing and analytics 1. To market our Services 2. To administer and analyse our campaigns, promotions, referral programmes, etc. or perform marketing analysis 8. Verisure's legal interests 1. To comply with our legal obligations 2. To enable restructurings or mergers of the business 3. To protect our legal interests in the event of a dispute Complete information about how we process your personal data, including information about the applicable legal bases, the recipients of your personal data, international transfers of personal data and the criteria used to determine applicable retention periods is available here. Your rights",
+        "extended_context": "If you are a business representative or an assigned user General information and the scope of this Privacy Notice Your right to data protection is very important for us at Verisure. We aim to ensure that you feel comfortable about our processing of your personal data. The purpose of this privacy notice (\" Privacy Notice \") is to provide information about how we ensure that your personal data is processed in compliance with applicable data protection legislation. This Privacy Notice concerns the processing of personal data when a business customer (\" Business Customer \") uses our services, including our products provided for the delivery of our security alarm monitoring services, devices and cameras, including the provision of our App (\" Services \"). As such, this Privacy Notice applies to you as the representative of our business customers (\" Business Representative \") and, when applicable, you as a user assigned by our Business Customer (\" Assigned User \") who uses our Services. The Business Customer is asked to ensure that this Privacy Notice is shared with their Business Representatives and Assigned Users. If you are a Residential Customer, please find the applicable Privacy Notice here. If you visit a business premises using Verisure Services, please find the applicable Privacy Notice here. If you visit a residential premises using Verisure Services, please find the applicable Privacy Notice here. Verisure is the data controller for the processing of your personal data in accordance with this Privacy Notice and we are thus responsible for ensuring that our processing of personal data complies with applicable data protection legislation. For certain processing of personal data, the Business Customer is the data controller, either independently or jointly with Verisure. When we are processing personal data as a data controller, we ensure that applicable data protection legislation is always complied with and that we only process your personal data for the purposes described in this Privacy Notice. Verisure entities have implemented an Intra-Group Agreement to comply with the legal requirements for personal data transfers. The agreement will ensure that the sharing and transfer of personal data between the entities are lawful. Additionally, the Intra-Group Agreement will ensure the lawful transfers of personal data from the EEA to non-EEA countries. Due to the international nature of its business, Verisure Services (UK) Limited may, in the ordinary course of business, transfer personal data to other Verisure entities which are companies that fall within the Verisure Group as defined in the Intra-Group Agreement. These Verisure entities are affiliates, and they may share personal data during the operation of their businesses. For example, in order to manage and deliver related services, they may need to collect, access, process, and/or transfer (collectively, \"transfers\") personal data about Verisure Services (UK) Limited's customers. For more information about the Services which you have chosen to use and the functionality of those Services, please refer to Verisure's General Terms and Conditions, Terms of Service as well as available instructions and manuals. Our Data Processing Agreement (Appendix I and II - Data Processing Agreement and Joint Controller Arrangement) can be found here. How and why we process your personal data We only process your personal data if the processing is necessary to fulfil the purposes of the processing described below. We process your personal data for the following purposes: 1. Establishment and maintenance of the customer relationship 1. To enter into a contract with the Business Customer 2. To administer the contract with the Business Customers, including payments for Services 3. To administer and enable the existing and returning customer relationship with the utmost care 2. Provision of Services 1. To monitor the premises through the Services 2. To manage alarm triggering events 3. To follow up previous alarm triggering events 4. To ensure that we meet our legal obligations in respect of previously active customers 3. Provision of support to the Business Customers in relation to the Services 1. To provide customer service and technical support in relation to our Services 2. To assist Business Customers in case of an insurance claim or other legal claims 3. To handle customer complaints 4. To cooperate with law enforcement or regulators to fight crime, comply with our legal obligations or protect the security interests of our Business Customers 4. Development of Verisure's Services 1. Quality assurance 2. Training of Verisure's personnel 3. Development of Verisure's Services 4. To train an AI model used for the purpose of developing Verisure's Services (training and development of new products and services) 5. Provision of Verisure App and Customer Area 6. Provision of the Verisure web shop 1. To provide and administer the Business Customer's orders in our online shop 7. Marketing and analytics 1. To market our Services 2. To administer and analyse our campaigns, promotions, referral programmes, etc. or perform marketing analysis 8. Verisure's legal interests 1. To comply with our legal obligations 2. To enable restructurings or mergers of the business 3. To protect our legal interests in the event of a dispute Complete information about how we process your personal data, including information about the applicable legal bases, the recipients of your personal data, international transfers of personal data and the criteria used to determine applicable retention periods is available here. Your rights"
+      },
+      "result": {
+        "right_type": [
+          {
+            "value": "Right of access",
+            "evidence": "You also have the right of access to your personal data",
+            "confidence": "extracted",
+            "id": "Verisure:S5:right:1"
+          },
+          {
+            "value": "Right to erasure",
+            "evidence": "you also have the right to have your personal data erased",
+            "confidence": "extracted",
+            "id": "Verisure:S5:right:2"
+          },
+          {
+            "value": "Right to restriction of processing",
+            "evidence": "to request restriction of the processing of your personal data",
+            "confidence": "extracted",
+            "id": "Verisure:S5:right:3"
+          },
+          {
+            "value": "Right to data portability",
+            "evidence": "the right to data portability",
+            "confidence": "extracted",
+            "id": "Verisure:S5:right:4"
+          },
+          {
+            "value": "Right to not be subject to automated decision-making (to profiling)",
+            "evidence": "the right not to be subject to a decision based on automatic processing",
+            "confidence": "extracted",
+            "id": "Verisure:S5:right:5"
+          },
+          {
+            "value": "Right to object",
+            "evidence": "the right to object to our processing of your personal data",
+            "confidence": "extracted",
+            "id": "Verisure:S5:right:6"
+          }
+        ],
+        "choice_type": [
+          {
+            "value": "Change or withdraw consent",
+            "evidence": "you always have the right to withdraw your consent",
+            "confidence": "extracted",
+            "id": "Verisure:S5:choice:1"
+          },
+          {
+            "value": "Lodge a complaint",
+            "evidence": "the right to complain to us if you think we have not handled personal data responsibly and in line with good practice",
+            "confidence": "extracted",
+            "id": "Verisure:S5:choice:2"
+          }
+        ],
+        "request_channel": [
+          {
+            "value": "Request by email",
+            "evidence": "E-mail: dataprotection@verisure.co.uk",
+            "confidence": "extracted",
+            "id": "Verisure:S5:channel:1",
+            "linked_ids": [
+              "Verisure:S5:right:1",
+              "Verisure:S5:right:2",
+              "Verisure:S5:right:3",
+              "Verisure:S5:right:4",
+              "Verisure:S5:right:5",
+              "Verisure:S5:right:6",
+              "Verisure:S5:choice:1",
+              "Verisure:S5:choice:2"
+            ],
+            "link": {
+              "url": "mailto:dataprotection@verisure.co.uk",
+              "kind": "email",
+              "visible_text": "dataprotection@verisure.co.uk"
+            }
+          },
+          {
+            "value": "Web page or online form",
+            "evidence": "Data Subject Request Form: Click Here",
+            "confidence": "extracted",
+            "id": "Verisure:S5:channel:2",
+            "linked_ids": [
+              "Verisure:S5:right:1",
+              "Verisure:S5:right:2",
+              "Verisure:S5:right:3",
+              "Verisure:S5:right:4",
+              "Verisure:S5:right:5",
+              "Verisure:S5:right:6",
+              "Verisure:S5:choice:1",
+              "Verisure:S5:choice:2"
+            ],
+            "link": {
+              "url": "https://privacyportal-de.onetrust.com/webform/440f8dbd-7e3d-4580-9d61-d51b763da1ca/f3558dec-5d87-4f12-b5ef-8bb6d482f95d",
+              "kind": "external",
+              "visible_text": "Click Here"
+            }
+          },
+          {
+            "value": "Request by post",
+            "evidence": "Postal address: Q12 Quorum Business Park, Benton Lane, Newcastle Upon Tyne, Tyne and Wear, NE12 8BU",
+            "confidence": "extracted",
+            "id": "Verisure:S5:channel:3",
+            "linked_ids": [
+              "Verisure:S5:right:1",
+              "Verisure:S5:right:2",
+              "Verisure:S5:right:3",
+              "Verisure:S5:right:4",
+              "Verisure:S5:right:5",
+              "Verisure:S5:right:6",
+              "Verisure:S5:choice:1",
+              "Verisure:S5:choice:2"
+            ],
+            "link": null
+          }
+        ],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S6",
+        "text": "If you are a business representative or an assigned user",
+        "heading_path": [
+          "Privacy",
+          "Page",
+          "You are a business customer of Verisure",
+          "Complete Privacy Notice for Business Customers"
+        ],
+        "links": [],
+        "html_ids": [],
+        "previous_segment_id": "S5",
+        "next_segment_id": "S7",
+        "previous_segment_text": "You have the right to be informed about which personal data relating to you we process and what we do with your personal data. You also have the right of access to your personal data and the right to complain to us if you think we have not handled personal data responsibly and in line with good practice. In certain situations you also have the right to have your personal data erased, to request restriction of the processing of your personal data, the right to data portability, the right not to be subject to a decision based on automatic processing as well as the right to object to our processing of your personal data. If we process your personal data based on your consent, you always have the right to withdraw your consent. If you believe that we have processed your data in an unlawful manner, or you are dissatisfied about how we have responded to your request or complaint, you have the right to lodge a complaint with the United Kingdom's Information Commissioner's Office whose contact details are: Information Commissioner's Office, Wycliffe House, Water Lane, Wilmslow, Cheshire, SK9 5AF Telephone: 0303 123 1113. Contact details If you have any questions regarding this Privacy Notice, our processing of your personal data or if you wish to exercise your rights, please do not hesitate to contact us: Verisure Services (UK) Limited, company registration number 08840095 Postal address: Q12 Quorum Business Park, Benton Lane, Newcastle Upon Tyne, Tyne and Wear, NE12 8BU E-mail: dataprotection@verisure.co.uk Data Subject Request Form: Click Here Website: www.verisure.co.uk",
+        "extended_context": "Due to the international nature of its business, Verisure Services (UK) Limited may, in the ordinary course of business, transfer personal data to other Verisure entities which are companies that fall within the Verisure Group as defined in the Intra-Group Agreement. These Verisure entities are affiliates, and they may share personal data during the operation of their businesses. For example, in order to manage and deliver related services, they may need to collect, access, process, and/or transfer (collectively, \"transfers\") personal data about Verisure Services (UK) Limited's customers. For more information about the Services which you have chosen to use and the functionality of those Services, please refer to Verisure's General Terms and Conditions, Terms of Service as well as available instructions and manuals. Our Data Processing Agreement (Appendix I and II - Data Processing Agreement and Joint Controller Arrangement) can be found here. How and why we process your personal data We only process your personal data if the processing is necessary to fulfil the purposes of the processing described below. We process your personal data for the following purposes: 1. Establishment and maintenance of the customer relationship 1. To enter into a contract with the Business Customer 2. To administer the contract with the Business Customers, including payments for Services 3. To administer and enable the existing and returning customer relationship with the utmost care 2. Provision of Services 1. To monitor the premises through the Services 2. To manage alarm triggering events 3. To follow up previous alarm triggering events 4. To ensure that we meet our legal obligations in respect of previously active customers 3. Provision of support to the Business Customers in relation to the Services 1. To provide customer service and technical support in relation to our Services 2. To assist Business Customers in case of an insurance claim or other legal claims 3. To handle customer complaints 4. To cooperate with law enforcement or regulators to fight crime, comply with our legal obligations or protect the security interests of our Business Customers 4. Development of Verisure's Services 1. Quality assurance 2. Training of Verisure's personnel 3. Development of Verisure's Services 4. To train an AI model used for the purpose of developing Verisure's Services (training and development of new products and services) 5. Provision of Verisure App and Customer Area 6. Provision of the Verisure web shop 1. To provide and administer the Business Customer's orders in our online shop 7. Marketing and analytics 1. To market our Services 2. To administer and analyse our campaigns, promotions, referral programmes, etc. or perform marketing analysis 8. Verisure's legal interests 1. To comply with our legal obligations 2. To enable restructurings or mergers of the business 3. To protect our legal interests in the event of a dispute Complete information about how we process your personal data, including information about the applicable legal bases, the recipients of your personal data, international transfers of personal data and the criteria used to determine applicable retention periods is available here. Your rights You have the right to be informed about which personal data relating to you we process and what we do with your personal data. You also have the right of access to your personal data and the right to complain to us if you think we have not handled personal data responsibly and in line with good practice. In certain situations you also have the right to have your personal data erased, to request restriction of the processing of your personal data, the right to data portability, the right not to be subject to a decision based on automatic processing as well as the right to object to our processing of your personal data. If we process your personal data based on your consent, you always have the right to withdraw your consent. If you believe that we have processed your data in an unlawful manner, or you are dissatisfied about how we have responded to your request or complaint, you have the right to lodge a complaint with the United Kingdom's Information Commissioner's Office whose contact details are: Information Commissioner's Office, Wycliffe House, Water Lane, Wilmslow, Cheshire, SK9 5AF Telephone: 0303 123 1113. Contact details If you have any questions regarding this Privacy Notice, our processing of your personal data or if you wish to exercise your rights, please do not hesitate to contact us: Verisure Services (UK) Limited, company registration number 08840095 Postal address: Q12 Quorum Business Park, Benton Lane, Newcastle Upon Tyne, Tyne and Wear, NE12 8BU E-mail: dataprotection@verisure.co.uk Data Subject Request Form: Click Here Website: www.verisure.co.uk"
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S7",
+        "text": "If you visit premises with Verisure Services General information and the scope of this Privacy Notice Your right to data protection is very important for us at Verisure. We aim to ensure that you feel comfortable about our processing of your personal data. The purpose of this privacy notice (\" Privacy Notice \") is to provide information about how we ensure that your personal data is processed in compliance with applicable data protection legislation. This Privacy Notice applies to individuals whose personal data is collected through our security alarm monitoring services, devices and cameras used by our Business Customers (\" Services \"), e.g. if you visit premises where the Services are installed and used. If you are a Business Customer, please find the applicable Privacy Notice here. If you are a Residential Customer, please find the applicable Privacy Notice here. If you visit a residential premises using Verisure Services, please find the applicable Privacy Notice here. Verisure is the data controller for the processing of your personal data in accordance with this Privacy Notice and we are thus responsible for ensuring that our processing of personal data complies with applicable data protection legislation. For certain processing of personal data, the Business Customer is the data controller, either independently or jointly with Verisure. For further information about the Business Customer's processing of personal data, please refer to the Business Customer's own privacy notice. When we are processing personal data as a data controller, we ensure that applicable data protection legislation is always complied with and that we only process your personal data for the purposes described in this Privacy Notice. If you believe that your data protection rights may have been breached, you have the right to lodge a complaint with the applicable supervisory authority, namely the United Kingdom's Information Commissioner's Office whose contact details are: Information Commissioner's Office, Wycliffe House, Water Lane, Wilmslow, Cheshire, SK9 5AF Telephone: 0303 123 1113 How and why we process your personal data We only process your personal data if the processing is necessary to fulfil the purposes of the processing described below. We process your personal data for the following purposes:",
+        "heading_path": [
+          "Privacy",
+          "Page",
+          "You are a visitor to a business customer of Verisure",
+          "Summary - Privacy Notice for Business Customers's Data Subjects"
+        ],
+        "links": [
+          {
+            "text": "here",
+            "href": "https://www.verisure.co.uk/privacy-page#business",
+            "kind": "external"
+          },
+          {
+            "text": "here",
+            "href": "https://www.verisure.co.uk/privacy-page#residential",
+            "kind": "external"
+          },
+          {
+            "text": "here",
+            "href": "https://www.verisure.co.uk/privacy-page#residential-visitor",
+            "kind": "external"
+          }
+        ],
+        "html_ids": [],
+        "previous_segment_id": "S6",
+        "next_segment_id": "S8",
+        "previous_segment_text": "If you are a business representative or an assigned user",
+        "extended_context": "1. Establishment and maintenance of the customer relationship 1. To enter into a contract with the Business Customer 2. To administer the contract with the Business Customers, including payments for Services 3. To administer and enable the existing and returning customer relationship with the utmost care 2. Provision of Services 1. To monitor the premises through the Services 2. To manage alarm triggering events 3. To follow up previous alarm triggering events 4. To ensure that we meet our legal obligations in respect of previously active customers 3. Provision of support to the Business Customers in relation to the Services 1. To provide customer service and technical support in relation to our Services 2. To assist Business Customers in case of an insurance claim or other legal claims 3. To handle customer complaints 4. To cooperate with law enforcement or regulators to fight crime, comply with our legal obligations or protect the security interests of our Business Customers 4. Development of Verisure's Services 1. Quality assurance 2. Training of Verisure's personnel 3. Development of Verisure's Services 4. To train an AI model used for the purpose of developing Verisure's Services (training and development of new products and services) 5. Provision of Verisure App and Customer Area 6. Provision of the Verisure web shop 1. To provide and administer the Business Customer's orders in our online shop 7. Marketing and analytics 1. To market our Services 2. To administer and analyse our campaigns, promotions, referral programmes, etc. or perform marketing analysis 8. Verisure's legal interests 1. To comply with our legal obligations 2. To enable restructurings or mergers of the business 3. To protect our legal interests in the event of a dispute Complete information about how we process your personal data, including information about the applicable legal bases, the recipients of your personal data, international transfers of personal data and the criteria used to determine applicable retention periods is available here. Your rights You have the right to be informed about which personal data relating to you we process and what we do with your personal data. You also have the right of access to your personal data and the right to complain to us if you think we have not handled personal data responsibly and in line with good practice. In certain situations you also have the right to have your personal data erased, to request restriction of the processing of your personal data, the right to data portability, the right not to be subject to a decision based on automatic processing as well as the right to object to our processing of your personal data. If we process your personal data based on your consent, you always have the right to withdraw your consent. If you believe that we have processed your data in an unlawful manner, or you are dissatisfied about how we have responded to your request or complaint, you have the right to lodge a complaint with the United Kingdom's Information Commissioner's Office whose contact details are: Information Commissioner's Office, Wycliffe House, Water Lane, Wilmslow, Cheshire, SK9 5AF Telephone: 0303 123 1113. Contact details If you have any questions regarding this Privacy Notice, our processing of your personal data or if you wish to exercise your rights, please do not hesitate to contact us: Verisure Services (UK) Limited, company registration number 08840095 Postal address: Q12 Quorum Business Park, Benton Lane, Newcastle Upon Tyne, Tyne and Wear, NE12 8BU E-mail: dataprotection@verisure.co.uk Data Subject Request Form: Click Here Website: www.verisure.co.uk If you are a business representative or an assigned user"
+      },
+      "result": {
+        "right_type": [
+          {
+            "value": "Right of access",
+            "evidence": "If you believe that your data protection rights may have been breached, you have the right to lodge a complaint with the applicable supervisory authority, namely the United Kingdom's Information Commissioner's Office",
+            "confidence": "extracted",
+            "id": "Verisure:S7:right:1"
+          }
+        ],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S8",
+        "text": "1. Provision of Services 1. To monitor the premises through the Services 2. To manage alarm triggering events 3. To follow up previous alarm triggering events 4. To ensure that we meet our legal obligations in respect of previously active customers 3. Provision of support to the Business Customers in relation to the Services 1. To provide customer service and technical support in relation to our Services 2. To assist Business Customers in case of an insurance claim or other legal claims 3. To handle customer complaints 4. To cooperate with law enforcement or regulators to fight crime, comply with our legal obligations or protect the security of our Business Customers 5. Development of Verisure's Services 1. Quality assurance 2. Training of Verisure's personnel 3. Development of Verisure's Services 4. To train an AI model used for the purpose of developing Verisure's Services (training and development of new products and services) 7. Verisure's legal interests 1. To comply with our legal obligations 2. To enable restructurings or mergers of the business 3. To protect our legal interests in the event of a dispute Complete information about how we process your personal data, including information about the applicable legal bases, the recipients of your personal data, international transfers of personal data and the criteria used to determine applicable retention periods is available here. Your rights You have the right to be informed about which personal data relating to you we process and what we do with your personal data. You also have the right of access to your personal data. In certain situations you also have the right to have your personal data erased, to request restriction of the processing of your personal data, the right to data portability, the right not to be subject to a decision based on automatic processing as well as the right to object to our processing of your personal data. If we process your personal data based on your consent, you always have the right to withdraw your consent. If you believe that we have processed your data in an unlawful manner, you have the right to lodge a complaint to the United Kingdom's Information Commissioner's Office. Contact details If you have any questions regarding this Privacy Notice, our processing of your personal data or if you wish to exercise your rights, please do not hesitate to contact us: Verisure Services (UK) Limited, company registration number 08840095 Postal address: Q12 Quorum Business Park, Benton Lane, Newcastle Upon Tyne, Tyne and Wear, NE12 8BU E-mail: dataprotection@verisure.co.uk",
+        "heading_path": [
+          "Privacy",
+          "Page",
+          "You are a visitor to a business customer of Verisure",
+          "Summary - Privacy Notice for Business Customers's Data Subjects"
+        ],
+        "links": [
+          {
+            "text": "here",
+            "href": "https://www.verisure.co.uk/privacy-notice",
+            "kind": "external"
+          },
+          {
+            "text": "dataprotection@verisure.co.uk",
+            "href": "mailto:dataprotection@verisure.co.uk",
+            "kind": "email"
+          }
+        ],
+        "html_ids": [],
+        "previous_segment_id": "S7",
+        "next_segment_id": "S9",
+        "previous_segment_text": "If you visit premises with Verisure Services General information and the scope of this Privacy Notice Your right to data protection is very important for us at Verisure. We aim to ensure that you feel comfortable about our processing of your personal data. The purpose of this privacy notice (\" Privacy Notice \") is to provide information about how we ensure that your personal data is processed in compliance with applicable data protection legislation. This Privacy Notice applies to individuals whose personal data is collected through our security alarm monitoring services, devices and cameras used by our Business Customers (\" Services \"), e.g. if you visit premises where the Services are installed and used. If you are a Business Customer, please find the applicable Privacy Notice here. If you are a Residential Customer, please find the applicable Privacy Notice here. If you visit a residential premises using Verisure Services, please find the applicable Privacy Notice here. Verisure is the data controller for the processing of your personal data in accordance with this Privacy Notice and we are thus responsible for ensuring that our processing of personal data complies with applicable data protection legislation. For certain processing of personal data, the Business Customer is the data controller, either independently or jointly with Verisure. For further information about the Business Customer's processing of personal data, please refer to the Business Customer's own privacy notice. When we are processing personal data as a data controller, we ensure that applicable data protection legislation is always complied with and that we only process your personal data for the purposes described in this Privacy Notice. If you believe that your data protection rights may have been breached, you have the right to lodge a complaint with the applicable supervisory authority, namely the United Kingdom's Information Commissioner's Office whose contact details are: Information Commissioner's Office, Wycliffe House, Water Lane, Wilmslow, Cheshire, SK9 5AF Telephone: 0303 123 1113 How and why we process your personal data We only process your personal data if the processing is necessary to fulfil the purposes of the processing described below. We process your personal data for the following purposes:",
+        "extended_context": "You have the right to be informed about which personal data relating to you we process and what we do with your personal data. You also have the right of access to your personal data and the right to complain to us if you think we have not handled personal data responsibly and in line with good practice. In certain situations you also have the right to have your personal data erased, to request restriction of the processing of your personal data, the right to data portability, the right not to be subject to a decision based on automatic processing as well as the right to object to our processing of your personal data. If we process your personal data based on your consent, you always have the right to withdraw your consent. If you believe that we have processed your data in an unlawful manner, or you are dissatisfied about how we have responded to your request or complaint, you have the right to lodge a complaint with the United Kingdom's Information Commissioner's Office whose contact details are: Information Commissioner's Office, Wycliffe House, Water Lane, Wilmslow, Cheshire, SK9 5AF Telephone: 0303 123 1113. Contact details If you have any questions regarding this Privacy Notice, our processing of your personal data or if you wish to exercise your rights, please do not hesitate to contact us: Verisure Services (UK) Limited, company registration number 08840095 Postal address: Q12 Quorum Business Park, Benton Lane, Newcastle Upon Tyne, Tyne and Wear, NE12 8BU E-mail: dataprotection@verisure.co.uk Data Subject Request Form: Click Here Website: www.verisure.co.uk If you are a business representative or an assigned user If you visit premises with Verisure Services General information and the scope of this Privacy Notice Your right to data protection is very important for us at Verisure. We aim to ensure that you feel comfortable about our processing of your personal data. The purpose of this privacy notice (\" Privacy Notice \") is to provide information about how we ensure that your personal data is processed in compliance with applicable data protection legislation. This Privacy Notice applies to individuals whose personal data is collected through our security alarm monitoring services, devices and cameras used by our Business Customers (\" Services \"), e.g. if you visit premises where the Services are installed and used. If you are a Business Customer, please find the applicable Privacy Notice here. If you are a Residential Customer, please find the applicable Privacy Notice here. If you visit a residential premises using Verisure Services, please find the applicable Privacy Notice here. Verisure is the data controller for the processing of your personal data in accordance with this Privacy Notice and we are thus responsible for ensuring that our processing of personal data complies with applicable data protection legislation. For certain processing of personal data, the Business Customer is the data controller, either independently or jointly with Verisure. For further information about the Business Customer's processing of personal data, please refer to the Business Customer's own privacy notice. When we are processing personal data as a data controller, we ensure that applicable data protection legislation is always complied with and that we only process your personal data for the purposes described in this Privacy Notice. If you believe that your data protection rights may have been breached, you have the right to lodge a complaint with the applicable supervisory authority, namely the United Kingdom's Information Commissioner's Office whose contact details are: Information Commissioner's Office, Wycliffe House, Water Lane, Wilmslow, Cheshire, SK9 5AF Telephone: 0303 123 1113 How and why we process your personal data We only process your personal data if the processing is necessary to fulfil the purposes of the processing described below. We process your personal data for the following purposes:"
+      },
+      "result": {
+        "right_type": [
+          {
+            "value": "Right of access",
+            "evidence": "You also have the right of access to your personal data.",
+            "confidence": "extracted",
+            "id": "Verisure:S8:right:1"
+          },
+          {
+            "value": "Right to erasure",
+            "evidence": "In certain situations you also have the right to have your personal data erased",
+            "confidence": "extracted",
+            "id": "Verisure:S8:right:2"
+          },
+          {
+            "value": "Right to restriction of processing",
+            "evidence": "to request restriction of the processing of your personal data",
+            "confidence": "extracted",
+            "id": "Verisure:S8:right:3"
+          },
+          {
+            "value": "Right to data portability",
+            "evidence": "the right to data portability",
+            "confidence": "extracted",
+            "id": "Verisure:S8:right:4"
+          },
+          {
+            "value": "Right to not be subject to automated decision-making (to profiling)",
+            "evidence": "the right not to be subject to a decision based on automatic processing",
+            "confidence": "extracted",
+            "id": "Verisure:S8:right:5"
+          },
+          {
+            "value": "Right to object",
+            "evidence": "the right to object to our processing of your personal data",
+            "confidence": "extracted",
+            "id": "Verisure:S8:right:6"
+          }
+        ],
+        "choice_type": [
+          {
+            "value": "Change or withdraw consent",
+            "evidence": "you always have the right to withdraw your consent",
+            "confidence": "extracted",
+            "id": "Verisure:S8:choice:1"
+          }
+        ],
+        "request_channel": [
+          {
+            "value": "Request by email",
+            "evidence": "E-mail: dataprotection@verisure.co.uk",
+            "confidence": "extracted",
+            "id": "Verisure:S8:channel:1",
+            "linked_ids": [
+              "Verisure:S8:right:1",
+              "Verisure:S8:right:2",
+              "Verisure:S8:right:3",
+              "Verisure:S8:right:4",
+              "Verisure:S8:right:5",
+              "Verisure:S8:right:6",
+              "Verisure:S8:choice:1"
+            ],
+            "link": {
+              "url": "mailto:dataprotection@verisure.co.uk",
+              "kind": "email",
+              "visible_text": "dataprotection@verisure.co.uk"
+            }
+          },
+          {
+            "value": "Request by post",
+            "evidence": "Postal address: Q12 Quorum Business Park, Benton Lane, Newcastle Upon Tyne, Tyne and Wear, NE12 8BU",
+            "confidence": "extracted",
+            "id": "Verisure:S8:channel:2",
+            "linked_ids": [
+              "Verisure:S8:right:1",
+              "Verisure:S8:right:2",
+              "Verisure:S8:right:3",
+              "Verisure:S8:right:4",
+              "Verisure:S8:right:5",
+              "Verisure:S8:right:6",
+              "Verisure:S8:choice:1"
+            ],
+            "link": null
+          }
+        ],
+        "references": [],
+        "rejected": [
+          {
+            "attribute": "reference",
+            "evidence": "Complete information about how we process your personal data, including information about the applicable legal bases, the recipients of your personal data, international transfers of personal data and the criteria used to determine applicable retention periods is available here.",
+            "target_text": "here",
+            "reason": "not_an_unresolved_reference"
+          }
+        ]
+      }
+    },
+    {
+      "segment": {
+        "id": "S9",
+        "text": "Data Subject Request Form: Click Here Website: www.verisure.co.uk",
+        "heading_path": [
+          "Privacy",
+          "Page",
+          "You are a visitor to a business customer of Verisure",
+          "Summary - Privacy Notice for Business Customers's Data Subjects"
+        ],
+        "links": [
+          {
+            "text": "Click Here",
+            "href": "https://privacyportal-de.onetrust.com/webform/440f8dbd-7e3d-4580-9d61-d51b763da1ca/f3558dec-5d87-4f12-b5ef-8bb6d482f95d",
+            "kind": "external"
+          },
+          {
+            "text": "www.verisure.co.uk",
+            "href": "https://www.verisure.co.uk/",
+            "kind": "external"
+          }
+        ],
+        "html_ids": [],
+        "previous_segment_id": "S8",
+        "next_segment_id": "S10",
+        "previous_segment_text": "1. Provision of Services 1. To monitor the premises through the Services 2. To manage alarm triggering events 3. To follow up previous alarm triggering events 4. To ensure that we meet our legal obligations in respect of previously active customers 3. Provision of support to the Business Customers in relation to the Services 1. To provide customer service and technical support in relation to our Services 2. To assist Business Customers in case of an insurance claim or other legal claims 3. To handle customer complaints 4. To cooperate with law enforcement or regulators to fight crime, comply with our legal obligations or protect the security of our Business Customers 5. Development of Verisure's Services 1. Quality assurance 2. Training of Verisure's personnel 3. Development of Verisure's Services 4. To train an AI model used for the purpose of developing Verisure's Services (training and development of new products and services) 7. Verisure's legal interests 1. To comply with our legal obligations 2. To enable restructurings or mergers of the business 3. To protect our legal interests in the event of a dispute Complete information about how we process your personal data, including information about the applicable legal bases, the recipients of your personal data, international transfers of personal data and the criteria used to determine applicable retention periods is available here. Your rights You have the right to be informed about which personal data relating to you we process and what we do with your personal data. You also have the right of access to your personal data. In certain situations you also have the right to have your personal data erased, to request restriction of the processing of your personal data, the right to data portability, the right not to be subject to a decision based on automatic processing as well as the right to object to our processing of your personal data. If we process your personal data based on your consent, you always have the right to withdraw your consent. If you believe that we have processed your data in an unlawful manner, you have the right to lodge a complaint to the United Kingdom's Information Commissioner's Office. Contact details If you have any questions regarding this Privacy Notice, our processing of your personal data or if you wish to exercise your rights, please do not hesitate to contact us: Verisure Services (UK) Limited, company registration number 08840095 Postal address: Q12 Quorum Business Park, Benton Lane, Newcastle Upon Tyne, Tyne and Wear, NE12 8BU E-mail: dataprotection@verisure.co.uk",
+        "extended_context": "If you are a business representative or an assigned user If you visit premises with Verisure Services General information and the scope of this Privacy Notice Your right to data protection is very important for us at Verisure. We aim to ensure that you feel comfortable about our processing of your personal data. The purpose of this privacy notice (\" Privacy Notice \") is to provide information about how we ensure that your personal data is processed in compliance with applicable data protection legislation. This Privacy Notice applies to individuals whose personal data is collected through our security alarm monitoring services, devices and cameras used by our Business Customers (\" Services \"), e.g. if you visit premises where the Services are installed and used. If you are a Business Customer, please find the applicable Privacy Notice here. If you are a Residential Customer, please find the applicable Privacy Notice here. If you visit a residential premises using Verisure Services, please find the applicable Privacy Notice here. Verisure is the data controller for the processing of your personal data in accordance with this Privacy Notice and we are thus responsible for ensuring that our processing of personal data complies with applicable data protection legislation. For certain processing of personal data, the Business Customer is the data controller, either independently or jointly with Verisure. For further information about the Business Customer's processing of personal data, please refer to the Business Customer's own privacy notice. When we are processing personal data as a data controller, we ensure that applicable data protection legislation is always complied with and that we only process your personal data for the purposes described in this Privacy Notice. If you believe that your data protection rights may have been breached, you have the right to lodge a complaint with the applicable supervisory authority, namely the United Kingdom's Information Commissioner's Office whose contact details are: Information Commissioner's Office, Wycliffe House, Water Lane, Wilmslow, Cheshire, SK9 5AF Telephone: 0303 123 1113 How and why we process your personal data We only process your personal data if the processing is necessary to fulfil the purposes of the processing described below. We process your personal data for the following purposes: 1. Provision of Services 1. To monitor the premises through the Services 2. To manage alarm triggering events 3. To follow up previous alarm triggering events 4. To ensure that we meet our legal obligations in respect of previously active customers 3. Provision of support to the Business Customers in relation to the Services 1. To provide customer service and technical support in relation to our Services 2. To assist Business Customers in case of an insurance claim or other legal claims 3. To handle customer complaints 4. To cooperate with law enforcement or regulators to fight crime, comply with our legal obligations or protect the security of our Business Customers 5. Development of Verisure's Services 1. Quality assurance 2. Training of Verisure's personnel 3. Development of Verisure's Services 4. To train an AI model used for the purpose of developing Verisure's Services (training and development of new products and services) 7. Verisure's legal interests 1. To comply with our legal obligations 2. To enable restructurings or mergers of the business 3. To protect our legal interests in the event of a dispute Complete information about how we process your personal data, including information about the applicable legal bases, the recipients of your personal data, international transfers of personal data and the criteria used to determine applicable retention periods is available here. Your rights You have the right to be informed about which personal data relating to you we process and what we do with your personal data. You also have the right of access to your personal data. In certain situations you also have the right to have your personal data erased, to request restriction of the processing of your personal data, the right to data portability, the right not to be subject to a decision based on automatic processing as well as the right to object to our processing of your personal data. If we process your personal data based on your consent, you always have the right to withdraw your consent. If you believe that we have processed your data in an unlawful manner, you have the right to lodge a complaint to the United Kingdom's Information Commissioner's Office. Contact details If you have any questions regarding this Privacy Notice, our processing of your personal data or if you wish to exercise your rights, please do not hesitate to contact us: Verisure Services (UK) Limited, company registration number 08840095 Postal address: Q12 Quorum Business Park, Benton Lane, Newcastle Upon Tyne, Tyne and Wear, NE12 8BU E-mail: dataprotection@verisure.co.uk"
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [
+          {
+            "value": "Web page or online form",
+            "evidence": "Data Subject Request Form: Click Here",
+            "confidence": "extracted",
+            "id": "Verisure:S9:channel:1",
+            "linked_ids": [],
+            "link": {
+              "url": "https://privacyportal-de.onetrust.com/webform/440f8dbd-7e3d-4580-9d61-d51b763da1ca/f3558dec-5d87-4f12-b5ef-8bb6d482f95d",
+              "kind": "external",
+              "visible_text": "Click Here"
+            }
+          }
+        ],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S10",
+        "text": "If you visit premises with Verisure Services",
+        "heading_path": [
+          "Privacy",
+          "Page",
+          "You are a visitor to a business customer of Verisure",
+          "Complete Privacy Notice for Business Customers's Data Subjects"
+        ],
+        "links": [],
+        "html_ids": [],
+        "previous_segment_id": "S9",
+        "next_segment_id": "S11",
+        "previous_segment_text": "Data Subject Request Form: Click Here Website: www.verisure.co.uk",
+        "extended_context": "If you visit premises with Verisure Services General information and the scope of this Privacy Notice Your right to data protection is very important for us at Verisure. We aim to ensure that you feel comfortable about our processing of your personal data. The purpose of this privacy notice (\" Privacy Notice \") is to provide information about how we ensure that your personal data is processed in compliance with applicable data protection legislation. This Privacy Notice applies to individuals whose personal data is collected through our security alarm monitoring services, devices and cameras used by our Business Customers (\" Services \"), e.g. if you visit premises where the Services are installed and used. If you are a Business Customer, please find the applicable Privacy Notice here. If you are a Residential Customer, please find the applicable Privacy Notice here. If you visit a residential premises using Verisure Services, please find the applicable Privacy Notice here. Verisure is the data controller for the processing of your personal data in accordance with this Privacy Notice and we are thus responsible for ensuring that our processing of personal data complies with applicable data protection legislation. For certain processing of personal data, the Business Customer is the data controller, either independently or jointly with Verisure. For further information about the Business Customer's processing of personal data, please refer to the Business Customer's own privacy notice. When we are processing personal data as a data controller, we ensure that applicable data protection legislation is always complied with and that we only process your personal data for the purposes described in this Privacy Notice. If you believe that your data protection rights may have been breached, you have the right to lodge a complaint with the applicable supervisory authority, namely the United Kingdom's Information Commissioner's Office whose contact details are: Information Commissioner's Office, Wycliffe House, Water Lane, Wilmslow, Cheshire, SK9 5AF Telephone: 0303 123 1113 How and why we process your personal data We only process your personal data if the processing is necessary to fulfil the purposes of the processing described below. We process your personal data for the following purposes: 1. Provision of Services 1. To monitor the premises through the Services 2. To manage alarm triggering events 3. To follow up previous alarm triggering events 4. To ensure that we meet our legal obligations in respect of previously active customers 3. Provision of support to the Business Customers in relation to the Services 1. To provide customer service and technical support in relation to our Services 2. To assist Business Customers in case of an insurance claim or other legal claims 3. To handle customer complaints 4. To cooperate with law enforcement or regulators to fight crime, comply with our legal obligations or protect the security of our Business Customers 5. Development of Verisure's Services 1. Quality assurance 2. Training of Verisure's personnel 3. Development of Verisure's Services 4. To train an AI model used for the purpose of developing Verisure's Services (training and development of new products and services) 7. Verisure's legal interests 1. To comply with our legal obligations 2. To enable restructurings or mergers of the business 3. To protect our legal interests in the event of a dispute Complete information about how we process your personal data, including information about the applicable legal bases, the recipients of your personal data, international transfers of personal data and the criteria used to determine applicable retention periods is available here. Your rights You have the right to be informed about which personal data relating to you we process and what we do with your personal data. You also have the right of access to your personal data. In certain situations you also have the right to have your personal data erased, to request restriction of the processing of your personal data, the right to data portability, the right not to be subject to a decision based on automatic processing as well as the right to object to our processing of your personal data. If we process your personal data based on your consent, you always have the right to withdraw your consent. If you believe that we have processed your data in an unlawful manner, you have the right to lodge a complaint to the United Kingdom's Information Commissioner's Office. Contact details If you have any questions regarding this Privacy Notice, our processing of your personal data or if you wish to exercise your rights, please do not hesitate to contact us: Verisure Services (UK) Limited, company registration number 08840095 Postal address: Q12 Quorum Business Park, Benton Lane, Newcastle Upon Tyne, Tyne and Wear, NE12 8BU E-mail: dataprotection@verisure.co.uk Data Subject Request Form: Click Here Website: www.verisure.co.uk"
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S11",
+        "text": "This guidance will help you to understand what you need to do if you are considering installing, or have already installed, a Verisure camera system at your place of business. The information in this document is intended to be helpful and practical guidance on generic, common-sense approaches to the installation and use of Verisure alarm system cameras. It is not intended to be legal advice nor a comprehensive explanation of applicable laws and regulations. If readers require specific advice, they should contact a legal professional.",
+        "heading_path": [
+          "Privacy",
+          "Page",
+          "Camera Guidance for Business Customers"
+        ],
+        "links": [],
+        "html_ids": [
+          "business-camera-guidance"
+        ],
+        "previous_segment_id": "S10",
+        "next_segment_id": "S12",
+        "previous_segment_text": "If you visit premises with Verisure Services",
+        "extended_context": "1. Provision of Services 1. To monitor the premises through the Services 2. To manage alarm triggering events 3. To follow up previous alarm triggering events 4. To ensure that we meet our legal obligations in respect of previously active customers 3. Provision of support to the Business Customers in relation to the Services 1. To provide customer service and technical support in relation to our Services 2. To assist Business Customers in case of an insurance claim or other legal claims 3. To handle customer complaints 4. To cooperate with law enforcement or regulators to fight crime, comply with our legal obligations or protect the security of our Business Customers 5. Development of Verisure's Services 1. Quality assurance 2. Training of Verisure's personnel 3. Development of Verisure's Services 4. To train an AI model used for the purpose of developing Verisure's Services (training and development of new products and services) 7. Verisure's legal interests 1. To comply with our legal obligations 2. To enable restructurings or mergers of the business 3. To protect our legal interests in the event of a dispute Complete information about how we process your personal data, including information about the applicable legal bases, the recipients of your personal data, international transfers of personal data and the criteria used to determine applicable retention periods is available here. Your rights You have the right to be informed about which personal data relating to you we process and what we do with your personal data. You also have the right of access to your personal data. In certain situations you also have the right to have your personal data erased, to request restriction of the processing of your personal data, the right to data portability, the right not to be subject to a decision based on automatic processing as well as the right to object to our processing of your personal data. If we process your personal data based on your consent, you always have the right to withdraw your consent. If you believe that we have processed your data in an unlawful manner, you have the right to lodge a complaint to the United Kingdom's Information Commissioner's Office. Contact details If you have any questions regarding this Privacy Notice, our processing of your personal data or if you wish to exercise your rights, please do not hesitate to contact us: Verisure Services (UK) Limited, company registration number 08840095 Postal address: Q12 Quorum Business Park, Benton Lane, Newcastle Upon Tyne, Tyne and Wear, NE12 8BU E-mail: dataprotection@verisure.co.uk Data Subject Request Form: Click Here Website: www.verisure.co.uk If you visit premises with Verisure Services"
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S12",
+        "text": "General information and the scope of this Privacy Notice Your right to data protection is very important for us at Verisure. We aim to ensure that you feel comfortable about our processing of your personal data. The purpose of this privacy notice (\" Privacy Notice \") is to provide information about how we ensure that your personal data is processed in compliance with applicable data protection legislation. This Privacy Notice applies to our residential customers (\" Residential Customers \") and, when applicable, the individuals assigned by our residential customers (\" Assigned Users \") who use our services, including our products provided for the delivery of our security alarm monitoring services, devices and cameras, including the provision of our App (\" Services \") as well as emergency contact persons assigned by the Residential Customer (\" Emergency Contact \"). If you are a Business Customer, please find the applicable Privacy Notice here. If you visit a residential premises using Verisure Services, please find the applicable Privacy Notice here. If you visit a business premises using Verisure Services, please find the applicable Privacy Notice here. Verisure is the data controller for the processing of your personal data in accordance with this Privacy Notice and we are thus responsible for ensuring that our processing of personal data complies with applicable data protection legislation. For certain processing of personal data, the Residential Customer is the data controller, either independently or jointly with Verisure. When we are processing personal data as a data controller, we ensure that applicable data protection legislation is always complied with and that we only process your personal data for the purposes described in this Privacy Notice. Verisure entities have implemented an Intra-Group Agreement to comply with the legal requirements for personal data transfers. The agreement will ensure that the sharing and transfer of personal data between the entities are lawful. Additionally, the Intra-Group Agreement will ensure the lawful transfers of personal data from the EEA to non-EEA countries. Due to the international nature of its business, Verisure Services (UK) Limited may, in the ordinary course of business, transfer personal data to other Verisure entities which are companies that fall within the Verisure Group as defined in the Intra-Group Agreement. These Verisure entities are affiliates, and they may share personal data during the operation of their businesses. For example, in order to manage and deliver related services, they may need to collect, access, process, and/or transfer (collectively, \"transfers\") personal data about Verisure Services (UK) Limited's customers.",
+        "heading_path": [
+          "Privacy",
+          "Page",
+          "You are a residential customer of Verisure",
+          "Summary - Privacy Notice for Residential Customers"
+        ],
+        "links": [
+          {
+            "text": "here",
+            "href": "https://www.verisure.co.uk/privacy-page#business",
+            "kind": "external"
+          },
+          {
+            "text": "here",
+            "href": "https://www.verisure.co.uk/privacy-page#residential-visitor",
+            "kind": "external"
+          },
+          {
+            "text": "here",
+            "href": "https://www.verisure.co.uk/privacy-page#business-visitor",
+            "kind": "external"
+          }
+        ],
+        "html_ids": [],
+        "previous_segment_id": "S11",
+        "next_segment_id": "S13",
+        "previous_segment_text": "This guidance will help you to understand what you need to do if you are considering installing, or have already installed, a Verisure camera system at your place of business. The information in this document is intended to be helpful and practical guidance on generic, common-sense approaches to the installation and use of Verisure alarm system cameras. It is not intended to be legal advice nor a comprehensive explanation of applicable laws and regulations. If readers require specific advice, they should contact a legal professional.",
+        "extended_context": "Data Subject Request Form: Click Here Website: www.verisure.co.uk If you visit premises with Verisure Services This guidance will help you to understand what you need to do if you are considering installing, or have already installed, a Verisure camera system at your place of business. The information in this document is intended to be helpful and practical guidance on generic, common-sense approaches to the installation and use of Verisure alarm system cameras. It is not intended to be legal advice nor a comprehensive explanation of applicable laws and regulations. If readers require specific advice, they should contact a legal professional."
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S13",
+        "text": "For more information about the Services which you have chosen to use and the functionality of those Services, please refer to Verisure's General Terms and Conditions, Terms of Service as well as available instructions and manuals. How and why we process your personal data We only process your personal data if the processing is necessary to fulfil the purposes of the processing described below. We process your personal data for the following purposes: 1. Establishment and maintenance of the customer relationship 1. To enter into a contract with you 2. To perform credit checks prior to entering into contract with a Residential Customer 3. To administer the contract with the Residential Customer, including payments for Services 4. To administer and enable the existing and returning customer relationship with the utmost care 2. Provision of Services 1. To monitor the premises through the Services 2. To manage alarm triggering events 3. To follow up previous alarm triggering events 4. To ensure that we meet our legal obligations in respect of previously active customers 3. Provision of support to the Residential Customers in relation to the Services 1. To provide customer service and technical support in relation to our Services 2. To assist Residential Customers in case of an insurance claim or other legal claims 3. To handle customer complaints 4. To cooperate with law enforcement or regulators to fight crime, comply with our legal obligations or protect the safety of our Residential Customers 4. Development of Verisure's Services 1. Quality assurance 2. Training of Verisure's personnel 3. Development of Verisure's Services 4. To train an AI model used for the purpose of developing Verisure's Services (training and development of new products and services) 5. Provision of Verisure App and Customer Area 6. Provision of the Verisure web shop 1. To provide and administer your orders in our online shop 7. Marketing and analytics 1. To market our Services 2. To administer and analyse our campaigns, promotions, referral programmes, etc. or perform marketing analysis 8. Verisure's legal interests 1. To comply with our legal obligations 2. To enable restructurings or mergers of the business 3. To protect our legal interests in the event of a dispute Complete information about how we process your personal data, including information about the applicable legal bases, the recipients of your personal data, international transfers of personal data and the criteria used to determine applicable retention periods is available here. Your rights",
+        "heading_path": [
+          "Privacy",
+          "Page",
+          "You are a residential customer of Verisure",
+          "Summary - Privacy Notice for Residential Customers"
+        ],
+        "links": [
+          {
+            "text": "here",
+            "href": "https://www.verisure.co.uk/privacy-notice",
+            "kind": "external"
+          }
+        ],
+        "html_ids": [
+          "residential-purposes-6"
+        ],
+        "previous_segment_id": "S12",
+        "next_segment_id": "S14",
+        "previous_segment_text": "General information and the scope of this Privacy Notice Your right to data protection is very important for us at Verisure. We aim to ensure that you feel comfortable about our processing of your personal data. The purpose of this privacy notice (\" Privacy Notice \") is to provide information about how we ensure that your personal data is processed in compliance with applicable data protection legislation. This Privacy Notice applies to our residential customers (\" Residential Customers \") and, when applicable, the individuals assigned by our residential customers (\" Assigned Users \") who use our services, including our products provided for the delivery of our security alarm monitoring services, devices and cameras, including the provision of our App (\" Services \") as well as emergency contact persons assigned by the Residential Customer (\" Emergency Contact \"). If you are a Business Customer, please find the applicable Privacy Notice here. If you visit a residential premises using Verisure Services, please find the applicable Privacy Notice here. If you visit a business premises using Verisure Services, please find the applicable Privacy Notice here. Verisure is the data controller for the processing of your personal data in accordance with this Privacy Notice and we are thus responsible for ensuring that our processing of personal data complies with applicable data protection legislation. For certain processing of personal data, the Residential Customer is the data controller, either independently or jointly with Verisure. When we are processing personal data as a data controller, we ensure that applicable data protection legislation is always complied with and that we only process your personal data for the purposes described in this Privacy Notice. Verisure entities have implemented an Intra-Group Agreement to comply with the legal requirements for personal data transfers. The agreement will ensure that the sharing and transfer of personal data between the entities are lawful. Additionally, the Intra-Group Agreement will ensure the lawful transfers of personal data from the EEA to non-EEA countries. Due to the international nature of its business, Verisure Services (UK) Limited may, in the ordinary course of business, transfer personal data to other Verisure entities which are companies that fall within the Verisure Group as defined in the Intra-Group Agreement. These Verisure entities are affiliates, and they may share personal data during the operation of their businesses. For example, in order to manage and deliver related services, they may need to collect, access, process, and/or transfer (collectively, \"transfers\") personal data about Verisure Services (UK) Limited's customers.",
+        "extended_context": "If you visit premises with Verisure Services This guidance will help you to understand what you need to do if you are considering installing, or have already installed, a Verisure camera system at your place of business. The information in this document is intended to be helpful and practical guidance on generic, common-sense approaches to the installation and use of Verisure alarm system cameras. It is not intended to be legal advice nor a comprehensive explanation of applicable laws and regulations. If readers require specific advice, they should contact a legal professional. General information and the scope of this Privacy Notice Your right to data protection is very important for us at Verisure. We aim to ensure that you feel comfortable about our processing of your personal data. The purpose of this privacy notice (\" Privacy Notice \") is to provide information about how we ensure that your personal data is processed in compliance with applicable data protection legislation. This Privacy Notice applies to our residential customers (\" Residential Customers \") and, when applicable, the individuals assigned by our residential customers (\" Assigned Users \") who use our services, including our products provided for the delivery of our security alarm monitoring services, devices and cameras, including the provision of our App (\" Services \") as well as emergency contact persons assigned by the Residential Customer (\" Emergency Contact \"). If you are a Business Customer, please find the applicable Privacy Notice here. If you visit a residential premises using Verisure Services, please find the applicable Privacy Notice here. If you visit a business premises using Verisure Services, please find the applicable Privacy Notice here. Verisure is the data controller for the processing of your personal data in accordance with this Privacy Notice and we are thus responsible for ensuring that our processing of personal data complies with applicable data protection legislation. For certain processing of personal data, the Residential Customer is the data controller, either independently or jointly with Verisure. When we are processing personal data as a data controller, we ensure that applicable data protection legislation is always complied with and that we only process your personal data for the purposes described in this Privacy Notice. Verisure entities have implemented an Intra-Group Agreement to comply with the legal requirements for personal data transfers. The agreement will ensure that the sharing and transfer of personal data between the entities are lawful. Additionally, the Intra-Group Agreement will ensure the lawful transfers of personal data from the EEA to non-EEA countries. Due to the international nature of its business, Verisure Services (UK) Limited may, in the ordinary course of business, transfer personal data to other Verisure entities which are companies that fall within the Verisure Group as defined in the Intra-Group Agreement. These Verisure entities are affiliates, and they may share personal data during the operation of their businesses. For example, in order to manage and deliver related services, they may need to collect, access, process, and/or transfer (collectively, \"transfers\") personal data about Verisure Services (UK) Limited's customers."
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": [
+          {
+            "attribute": "reference",
+            "evidence": "Complete information about how we process your personal data, including information about the applicable legal bases, the recipients of your personal data, international transfers of personal data and the criteria used to determine applicable retention periods is available here.",
+            "target_text": "here",
+            "reason": "not_an_unresolved_reference"
+          }
+        ]
+      }
+    },
+    {
+      "segment": {
+        "id": "S14",
+        "text": "You have the right to be informed about which personal data relating to you we process and what we do with your personal data. You also have the right of access to your personal data and the right to complain to us if you think we have not handled personal data responsibly and in line with good practice. In certain situations you also have the right to have your personal data erased, to request restriction of the processing of your personal data, the right to data portability, the right not to be subject to a decision based on automatic processing as well as the right to object to our processing of your personal data. If we process your personal data based on your consent, you always have the right to withdraw your consent. If you believe that we have processed your data in an unlawful manner, or you are dissatisfied about how we have responded to your request or complaint, you have the right to lodge a complaint to the United Kingdom's Information Commissioner's Office whose contact details are: Information Commissioner's Office, Wycliffe House, Water Lane, Wilmslow, Cheshire, SK9 5AF Telephone: 0303 123 1113. Contact details If you have any questions regarding this Privacy Notice, our processing of your personal data or if you wish to exercise your rights, please do not hesitate to contact us: Verisure Services (UK) Limited, company registration number 08840095 Postal address: Q12 Quorum Business Park, Benton Lane, Newcastle Upon Tyne, Tyne and Wear, NE12 8BU E-mail: dataprotection@verisure.co.uk Data Subject Request Form: Click Here Website: www.verisure.co.uk",
+        "heading_path": [
+          "Privacy",
+          "Page",
+          "You are a residential customer of Verisure",
+          "Summary - Privacy Notice for Residential Customers"
+        ],
+        "links": [
+          {
+            "text": "dataprotection@verisure.co.uk",
+            "href": "mailto:dataprotection@verisure.co.uk",
+            "kind": "email"
+          },
+          {
+            "text": "Click Here",
+            "href": "https://privacyportal-de.onetrust.com/webform/440f8dbd-7e3d-4580-9d61-d51b763da1ca/f3558dec-5d87-4f12-b5ef-8bb6d482f95d",
+            "kind": "external"
+          },
+          {
+            "text": "www.verisure.co.uk",
+            "href": "https://www.verisure.co.uk/",
+            "kind": "external"
+          }
+        ],
+        "html_ids": [],
+        "previous_segment_id": "S13",
+        "next_segment_id": "S15",
+        "previous_segment_text": "For more information about the Services which you have chosen to use and the functionality of those Services, please refer to Verisure's General Terms and Conditions, Terms of Service as well as available instructions and manuals. How and why we process your personal data We only process your personal data if the processing is necessary to fulfil the purposes of the processing described below. We process your personal data for the following purposes: 1. Establishment and maintenance of the customer relationship 1. To enter into a contract with you 2. To perform credit checks prior to entering into contract with a Residential Customer 3. To administer the contract with the Residential Customer, including payments for Services 4. To administer and enable the existing and returning customer relationship with the utmost care 2. Provision of Services 1. To monitor the premises through the Services 2. To manage alarm triggering events 3. To follow up previous alarm triggering events 4. To ensure that we meet our legal obligations in respect of previously active customers 3. Provision of support to the Residential Customers in relation to the Services 1. To provide customer service and technical support in relation to our Services 2. To assist Residential Customers in case of an insurance claim or other legal claims 3. To handle customer complaints 4. To cooperate with law enforcement or regulators to fight crime, comply with our legal obligations or protect the safety of our Residential Customers 4. Development of Verisure's Services 1. Quality assurance 2. Training of Verisure's personnel 3. Development of Verisure's Services 4. To train an AI model used for the purpose of developing Verisure's Services (training and development of new products and services) 5. Provision of Verisure App and Customer Area 6. Provision of the Verisure web shop 1. To provide and administer your orders in our online shop 7. Marketing and analytics 1. To market our Services 2. To administer and analyse our campaigns, promotions, referral programmes, etc. or perform marketing analysis 8. Verisure's legal interests 1. To comply with our legal obligations 2. To enable restructurings or mergers of the business 3. To protect our legal interests in the event of a dispute Complete information about how we process your personal data, including information about the applicable legal bases, the recipients of your personal data, international transfers of personal data and the criteria used to determine applicable retention periods is available here. Your rights",
+        "extended_context": "This guidance will help you to understand what you need to do if you are considering installing, or have already installed, a Verisure camera system at your place of business. The information in this document is intended to be helpful and practical guidance on generic, common-sense approaches to the installation and use of Verisure alarm system cameras. It is not intended to be legal advice nor a comprehensive explanation of applicable laws and regulations. If readers require specific advice, they should contact a legal professional. General information and the scope of this Privacy Notice Your right to data protection is very important for us at Verisure. We aim to ensure that you feel comfortable about our processing of your personal data. The purpose of this privacy notice (\" Privacy Notice \") is to provide information about how we ensure that your personal data is processed in compliance with applicable data protection legislation. This Privacy Notice applies to our residential customers (\" Residential Customers \") and, when applicable, the individuals assigned by our residential customers (\" Assigned Users \") who use our services, including our products provided for the delivery of our security alarm monitoring services, devices and cameras, including the provision of our App (\" Services \") as well as emergency contact persons assigned by the Residential Customer (\" Emergency Contact \"). If you are a Business Customer, please find the applicable Privacy Notice here. If you visit a residential premises using Verisure Services, please find the applicable Privacy Notice here. If you visit a business premises using Verisure Services, please find the applicable Privacy Notice here. Verisure is the data controller for the processing of your personal data in accordance with this Privacy Notice and we are thus responsible for ensuring that our processing of personal data complies with applicable data protection legislation. For certain processing of personal data, the Residential Customer is the data controller, either independently or jointly with Verisure. When we are processing personal data as a data controller, we ensure that applicable data protection legislation is always complied with and that we only process your personal data for the purposes described in this Privacy Notice. Verisure entities have implemented an Intra-Group Agreement to comply with the legal requirements for personal data transfers. The agreement will ensure that the sharing and transfer of personal data between the entities are lawful. Additionally, the Intra-Group Agreement will ensure the lawful transfers of personal data from the EEA to non-EEA countries. Due to the international nature of its business, Verisure Services (UK) Limited may, in the ordinary course of business, transfer personal data to other Verisure entities which are companies that fall within the Verisure Group as defined in the Intra-Group Agreement. These Verisure entities are affiliates, and they may share personal data during the operation of their businesses. For example, in order to manage and deliver related services, they may need to collect, access, process, and/or transfer (collectively, \"transfers\") personal data about Verisure Services (UK) Limited's customers. For more information about the Services which you have chosen to use and the functionality of those Services, please refer to Verisure's General Terms and Conditions, Terms of Service as well as available instructions and manuals. How and why we process your personal data We only process your personal data if the processing is necessary to fulfil the purposes of the processing described below. We process your personal data for the following purposes: 1. Establishment and maintenance of the customer relationship 1. To enter into a contract with you 2. To perform credit checks prior to entering into contract with a Residential Customer 3. To administer the contract with the Residential Customer, including payments for Services 4. To administer and enable the existing and returning customer relationship with the utmost care 2. Provision of Services 1. To monitor the premises through the Services 2. To manage alarm triggering events 3. To follow up previous alarm triggering events 4. To ensure that we meet our legal obligations in respect of previously active customers 3. Provision of support to the Residential Customers in relation to the Services 1. To provide customer service and technical support in relation to our Services 2. To assist Residential Customers in case of an insurance claim or other legal claims 3. To handle customer complaints 4. To cooperate with law enforcement or regulators to fight crime, comply with our legal obligations or protect the safety of our Residential Customers 4. Development of Verisure's Services 1. Quality assurance 2. Training of Verisure's personnel 3. Development of Verisure's Services 4. To train an AI model used for the purpose of developing Verisure's Services (training and development of new products and services) 5. Provision of Verisure App and Customer Area 6. Provision of the Verisure web shop 1. To provide and administer your orders in our online shop 7. Marketing and analytics 1. To market our Services 2. To administer and analyse our campaigns, promotions, referral programmes, etc. or perform marketing analysis 8. Verisure's legal interests 1. To comply with our legal obligations 2. To enable restructurings or mergers of the business 3. To protect our legal interests in the event of a dispute Complete information about how we process your personal data, including information about the applicable legal bases, the recipients of your personal data, international transfers of personal data and the criteria used to determine applicable retention periods is available here. Your rights"
+      },
+      "result": {
+        "right_type": [
+          {
+            "value": "Right of access",
+            "evidence": "You also have the right of access to your personal data",
+            "confidence": "extracted",
+            "id": "Verisure:S14:right:1"
+          },
+          {
+            "value": "Right to erasure",
+            "evidence": "you also have the right to have your personal data erased",
+            "confidence": "extracted",
+            "id": "Verisure:S14:right:2"
+          },
+          {
+            "value": "Right to restriction of processing",
+            "evidence": "to request restriction of the processing of your personal data",
+            "confidence": "extracted",
+            "id": "Verisure:S14:right:3"
+          },
+          {
+            "value": "Right to data portability",
+            "evidence": "the right to data portability",
+            "confidence": "extracted",
+            "id": "Verisure:S14:right:4"
+          },
+          {
+            "value": "Right to not be subject to automated decision-making (to profiling)",
+            "evidence": "the right not to be subject to a decision based on automatic processing",
+            "confidence": "extracted",
+            "id": "Verisure:S14:right:5"
+          },
+          {
+            "value": "Right to object",
+            "evidence": "the right to object to our processing of your personal data",
+            "confidence": "extracted",
+            "id": "Verisure:S14:right:6"
+          }
+        ],
+        "choice_type": [
+          {
+            "value": "Lodge a complaint",
+            "evidence": "the right to complain to us if you think we have not handled personal data responsibly and in line with good practice",
+            "confidence": "extracted",
+            "id": "Verisure:S14:choice:1"
+          },
+          {
+            "value": "Change or withdraw consent",
+            "evidence": "you always have the right to withdraw your consent",
+            "confidence": "extracted",
+            "id": "Verisure:S14:choice:2"
+          }
+        ],
+        "request_channel": [
+          {
+            "value": "Request by email",
+            "evidence": "E-mail: dataprotection@verisure.co.uk",
+            "confidence": "extracted",
+            "id": "Verisure:S14:channel:1",
+            "linked_ids": [
+              "Verisure:S14:right:1",
+              "Verisure:S14:right:2",
+              "Verisure:S14:right:3",
+              "Verisure:S14:right:4",
+              "Verisure:S14:right:5",
+              "Verisure:S14:right:6",
+              "Verisure:S14:choice:1",
+              "Verisure:S14:choice:2"
+            ],
+            "link": {
+              "url": "mailto:dataprotection@verisure.co.uk",
+              "kind": "email",
+              "visible_text": "dataprotection@verisure.co.uk"
+            }
+          },
+          {
+            "value": "Web page or online form",
+            "evidence": "Data Subject Request Form: Click Here",
+            "confidence": "extracted",
+            "id": "Verisure:S14:channel:2",
+            "linked_ids": [
+              "Verisure:S14:right:1",
+              "Verisure:S14:right:2",
+              "Verisure:S14:right:3",
+              "Verisure:S14:right:4",
+              "Verisure:S14:right:5",
+              "Verisure:S14:right:6",
+              "Verisure:S14:choice:1",
+              "Verisure:S14:choice:2"
+            ],
+            "link": {
+              "url": "https://privacyportal-de.onetrust.com/webform/440f8dbd-7e3d-4580-9d61-d51b763da1ca/f3558dec-5d87-4f12-b5ef-8bb6d482f95d",
+              "kind": "external",
+              "visible_text": "Click Here"
+            }
+          },
+          {
+            "value": "Request by post",
+            "evidence": "Postal address: Q12 Quorum Business Park, Benton Lane, Newcastle Upon Tyne, Tyne and Wear, NE12 8BU",
+            "confidence": "extracted",
+            "id": "Verisure:S14:channel:3",
+            "linked_ids": [
+              "Verisure:S14:right:1",
+              "Verisure:S14:right:2",
+              "Verisure:S14:right:3",
+              "Verisure:S14:right:4",
+              "Verisure:S14:right:5",
+              "Verisure:S14:right:6",
+              "Verisure:S14:choice:1",
+              "Verisure:S14:choice:2"
+            ],
+            "link": null
+          }
+        ],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S15",
+        "text": "If you are a Residential Customer, Assigned User or Emergency Contact",
+        "heading_path": [
+          "Privacy",
+          "Page",
+          "You are a residential customer of Verisure",
+          "Complete Privacy Notice for Residential Customers"
+        ],
+        "links": [],
+        "html_ids": [],
+        "previous_segment_id": "S14",
+        "next_segment_id": "S16",
+        "previous_segment_text": "You have the right to be informed about which personal data relating to you we process and what we do with your personal data. You also have the right of access to your personal data and the right to complain to us if you think we have not handled personal data responsibly and in line with good practice. In certain situations you also have the right to have your personal data erased, to request restriction of the processing of your personal data, the right to data portability, the right not to be subject to a decision based on automatic processing as well as the right to object to our processing of your personal data. If we process your personal data based on your consent, you always have the right to withdraw your consent. If you believe that we have processed your data in an unlawful manner, or you are dissatisfied about how we have responded to your request or complaint, you have the right to lodge a complaint to the United Kingdom's Information Commissioner's Office whose contact details are: Information Commissioner's Office, Wycliffe House, Water Lane, Wilmslow, Cheshire, SK9 5AF Telephone: 0303 123 1113. Contact details If you have any questions regarding this Privacy Notice, our processing of your personal data or if you wish to exercise your rights, please do not hesitate to contact us: Verisure Services (UK) Limited, company registration number 08840095 Postal address: Q12 Quorum Business Park, Benton Lane, Newcastle Upon Tyne, Tyne and Wear, NE12 8BU E-mail: dataprotection@verisure.co.uk Data Subject Request Form: Click Here Website: www.verisure.co.uk",
+        "extended_context": "General information and the scope of this Privacy Notice Your right to data protection is very important for us at Verisure. We aim to ensure that you feel comfortable about our processing of your personal data. The purpose of this privacy notice (\" Privacy Notice \") is to provide information about how we ensure that your personal data is processed in compliance with applicable data protection legislation. This Privacy Notice applies to our residential customers (\" Residential Customers \") and, when applicable, the individuals assigned by our residential customers (\" Assigned Users \") who use our services, including our products provided for the delivery of our security alarm monitoring services, devices and cameras, including the provision of our App (\" Services \") as well as emergency contact persons assigned by the Residential Customer (\" Emergency Contact \"). If you are a Business Customer, please find the applicable Privacy Notice here. If you visit a residential premises using Verisure Services, please find the applicable Privacy Notice here. If you visit a business premises using Verisure Services, please find the applicable Privacy Notice here. Verisure is the data controller for the processing of your personal data in accordance with this Privacy Notice and we are thus responsible for ensuring that our processing of personal data complies with applicable data protection legislation. For certain processing of personal data, the Residential Customer is the data controller, either independently or jointly with Verisure. When we are processing personal data as a data controller, we ensure that applicable data protection legislation is always complied with and that we only process your personal data for the purposes described in this Privacy Notice. Verisure entities have implemented an Intra-Group Agreement to comply with the legal requirements for personal data transfers. The agreement will ensure that the sharing and transfer of personal data between the entities are lawful. Additionally, the Intra-Group Agreement will ensure the lawful transfers of personal data from the EEA to non-EEA countries. Due to the international nature of its business, Verisure Services (UK) Limited may, in the ordinary course of business, transfer personal data to other Verisure entities which are companies that fall within the Verisure Group as defined in the Intra-Group Agreement. These Verisure entities are affiliates, and they may share personal data during the operation of their businesses. For example, in order to manage and deliver related services, they may need to collect, access, process, and/or transfer (collectively, \"transfers\") personal data about Verisure Services (UK) Limited's customers. For more information about the Services which you have chosen to use and the functionality of those Services, please refer to Verisure's General Terms and Conditions, Terms of Service as well as available instructions and manuals. How and why we process your personal data We only process your personal data if the processing is necessary to fulfil the purposes of the processing described below. We process your personal data for the following purposes: 1. Establishment and maintenance of the customer relationship 1. To enter into a contract with you 2. To perform credit checks prior to entering into contract with a Residential Customer 3. To administer the contract with the Residential Customer, including payments for Services 4. To administer and enable the existing and returning customer relationship with the utmost care 2. Provision of Services 1. To monitor the premises through the Services 2. To manage alarm triggering events 3. To follow up previous alarm triggering events 4. To ensure that we meet our legal obligations in respect of previously active customers 3. Provision of support to the Residential Customers in relation to the Services 1. To provide customer service and technical support in relation to our Services 2. To assist Residential Customers in case of an insurance claim or other legal claims 3. To handle customer complaints 4. To cooperate with law enforcement or regulators to fight crime, comply with our legal obligations or protect the safety of our Residential Customers 4. Development of Verisure's Services 1. Quality assurance 2. Training of Verisure's personnel 3. Development of Verisure's Services 4. To train an AI model used for the purpose of developing Verisure's Services (training and development of new products and services) 5. Provision of Verisure App and Customer Area 6. Provision of the Verisure web shop 1. To provide and administer your orders in our online shop 7. Marketing and analytics 1. To market our Services 2. To administer and analyse our campaigns, promotions, referral programmes, etc. or perform marketing analysis 8. Verisure's legal interests 1. To comply with our legal obligations 2. To enable restructurings or mergers of the business 3. To protect our legal interests in the event of a dispute Complete information about how we process your personal data, including information about the applicable legal bases, the recipients of your personal data, international transfers of personal data and the criteria used to determine applicable retention periods is available here. Your rights You have the right to be informed about which personal data relating to you we process and what we do with your personal data. You also have the right of access to your personal data and the right to complain to us if you think we have not handled personal data responsibly and in line with good practice. In certain situations you also have the right to have your personal data erased, to request restriction of the processing of your personal data, the right to data portability, the right not to be subject to a decision based on automatic processing as well as the right to object to our processing of your personal data. If we process your personal data based on your consent, you always have the right to withdraw your consent. If you believe that we have processed your data in an unlawful manner, or you are dissatisfied about how we have responded to your request or complaint, you have the right to lodge a complaint to the United Kingdom's Information Commissioner's Office whose contact details are: Information Commissioner's Office, Wycliffe House, Water Lane, Wilmslow, Cheshire, SK9 5AF Telephone: 0303 123 1113. Contact details If you have any questions regarding this Privacy Notice, our processing of your personal data or if you wish to exercise your rights, please do not hesitate to contact us: Verisure Services (UK) Limited, company registration number 08840095 Postal address: Q12 Quorum Business Park, Benton Lane, Newcastle Upon Tyne, Tyne and Wear, NE12 8BU E-mail: dataprotection@verisure.co.uk Data Subject Request Form: Click Here Website: www.verisure.co.uk"
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S16",
+        "text": "If you visit premises with Verisure Services General information and the scope of this Privacy Notice Your right to data protection is very important for us at Verisure. We aim to ensure that you feel comfortable about our processing of your personal data. The purpose of this privacy notice (\" Privacy Notice \") is to provide information about how we ensure that your personal data is processed in compliance with applicable data protection legislation. This Privacy Notice applies to individuals whose personal data is collected through our home security alarm monitoring services, devices and cameras used by our Residential Customers (\" Services \"), e.g. if you visit premises where the Services are installed and used. If you are a Residential Customer, please find the applicable Privacy Notice here. If you are a Business Customer, please find the applicable Privacy Notice here. If you visit a business premises using Verisure Services, please find the applicable Privacy Notice here. Verisure is the data controller for the processing of your personal data in accordance with this Privacy Notice and we are thus responsible for ensuring that our processing of personal data complies with applicable data protection legislation. For certain processing of personal data, the Residential Customer is the data controller, either independently or jointly with Verisure. For further information about the Residential Customer's processing of personal data, please refer to the Residential Customer for more information. When we are processing personal data as a data controller, we ensure that applicable data protection legislation is always complied with and that we only process your personal data for the purposes described in this Privacy Notice. If you believe that your data protection rights may have been breached, you have the right to lodge a complaint with the applicable supervisory authority, namely the United Kingdom's Information Commissioner's Office whose contact details are: Information Commissioner's Office, Wycliffe House, Water Lane, Wilmslow, Cheshire, SK9 5AF Telephone: 0303 123 1113 How and why we process your personal data We only process your personal data if the processing is necessary to fulfil the purposes of the processing described below. We process your personal data for the following purposes:",
+        "heading_path": [
+          "Privacy",
+          "Page",
+          "You are a visitor to a residential customer of Verisure",
+          "Summary - Privacy Notice for Residential Customers's Data Subjects"
+        ],
+        "links": [
+          {
+            "text": "here",
+            "href": "https://www.verisure.co.uk/privacy-page#residential",
+            "kind": "external"
+          },
+          {
+            "text": "here",
+            "href": "https://www.verisure.co.uk/privacy-page#business",
+            "kind": "external"
+          },
+          {
+            "text": "here",
+            "href": "https://www.verisure.co.uk/privacy-page#business-visitor",
+            "kind": "external"
+          }
+        ],
+        "html_ids": [],
+        "previous_segment_id": "S15",
+        "next_segment_id": "S17",
+        "previous_segment_text": "If you are a Residential Customer, Assigned User or Emergency Contact",
+        "extended_context": "For more information about the Services which you have chosen to use and the functionality of those Services, please refer to Verisure's General Terms and Conditions, Terms of Service as well as available instructions and manuals. How and why we process your personal data We only process your personal data if the processing is necessary to fulfil the purposes of the processing described below. We process your personal data for the following purposes: 1. Establishment and maintenance of the customer relationship 1. To enter into a contract with you 2. To perform credit checks prior to entering into contract with a Residential Customer 3. To administer the contract with the Residential Customer, including payments for Services 4. To administer and enable the existing and returning customer relationship with the utmost care 2. Provision of Services 1. To monitor the premises through the Services 2. To manage alarm triggering events 3. To follow up previous alarm triggering events 4. To ensure that we meet our legal obligations in respect of previously active customers 3. Provision of support to the Residential Customers in relation to the Services 1. To provide customer service and technical support in relation to our Services 2. To assist Residential Customers in case of an insurance claim or other legal claims 3. To handle customer complaints 4. To cooperate with law enforcement or regulators to fight crime, comply with our legal obligations or protect the safety of our Residential Customers 4. Development of Verisure's Services 1. Quality assurance 2. Training of Verisure's personnel 3. Development of Verisure's Services 4. To train an AI model used for the purpose of developing Verisure's Services (training and development of new products and services) 5. Provision of Verisure App and Customer Area 6. Provision of the Verisure web shop 1. To provide and administer your orders in our online shop 7. Marketing and analytics 1. To market our Services 2. To administer and analyse our campaigns, promotions, referral programmes, etc. or perform marketing analysis 8. Verisure's legal interests 1. To comply with our legal obligations 2. To enable restructurings or mergers of the business 3. To protect our legal interests in the event of a dispute Complete information about how we process your personal data, including information about the applicable legal bases, the recipients of your personal data, international transfers of personal data and the criteria used to determine applicable retention periods is available here. Your rights You have the right to be informed about which personal data relating to you we process and what we do with your personal data. You also have the right of access to your personal data and the right to complain to us if you think we have not handled personal data responsibly and in line with good practice. In certain situations you also have the right to have your personal data erased, to request restriction of the processing of your personal data, the right to data portability, the right not to be subject to a decision based on automatic processing as well as the right to object to our processing of your personal data. If we process your personal data based on your consent, you always have the right to withdraw your consent. If you believe that we have processed your data in an unlawful manner, or you are dissatisfied about how we have responded to your request or complaint, you have the right to lodge a complaint to the United Kingdom's Information Commissioner's Office whose contact details are: Information Commissioner's Office, Wycliffe House, Water Lane, Wilmslow, Cheshire, SK9 5AF Telephone: 0303 123 1113. Contact details If you have any questions regarding this Privacy Notice, our processing of your personal data or if you wish to exercise your rights, please do not hesitate to contact us: Verisure Services (UK) Limited, company registration number 08840095 Postal address: Q12 Quorum Business Park, Benton Lane, Newcastle Upon Tyne, Tyne and Wear, NE12 8BU E-mail: dataprotection@verisure.co.uk Data Subject Request Form: Click Here Website: www.verisure.co.uk If you are a Residential Customer, Assigned User or Emergency Contact"
+      },
+      "result": {
+        "right_type": [
+          {
+            "value": "Right of access",
+            "evidence": "If you believe that your data protection rights may have been breached, you have the right to lodge a complaint with the applicable supervisory authority, namely the United Kingdom's Information Commissioner's Office",
+            "confidence": "extracted",
+            "id": "Verisure:S16:right:1"
+          }
+        ],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S17",
+        "text": "1. Provision of Services 1. To monitor the premises through the Services 2. To manage alarm triggering events 3. To follow up previous alarm triggering events 4. To ensure that we meet our legal obligations in respect of previously active customers 2. Provision of support to the Residential Customers in relation to the Services 1. To provide customer service and technical support in relation to our Services 2. To assist Customers in case of an insurance claim or other legal claims 3. To handle customer complaints 4. To cooperate with law enforcement or regulators to fight crime, comply with our legal obligations or protect the safety of our Residential Customers 3. Development of Verisure's Services 1. Quality assurance 2. Training of Verisure's personnel 3. Development of Verisure's Services 4. Verisure's legal interests 1. To comply with our legal obligations 2. To enable restructurings or mergers of the business 3. To protect our legal interests in the event of a dispute Complete information about how we process your personal data, including information about the applicable legal bases, the recipients of your personal data, international transfers of personal data and the criteria used to determine applicable retention periods is available here. Your rights You have the right to be informed about which personal data relating to you we process and what we do with your personal data. You also have the right of access to your personal data. In certain situations you also have the right to have your personal data erased, to request restriction of the processing of your personal data, the right to data portability, the right not to be subject to a decision based on automatic processing as well as the right to object to our processing of your personal data. If we process your personal data based on your consent, you always have the right to withdraw your consent. If you believe that we have processed your data in an unlawful manner, you have the right to lodge a complaint to the United Kingdom's Information Commissioner's Office. Contact details If you have any questions regarding this Privacy Notice, our processing of your personal data or if you wish to exercise your rights, please do not hesitate to contact us: Verisure Services (UK) Limited, company registration number 08840095 Postal address: Q12 Quorum Business Park, Benton Lane, Newcastle Upon Tyne, Tyne and Wear, NE12 8BU E-mail: dataprotection@verisure.co.uk",
+        "heading_path": [
+          "Privacy",
+          "Page",
+          "You are a visitor to a residential customer of Verisure",
+          "Summary - Privacy Notice for Residential Customers's Data Subjects"
+        ],
+        "links": [
+          {
+            "text": "here",
+            "href": "https://www.verisure.co.uk/privacy-notice",
+            "kind": "external"
+          },
+          {
+            "text": "dataprotection@verisure.co.uk",
+            "href": "mailto:dataprotection@verisure.co.uk",
+            "kind": "email"
+          }
+        ],
+        "html_ids": [],
+        "previous_segment_id": "S16",
+        "next_segment_id": "S18",
+        "previous_segment_text": "If you visit premises with Verisure Services General information and the scope of this Privacy Notice Your right to data protection is very important for us at Verisure. We aim to ensure that you feel comfortable about our processing of your personal data. The purpose of this privacy notice (\" Privacy Notice \") is to provide information about how we ensure that your personal data is processed in compliance with applicable data protection legislation. This Privacy Notice applies to individuals whose personal data is collected through our home security alarm monitoring services, devices and cameras used by our Residential Customers (\" Services \"), e.g. if you visit premises where the Services are installed and used. If you are a Residential Customer, please find the applicable Privacy Notice here. If you are a Business Customer, please find the applicable Privacy Notice here. If you visit a business premises using Verisure Services, please find the applicable Privacy Notice here. Verisure is the data controller for the processing of your personal data in accordance with this Privacy Notice and we are thus responsible for ensuring that our processing of personal data complies with applicable data protection legislation. For certain processing of personal data, the Residential Customer is the data controller, either independently or jointly with Verisure. For further information about the Residential Customer's processing of personal data, please refer to the Residential Customer for more information. When we are processing personal data as a data controller, we ensure that applicable data protection legislation is always complied with and that we only process your personal data for the purposes described in this Privacy Notice. If you believe that your data protection rights may have been breached, you have the right to lodge a complaint with the applicable supervisory authority, namely the United Kingdom's Information Commissioner's Office whose contact details are: Information Commissioner's Office, Wycliffe House, Water Lane, Wilmslow, Cheshire, SK9 5AF Telephone: 0303 123 1113 How and why we process your personal data We only process your personal data if the processing is necessary to fulfil the purposes of the processing described below. We process your personal data for the following purposes:",
+        "extended_context": "You have the right to be informed about which personal data relating to you we process and what we do with your personal data. You also have the right of access to your personal data and the right to complain to us if you think we have not handled personal data responsibly and in line with good practice. In certain situations you also have the right to have your personal data erased, to request restriction of the processing of your personal data, the right to data portability, the right not to be subject to a decision based on automatic processing as well as the right to object to our processing of your personal data. If we process your personal data based on your consent, you always have the right to withdraw your consent. If you believe that we have processed your data in an unlawful manner, or you are dissatisfied about how we have responded to your request or complaint, you have the right to lodge a complaint to the United Kingdom's Information Commissioner's Office whose contact details are: Information Commissioner's Office, Wycliffe House, Water Lane, Wilmslow, Cheshire, SK9 5AF Telephone: 0303 123 1113. Contact details If you have any questions regarding this Privacy Notice, our processing of your personal data or if you wish to exercise your rights, please do not hesitate to contact us: Verisure Services (UK) Limited, company registration number 08840095 Postal address: Q12 Quorum Business Park, Benton Lane, Newcastle Upon Tyne, Tyne and Wear, NE12 8BU E-mail: dataprotection@verisure.co.uk Data Subject Request Form: Click Here Website: www.verisure.co.uk If you are a Residential Customer, Assigned User or Emergency Contact If you visit premises with Verisure Services General information and the scope of this Privacy Notice Your right to data protection is very important for us at Verisure. We aim to ensure that you feel comfortable about our processing of your personal data. The purpose of this privacy notice (\" Privacy Notice \") is to provide information about how we ensure that your personal data is processed in compliance with applicable data protection legislation. This Privacy Notice applies to individuals whose personal data is collected through our home security alarm monitoring services, devices and cameras used by our Residential Customers (\" Services \"), e.g. if you visit premises where the Services are installed and used. If you are a Residential Customer, please find the applicable Privacy Notice here. If you are a Business Customer, please find the applicable Privacy Notice here. If you visit a business premises using Verisure Services, please find the applicable Privacy Notice here. Verisure is the data controller for the processing of your personal data in accordance with this Privacy Notice and we are thus responsible for ensuring that our processing of personal data complies with applicable data protection legislation. For certain processing of personal data, the Residential Customer is the data controller, either independently or jointly with Verisure. For further information about the Residential Customer's processing of personal data, please refer to the Residential Customer for more information. When we are processing personal data as a data controller, we ensure that applicable data protection legislation is always complied with and that we only process your personal data for the purposes described in this Privacy Notice. If you believe that your data protection rights may have been breached, you have the right to lodge a complaint with the applicable supervisory authority, namely the United Kingdom's Information Commissioner's Office whose contact details are: Information Commissioner's Office, Wycliffe House, Water Lane, Wilmslow, Cheshire, SK9 5AF Telephone: 0303 123 1113 How and why we process your personal data We only process your personal data if the processing is necessary to fulfil the purposes of the processing described below. We process your personal data for the following purposes:"
+      },
+      "result": {
+        "right_type": [
+          {
+            "value": "Right of access",
+            "evidence": "You also have the right of access to your personal data.",
+            "confidence": "extracted",
+            "id": "Verisure:S17:right:1"
+          },
+          {
+            "value": "Right to erasure",
+            "evidence": "In certain situations you also have the right to have your personal data erased",
+            "confidence": "extracted",
+            "id": "Verisure:S17:right:2"
+          },
+          {
+            "value": "Right to restriction of processing",
+            "evidence": "to request restriction of the processing of your personal data",
+            "confidence": "extracted",
+            "id": "Verisure:S17:right:3"
+          },
+          {
+            "value": "Right to data portability",
+            "evidence": "the right to data portability",
+            "confidence": "extracted",
+            "id": "Verisure:S17:right:4"
+          },
+          {
+            "value": "Right to not be subject to automated decision-making (to profiling)",
+            "evidence": "the right not to be subject to a decision based on automatic processing",
+            "confidence": "extracted",
+            "id": "Verisure:S17:right:5"
+          },
+          {
+            "value": "Right to object",
+            "evidence": "the right to object to our processing of your personal data",
+            "confidence": "extracted",
+            "id": "Verisure:S17:right:6"
+          }
+        ],
+        "choice_type": [
+          {
+            "value": "Change or withdraw consent",
+            "evidence": "you always have the right to withdraw your consent",
+            "confidence": "extracted",
+            "id": "Verisure:S17:choice:1"
+          }
+        ],
+        "request_channel": [
+          {
+            "value": "Request by email",
+            "evidence": "E-mail: dataprotection@verisure.co.uk",
+            "confidence": "extracted",
+            "id": "Verisure:S17:channel:1",
+            "linked_ids": [
+              "Verisure:S17:right:1",
+              "Verisure:S17:right:2",
+              "Verisure:S17:right:3",
+              "Verisure:S17:right:4",
+              "Verisure:S17:right:5",
+              "Verisure:S17:right:6",
+              "Verisure:S17:choice:1"
+            ],
+            "link": {
+              "url": "mailto:dataprotection@verisure.co.uk",
+              "kind": "email",
+              "visible_text": "dataprotection@verisure.co.uk"
+            }
+          },
+          {
+            "value": "Request by post",
+            "evidence": "Postal address: Q12 Quorum Business Park, Benton Lane, Newcastle Upon Tyne, Tyne and Wear, NE12 8BU",
+            "confidence": "extracted",
+            "id": "Verisure:S17:channel:2",
+            "linked_ids": [
+              "Verisure:S17:right:1",
+              "Verisure:S17:right:2",
+              "Verisure:S17:right:3",
+              "Verisure:S17:right:4",
+              "Verisure:S17:right:5",
+              "Verisure:S17:right:6",
+              "Verisure:S17:choice:1"
+            ],
+            "link": null
+          }
+        ],
+        "references": [],
+        "rejected": [
+          {
+            "attribute": "reference",
+            "evidence": "Complete information about how we process your personal data, including information about the applicable legal bases, the recipients of your personal data, international transfers of personal data and the criteria used to determine applicable retention periods is available here.",
+            "target_text": "here",
+            "reason": "not_an_unresolved_reference"
+          }
+        ]
+      }
+    },
+    {
+      "segment": {
+        "id": "S18",
+        "text": "Data Subject Request Form: Click Here Website: www.verisure.co.uk",
+        "heading_path": [
+          "Privacy",
+          "Page",
+          "You are a visitor to a residential customer of Verisure",
+          "Summary - Privacy Notice for Residential Customers's Data Subjects"
+        ],
+        "links": [
+          {
+            "text": "Click Here",
+            "href": "https://privacyportal-de.onetrust.com/webform/440f8dbd-7e3d-4580-9d61-d51b763da1ca/f3558dec-5d87-4f12-b5ef-8bb6d482f95d",
+            "kind": "external"
+          },
+          {
+            "text": "www.verisure.co.uk",
+            "href": "https://www.verisure.co.uk/",
+            "kind": "external"
+          }
+        ],
+        "html_ids": [],
+        "previous_segment_id": "S17",
+        "next_segment_id": "S19",
+        "previous_segment_text": "1. Provision of Services 1. To monitor the premises through the Services 2. To manage alarm triggering events 3. To follow up previous alarm triggering events 4. To ensure that we meet our legal obligations in respect of previously active customers 2. Provision of support to the Residential Customers in relation to the Services 1. To provide customer service and technical support in relation to our Services 2. To assist Customers in case of an insurance claim or other legal claims 3. To handle customer complaints 4. To cooperate with law enforcement or regulators to fight crime, comply with our legal obligations or protect the safety of our Residential Customers 3. Development of Verisure's Services 1. Quality assurance 2. Training of Verisure's personnel 3. Development of Verisure's Services 4. Verisure's legal interests 1. To comply with our legal obligations 2. To enable restructurings or mergers of the business 3. To protect our legal interests in the event of a dispute Complete information about how we process your personal data, including information about the applicable legal bases, the recipients of your personal data, international transfers of personal data and the criteria used to determine applicable retention periods is available here. Your rights You have the right to be informed about which personal data relating to you we process and what we do with your personal data. You also have the right of access to your personal data. In certain situations you also have the right to have your personal data erased, to request restriction of the processing of your personal data, the right to data portability, the right not to be subject to a decision based on automatic processing as well as the right to object to our processing of your personal data. If we process your personal data based on your consent, you always have the right to withdraw your consent. If you believe that we have processed your data in an unlawful manner, you have the right to lodge a complaint to the United Kingdom's Information Commissioner's Office. Contact details If you have any questions regarding this Privacy Notice, our processing of your personal data or if you wish to exercise your rights, please do not hesitate to contact us: Verisure Services (UK) Limited, company registration number 08840095 Postal address: Q12 Quorum Business Park, Benton Lane, Newcastle Upon Tyne, Tyne and Wear, NE12 8BU E-mail: dataprotection@verisure.co.uk",
+        "extended_context": "If you are a Residential Customer, Assigned User or Emergency Contact If you visit premises with Verisure Services General information and the scope of this Privacy Notice Your right to data protection is very important for us at Verisure. We aim to ensure that you feel comfortable about our processing of your personal data. The purpose of this privacy notice (\" Privacy Notice \") is to provide information about how we ensure that your personal data is processed in compliance with applicable data protection legislation. This Privacy Notice applies to individuals whose personal data is collected through our home security alarm monitoring services, devices and cameras used by our Residential Customers (\" Services \"), e.g. if you visit premises where the Services are installed and used. If you are a Residential Customer, please find the applicable Privacy Notice here. If you are a Business Customer, please find the applicable Privacy Notice here. If you visit a business premises using Verisure Services, please find the applicable Privacy Notice here. Verisure is the data controller for the processing of your personal data in accordance with this Privacy Notice and we are thus responsible for ensuring that our processing of personal data complies with applicable data protection legislation. For certain processing of personal data, the Residential Customer is the data controller, either independently or jointly with Verisure. For further information about the Residential Customer's processing of personal data, please refer to the Residential Customer for more information. When we are processing personal data as a data controller, we ensure that applicable data protection legislation is always complied with and that we only process your personal data for the purposes described in this Privacy Notice. If you believe that your data protection rights may have been breached, you have the right to lodge a complaint with the applicable supervisory authority, namely the United Kingdom's Information Commissioner's Office whose contact details are: Information Commissioner's Office, Wycliffe House, Water Lane, Wilmslow, Cheshire, SK9 5AF Telephone: 0303 123 1113 How and why we process your personal data We only process your personal data if the processing is necessary to fulfil the purposes of the processing described below. We process your personal data for the following purposes: 1. Provision of Services 1. To monitor the premises through the Services 2. To manage alarm triggering events 3. To follow up previous alarm triggering events 4. To ensure that we meet our legal obligations in respect of previously active customers 2. Provision of support to the Residential Customers in relation to the Services 1. To provide customer service and technical support in relation to our Services 2. To assist Customers in case of an insurance claim or other legal claims 3. To handle customer complaints 4. To cooperate with law enforcement or regulators to fight crime, comply with our legal obligations or protect the safety of our Residential Customers 3. Development of Verisure's Services 1. Quality assurance 2. Training of Verisure's personnel 3. Development of Verisure's Services 4. Verisure's legal interests 1. To comply with our legal obligations 2. To enable restructurings or mergers of the business 3. To protect our legal interests in the event of a dispute Complete information about how we process your personal data, including information about the applicable legal bases, the recipients of your personal data, international transfers of personal data and the criteria used to determine applicable retention periods is available here. Your rights You have the right to be informed about which personal data relating to you we process and what we do with your personal data. You also have the right of access to your personal data. In certain situations you also have the right to have your personal data erased, to request restriction of the processing of your personal data, the right to data portability, the right not to be subject to a decision based on automatic processing as well as the right to object to our processing of your personal data. If we process your personal data based on your consent, you always have the right to withdraw your consent. If you believe that we have processed your data in an unlawful manner, you have the right to lodge a complaint to the United Kingdom's Information Commissioner's Office. Contact details If you have any questions regarding this Privacy Notice, our processing of your personal data or if you wish to exercise your rights, please do not hesitate to contact us: Verisure Services (UK) Limited, company registration number 08840095 Postal address: Q12 Quorum Business Park, Benton Lane, Newcastle Upon Tyne, Tyne and Wear, NE12 8BU E-mail: dataprotection@verisure.co.uk"
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [
+          {
+            "value": "Web page or online form",
+            "evidence": "Data Subject Request Form: Click Here",
+            "confidence": "extracted",
+            "id": "Verisure:S18:channel:1",
+            "linked_ids": [],
+            "link": {
+              "url": "https://privacyportal-de.onetrust.com/webform/440f8dbd-7e3d-4580-9d61-d51b763da1ca/f3558dec-5d87-4f12-b5ef-8bb6d482f95d",
+              "kind": "external",
+              "visible_text": "Click Here"
+            }
+          }
+        ],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S19",
+        "text": "If you visit premises with Verisure Services",
+        "heading_path": [
+          "Privacy",
+          "Page",
+          "You are a visitor to a residential customer of Verisure",
+          "Complete Privacy Notice for Residential Customers's Data Subjects"
+        ],
+        "links": [],
+        "html_ids": [],
+        "previous_segment_id": "S18",
+        "next_segment_id": "S20",
+        "previous_segment_text": "Data Subject Request Form: Click Here Website: www.verisure.co.uk",
+        "extended_context": "If you visit premises with Verisure Services General information and the scope of this Privacy Notice Your right to data protection is very important for us at Verisure. We aim to ensure that you feel comfortable about our processing of your personal data. The purpose of this privacy notice (\" Privacy Notice \") is to provide information about how we ensure that your personal data is processed in compliance with applicable data protection legislation. This Privacy Notice applies to individuals whose personal data is collected through our home security alarm monitoring services, devices and cameras used by our Residential Customers (\" Services \"), e.g. if you visit premises where the Services are installed and used. If you are a Residential Customer, please find the applicable Privacy Notice here. If you are a Business Customer, please find the applicable Privacy Notice here. If you visit a business premises using Verisure Services, please find the applicable Privacy Notice here. Verisure is the data controller for the processing of your personal data in accordance with this Privacy Notice and we are thus responsible for ensuring that our processing of personal data complies with applicable data protection legislation. For certain processing of personal data, the Residential Customer is the data controller, either independently or jointly with Verisure. For further information about the Residential Customer's processing of personal data, please refer to the Residential Customer for more information. When we are processing personal data as a data controller, we ensure that applicable data protection legislation is always complied with and that we only process your personal data for the purposes described in this Privacy Notice. If you believe that your data protection rights may have been breached, you have the right to lodge a complaint with the applicable supervisory authority, namely the United Kingdom's Information Commissioner's Office whose contact details are: Information Commissioner's Office, Wycliffe House, Water Lane, Wilmslow, Cheshire, SK9 5AF Telephone: 0303 123 1113 How and why we process your personal data We only process your personal data if the processing is necessary to fulfil the purposes of the processing described below. We process your personal data for the following purposes: 1. Provision of Services 1. To monitor the premises through the Services 2. To manage alarm triggering events 3. To follow up previous alarm triggering events 4. To ensure that we meet our legal obligations in respect of previously active customers 2. Provision of support to the Residential Customers in relation to the Services 1. To provide customer service and technical support in relation to our Services 2. To assist Customers in case of an insurance claim or other legal claims 3. To handle customer complaints 4. To cooperate with law enforcement or regulators to fight crime, comply with our legal obligations or protect the safety of our Residential Customers 3. Development of Verisure's Services 1. Quality assurance 2. Training of Verisure's personnel 3. Development of Verisure's Services 4. Verisure's legal interests 1. To comply with our legal obligations 2. To enable restructurings or mergers of the business 3. To protect our legal interests in the event of a dispute Complete information about how we process your personal data, including information about the applicable legal bases, the recipients of your personal data, international transfers of personal data and the criteria used to determine applicable retention periods is available here. Your rights You have the right to be informed about which personal data relating to you we process and what we do with your personal data. You also have the right of access to your personal data. In certain situations you also have the right to have your personal data erased, to request restriction of the processing of your personal data, the right to data portability, the right not to be subject to a decision based on automatic processing as well as the right to object to our processing of your personal data. If we process your personal data based on your consent, you always have the right to withdraw your consent. If you believe that we have processed your data in an unlawful manner, you have the right to lodge a complaint to the United Kingdom's Information Commissioner's Office. Contact details If you have any questions regarding this Privacy Notice, our processing of your personal data or if you wish to exercise your rights, please do not hesitate to contact us: Verisure Services (UK) Limited, company registration number 08840095 Postal address: Q12 Quorum Business Park, Benton Lane, Newcastle Upon Tyne, Tyne and Wear, NE12 8BU E-mail: dataprotection@verisure.co.uk Data Subject Request Form: Click Here Website: www.verisure.co.uk"
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S20",
+        "text": "This guidance will help you to understand what you need to do if you are considering installing, or have already installed, a Verisure camera system in your home. The information in this document is intended to be helpful and practical guidance on generic, common-sense approaches to the installation and use of Verisure alarm system cameras. It is not intended to be legal advice nor a comprehensive explanation of applicable laws and regulations. If readers require specific advice, they should contact a legal professional. Company Logo",
+        "heading_path": [
+          "Privacy",
+          "Page",
+          "Camera Guidance for Residential Customers"
+        ],
+        "links": [],
+        "html_ids": [
+          "residential-camera-guidance"
+        ],
+        "previous_segment_id": "S19",
+        "next_segment_id": "S21",
+        "previous_segment_text": "If you visit premises with Verisure Services",
+        "extended_context": "1. Provision of Services 1. To monitor the premises through the Services 2. To manage alarm triggering events 3. To follow up previous alarm triggering events 4. To ensure that we meet our legal obligations in respect of previously active customers 2. Provision of support to the Residential Customers in relation to the Services 1. To provide customer service and technical support in relation to our Services 2. To assist Customers in case of an insurance claim or other legal claims 3. To handle customer complaints 4. To cooperate with law enforcement or regulators to fight crime, comply with our legal obligations or protect the safety of our Residential Customers 3. Development of Verisure's Services 1. Quality assurance 2. Training of Verisure's personnel 3. Development of Verisure's Services 4. Verisure's legal interests 1. To comply with our legal obligations 2. To enable restructurings or mergers of the business 3. To protect our legal interests in the event of a dispute Complete information about how we process your personal data, including information about the applicable legal bases, the recipients of your personal data, international transfers of personal data and the criteria used to determine applicable retention periods is available here. Your rights You have the right to be informed about which personal data relating to you we process and what we do with your personal data. You also have the right of access to your personal data. In certain situations you also have the right to have your personal data erased, to request restriction of the processing of your personal data, the right to data portability, the right not to be subject to a decision based on automatic processing as well as the right to object to our processing of your personal data. If we process your personal data based on your consent, you always have the right to withdraw your consent. If you believe that we have processed your data in an unlawful manner, you have the right to lodge a complaint to the United Kingdom's Information Commissioner's Office. Contact details If you have any questions regarding this Privacy Notice, our processing of your personal data or if you wish to exercise your rights, please do not hesitate to contact us: Verisure Services (UK) Limited, company registration number 08840095 Postal address: Q12 Quorum Business Park, Benton Lane, Newcastle Upon Tyne, Tyne and Wear, NE12 8BU E-mail: dataprotection@verisure.co.uk Data Subject Request Form: Click Here Website: www.verisure.co.uk If you visit premises with Verisure Services"
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S21",
+        "text": "When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. However, blocking some types of cookies may impact your experience of the site and the services we are able to offer. Read our Cookies Policy Allow All",
+        "heading_path": [
+          "Privacy",
+          "Privacy Preference Center"
+        ],
+        "links": [
+          {
+            "text": "Read our Cookies Policy",
+            "href": "https://www.verisure.co.uk/cookies-policy",
+            "kind": "external"
+          }
+        ],
+        "html_ids": [],
+        "previous_segment_id": "S20",
+        "next_segment_id": "S22",
+        "previous_segment_text": "This guidance will help you to understand what you need to do if you are considering installing, or have already installed, a Verisure camera system in your home. The information in this document is intended to be helpful and practical guidance on generic, common-sense approaches to the installation and use of Verisure alarm system cameras. It is not intended to be legal advice nor a comprehensive explanation of applicable laws and regulations. If readers require specific advice, they should contact a legal professional. Company Logo",
+        "extended_context": "Data Subject Request Form: Click Here Website: www.verisure.co.uk If you visit premises with Verisure Services This guidance will help you to understand what you need to do if you are considering installing, or have already installed, a Verisure camera system in your home. The information in this document is intended to be helpful and practical guidance on generic, common-sense approaches to the installation and use of Verisure alarm system cameras. It is not intended to be legal advice nor a comprehensive explanation of applicable laws and regulations. If readers require specific advice, they should contact a legal professional. Company Logo"
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [
+          {
+            "value": "Change or withdraw consent",
+            "evidence": "you can choose not to allow some types of cookies",
+            "confidence": "extracted",
+            "id": "Verisure:S21:choice:1"
+          }
+        ],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S22",
+        "text": "Always Active These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.",
+        "heading_path": [
+          "Privacy",
+          "Privacy Preference Center",
+          "Manage Consent Preferences",
+          "Strictly Necessary Cookies"
+        ],
+        "links": [],
+        "html_ids": [],
+        "previous_segment_id": "S21",
+        "next_segment_id": "S23",
+        "previous_segment_text": "When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. However, blocking some types of cookies may impact your experience of the site and the services we are able to offer. Read our Cookies Policy Allow All",
+        "extended_context": "If you visit premises with Verisure Services This guidance will help you to understand what you need to do if you are considering installing, or have already installed, a Verisure camera system in your home. The information in this document is intended to be helpful and practical guidance on generic, common-sense approaches to the installation and use of Verisure alarm system cameras. It is not intended to be legal advice nor a comprehensive explanation of applicable laws and regulations. If readers require specific advice, they should contact a legal professional. Company Logo When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. However, blocking some types of cookies may impact your experience of the site and the services we are able to offer. Read our Cookies Policy Allow All"
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S23",
+        "text": "Audience Measurement These cookies allow us to do basic audience measurement. They help us to know which pages are the most and least popular. All information these cookies collect is aggregated and therefore anonymous.",
+        "heading_path": [
+          "Privacy",
+          "Privacy Preference Center",
+          "Manage Consent Preferences",
+          "Audience Measurement"
+        ],
+        "links": [],
+        "html_ids": [],
+        "previous_segment_id": "S22",
+        "next_segment_id": "S24",
+        "previous_segment_text": "Always Active These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.",
+        "extended_context": "This guidance will help you to understand what you need to do if you are considering installing, or have already installed, a Verisure camera system in your home. The information in this document is intended to be helpful and practical guidance on generic, common-sense approaches to the installation and use of Verisure alarm system cameras. It is not intended to be legal advice nor a comprehensive explanation of applicable laws and regulations. If readers require specific advice, they should contact a legal professional. Company Logo When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. However, blocking some types of cookies may impact your experience of the site and the services we are able to offer. Read our Cookies Policy Allow All Always Active These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information."
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S24",
+        "text": "Functional Cookies These cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies, then some or all of these services may not function properly.",
+        "heading_path": [
+          "Privacy",
+          "Privacy Preference Center",
+          "Manage Consent Preferences",
+          "Functional Cookies"
+        ],
+        "links": [],
+        "html_ids": [],
+        "previous_segment_id": "S23",
+        "next_segment_id": "S25",
+        "previous_segment_text": "Audience Measurement These cookies allow us to do basic audience measurement. They help us to know which pages are the most and least popular. All information these cookies collect is aggregated and therefore anonymous.",
+        "extended_context": "When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. However, blocking some types of cookies may impact your experience of the site and the services we are able to offer. Read our Cookies Policy Allow All Always Active These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information. Audience Measurement These cookies allow us to do basic audience measurement. They help us to know which pages are the most and least popular. All information these cookies collect is aggregated and therefore anonymous."
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S25",
+        "text": "Targeting Cookies These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.",
+        "heading_path": [
+          "Privacy",
+          "Privacy Preference Center",
+          "Manage Consent Preferences",
+          "Targeting Cookies"
+        ],
+        "links": [],
+        "html_ids": [],
+        "previous_segment_id": "S24",
+        "next_segment_id": "S26",
+        "previous_segment_text": "Functional Cookies These cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies, then some or all of these services may not function properly.",
+        "extended_context": "Always Active These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information. Audience Measurement These cookies allow us to do basic audience measurement. They help us to know which pages are the most and least popular. All information these cookies collect is aggregated and therefore anonymous. Functional Cookies These cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies, then some or all of these services may not function properly."
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S26",
+        "text": "Performance Cookies These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. Back Button",
+        "heading_path": [
+          "Privacy",
+          "Privacy Preference Center",
+          "Manage Consent Preferences",
+          "Performance Cookies"
+        ],
+        "links": [],
+        "html_ids": [],
+        "previous_segment_id": "S25",
+        "next_segment_id": "S27",
+        "previous_segment_text": "Targeting Cookies These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.",
+        "extended_context": "Audience Measurement These cookies allow us to do basic audience measurement. They help us to know which pages are the most and least popular. All information these cookies collect is aggregated and therefore anonymous. Functional Cookies These cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies, then some or all of these services may not function properly. Targeting Cookies These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising."
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S27",
+        "text": "Search Icon Filter Icon Clear checkbox label label Apply Cancel Consent Leg.Interest checkbox label label checkbox label label checkbox label label Reject All Confirm My Choices Powered by Onetrust",
+        "heading_path": [
+          "Privacy",
+          "Privacy Preference Center",
+          "Cookie List"
+        ],
+        "links": [],
+        "html_ids": [],
+        "previous_segment_id": "S26",
+        "next_segment_id": null,
+        "previous_segment_text": "Performance Cookies These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. Back Button",
+        "extended_context": "Functional Cookies These cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies, then some or all of these services may not function properly. Targeting Cookies These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising. Performance Cookies These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. Back Button"
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    }
+  ]
+}

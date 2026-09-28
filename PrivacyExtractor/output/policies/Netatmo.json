@@ -1,0 +1,28 @@
+{
+  "policy": "Netatmo",
+  "rows": [
+    {
+      "segment": {
+        "id": "S1",
+        "text": "Conditions d'Utilisation Conditions d'Utilisation Politique de confidentialité",
+        "heading_path": [],
+        "links": [],
+        "html_ids": [
+          "app",
+          "legals-legrand"
+        ],
+        "previous_segment_id": null,
+        "next_segment_id": null,
+        "previous_segment_text": "",
+        "extended_context": ""
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    }
+  ]
+}

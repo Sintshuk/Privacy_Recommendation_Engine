@@ -1,0 +1,23 @@
+{
+  "right_type": {
+    "Right of access": {"id": "R_ACCESS", "title": "Review your right to access your personal data", "category": "privacy_right"},
+    "Right to rectification": {"id": "R_RECTIFY", "title": "Review your right to correct inaccurate personal data", "category": "privacy_right"},
+    "Right to erasure": {"id": "R_ERASE", "title": "Review your right to request deletion of personal data", "category": "privacy_right"},
+    "Right to restriction of processing": {"id": "R_RESTRICT", "title": "Review your right to restrict processing", "category": "privacy_right"},
+    "Obligation to notify recipients": {"id": "R_NOTIFY_RECIPIENTS", "title": "Review whether recipients must be notified about corrections or deletion", "category": "privacy_right"},
+    "Right to data portability": {"id": "R_PORTABILITY", "title": "Review your right to receive or transfer your data", "category": "privacy_right"},
+    "Right to object": {"id": "R_OBJECT", "title": "Review your right to object to certain processing", "category": "privacy_right"},
+    "Right to not be subject to automated decision-making (to profiling)": {"id": "R_AUTOMATED_DECISION", "title": "Review your rights around automated decisions and profiling", "category": "privacy_right"}
+  },
+  "choice_type": {
+    "View and update personal data": {"id": "C_VIEW_UPDATE", "title": "Review or update your personal data", "category": "privacy_control"},
+    "Lodge a complaint": {"id": "C_COMPLAINT", "title": "Review how to lodge a privacy complaint", "category": "privacy_control"},
+    "Manage notifications and communications": {"id": "C_NOTIFICATIONS", "title": "Review notification and communication settings", "category": "privacy_control"},
+    "Delete personal data or account": {"id": "C_DELETE", "title": "Review options to delete personal data or your account", "category": "privacy_control"},
+    "Change or withdraw consent": {"id": "C_CONSENT", "title": "Review or withdraw your consent choices", "category": "privacy_control"},
+    "Opt out of marketing": {"id": "C_MARKETING", "title": "Review the available marketing opt-out", "category": "privacy_control"},
+    "Opt out of sale, sharing, or targeted advertising": {"id": "C_AD_SHARING_OPTOUT", "title": "Review the available opt-out for sharing or targeted advertising", "category": "privacy_control"},
+    "Device and app permission controls": {"id": "C_PERMISSIONS", "title": "Review device and app privacy permissions", "category": "privacy_control"},
+    "Data sharing and integration controls": {"id": "C_DATA_SHARING", "title": "Review data-sharing and integration controls", "category": "privacy_control"}
+  }
+}

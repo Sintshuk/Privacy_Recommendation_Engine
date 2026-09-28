@@ -1,0 +1,152 @@
+"""
+CROSS_SEGMENT - runs AFTER every segment in one policy has already been
+extracted.
+
+Resolves "Not specified" channels and unresolved references only when
+a real document link identifies the target segment.
+
+This is a separate second pass because a single segment's extraction
+in pipeline.py has no visibility into the rest of the document.
+"""
+
+from __future__ import annotations
+
+from urllib.parse import urlparse
+
+
+def get_fragment(href: str) -> str | None:
+    """
+    Pull the #fragment from a link.
+
+    Works for both:
+    "#anchor"
+
+    and:
+    "https://site.com/page#anchor"
+    """
+    if not href:
+        return None
+
+    parsed = urlparse(href)
+    return parsed.fragment or None
+
+
+def build_anchor_index(rows: list[dict]) -> dict[str, str]:
+    """
+    Map every real HTML id found in the policy to the segment
+    that contains it.
+    """
+    index: dict[str, str] = {}
+
+    for row in rows:
+        segment = row["segment"]
+
+        for html_id in segment.get("html_ids", []):
+            index[html_id] = segment["id"]
+
+    return index
+
+
+def build_channel_index(
+    rows: list[dict],
+) -> dict[str, list[dict]]:
+    """
+    Map each segment id to the usable request channels found
+    in that segment.
+
+    "Not specified" is excluded because it is not a real
+    usable request channel.
+    """
+    index: dict[str, list[dict]] = {}
+
+    for row in rows:
+        result = row["result"]
+
+        if not result:
+            continue
+
+        real_channels = [
+            channel
+            for channel in result.get("request_channel", [])
+            if channel.get("value") != "Not specified"
+        ]
+
+        if real_channels:
+            index[row["segment"]["id"]] = real_channels
+
+    return index
+
+
+def resolve_via_link(
+    segment: dict,
+    anchor_index: dict,
+    channel_index: dict,
+) -> tuple[list[dict], str] | None:
+    """
+    Resolve a cross-segment reference only when a real HTML
+    link fragment points to a segment containing usable
+    request channels.
+    """
+    for link in segment.get("links", []):
+        fragment = get_fragment(link.get("href", ""))
+
+        if not fragment:
+            continue
+
+        target_segment_id = anchor_index.get(fragment)
+
+        if (
+            target_segment_id
+            and target_segment_id in channel_index
+        ):
+            return (
+                channel_index[target_segment_id],
+                "internal_link",
+            )
+
+    return None
+
+
+def resolve_cross_segment_channels(
+    rows: list[dict],
+) -> list[dict]:
+    """
+    Run once after all segments in the policy have been extracted.
+
+    For "Not specified" channels and unresolved references,
+    resolve them only when a real document link identifies a
+    target segment containing usable request channels.
+
+    If the target cannot be identified reliably, leave it
+    unresolved rather than guessing from nearby segments.
+    """
+    anchor_index = build_anchor_index(rows)
+    channel_index = build_channel_index(rows)
+
+    for row in rows:
+        segment = row["segment"]
+        result = row["result"]
+
+        if not result:
+            continue
+
+        for channel in result.get("request_channel", []):
+            if channel.get("value") != "Not specified":
+                continue
+
+            resolved = resolve_via_link(segment, anchor_index, channel_index)
+
+            if resolved:
+                real_channels, method = resolved
+                channel["resolved_channels"] = real_channels
+                channel["resolution_method"] = method
+
+        for reference in result.get("references", []):
+            resolved = resolve_via_link(segment, anchor_index, channel_index)
+
+            if resolved:
+                real_channels, method = resolved
+                reference["resolved_channels"] = real_channels
+                reference["resolution_method"] = method
+
+    return rows

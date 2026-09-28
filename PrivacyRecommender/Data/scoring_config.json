@@ -1,0 +1,10 @@
+{
+  "mapping_weights": {
+    "direct": 1.0,
+    "supporting": 0.5,
+    "contextual": 0.0
+  },
+  "diversity": {
+    "max_per_category": 3
+  }
+}

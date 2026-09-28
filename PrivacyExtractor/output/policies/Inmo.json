@@ -1,0 +1,691 @@
+{
+  "policy": "Inmo",
+  "rows": [
+    {
+      "segment": {
+        "id": "S1",
+        "text": "INMO Technology Company (\"INMO,\" \"we,\" \"us,\" or \"our\") is committed to protecting your privacy and the security of your personal information. This Privacy Policy explains how we collect, use, disclose, and safeguard your personal data when you visit our website (www.inmoxr.com), use our applications, purchase our products, or otherwise interact with us. We aim to be transparent about our data practices and provide you with control over your information. We may update this Privacy Policy from time to time to reflect changes in our practices or for legal, operational, or regulatory reasons. We will notify you of any material changes through our website or other appropriate means before they become effective. We encourage you to review this Privacy Policy periodically to stay informed about our information practices and your privacy rights.",
+        "heading_path": [
+          "Privacy policy",
+          "INMO Technology Company Privacy Policy"
+        ],
+        "links": [],
+        "html_ids": [],
+        "previous_segment_id": null,
+        "next_segment_id": "S2",
+        "previous_segment_text": "",
+        "extended_context": ""
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S2",
+        "text": "What is Personal Data? How and When We Collect Personal Data Categories of Personal Data We Collect How We Use Your Personal Data Legal Basis for Processing Personal Data Disclosure of Your Personal Data International Transfers of Personal Data Storage and Security of Personal Data Data Retention Your Privacy Rights Third-Party Applications and Services Cookies and Similar Technologies Children's Privacy Specific US Privacy Rights (including California) Contact Us Changes to This Privacy Policy",
+        "heading_path": [
+          "Privacy policy",
+          "List of Contents"
+        ],
+        "links": [
+          {
+            "text": "What is Personal Data?",
+            "href": "https://www.inmoxr.com/policies/privacy-policy#what-is-personal-data",
+            "kind": "external"
+          },
+          {
+            "text": "How and When We Collect Personal Data",
+            "href": "https://www.inmoxr.com/policies/privacy-policy#how-we-collect",
+            "kind": "external"
+          },
+          {
+            "text": "Categories of Personal Data We Collect",
+            "href": "https://www.inmoxr.com/policies/privacy-policy#categories-of-data",
+            "kind": "external"
+          },
+          {
+            "text": "How We Use Your Personal Data",
+            "href": "https://www.inmoxr.com/policies/privacy-policy#how-we-use",
+            "kind": "external"
+          },
+          {
+            "text": "Legal Basis for Processing Personal Data",
+            "href": "https://www.inmoxr.com/policies/privacy-policy#legal-basis",
+            "kind": "external"
+          },
+          {
+            "text": "Disclosure of Your Personal Data",
+            "href": "https://www.inmoxr.com/policies/privacy-policy#disclosure",
+            "kind": "external"
+          },
+          {
+            "text": "International Transfers of Personal Data",
+            "href": "https://www.inmoxr.com/policies/privacy-policy#international-transfers",
+            "kind": "external"
+          },
+          {
+            "text": "Storage and Security of Personal Data",
+            "href": "https://www.inmoxr.com/policies/privacy-policy#storage-security",
+            "kind": "external"
+          },
+          {
+            "text": "Data Retention",
+            "href": "https://www.inmoxr.com/policies/privacy-policy#data-retention",
+            "kind": "external"
+          },
+          {
+            "text": "Your Privacy Rights",
+            "href": "https://www.inmoxr.com/policies/privacy-policy#your-rights",
+            "kind": "external"
+          },
+          {
+            "text": "Third-Party Applications and Services",
+            "href": "https://www.inmoxr.com/policies/privacy-policy#third-party",
+            "kind": "external"
+          },
+          {
+            "text": "Cookies and Similar Technologies",
+            "href": "https://www.inmoxr.com/policies/privacy-policy#cookies",
+            "kind": "external"
+          },
+          {
+            "text": "Children's Privacy",
+            "href": "https://www.inmoxr.com/policies/privacy-policy#childrens-privacy",
+            "kind": "external"
+          },
+          {
+            "text": "Specific US Privacy Rights (including California)",
+            "href": "https://www.inmoxr.com/policies/privacy-policy#us-privacy",
+            "kind": "external"
+          },
+          {
+            "text": "Contact Us",
+            "href": "https://www.inmoxr.com/policies/privacy-policy#contact-us",
+            "kind": "external"
+          },
+          {
+            "text": "Changes to This Privacy Policy",
+            "href": "https://www.inmoxr.com/policies/privacy-policy#changes",
+            "kind": "external"
+          }
+        ],
+        "html_ids": [],
+        "previous_segment_id": "S1",
+        "next_segment_id": "S3",
+        "previous_segment_text": "INMO Technology Company (\"INMO,\" \"we,\" \"us,\" or \"our\") is committed to protecting your privacy and the security of your personal information. This Privacy Policy explains how we collect, use, disclose, and safeguard your personal data when you visit our website (www.inmoxr.com), use our applications, purchase our products, or otherwise interact with us. We aim to be transparent about our data practices and provide you with control over your information. We may update this Privacy Policy from time to time to reflect changes in our practices or for legal, operational, or regulatory reasons. We will notify you of any material changes through our website or other appropriate means before they become effective. We encourage you to review this Privacy Policy periodically to stay informed about our information practices and your privacy rights.",
+        "extended_context": "INMO Technology Company (\"INMO,\" \"we,\" \"us,\" or \"our\") is committed to protecting your privacy and the security of your personal information. This Privacy Policy explains how we collect, use, disclose, and safeguard your personal data when you visit our website (www.inmoxr.com), use our applications, purchase our products, or otherwise interact with us. We aim to be transparent about our data practices and provide you with control over your information. We may update this Privacy Policy from time to time to reflect changes in our practices or for legal, operational, or regulatory reasons. We will notify you of any material changes through our website or other appropriate means before they become effective. We encourage you to review this Privacy Policy periodically to stay informed about our information practices and your privacy rights."
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S3",
+        "text": "Personal data is any information that relates to an identified or identifiable individual. This means information that either directly identifies you (such as your name, email address, or phone number) or that could reasonably be linked to you (such as an IP address, device identifier, or customer reference number).",
+        "heading_path": [
+          "Privacy policy",
+          "1. What is Personal Data?"
+        ],
+        "links": [],
+        "html_ids": [
+          "what-is-personal-data"
+        ],
+        "previous_segment_id": "S2",
+        "next_segment_id": "S4",
+        "previous_segment_text": "What is Personal Data? How and When We Collect Personal Data Categories of Personal Data We Collect How We Use Your Personal Data Legal Basis for Processing Personal Data Disclosure of Your Personal Data International Transfers of Personal Data Storage and Security of Personal Data Data Retention Your Privacy Rights Third-Party Applications and Services Cookies and Similar Technologies Children's Privacy Specific US Privacy Rights (including California) Contact Us Changes to This Privacy Policy",
+        "extended_context": "INMO Technology Company (\"INMO,\" \"we,\" \"us,\" or \"our\") is committed to protecting your privacy and the security of your personal information. This Privacy Policy explains how we collect, use, disclose, and safeguard your personal data when you visit our website (www.inmoxr.com), use our applications, purchase our products, or otherwise interact with us. We aim to be transparent about our data practices and provide you with control over your information. We may update this Privacy Policy from time to time to reflect changes in our practices or for legal, operational, or regulatory reasons. We will notify you of any material changes through our website or other appropriate means before they become effective. We encourage you to review this Privacy Policy periodically to stay informed about our information practices and your privacy rights. What is Personal Data? How and When We Collect Personal Data Categories of Personal Data We Collect How We Use Your Personal Data Legal Basis for Processing Personal Data Disclosure of Your Personal Data International Transfers of Personal Data Storage and Security of Personal Data Data Retention Your Privacy Rights Third-Party Applications and Services Cookies and Similar Technologies Children's Privacy Specific US Privacy Rights (including California) Contact Us Changes to This Privacy Policy"
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S4",
+        "text": "We collect personal data about you in the following ways: When you create an INMO account, register on our website, or subscribe to our services When you make a purchase or request information about our products or services When you contact our customer service team When you participate in surveys, promotions, or marketing activities When you use our products, such as INMO AR glasses When you visit our website or use our applications Through cookies and similar tracking technologies From third parties, such as business partners, analytics providers, and advertising networks",
+        "heading_path": [
+          "Privacy policy",
+          "2. How and When We Collect Personal Data"
+        ],
+        "links": [],
+        "html_ids": [
+          "how-we-collect"
+        ],
+        "previous_segment_id": "S3",
+        "next_segment_id": "S5",
+        "previous_segment_text": "Personal data is any information that relates to an identified or identifiable individual. This means information that either directly identifies you (such as your name, email address, or phone number) or that could reasonably be linked to you (such as an IP address, device identifier, or customer reference number).",
+        "extended_context": "INMO Technology Company (\"INMO,\" \"we,\" \"us,\" or \"our\") is committed to protecting your privacy and the security of your personal information. This Privacy Policy explains how we collect, use, disclose, and safeguard your personal data when you visit our website (www.inmoxr.com), use our applications, purchase our products, or otherwise interact with us. We aim to be transparent about our data practices and provide you with control over your information. We may update this Privacy Policy from time to time to reflect changes in our practices or for legal, operational, or regulatory reasons. We will notify you of any material changes through our website or other appropriate means before they become effective. We encourage you to review this Privacy Policy periodically to stay informed about our information practices and your privacy rights. What is Personal Data? How and When We Collect Personal Data Categories of Personal Data We Collect How We Use Your Personal Data Legal Basis for Processing Personal Data Disclosure of Your Personal Data International Transfers of Personal Data Storage and Security of Personal Data Data Retention Your Privacy Rights Third-Party Applications and Services Cookies and Similar Technologies Children's Privacy Specific US Privacy Rights (including California) Contact Us Changes to This Privacy Policy Personal data is any information that relates to an identified or identifiable individual. This means information that either directly identifies you (such as your name, email address, or phone number) or that could reasonably be linked to you (such as an IP address, device identifier, or customer reference number)."
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S5",
+        "text": "Depending on how you interact with us, we may collect the following categories of personal data: Identity and Contact Data: Name, email address, postal address, phone number, user name, and similar contact information Account Data: Account credentials (such as username and password), account preferences, and purchase history Technical Data: IP address, device information (including unique device identifiers), browser type and version, time zone setting, browser plug-in types and versions, operating system and platform, and other technology on the devices you use to access our Services Usage Data: Information about how you use our website, products, and services, including browsing patterns, search queries, page views, and features used Location Data: Geographic location information from your device if you grant permission Marketing and Communications Data: Your preferences in receiving marketing communications from us and our third parties, and your communication preferences Product-Specific Data: Information collected through your use of INMO products, such as usage statistics, feature preferences, and calibration data",
+        "heading_path": [
+          "Privacy policy",
+          "3. Categories of Personal Data We Collect"
+        ],
+        "links": [],
+        "html_ids": [
+          "categories-of-data"
+        ],
+        "previous_segment_id": "S4",
+        "next_segment_id": "S6",
+        "previous_segment_text": "We collect personal data about you in the following ways: When you create an INMO account, register on our website, or subscribe to our services When you make a purchase or request information about our products or services When you contact our customer service team When you participate in surveys, promotions, or marketing activities When you use our products, such as INMO AR glasses When you visit our website or use our applications Through cookies and similar tracking technologies From third parties, such as business partners, analytics providers, and advertising networks",
+        "extended_context": "What is Personal Data? How and When We Collect Personal Data Categories of Personal Data We Collect How We Use Your Personal Data Legal Basis for Processing Personal Data Disclosure of Your Personal Data International Transfers of Personal Data Storage and Security of Personal Data Data Retention Your Privacy Rights Third-Party Applications and Services Cookies and Similar Technologies Children's Privacy Specific US Privacy Rights (including California) Contact Us Changes to This Privacy Policy Personal data is any information that relates to an identified or identifiable individual. This means information that either directly identifies you (such as your name, email address, or phone number) or that could reasonably be linked to you (such as an IP address, device identifier, or customer reference number). We collect personal data about you in the following ways: When you create an INMO account, register on our website, or subscribe to our services When you make a purchase or request information about our products or services When you contact our customer service team When you participate in surveys, promotions, or marketing activities When you use our products, such as INMO AR glasses When you visit our website or use our applications Through cookies and similar tracking technologies From third parties, such as business partners, analytics providers, and advertising networks"
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S6",
+        "text": "We may process your personal information for the following purposes: to provide you with the information, products and services you have requested and send you marketing and advertising materials; to provide, improve, and develop our products and services; to communicate with you including in relation to a purchase or to offer you targeted advertisements and services (including if you enter a contest, or other promotion, we may use the personal data you provide to administer those programs); to process your transactions; for system administration purposes and for internal operations, including troubleshooting, testing, statistical and survey purposes, data analysis, research, and audits; to authenticate your access to our website, app, products and services and to distinguish you from other users (for example to remember your log-in details); to monitor your use of our website, app, products and services to improve the user experience and to ensure that content is presented in the most effective manner for you and for your device; to conduct marketing analysis to allow us to assess trends and the effectiveness of our advertising and marketing campaigns (including using your personal information to evaluate, analyse or predict certain personal aspects relating to you, such as your preferences, economic situation, interests, and/or location); to provide customer support and ensure we provide a good level of customer service; to personalize your services and communications where such options are available and you choose to use them; to notify you of any changes to our services; promote safety and security, such as by monitoring fraud and investigating suspicious or potentially illegal activity or violations of our terms or policies; to ensure that our website, app, products and services are safe and secure; and to comply with applicable laws and regulations. If you no longer wish to receive email communications for marketing purposes, please contact us to opt-out or click the unsubscribe link within the email.",
+        "heading_path": [
+          "Privacy policy",
+          "4. How We Use Your Personal Data"
+        ],
+        "links": [],
+        "html_ids": [
+          "how-we-use"
+        ],
+        "previous_segment_id": "S5",
+        "next_segment_id": "S7",
+        "previous_segment_text": "Depending on how you interact with us, we may collect the following categories of personal data: Identity and Contact Data: Name, email address, postal address, phone number, user name, and similar contact information Account Data: Account credentials (such as username and password), account preferences, and purchase history Technical Data: IP address, device information (including unique device identifiers), browser type and version, time zone setting, browser plug-in types and versions, operating system and platform, and other technology on the devices you use to access our Services Usage Data: Information about how you use our website, products, and services, including browsing patterns, search queries, page views, and features used Location Data: Geographic location information from your device if you grant permission Marketing and Communications Data: Your preferences in receiving marketing communications from us and our third parties, and your communication preferences Product-Specific Data: Information collected through your use of INMO products, such as usage statistics, feature preferences, and calibration data",
+        "extended_context": "Personal data is any information that relates to an identified or identifiable individual. This means information that either directly identifies you (such as your name, email address, or phone number) or that could reasonably be linked to you (such as an IP address, device identifier, or customer reference number). We collect personal data about you in the following ways: When you create an INMO account, register on our website, or subscribe to our services When you make a purchase or request information about our products or services When you contact our customer service team When you participate in surveys, promotions, or marketing activities When you use our products, such as INMO AR glasses When you visit our website or use our applications Through cookies and similar tracking technologies From third parties, such as business partners, analytics providers, and advertising networks Depending on how you interact with us, we may collect the following categories of personal data: Identity and Contact Data: Name, email address, postal address, phone number, user name, and similar contact information Account Data: Account credentials (such as username and password), account preferences, and purchase history Technical Data: IP address, device information (including unique device identifiers), browser type and version, time zone setting, browser plug-in types and versions, operating system and platform, and other technology on the devices you use to access our Services Usage Data: Information about how you use our website, products, and services, including browsing patterns, search queries, page views, and features used Location Data: Geographic location information from your device if you grant permission Marketing and Communications Data: Your preferences in receiving marketing communications from us and our third parties, and your communication preferences Product-Specific Data: Information collected through your use of INMO products, such as usage statistics, feature preferences, and calibration data"
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [
+          {
+            "value": "Opt out of marketing",
+            "evidence": "If you no longer wish to receive email communications for marketing purposes, please contact us to opt-out or click the unsubscribe link within the email.",
+            "confidence": "extracted",
+            "id": "Inmo:S6:choice:1"
+          }
+        ],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S7",
+        "text": "We will only process your personal information where we have a legal basis to do so. The legal basis will depend on the purposes for which we have collected and use your personal information. In almost every case the legal basis will be one of the following: Consent: For example, where you have provided your consent to receive certain marketing from us. You can withdraw your consent at any time, including by clicking on the \"unsubscribe\" link at the bottom of any marketing email we send you. Our legitimate business interests: Where it is necessary for us to understand our customers, promote our services and operate effectively provided in each case that this is done in a legitimate way which does not unduly affect your privacy and other rights. For example, we will rely on this legal basis when we conduct certain market analysis to understand our customers in sufficient detail so we can create new services and improve the profile of our brand. Performance of a contract with you (or in order to take steps prior to entering into a contract with you): For example, where you have purchased a product from us and we need to use your contact details and payment information in order to process your order and send the product to you. Compliance with law: Where we are subject to a legal obligation and need to use your personal information in order to comply with that obligation.",
+        "heading_path": [
+          "Privacy policy",
+          "5. Legal Basis for Processing Personal Data"
+        ],
+        "links": [],
+        "html_ids": [
+          "legal-basis"
+        ],
+        "previous_segment_id": "S6",
+        "next_segment_id": "S8",
+        "previous_segment_text": "We may process your personal information for the following purposes: to provide you with the information, products and services you have requested and send you marketing and advertising materials; to provide, improve, and develop our products and services; to communicate with you including in relation to a purchase or to offer you targeted advertisements and services (including if you enter a contest, or other promotion, we may use the personal data you provide to administer those programs); to process your transactions; for system administration purposes and for internal operations, including troubleshooting, testing, statistical and survey purposes, data analysis, research, and audits; to authenticate your access to our website, app, products and services and to distinguish you from other users (for example to remember your log-in details); to monitor your use of our website, app, products and services to improve the user experience and to ensure that content is presented in the most effective manner for you and for your device; to conduct marketing analysis to allow us to assess trends and the effectiveness of our advertising and marketing campaigns (including using your personal information to evaluate, analyse or predict certain personal aspects relating to you, such as your preferences, economic situation, interests, and/or location); to provide customer support and ensure we provide a good level of customer service; to personalize your services and communications where such options are available and you choose to use them; to notify you of any changes to our services; promote safety and security, such as by monitoring fraud and investigating suspicious or potentially illegal activity or violations of our terms or policies; to ensure that our website, app, products and services are safe and secure; and to comply with applicable laws and regulations. If you no longer wish to receive email communications for marketing purposes, please contact us to opt-out or click the unsubscribe link within the email.",
+        "extended_context": "We collect personal data about you in the following ways: When you create an INMO account, register on our website, or subscribe to our services When you make a purchase or request information about our products or services When you contact our customer service team When you participate in surveys, promotions, or marketing activities When you use our products, such as INMO AR glasses When you visit our website or use our applications Through cookies and similar tracking technologies From third parties, such as business partners, analytics providers, and advertising networks Depending on how you interact with us, we may collect the following categories of personal data: Identity and Contact Data: Name, email address, postal address, phone number, user name, and similar contact information Account Data: Account credentials (such as username and password), account preferences, and purchase history Technical Data: IP address, device information (including unique device identifiers), browser type and version, time zone setting, browser plug-in types and versions, operating system and platform, and other technology on the devices you use to access our Services Usage Data: Information about how you use our website, products, and services, including browsing patterns, search queries, page views, and features used Location Data: Geographic location information from your device if you grant permission Marketing and Communications Data: Your preferences in receiving marketing communications from us and our third parties, and your communication preferences Product-Specific Data: Information collected through your use of INMO products, such as usage statistics, feature preferences, and calibration data We may process your personal information for the following purposes: to provide you with the information, products and services you have requested and send you marketing and advertising materials; to provide, improve, and develop our products and services; to communicate with you including in relation to a purchase or to offer you targeted advertisements and services (including if you enter a contest, or other promotion, we may use the personal data you provide to administer those programs); to process your transactions; for system administration purposes and for internal operations, including troubleshooting, testing, statistical and survey purposes, data analysis, research, and audits; to authenticate your access to our website, app, products and services and to distinguish you from other users (for example to remember your log-in details); to monitor your use of our website, app, products and services to improve the user experience and to ensure that content is presented in the most effective manner for you and for your device; to conduct marketing analysis to allow us to assess trends and the effectiveness of our advertising and marketing campaigns (including using your personal information to evaluate, analyse or predict certain personal aspects relating to you, such as your preferences, economic situation, interests, and/or location); to provide customer support and ensure we provide a good level of customer service; to personalize your services and communications where such options are available and you choose to use them; to notify you of any changes to our services; promote safety and security, such as by monitoring fraud and investigating suspicious or potentially illegal activity or violations of our terms or policies; to ensure that our website, app, products and services are safe and secure; and to comply with applicable laws and regulations. If you no longer wish to receive email communications for marketing purposes, please contact us to opt-out or click the unsubscribe link within the email."
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [
+          {
+            "value": "Change or withdraw consent",
+            "evidence": "You can withdraw your consent at any time, including by clicking on the \"unsubscribe\" link at the bottom of any marketing email we send you.",
+            "confidence": "extracted",
+            "id": "Inmo:S7:choice:1"
+          }
+        ],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S8",
+        "text": "We may disclose your personal information to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries. We make certain personal data available to strategic partners that work with us to provide our products and services or help us market to customers. Personal data will only be shared by us with these companies in order to provide or improve our products, services, and advertising; it will not be shared with third parties for their own marketing purposes without your prior express consent. We may disclose your personal information to other third parties in the following cases: for the purposes of research, evaluation, and analysis; in the event that we sell any business or assets, in which case we may disclose your personal information to the prospective buyer of such business or assets; if we or substantially all of our assets are acquired by a third party, in which case personal information held by us about our customers and visitors to our websites will be one of the transferred assets; if we are under a duty to disclose or share your personal information in order to comply with any legal or regulatory obligation or request; or to protect the rights, property or safety of us or our users, or others, and in order to enforce or apply our terms and conditions (this includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction).",
+        "heading_path": [
+          "Privacy policy",
+          "6. Disclosure of Your Personal Data"
+        ],
+        "links": [],
+        "html_ids": [
+          "disclosure"
+        ],
+        "previous_segment_id": "S7",
+        "next_segment_id": "S9",
+        "previous_segment_text": "We will only process your personal information where we have a legal basis to do so. The legal basis will depend on the purposes for which we have collected and use your personal information. In almost every case the legal basis will be one of the following: Consent: For example, where you have provided your consent to receive certain marketing from us. You can withdraw your consent at any time, including by clicking on the \"unsubscribe\" link at the bottom of any marketing email we send you. Our legitimate business interests: Where it is necessary for us to understand our customers, promote our services and operate effectively provided in each case that this is done in a legitimate way which does not unduly affect your privacy and other rights. For example, we will rely on this legal basis when we conduct certain market analysis to understand our customers in sufficient detail so we can create new services and improve the profile of our brand. Performance of a contract with you (or in order to take steps prior to entering into a contract with you): For example, where you have purchased a product from us and we need to use your contact details and payment information in order to process your order and send the product to you. Compliance with law: Where we are subject to a legal obligation and need to use your personal information in order to comply with that obligation.",
+        "extended_context": "Depending on how you interact with us, we may collect the following categories of personal data: Identity and Contact Data: Name, email address, postal address, phone number, user name, and similar contact information Account Data: Account credentials (such as username and password), account preferences, and purchase history Technical Data: IP address, device information (including unique device identifiers), browser type and version, time zone setting, browser plug-in types and versions, operating system and platform, and other technology on the devices you use to access our Services Usage Data: Information about how you use our website, products, and services, including browsing patterns, search queries, page views, and features used Location Data: Geographic location information from your device if you grant permission Marketing and Communications Data: Your preferences in receiving marketing communications from us and our third parties, and your communication preferences Product-Specific Data: Information collected through your use of INMO products, such as usage statistics, feature preferences, and calibration data We may process your personal information for the following purposes: to provide you with the information, products and services you have requested and send you marketing and advertising materials; to provide, improve, and develop our products and services; to communicate with you including in relation to a purchase or to offer you targeted advertisements and services (including if you enter a contest, or other promotion, we may use the personal data you provide to administer those programs); to process your transactions; for system administration purposes and for internal operations, including troubleshooting, testing, statistical and survey purposes, data analysis, research, and audits; to authenticate your access to our website, app, products and services and to distinguish you from other users (for example to remember your log-in details); to monitor your use of our website, app, products and services to improve the user experience and to ensure that content is presented in the most effective manner for you and for your device; to conduct marketing analysis to allow us to assess trends and the effectiveness of our advertising and marketing campaigns (including using your personal information to evaluate, analyse or predict certain personal aspects relating to you, such as your preferences, economic situation, interests, and/or location); to provide customer support and ensure we provide a good level of customer service; to personalize your services and communications where such options are available and you choose to use them; to notify you of any changes to our services; promote safety and security, such as by monitoring fraud and investigating suspicious or potentially illegal activity or violations of our terms or policies; to ensure that our website, app, products and services are safe and secure; and to comply with applicable laws and regulations. If you no longer wish to receive email communications for marketing purposes, please contact us to opt-out or click the unsubscribe link within the email. We will only process your personal information where we have a legal basis to do so. The legal basis will depend on the purposes for which we have collected and use your personal information. In almost every case the legal basis will be one of the following: Consent: For example, where you have provided your consent to receive certain marketing from us. You can withdraw your consent at any time, including by clicking on the \"unsubscribe\" link at the bottom of any marketing email we send you. Our legitimate business interests: Where it is necessary for us to understand our customers, promote our services and operate effectively provided in each case that this is done in a legitimate way which does not unduly affect your privacy and other rights. For example, we will rely on this legal basis when we conduct certain market analysis to understand our customers in sufficient detail so we can create new services and improve the profile of our brand. Performance of a contract with you (or in order to take steps prior to entering into a contract with you): For example, where you have purchased a product from us and we need to use your contact details and payment information in order to process your order and send the product to you. Compliance with law: Where we are subject to a legal obligation and need to use your personal information in order to comply with that obligation."
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S9",
+        "text": "As a global company, we may transfer your personal data to countries outside of your country of residence, including to China, where INMO is headquartered. These countries may have different data protection laws than those in your country. When we transfer your personal data internationally, we implement appropriate safeguards to ensure that your information is adequately protected. These safeguards may include: Transferring data to countries that have been deemed to provide an adequate level of protection by relevant authorities Implementing Standard Contractual Clauses approved by the European Commission or other appropriate safeguards for transfers outside the EEA, UK, or Switzerland Obtaining your explicit consent to the proposed transfer (in limited circumstances) Transferring data when necessary for the performance of a contract between you and us, or for pre-contractual measures taken at your request You can request more information about the specific safeguards we apply to the export of your personal data by contacting us.",
+        "heading_path": [
+          "Privacy policy",
+          "7. International Transfers of Personal Data"
+        ],
+        "links": [],
+        "html_ids": [
+          "international-transfers"
+        ],
+        "previous_segment_id": "S8",
+        "next_segment_id": "S10",
+        "previous_segment_text": "We may disclose your personal information to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries. We make certain personal data available to strategic partners that work with us to provide our products and services or help us market to customers. Personal data will only be shared by us with these companies in order to provide or improve our products, services, and advertising; it will not be shared with third parties for their own marketing purposes without your prior express consent. We may disclose your personal information to other third parties in the following cases: for the purposes of research, evaluation, and analysis; in the event that we sell any business or assets, in which case we may disclose your personal information to the prospective buyer of such business or assets; if we or substantially all of our assets are acquired by a third party, in which case personal information held by us about our customers and visitors to our websites will be one of the transferred assets; if we are under a duty to disclose or share your personal information in order to comply with any legal or regulatory obligation or request; or to protect the rights, property or safety of us or our users, or others, and in order to enforce or apply our terms and conditions (this includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction).",
+        "extended_context": "We may process your personal information for the following purposes: to provide you with the information, products and services you have requested and send you marketing and advertising materials; to provide, improve, and develop our products and services; to communicate with you including in relation to a purchase or to offer you targeted advertisements and services (including if you enter a contest, or other promotion, we may use the personal data you provide to administer those programs); to process your transactions; for system administration purposes and for internal operations, including troubleshooting, testing, statistical and survey purposes, data analysis, research, and audits; to authenticate your access to our website, app, products and services and to distinguish you from other users (for example to remember your log-in details); to monitor your use of our website, app, products and services to improve the user experience and to ensure that content is presented in the most effective manner for you and for your device; to conduct marketing analysis to allow us to assess trends and the effectiveness of our advertising and marketing campaigns (including using your personal information to evaluate, analyse or predict certain personal aspects relating to you, such as your preferences, economic situation, interests, and/or location); to provide customer support and ensure we provide a good level of customer service; to personalize your services and communications where such options are available and you choose to use them; to notify you of any changes to our services; promote safety and security, such as by monitoring fraud and investigating suspicious or potentially illegal activity or violations of our terms or policies; to ensure that our website, app, products and services are safe and secure; and to comply with applicable laws and regulations. If you no longer wish to receive email communications for marketing purposes, please contact us to opt-out or click the unsubscribe link within the email. We will only process your personal information where we have a legal basis to do so. The legal basis will depend on the purposes for which we have collected and use your personal information. In almost every case the legal basis will be one of the following: Consent: For example, where you have provided your consent to receive certain marketing from us. You can withdraw your consent at any time, including by clicking on the \"unsubscribe\" link at the bottom of any marketing email we send you. Our legitimate business interests: Where it is necessary for us to understand our customers, promote our services and operate effectively provided in each case that this is done in a legitimate way which does not unduly affect your privacy and other rights. For example, we will rely on this legal basis when we conduct certain market analysis to understand our customers in sufficient detail so we can create new services and improve the profile of our brand. Performance of a contract with you (or in order to take steps prior to entering into a contract with you): For example, where you have purchased a product from us and we need to use your contact details and payment information in order to process your order and send the product to you. Compliance with law: Where we are subject to a legal obligation and need to use your personal information in order to comply with that obligation. We may disclose your personal information to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries. We make certain personal data available to strategic partners that work with us to provide our products and services or help us market to customers. Personal data will only be shared by us with these companies in order to provide or improve our products, services, and advertising; it will not be shared with third parties for their own marketing purposes without your prior express consent. We may disclose your personal information to other third parties in the following cases: for the purposes of research, evaluation, and analysis; in the event that we sell any business or assets, in which case we may disclose your personal information to the prospective buyer of such business or assets; if we or substantially all of our assets are acquired by a third party, in which case personal information held by us about our customers and visitors to our websites will be one of the transferred assets; if we are under a duty to disclose or share your personal information in order to comply with any legal or regulatory obligation or request; or to protect the rights, property or safety of us or our users, or others, and in order to enforce or apply our terms and conditions (this includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction)."
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S10",
+        "text": "We implement appropriate technical and organizational measures to protect your personal data against unauthorized or unlawful processing, accidental loss, destruction, or damage. These measures include encryption, access controls, secure network configurations, and regular security assessments. While we strive to protect your personal data, no method of transmission over the Internet or electronic storage is completely secure. We cannot guarantee absolute security, but we continuously update our security measures to address new and evolving threats.",
+        "heading_path": [
+          "Privacy policy",
+          "8. Storage and Security of Personal Data"
+        ],
+        "links": [],
+        "html_ids": [
+          "storage-security"
+        ],
+        "previous_segment_id": "S9",
+        "next_segment_id": "S11",
+        "previous_segment_text": "As a global company, we may transfer your personal data to countries outside of your country of residence, including to China, where INMO is headquartered. These countries may have different data protection laws than those in your country. When we transfer your personal data internationally, we implement appropriate safeguards to ensure that your information is adequately protected. These safeguards may include: Transferring data to countries that have been deemed to provide an adequate level of protection by relevant authorities Implementing Standard Contractual Clauses approved by the European Commission or other appropriate safeguards for transfers outside the EEA, UK, or Switzerland Obtaining your explicit consent to the proposed transfer (in limited circumstances) Transferring data when necessary for the performance of a contract between you and us, or for pre-contractual measures taken at your request You can request more information about the specific safeguards we apply to the export of your personal data by contacting us.",
+        "extended_context": "We will only process your personal information where we have a legal basis to do so. The legal basis will depend on the purposes for which we have collected and use your personal information. In almost every case the legal basis will be one of the following: Consent: For example, where you have provided your consent to receive certain marketing from us. You can withdraw your consent at any time, including by clicking on the \"unsubscribe\" link at the bottom of any marketing email we send you. Our legitimate business interests: Where it is necessary for us to understand our customers, promote our services and operate effectively provided in each case that this is done in a legitimate way which does not unduly affect your privacy and other rights. For example, we will rely on this legal basis when we conduct certain market analysis to understand our customers in sufficient detail so we can create new services and improve the profile of our brand. Performance of a contract with you (or in order to take steps prior to entering into a contract with you): For example, where you have purchased a product from us and we need to use your contact details and payment information in order to process your order and send the product to you. Compliance with law: Where we are subject to a legal obligation and need to use your personal information in order to comply with that obligation. We may disclose your personal information to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries. We make certain personal data available to strategic partners that work with us to provide our products and services or help us market to customers. Personal data will only be shared by us with these companies in order to provide or improve our products, services, and advertising; it will not be shared with third parties for their own marketing purposes without your prior express consent. We may disclose your personal information to other third parties in the following cases: for the purposes of research, evaluation, and analysis; in the event that we sell any business or assets, in which case we may disclose your personal information to the prospective buyer of such business or assets; if we or substantially all of our assets are acquired by a third party, in which case personal information held by us about our customers and visitors to our websites will be one of the transferred assets; if we are under a duty to disclose or share your personal information in order to comply with any legal or regulatory obligation or request; or to protect the rights, property or safety of us or our users, or others, and in order to enforce or apply our terms and conditions (this includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction). As a global company, we may transfer your personal data to countries outside of your country of residence, including to China, where INMO is headquartered. These countries may have different data protection laws than those in your country. When we transfer your personal data internationally, we implement appropriate safeguards to ensure that your information is adequately protected. These safeguards may include: Transferring data to countries that have been deemed to provide an adequate level of protection by relevant authorities Implementing Standard Contractual Clauses approved by the European Commission or other appropriate safeguards for transfers outside the EEA, UK, or Switzerland Obtaining your explicit consent to the proposed transfer (in limited circumstances) Transferring data when necessary for the performance of a contract between you and us, or for pre-contractual measures taken at your request You can request more information about the specific safeguards we apply to the export of your personal data by contacting us."
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S11",
+        "text": "We retain your personal data only for as long as necessary to fulfill the purposes outlined in this Privacy Policy, unless a longer retention period is required or permitted by law. The criteria we use to determine retention periods include: How long the personal data is needed to provide our products and services to you Whether we have a legal or contractual obligation to retain the data Whether retention is advisable in light of our legal position, such as for statute of limitations, litigation, or regulatory investigations When personal data is no longer necessary for the purposes for which it was collected, we will securely delete or anonymize it in accordance with our data retention policy.",
+        "heading_path": [
+          "Privacy policy",
+          "9. Data Retention"
+        ],
+        "links": [],
+        "html_ids": [
+          "data-retention"
+        ],
+        "previous_segment_id": "S10",
+        "next_segment_id": "S12",
+        "previous_segment_text": "We implement appropriate technical and organizational measures to protect your personal data against unauthorized or unlawful processing, accidental loss, destruction, or damage. These measures include encryption, access controls, secure network configurations, and regular security assessments. While we strive to protect your personal data, no method of transmission over the Internet or electronic storage is completely secure. We cannot guarantee absolute security, but we continuously update our security measures to address new and evolving threats.",
+        "extended_context": "We may disclose your personal information to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries. We make certain personal data available to strategic partners that work with us to provide our products and services or help us market to customers. Personal data will only be shared by us with these companies in order to provide or improve our products, services, and advertising; it will not be shared with third parties for their own marketing purposes without your prior express consent. We may disclose your personal information to other third parties in the following cases: for the purposes of research, evaluation, and analysis; in the event that we sell any business or assets, in which case we may disclose your personal information to the prospective buyer of such business or assets; if we or substantially all of our assets are acquired by a third party, in which case personal information held by us about our customers and visitors to our websites will be one of the transferred assets; if we are under a duty to disclose or share your personal information in order to comply with any legal or regulatory obligation or request; or to protect the rights, property or safety of us or our users, or others, and in order to enforce or apply our terms and conditions (this includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction). As a global company, we may transfer your personal data to countries outside of your country of residence, including to China, where INMO is headquartered. These countries may have different data protection laws than those in your country. When we transfer your personal data internationally, we implement appropriate safeguards to ensure that your information is adequately protected. These safeguards may include: Transferring data to countries that have been deemed to provide an adequate level of protection by relevant authorities Implementing Standard Contractual Clauses approved by the European Commission or other appropriate safeguards for transfers outside the EEA, UK, or Switzerland Obtaining your explicit consent to the proposed transfer (in limited circumstances) Transferring data when necessary for the performance of a contract between you and us, or for pre-contractual measures taken at your request You can request more information about the specific safeguards we apply to the export of your personal data by contacting us. We implement appropriate technical and organizational measures to protect your personal data against unauthorized or unlawful processing, accidental loss, destruction, or damage. These measures include encryption, access controls, secure network configurations, and regular security assessments. While we strive to protect your personal data, no method of transmission over the Internet or electronic storage is completely secure. We cannot guarantee absolute security, but we continuously update our security measures to address new and evolving threats."
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S12",
+        "text": "Depending on your location, you may have various rights regarding your personal data: Right of Access: The right to request a copy of the personal data we hold about you Right of Rectification: The right to request correction of inaccurate or incomplete personal data Right of Erasure: The right to request deletion of your personal data in certain circumstances Right to Restrict Processing: The right to request that we limit the processing of your personal data Right to Data Portability: The right to receive your personal data in a structured, commonly used, and machine-readable format Right to Object: The right to object to processing of your personal data, particularly for direct marketing purposes Rights Related to Automated Decision-Making: The right not to be subject to a decision based solely on automated processing that produces legal or similarly significant effects on you To exercise any of these rights, please contact us using the details provided in the \"Contact Us\" section. We may need to verify your identity before processing your request. You also have the right to lodge a complaint with your local data protection authority if you believe that our processing of your personal data does not comply with applicable data protection laws.",
+        "heading_path": [
+          "Privacy policy",
+          "10. Your Privacy Rights"
+        ],
+        "links": [],
+        "html_ids": [
+          "your-rights"
+        ],
+        "previous_segment_id": "S11",
+        "next_segment_id": "S13",
+        "previous_segment_text": "We retain your personal data only for as long as necessary to fulfill the purposes outlined in this Privacy Policy, unless a longer retention period is required or permitted by law. The criteria we use to determine retention periods include: How long the personal data is needed to provide our products and services to you Whether we have a legal or contractual obligation to retain the data Whether retention is advisable in light of our legal position, such as for statute of limitations, litigation, or regulatory investigations When personal data is no longer necessary for the purposes for which it was collected, we will securely delete or anonymize it in accordance with our data retention policy.",
+        "extended_context": "As a global company, we may transfer your personal data to countries outside of your country of residence, including to China, where INMO is headquartered. These countries may have different data protection laws than those in your country. When we transfer your personal data internationally, we implement appropriate safeguards to ensure that your information is adequately protected. These safeguards may include: Transferring data to countries that have been deemed to provide an adequate level of protection by relevant authorities Implementing Standard Contractual Clauses approved by the European Commission or other appropriate safeguards for transfers outside the EEA, UK, or Switzerland Obtaining your explicit consent to the proposed transfer (in limited circumstances) Transferring data when necessary for the performance of a contract between you and us, or for pre-contractual measures taken at your request You can request more information about the specific safeguards we apply to the export of your personal data by contacting us. We implement appropriate technical and organizational measures to protect your personal data against unauthorized or unlawful processing, accidental loss, destruction, or damage. These measures include encryption, access controls, secure network configurations, and regular security assessments. While we strive to protect your personal data, no method of transmission over the Internet or electronic storage is completely secure. We cannot guarantee absolute security, but we continuously update our security measures to address new and evolving threats. We retain your personal data only for as long as necessary to fulfill the purposes outlined in this Privacy Policy, unless a longer retention period is required or permitted by law. The criteria we use to determine retention periods include: How long the personal data is needed to provide our products and services to you Whether we have a legal or contractual obligation to retain the data Whether retention is advisable in light of our legal position, such as for statute of limitations, litigation, or regulatory investigations When personal data is no longer necessary for the purposes for which it was collected, we will securely delete or anonymize it in accordance with our data retention policy."
+      },
+      "result": {
+        "right_type": [
+          {
+            "value": "Right of access",
+            "evidence": "Right of Access: The right to request a copy of the personal data we hold about you",
+            "confidence": "extracted",
+            "id": "Inmo:S12:right:1"
+          },
+          {
+            "value": "Right to rectification",
+            "evidence": "Right of Rectification: The right to request correction of inaccurate or incomplete personal data",
+            "confidence": "extracted",
+            "id": "Inmo:S12:right:2"
+          },
+          {
+            "value": "Right to erasure",
+            "evidence": "Right of Erasure: The right to request deletion of your personal data in certain circumstances",
+            "confidence": "extracted",
+            "id": "Inmo:S12:right:3"
+          },
+          {
+            "value": "Right to restriction of processing",
+            "evidence": "Right to Restrict Processing: The right to request that we limit the processing of your personal data",
+            "confidence": "extracted",
+            "id": "Inmo:S12:right:4"
+          },
+          {
+            "value": "Right to data portability",
+            "evidence": "Right to Data Portability: The right to receive your personal data in a structured, commonly used, and machine-readable format",
+            "confidence": "extracted",
+            "id": "Inmo:S12:right:5"
+          },
+          {
+            "value": "Right to object",
+            "evidence": "Right to Object: The right to object to processing of your personal data, particularly for direct marketing purposes",
+            "confidence": "extracted",
+            "id": "Inmo:S12:right:6"
+          },
+          {
+            "value": "Right to not be subject to automated decision-making (to profiling)",
+            "evidence": "Rights Related to Automated Decision-Making: The right not to be subject to a decision based solely on automated processing that produces legal or similarly significant effects on you",
+            "confidence": "extracted",
+            "id": "Inmo:S12:right:7"
+          }
+        ],
+        "choice_type": [],
+        "request_channel": [
+          {
+            "value": "Not specified",
+            "evidence": "To exercise any of these rights, please contact us using the details provided in the \"Contact Us\" section.",
+            "confidence": "extracted",
+            "id": "Inmo:S12:channel:1",
+            "linked_ids": [
+              "Inmo:S12:right:1",
+              "Inmo:S12:right:2",
+              "Inmo:S12:right:3",
+              "Inmo:S12:right:4",
+              "Inmo:S12:right:5",
+              "Inmo:S12:right:6",
+              "Inmo:S12:right:7"
+            ],
+            "link": null
+          }
+        ],
+        "references": [
+          {
+            "evidence": "please contact us using the details provided in the \"Contact Us\" section.",
+            "target_text": "Contact Us",
+            "confidence": "extracted",
+            "id": "Inmo:S12:reference:1"
+          }
+        ],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S13",
+        "text": "When a customer operates a link to a third-party website that has a relationship with us, we do not assume any obligation or responsibility for such policy because of the third party's privacy policy. Our websites, products, and services may contain links to or the ability for you to access third-party websites, products, and services. We are not responsible for the privacy practices employed by those third parties, nor are we responsible for the information or content their products and services contain. This Privacy Policy applies solely to data collected by us through our products and services. We encourage you to read the privacy policies of any third party before proceeding to use their websites, products, or services.",
+        "heading_path": [
+          "Privacy policy",
+          "11. Third-Party Applications and Services"
+        ],
+        "links": [],
+        "html_ids": [
+          "third-party"
+        ],
+        "previous_segment_id": "S12",
+        "next_segment_id": "S14",
+        "previous_segment_text": "Depending on your location, you may have various rights regarding your personal data: Right of Access: The right to request a copy of the personal data we hold about you Right of Rectification: The right to request correction of inaccurate or incomplete personal data Right of Erasure: The right to request deletion of your personal data in certain circumstances Right to Restrict Processing: The right to request that we limit the processing of your personal data Right to Data Portability: The right to receive your personal data in a structured, commonly used, and machine-readable format Right to Object: The right to object to processing of your personal data, particularly for direct marketing purposes Rights Related to Automated Decision-Making: The right not to be subject to a decision based solely on automated processing that produces legal or similarly significant effects on you To exercise any of these rights, please contact us using the details provided in the \"Contact Us\" section. We may need to verify your identity before processing your request. You also have the right to lodge a complaint with your local data protection authority if you believe that our processing of your personal data does not comply with applicable data protection laws.",
+        "extended_context": "We implement appropriate technical and organizational measures to protect your personal data against unauthorized or unlawful processing, accidental loss, destruction, or damage. These measures include encryption, access controls, secure network configurations, and regular security assessments. While we strive to protect your personal data, no method of transmission over the Internet or electronic storage is completely secure. We cannot guarantee absolute security, but we continuously update our security measures to address new and evolving threats. We retain your personal data only for as long as necessary to fulfill the purposes outlined in this Privacy Policy, unless a longer retention period is required or permitted by law. The criteria we use to determine retention periods include: How long the personal data is needed to provide our products and services to you Whether we have a legal or contractual obligation to retain the data Whether retention is advisable in light of our legal position, such as for statute of limitations, litigation, or regulatory investigations When personal data is no longer necessary for the purposes for which it was collected, we will securely delete or anonymize it in accordance with our data retention policy. Depending on your location, you may have various rights regarding your personal data: Right of Access: The right to request a copy of the personal data we hold about you Right of Rectification: The right to request correction of inaccurate or incomplete personal data Right of Erasure: The right to request deletion of your personal data in certain circumstances Right to Restrict Processing: The right to request that we limit the processing of your personal data Right to Data Portability: The right to receive your personal data in a structured, commonly used, and machine-readable format Right to Object: The right to object to processing of your personal data, particularly for direct marketing purposes Rights Related to Automated Decision-Making: The right not to be subject to a decision based solely on automated processing that produces legal or similarly significant effects on you To exercise any of these rights, please contact us using the details provided in the \"Contact Us\" section. We may need to verify your identity before processing your request. You also have the right to lodge a complaint with your local data protection authority if you believe that our processing of your personal data does not comply with applicable data protection laws."
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S14",
+        "text": "We use cookies and similar technologies (such as web beacons, pixels, and tags) to collect information about your browsing activities on our website and to make our website work efficiently. Types of Cookies We Use: Essential Cookies: These cookies are necessary for the basic functionality of our website. They enable you to navigate our site and use essential features like secure areas and shopping carts. These cookies do not gather information about you for marketing purposes. Performance and Analytics Cookies: These cookies collect information about how visitors use our website, such as which pages they visit most often and if they receive error messages. This data helps us improve our website's performance and user experience. Functionality Cookies: These cookies allow our website to remember choices you make (such as your language preference or the region you are in) and provide enhanced, personalized features. Targeting and Advertising Cookies: These cookies collect information about your browsing habits to make advertising relevant to you and your interests. You can manage your cookie preferences through your browser settings or through our cookie consent tool on our website. Please note that disabling certain cookies may affect the functionality of our website. For more detailed information about the specific cookies we use, their purposes, and how to manage them, please refer to our Cookie Policy.",
+        "heading_path": [
+          "Privacy policy",
+          "12. Cookies and Similar Technologies"
+        ],
+        "links": [],
+        "html_ids": [
+          "cookies"
+        ],
+        "previous_segment_id": "S13",
+        "next_segment_id": "S15",
+        "previous_segment_text": "When a customer operates a link to a third-party website that has a relationship with us, we do not assume any obligation or responsibility for such policy because of the third party's privacy policy. Our websites, products, and services may contain links to or the ability for you to access third-party websites, products, and services. We are not responsible for the privacy practices employed by those third parties, nor are we responsible for the information or content their products and services contain. This Privacy Policy applies solely to data collected by us through our products and services. We encourage you to read the privacy policies of any third party before proceeding to use their websites, products, or services.",
+        "extended_context": "We retain your personal data only for as long as necessary to fulfill the purposes outlined in this Privacy Policy, unless a longer retention period is required or permitted by law. The criteria we use to determine retention periods include: How long the personal data is needed to provide our products and services to you Whether we have a legal or contractual obligation to retain the data Whether retention is advisable in light of our legal position, such as for statute of limitations, litigation, or regulatory investigations When personal data is no longer necessary for the purposes for which it was collected, we will securely delete or anonymize it in accordance with our data retention policy. Depending on your location, you may have various rights regarding your personal data: Right of Access: The right to request a copy of the personal data we hold about you Right of Rectification: The right to request correction of inaccurate or incomplete personal data Right of Erasure: The right to request deletion of your personal data in certain circumstances Right to Restrict Processing: The right to request that we limit the processing of your personal data Right to Data Portability: The right to receive your personal data in a structured, commonly used, and machine-readable format Right to Object: The right to object to processing of your personal data, particularly for direct marketing purposes Rights Related to Automated Decision-Making: The right not to be subject to a decision based solely on automated processing that produces legal or similarly significant effects on you To exercise any of these rights, please contact us using the details provided in the \"Contact Us\" section. We may need to verify your identity before processing your request. You also have the right to lodge a complaint with your local data protection authority if you believe that our processing of your personal data does not comply with applicable data protection laws. When a customer operates a link to a third-party website that has a relationship with us, we do not assume any obligation or responsibility for such policy because of the third party's privacy policy. Our websites, products, and services may contain links to or the ability for you to access third-party websites, products, and services. We are not responsible for the privacy practices employed by those third parties, nor are we responsible for the information or content their products and services contain. This Privacy Policy applies solely to data collected by us through our products and services. We encourage you to read the privacy policies of any third party before proceeding to use their websites, products, or services."
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [
+          {
+            "value": "Device and app permission controls",
+            "evidence": "You can manage your cookie preferences through your browser settings or through our cookie consent tool on our website.",
+            "confidence": "extracted",
+            "id": "Inmo:S14:choice:1"
+          }
+        ],
+        "request_channel": [],
+        "references": [],
+        "rejected": [
+          {
+            "attribute": "reference",
+            "evidence": "please refer to our Cookie Policy",
+            "target_text": "Cookie Policy",
+            "reason": "reference_target_not_rights_relevant"
+          }
+        ]
+      }
+    },
+    {
+      "segment": {
+        "id": "S15",
+        "text": "Our Services are not directed to children under 16 years of age, and we do not knowingly collect personal data from children under 16. If we learn that we have collected the personal data of a child under 16, we will take steps to delete the information as soon as possible, unless we have a legal obligation to keep it. If you believe we might have any information from or about a child under 16, please contact us using the details provided in the \"Contact Us\" section.",
+        "heading_path": [
+          "Privacy policy",
+          "13. Children's Privacy"
+        ],
+        "links": [],
+        "html_ids": [
+          "childrens-privacy"
+        ],
+        "previous_segment_id": "S14",
+        "next_segment_id": "S16",
+        "previous_segment_text": "We use cookies and similar technologies (such as web beacons, pixels, and tags) to collect information about your browsing activities on our website and to make our website work efficiently. Types of Cookies We Use: Essential Cookies: These cookies are necessary for the basic functionality of our website. They enable you to navigate our site and use essential features like secure areas and shopping carts. These cookies do not gather information about you for marketing purposes. Performance and Analytics Cookies: These cookies collect information about how visitors use our website, such as which pages they visit most often and if they receive error messages. This data helps us improve our website's performance and user experience. Functionality Cookies: These cookies allow our website to remember choices you make (such as your language preference or the region you are in) and provide enhanced, personalized features. Targeting and Advertising Cookies: These cookies collect information about your browsing habits to make advertising relevant to you and your interests. You can manage your cookie preferences through your browser settings or through our cookie consent tool on our website. Please note that disabling certain cookies may affect the functionality of our website. For more detailed information about the specific cookies we use, their purposes, and how to manage them, please refer to our Cookie Policy.",
+        "extended_context": "Depending on your location, you may have various rights regarding your personal data: Right of Access: The right to request a copy of the personal data we hold about you Right of Rectification: The right to request correction of inaccurate or incomplete personal data Right of Erasure: The right to request deletion of your personal data in certain circumstances Right to Restrict Processing: The right to request that we limit the processing of your personal data Right to Data Portability: The right to receive your personal data in a structured, commonly used, and machine-readable format Right to Object: The right to object to processing of your personal data, particularly for direct marketing purposes Rights Related to Automated Decision-Making: The right not to be subject to a decision based solely on automated processing that produces legal or similarly significant effects on you To exercise any of these rights, please contact us using the details provided in the \"Contact Us\" section. We may need to verify your identity before processing your request. You also have the right to lodge a complaint with your local data protection authority if you believe that our processing of your personal data does not comply with applicable data protection laws. When a customer operates a link to a third-party website that has a relationship with us, we do not assume any obligation or responsibility for such policy because of the third party's privacy policy. Our websites, products, and services may contain links to or the ability for you to access third-party websites, products, and services. We are not responsible for the privacy practices employed by those third parties, nor are we responsible for the information or content their products and services contain. This Privacy Policy applies solely to data collected by us through our products and services. We encourage you to read the privacy policies of any third party before proceeding to use their websites, products, or services. We use cookies and similar technologies (such as web beacons, pixels, and tags) to collect information about your browsing activities on our website and to make our website work efficiently. Types of Cookies We Use: Essential Cookies: These cookies are necessary for the basic functionality of our website. They enable you to navigate our site and use essential features like secure areas and shopping carts. These cookies do not gather information about you for marketing purposes. Performance and Analytics Cookies: These cookies collect information about how visitors use our website, such as which pages they visit most often and if they receive error messages. This data helps us improve our website's performance and user experience. Functionality Cookies: These cookies allow our website to remember choices you make (such as your language preference or the region you are in) and provide enhanced, personalized features. Targeting and Advertising Cookies: These cookies collect information about your browsing habits to make advertising relevant to you and your interests. You can manage your cookie preferences through your browser settings or through our cookie consent tool on our website. Please note that disabling certain cookies may affect the functionality of our website. For more detailed information about the specific cookies we use, their purposes, and how to manage them, please refer to our Cookie Policy."
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [
+          {
+            "evidence": "please contact us using the details provided in the \"Contact Us\" section",
+            "target_text": "Contact Us",
+            "confidence": "extracted",
+            "id": "Inmo:S15:reference:1"
+          }
+        ],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S16",
+        "text": "If you have any questions regarding this Privacy Policy or its implementation, here is how you can reach us: Email Address: support@inmoxr.com. Tel: +1800-689-8547",
+        "heading_path": [
+          "Privacy policy",
+          "15. Contact Us"
+        ],
+        "links": [
+          {
+            "text": "support@inmoxr.com",
+            "href": "mailto:support@inmoxr.com",
+            "kind": "email"
+          }
+        ],
+        "html_ids": [
+          "contact-us"
+        ],
+        "previous_segment_id": "S15",
+        "next_segment_id": "S17",
+        "previous_segment_text": "Our Services are not directed to children under 16 years of age, and we do not knowingly collect personal data from children under 16. If we learn that we have collected the personal data of a child under 16, we will take steps to delete the information as soon as possible, unless we have a legal obligation to keep it. If you believe we might have any information from or about a child under 16, please contact us using the details provided in the \"Contact Us\" section.",
+        "extended_context": "When a customer operates a link to a third-party website that has a relationship with us, we do not assume any obligation or responsibility for such policy because of the third party's privacy policy. Our websites, products, and services may contain links to or the ability for you to access third-party websites, products, and services. We are not responsible for the privacy practices employed by those third parties, nor are we responsible for the information or content their products and services contain. This Privacy Policy applies solely to data collected by us through our products and services. We encourage you to read the privacy policies of any third party before proceeding to use their websites, products, or services. We use cookies and similar technologies (such as web beacons, pixels, and tags) to collect information about your browsing activities on our website and to make our website work efficiently. Types of Cookies We Use: Essential Cookies: These cookies are necessary for the basic functionality of our website. They enable you to navigate our site and use essential features like secure areas and shopping carts. These cookies do not gather information about you for marketing purposes. Performance and Analytics Cookies: These cookies collect information about how visitors use our website, such as which pages they visit most often and if they receive error messages. This data helps us improve our website's performance and user experience. Functionality Cookies: These cookies allow our website to remember choices you make (such as your language preference or the region you are in) and provide enhanced, personalized features. Targeting and Advertising Cookies: These cookies collect information about your browsing habits to make advertising relevant to you and your interests. You can manage your cookie preferences through your browser settings or through our cookie consent tool on our website. Please note that disabling certain cookies may affect the functionality of our website. For more detailed information about the specific cookies we use, their purposes, and how to manage them, please refer to our Cookie Policy. Our Services are not directed to children under 16 years of age, and we do not knowingly collect personal data from children under 16. If we learn that we have collected the personal data of a child under 16, we will take steps to delete the information as soon as possible, unless we have a legal obligation to keep it. If you believe we might have any information from or about a child under 16, please contact us using the details provided in the \"Contact Us\" section."
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [
+          {
+            "value": "Request by email",
+            "evidence": "Email Address: support@inmoxr.com",
+            "confidence": "extracted",
+            "id": "Inmo:S16:channel:1",
+            "linked_ids": [],
+            "link": {
+              "url": "mailto:support@inmoxr.com",
+              "kind": "email",
+              "visible_text": "support@inmoxr.com"
+            }
+          },
+          {
+            "value": "Phone / toll-free number",
+            "evidence": "Tel: +1800-689-8547",
+            "confidence": "extracted",
+            "id": "Inmo:S16:channel:2",
+            "linked_ids": [],
+            "link": null
+          }
+        ],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S17",
+        "text": "We may update this Privacy Policy from time to time in response to changing legal, technical, or business developments. When we update this Privacy Policy, we will take appropriate measures to inform you, consistent with the significance of the changes we make. We will obtain your consent to any material changes if and where required by applicable data protection laws. You can see when this Privacy Policy was last updated by checking the \"last updated\" date displayed at the top of this Privacy Policy. This Agreement was updated on February 28th, 2025 © 2026 INMO. Refund policy Privacy policy Terms of service Shipping policy Contact information Cookie preferences Language English English GET 10% OFF",
+        "heading_path": [
+          "Privacy policy",
+          "16. Changes to This Privacy Policy"
+        ],
+        "links": [
+          {
+            "text": "Refund policy",
+            "href": "https://www.inmoxr.com/policies/refund-policy",
+            "kind": "external"
+          },
+          {
+            "text": "Privacy policy",
+            "href": "https://www.inmoxr.com/policies/privacy-policy",
+            "kind": "external"
+          },
+          {
+            "text": "Terms of service",
+            "href": "https://www.inmoxr.com/policies/terms-of-service",
+            "kind": "external"
+          },
+          {
+            "text": "Shipping policy",
+            "href": "https://www.inmoxr.com/policies/shipping-policy",
+            "kind": "external"
+          },
+          {
+            "text": "Contact information",
+            "href": "https://www.inmoxr.com/policies/contact-information",
+            "kind": "external"
+          },
+          {
+            "text": "Cookie preferences",
+            "href": "https://www.inmoxr.com/policies/#shopifyReshowConsentBanner",
+            "kind": "external"
+          }
+        ],
+        "html_ids": [
+          "changes"
+        ],
+        "previous_segment_id": "S16",
+        "next_segment_id": "S18",
+        "previous_segment_text": "If you have any questions regarding this Privacy Policy or its implementation, here is how you can reach us: Email Address: support@inmoxr.com. Tel: +1800-689-8547",
+        "extended_context": "We use cookies and similar technologies (such as web beacons, pixels, and tags) to collect information about your browsing activities on our website and to make our website work efficiently. Types of Cookies We Use: Essential Cookies: These cookies are necessary for the basic functionality of our website. They enable you to navigate our site and use essential features like secure areas and shopping carts. These cookies do not gather information about you for marketing purposes. Performance and Analytics Cookies: These cookies collect information about how visitors use our website, such as which pages they visit most often and if they receive error messages. This data helps us improve our website's performance and user experience. Functionality Cookies: These cookies allow our website to remember choices you make (such as your language preference or the region you are in) and provide enhanced, personalized features. Targeting and Advertising Cookies: These cookies collect information about your browsing habits to make advertising relevant to you and your interests. You can manage your cookie preferences through your browser settings or through our cookie consent tool on our website. Please note that disabling certain cookies may affect the functionality of our website. For more detailed information about the specific cookies we use, their purposes, and how to manage them, please refer to our Cookie Policy. Our Services are not directed to children under 16 years of age, and we do not knowingly collect personal data from children under 16. If we learn that we have collected the personal data of a child under 16, we will take steps to delete the information as soon as possible, unless we have a legal obligation to keep it. If you believe we might have any information from or about a child under 16, please contact us using the details provided in the \"Contact Us\" section. If you have any questions regarding this Privacy Policy or its implementation, here is how you can reach us: Email Address: support@inmoxr.com. Tel: +1800-689-8547"
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S18",
+        "text": "This field is required The email address must contain @ and a valid domain Something went wrong! GET 10% OFF",
+        "heading_path": [
+          "Privacy policy",
+          "GET 10% OFF YOUR FIRST ORDER",
+          "And be the first to hear about our new product drops!"
+        ],
+        "links": [],
+        "html_ids": [],
+        "previous_segment_id": "S17",
+        "next_segment_id": null,
+        "previous_segment_text": "We may update this Privacy Policy from time to time in response to changing legal, technical, or business developments. When we update this Privacy Policy, we will take appropriate measures to inform you, consistent with the significance of the changes we make. We will obtain your consent to any material changes if and where required by applicable data protection laws. You can see when this Privacy Policy was last updated by checking the \"last updated\" date displayed at the top of this Privacy Policy. This Agreement was updated on February 28th, 2025 © 2026 INMO. Refund policy Privacy policy Terms of service Shipping policy Contact information Cookie preferences Language English English GET 10% OFF",
+        "extended_context": "Our Services are not directed to children under 16 years of age, and we do not knowingly collect personal data from children under 16. If we learn that we have collected the personal data of a child under 16, we will take steps to delete the information as soon as possible, unless we have a legal obligation to keep it. If you believe we might have any information from or about a child under 16, please contact us using the details provided in the \"Contact Us\" section. If you have any questions regarding this Privacy Policy or its implementation, here is how you can reach us: Email Address: support@inmoxr.com. Tel: +1800-689-8547 We may update this Privacy Policy from time to time in response to changing legal, technical, or business developments. When we update this Privacy Policy, we will take appropriate measures to inform you, consistent with the significance of the changes we make. We will obtain your consent to any material changes if and where required by applicable data protection laws. You can see when this Privacy Policy was last updated by checking the \"last updated\" date displayed at the top of this Privacy Policy. This Agreement was updated on February 28th, 2025 © 2026 INMO. Refund policy Privacy policy Terms of service Shipping policy Contact information Cookie preferences Language English English GET 10% OFF"
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    }
+  ]
+}

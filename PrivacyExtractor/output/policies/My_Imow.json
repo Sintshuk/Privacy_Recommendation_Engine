@@ -1,0 +1,912 @@
+{
+  "policy": "My Imow",
+  "rows": [
+    {
+      "segment": {
+        "id": "S1",
+        "text": "In this Privacy Policy, we inform you about the processing of your personal data in connection with the STIHL MY iMOW® App and the browser-based application for the use of your iMOW® robot mower (\"STIHL MY iMOW® Web App\") together also referred to as \"STIHL MY iMOW® Applications\". You can use a limited range of functions of the STIHL MY iMOW® Applications without logging into the STIHL MY iMOW® Applications. To log into the STIHL MY iMOW® Applications you need a STIHL Account for the STIHL Digital Platform and its Solutions. Information on the processing of your personal data in connection with the STIHL Digital Platform and your STIHL Account can be found in the Privacy Policy for the STIHL Digital Platform and STIHL Solutions https://app.stihl.com/en-mt/legal/privacy. In this Privacy Policy, we inform you according to the requirements of the European General Data Protection Regulation (\"GDPR\", Regulation (EU) 2016/679 of the European Parliament and of the Council). In addition, we observe other national data protection regulations that may apply to the processing of your personal data. We will inform you about the processing of your personal data relating to the web addresses (Uniform Resource Locator, \"URL\") you access. Should you access the STIHL MY iMOW® Applications via a URL that is intended to serve a different country and its legal requirements (i.e. you, as an example, instead of accessing the STIHL URL ending in \"co.uk\", access a STIHL URL ending in \".de\") you may end up not being informed in accordance with applicable local legal requirements. For data protection reasons, we do not determine your place of residence (\"localisation\") to determine the law applicable to you.",
+        "heading_path": [
+          "1 SCOPE OF THE PRIVACY POLICY"
+        ],
+        "links": [
+          {
+            "text": "https://app.stihl.com/en-mt/legal/privacy",
+            "href": "https://app.stihl.com/en-mt/legal/privacy",
+            "kind": "external"
+          }
+        ],
+        "html_ids": [],
+        "previous_segment_id": null,
+        "next_segment_id": "S2",
+        "previous_segment_text": "",
+        "extended_context": ""
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": [
+          {
+            "attribute": "reference",
+            "evidence": "Information on the processing of your personal data in connection with the STIHL Digital Platform and your STIHL Account can be found in the Privacy Policy for the STIHL Digital Platform and STIHL Solutions https://app.stihl.com/en-mt/legal/privacy.",
+            "target_text": "Privacy Policy for the STIHL Digital Platform and STIHL Solutions",
+            "reason": "not_an_unresolved_reference"
+          }
+        ]
+      }
+    },
+    {
+      "segment": {
+        "id": "S2",
+        "text": "The controller under data protection law decides on the purposes and means of the processing and ensures compliance with the data protection regulations. The following is responsible for the processing of your personal data in connection with the STIHL MY iMOW® Applications, subject to any deviating information in this Privacy Policy:",
+        "heading_path": [
+          "2 CONTROLLER AND DATA PROTECTION OFFICER",
+          "2.1 Controller"
+        ],
+        "links": [],
+        "html_ids": [],
+        "previous_segment_id": "S1",
+        "next_segment_id": "S3",
+        "previous_segment_text": "In this Privacy Policy, we inform you about the processing of your personal data in connection with the STIHL MY iMOW® App and the browser-based application for the use of your iMOW® robot mower (\"STIHL MY iMOW® Web App\") together also referred to as \"STIHL MY iMOW® Applications\". You can use a limited range of functions of the STIHL MY iMOW® Applications without logging into the STIHL MY iMOW® Applications. To log into the STIHL MY iMOW® Applications you need a STIHL Account for the STIHL Digital Platform and its Solutions. Information on the processing of your personal data in connection with the STIHL Digital Platform and your STIHL Account can be found in the Privacy Policy for the STIHL Digital Platform and STIHL Solutions https://app.stihl.com/en-mt/legal/privacy. In this Privacy Policy, we inform you according to the requirements of the European General Data Protection Regulation (\"GDPR\", Regulation (EU) 2016/679 of the European Parliament and of the Council). In addition, we observe other national data protection regulations that may apply to the processing of your personal data. We will inform you about the processing of your personal data relating to the web addresses (Uniform Resource Locator, \"URL\") you access. Should you access the STIHL MY iMOW® Applications via a URL that is intended to serve a different country and its legal requirements (i.e. you, as an example, instead of accessing the STIHL URL ending in \"co.uk\", access a STIHL URL ending in \".de\") you may end up not being informed in accordance with applicable local legal requirements. For data protection reasons, we do not determine your place of residence (\"localisation\") to determine the law applicable to you.",
+        "extended_context": "In this Privacy Policy, we inform you about the processing of your personal data in connection with the STIHL MY iMOW® App and the browser-based application for the use of your iMOW® robot mower (\"STIHL MY iMOW® Web App\") together also referred to as \"STIHL MY iMOW® Applications\". You can use a limited range of functions of the STIHL MY iMOW® Applications without logging into the STIHL MY iMOW® Applications. To log into the STIHL MY iMOW® Applications you need a STIHL Account for the STIHL Digital Platform and its Solutions. Information on the processing of your personal data in connection with the STIHL Digital Platform and your STIHL Account can be found in the Privacy Policy for the STIHL Digital Platform and STIHL Solutions https://app.stihl.com/en-mt/legal/privacy. In this Privacy Policy, we inform you according to the requirements of the European General Data Protection Regulation (\"GDPR\", Regulation (EU) 2016/679 of the European Parliament and of the Council). In addition, we observe other national data protection regulations that may apply to the processing of your personal data. We will inform you about the processing of your personal data relating to the web addresses (Uniform Resource Locator, \"URL\") you access. Should you access the STIHL MY iMOW® Applications via a URL that is intended to serve a different country and its legal requirements (i.e. you, as an example, instead of accessing the STIHL URL ending in \"co.uk\", access a STIHL URL ending in \".de\") you may end up not being informed in accordance with applicable local legal requirements. For data protection reasons, we do not determine your place of residence (\"localisation\") to determine the law applicable to you."
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S3",
+        "text": "STIHL Tirol GmbH (\"STIHL Tirol \", \"we\") Address: Hans-Peter-Stihl-Str. A-6336 Langkampfen/Kufstein, Austria Email: datenschutzinfo@stihl.at Regional Court of Innsbruck under FN 46276 d, VAT identification number ATU32234908",
+        "heading_path": [
+          "2 CONTROLLER AND DATA PROTECTION OFFICER"
+        ],
+        "links": [],
+        "html_ids": [],
+        "previous_segment_id": "S2",
+        "next_segment_id": "S4",
+        "previous_segment_text": "The controller under data protection law decides on the purposes and means of the processing and ensures compliance with the data protection regulations. The following is responsible for the processing of your personal data in connection with the STIHL MY iMOW® Applications, subject to any deviating information in this Privacy Policy:",
+        "extended_context": "In this Privacy Policy, we inform you about the processing of your personal data in connection with the STIHL MY iMOW® App and the browser-based application for the use of your iMOW® robot mower (\"STIHL MY iMOW® Web App\") together also referred to as \"STIHL MY iMOW® Applications\". You can use a limited range of functions of the STIHL MY iMOW® Applications without logging into the STIHL MY iMOW® Applications. To log into the STIHL MY iMOW® Applications you need a STIHL Account for the STIHL Digital Platform and its Solutions. Information on the processing of your personal data in connection with the STIHL Digital Platform and your STIHL Account can be found in the Privacy Policy for the STIHL Digital Platform and STIHL Solutions https://app.stihl.com/en-mt/legal/privacy. In this Privacy Policy, we inform you according to the requirements of the European General Data Protection Regulation (\"GDPR\", Regulation (EU) 2016/679 of the European Parliament and of the Council). In addition, we observe other national data protection regulations that may apply to the processing of your personal data. We will inform you about the processing of your personal data relating to the web addresses (Uniform Resource Locator, \"URL\") you access. Should you access the STIHL MY iMOW® Applications via a URL that is intended to serve a different country and its legal requirements (i.e. you, as an example, instead of accessing the STIHL URL ending in \"co.uk\", access a STIHL URL ending in \".de\") you may end up not being informed in accordance with applicable local legal requirements. For data protection reasons, we do not determine your place of residence (\"localisation\") to determine the law applicable to you. The controller under data protection law decides on the purposes and means of the processing and ensures compliance with the data protection regulations. The following is responsible for the processing of your personal data in connection with the STIHL MY iMOW® Applications, subject to any deviating information in this Privacy Policy:"
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [
+          {
+            "value": "Request by email",
+            "evidence": "Email: datenschutzinfo@stihl.at",
+            "confidence": "extracted",
+            "id": "My Imow:S3:channel:1",
+            "linked_ids": [],
+            "link": null
+          }
+        ],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S4",
+        "text": "We are responsible for certain processing operations together with other companies of the STIHL Group. Further information on these processing operations subject to joint responsibility and the STIHL companies and our partners involved in the processing can be found below in this Privacy Policy. If the processing of your personal data is carried out in joint responsibility, an agreement on the processing in joint responsibility has been concluded between the STIHL company or our partners involved in the processing. For a list of STIHL Group companies and how we refer to them in this Privacy Policy, see Section 6. Please note that we can also cooperate with companies of the STIHL Group and companies outside the STIHL Group within the framework of a separate responsibility, i.e. two independently responsible entities and by means of contract processing.",
+        "heading_path": [
+          "2 CONTROLLER AND DATA PROTECTION OFFICER",
+          "2.2 Joint controller"
+        ],
+        "links": [],
+        "html_ids": [],
+        "previous_segment_id": "S3",
+        "next_segment_id": "S5",
+        "previous_segment_text": "STIHL Tirol GmbH (\"STIHL Tirol \", \"we\") Address: Hans-Peter-Stihl-Str. A-6336 Langkampfen/Kufstein, Austria Email: datenschutzinfo@stihl.at Regional Court of Innsbruck under FN 46276 d, VAT identification number ATU32234908",
+        "extended_context": "In this Privacy Policy, we inform you about the processing of your personal data in connection with the STIHL MY iMOW® App and the browser-based application for the use of your iMOW® robot mower (\"STIHL MY iMOW® Web App\") together also referred to as \"STIHL MY iMOW® Applications\". You can use a limited range of functions of the STIHL MY iMOW® Applications without logging into the STIHL MY iMOW® Applications. To log into the STIHL MY iMOW® Applications you need a STIHL Account for the STIHL Digital Platform and its Solutions. Information on the processing of your personal data in connection with the STIHL Digital Platform and your STIHL Account can be found in the Privacy Policy for the STIHL Digital Platform and STIHL Solutions https://app.stihl.com/en-mt/legal/privacy. In this Privacy Policy, we inform you according to the requirements of the European General Data Protection Regulation (\"GDPR\", Regulation (EU) 2016/679 of the European Parliament and of the Council). In addition, we observe other national data protection regulations that may apply to the processing of your personal data. We will inform you about the processing of your personal data relating to the web addresses (Uniform Resource Locator, \"URL\") you access. Should you access the STIHL MY iMOW® Applications via a URL that is intended to serve a different country and its legal requirements (i.e. you, as an example, instead of accessing the STIHL URL ending in \"co.uk\", access a STIHL URL ending in \".de\") you may end up not being informed in accordance with applicable local legal requirements. For data protection reasons, we do not determine your place of residence (\"localisation\") to determine the law applicable to you. The controller under data protection law decides on the purposes and means of the processing and ensures compliance with the data protection regulations. The following is responsible for the processing of your personal data in connection with the STIHL MY iMOW® Applications, subject to any deviating information in this Privacy Policy: STIHL Tirol GmbH (\"STIHL Tirol \", \"we\") Address: Hans-Peter-Stihl-Str. A-6336 Langkampfen/Kufstein, Austria Email: datenschutzinfo@stihl.at Regional Court of Innsbruck under FN 46276 d, VAT identification number ATU32234908"
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": [
+          {
+            "attribute": "reference",
+            "evidence": "see Section 6",
+            "target_text": "Section 6",
+            "reason": "reference_target_not_rights_relevant"
+          }
+        ]
+      }
+    },
+    {
+      "segment": {
+        "id": "S5",
+        "text": "The Data Protection Officer of STIHL Tirol can be reached by post at the address for the controller, addressed to \"zu Hd. Abteilung Datenschutz\" or email to datenschutzinfo@stihl.at. In the case of processing personal data in join controllership, please also contact the Data Protection Officer at the above contact details.",
+        "heading_path": [
+          "2 CONTROLLER AND DATA PROTECTION OFFICER",
+          "2.3 Data Protection Officer"
+        ],
+        "links": [],
+        "html_ids": [],
+        "previous_segment_id": "S4",
+        "next_segment_id": "S6",
+        "previous_segment_text": "We are responsible for certain processing operations together with other companies of the STIHL Group. Further information on these processing operations subject to joint responsibility and the STIHL companies and our partners involved in the processing can be found below in this Privacy Policy. If the processing of your personal data is carried out in joint responsibility, an agreement on the processing in joint responsibility has been concluded between the STIHL company or our partners involved in the processing. For a list of STIHL Group companies and how we refer to them in this Privacy Policy, see Section 6. Please note that we can also cooperate with companies of the STIHL Group and companies outside the STIHL Group within the framework of a separate responsibility, i.e. two independently responsible entities and by means of contract processing.",
+        "extended_context": "The controller under data protection law decides on the purposes and means of the processing and ensures compliance with the data protection regulations. The following is responsible for the processing of your personal data in connection with the STIHL MY iMOW® Applications, subject to any deviating information in this Privacy Policy: STIHL Tirol GmbH (\"STIHL Tirol \", \"we\") Address: Hans-Peter-Stihl-Str. A-6336 Langkampfen/Kufstein, Austria Email: datenschutzinfo@stihl.at Regional Court of Innsbruck under FN 46276 d, VAT identification number ATU32234908 We are responsible for certain processing operations together with other companies of the STIHL Group. Further information on these processing operations subject to joint responsibility and the STIHL companies and our partners involved in the processing can be found below in this Privacy Policy. If the processing of your personal data is carried out in joint responsibility, an agreement on the processing in joint responsibility has been concluded between the STIHL company or our partners involved in the processing. For a list of STIHL Group companies and how we refer to them in this Privacy Policy, see Section 6. Please note that we can also cooperate with companies of the STIHL Group and companies outside the STIHL Group within the framework of a separate responsibility, i.e. two independently responsible entities and by means of contract processing."
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [
+          {
+            "value": "Request by post",
+            "evidence": "The Data Protection Officer of STIHL Tirol can be reached by post at the address for the controller, addressed to \"zu Hd. Abteilung Datenschutz\"",
+            "confidence": "extracted",
+            "id": "My Imow:S5:channel:1",
+            "linked_ids": [],
+            "link": null
+          },
+          {
+            "value": "Request by email",
+            "evidence": "email to datenschutzinfo@stihl.at",
+            "confidence": "extracted",
+            "id": "My Imow:S5:channel:2",
+            "linked_ids": [],
+            "link": null
+          }
+        ],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S6",
+        "text": "When we use the term \"personal data\" in this Privacy Policy, we mean all information that relates to you. Personal data include, for example, your name, email address or postal address. However, your personal data also include all data that are linked to you or that relate to you, such as data that will be processed when you use the MY iMOW® Applications. We refer to data that does not relate to you as non-personal or anonymous data. The data protection regulations and this Privacy Policy do not apply to such data. By processing your personal data, we mean, for example, its collection, storage or erasure.",
+        "heading_path": [
+          "3 GENERAL INFORMATION ON THE PROCESSING OF YOUR PERSONAL DATA",
+          "3.1 Processing of your personal data"
+        ],
+        "links": [],
+        "html_ids": [],
+        "previous_segment_id": "S5",
+        "next_segment_id": "S7",
+        "previous_segment_text": "The Data Protection Officer of STIHL Tirol can be reached by post at the address for the controller, addressed to \"zu Hd. Abteilung Datenschutz\" or email to datenschutzinfo@stihl.at. In the case of processing personal data in join controllership, please also contact the Data Protection Officer at the above contact details.",
+        "extended_context": "STIHL Tirol GmbH (\"STIHL Tirol \", \"we\") Address: Hans-Peter-Stihl-Str. A-6336 Langkampfen/Kufstein, Austria Email: datenschutzinfo@stihl.at Regional Court of Innsbruck under FN 46276 d, VAT identification number ATU32234908 We are responsible for certain processing operations together with other companies of the STIHL Group. Further information on these processing operations subject to joint responsibility and the STIHL companies and our partners involved in the processing can be found below in this Privacy Policy. If the processing of your personal data is carried out in joint responsibility, an agreement on the processing in joint responsibility has been concluded between the STIHL company or our partners involved in the processing. For a list of STIHL Group companies and how we refer to them in this Privacy Policy, see Section 6. Please note that we can also cooperate with companies of the STIHL Group and companies outside the STIHL Group within the framework of a separate responsibility, i.e. two independently responsible entities and by means of contract processing. The Data Protection Officer of STIHL Tirol can be reached by post at the address for the controller, addressed to \"zu Hd. Abteilung Datenschutz\" or email to datenschutzinfo@stihl.at. In the case of processing personal data in join controllership, please also contact the Data Protection Officer at the above contact details."
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S7",
+        "text": "We process your personal data only if we can base the processing on a legal basis or if such is lawful in accordance with the applicable data protection regulations, i.e. that the processing is permissible within the scope of the law. In the context of the GDPR, we base the processing of your personal data for the most part on the following legal bases: · The processing of your personal data is necessary for the fulfilment of a contract with you or for the implementation of pre-contractual measures that take place at your request (Article 6 (1) (b) GDPR). · You have given us your consent to the processing of your personal data for one or more specific purposes (Article 6 (1) (a) GDPR). · The processing of your personal data is necessary to fulfil a legal obligation to which we are subject (Article 6 (1) (c) GDPR). · The processing is necessary to safeguard our legitimate interests or the legitimate interests of a third party, unless your interests or fundamental rights and freedoms, which require the protection of personal data, prevail (Article 6 (1) (f) GDPR). Further information on which processing operations we specifically base on which legal basis or under which data protection regulations the processing is permitted, can be found below in this Privacy Policy.",
+        "heading_path": [
+          "3 GENERAL INFORMATION ON THE PROCESSING OF YOUR PERSONAL DATA",
+          "3.2 Legal basis for the processing of your personal data (Overview)"
+        ],
+        "links": [],
+        "html_ids": [],
+        "previous_segment_id": "S6",
+        "next_segment_id": "S8",
+        "previous_segment_text": "When we use the term \"personal data\" in this Privacy Policy, we mean all information that relates to you. Personal data include, for example, your name, email address or postal address. However, your personal data also include all data that are linked to you or that relate to you, such as data that will be processed when you use the MY iMOW® Applications. We refer to data that does not relate to you as non-personal or anonymous data. The data protection regulations and this Privacy Policy do not apply to such data. By processing your personal data, we mean, for example, its collection, storage or erasure.",
+        "extended_context": "We are responsible for certain processing operations together with other companies of the STIHL Group. Further information on these processing operations subject to joint responsibility and the STIHL companies and our partners involved in the processing can be found below in this Privacy Policy. If the processing of your personal data is carried out in joint responsibility, an agreement on the processing in joint responsibility has been concluded between the STIHL company or our partners involved in the processing. For a list of STIHL Group companies and how we refer to them in this Privacy Policy, see Section 6. Please note that we can also cooperate with companies of the STIHL Group and companies outside the STIHL Group within the framework of a separate responsibility, i.e. two independently responsible entities and by means of contract processing. The Data Protection Officer of STIHL Tirol can be reached by post at the address for the controller, addressed to \"zu Hd. Abteilung Datenschutz\" or email to datenschutzinfo@stihl.at. In the case of processing personal data in join controllership, please also contact the Data Protection Officer at the above contact details. When we use the term \"personal data\" in this Privacy Policy, we mean all information that relates to you. Personal data include, for example, your name, email address or postal address. However, your personal data also include all data that are linked to you or that relate to you, such as data that will be processed when you use the MY iMOW® Applications. We refer to data that does not relate to you as non-personal or anonymous data. The data protection regulations and this Privacy Policy do not apply to such data. By processing your personal data, we mean, for example, its collection, storage or erasure."
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": [
+          {
+            "attribute": "reference",
+            "evidence": "Further information on which processing operations we specifically base on which legal basis or under which data protection regulations the processing is permitted, can be found below in this Privacy Policy.",
+            "target_text": "below in this Privacy Policy",
+            "reason": "not_an_unresolved_reference"
+          }
+        ]
+      }
+    },
+    {
+      "segment": {
+        "id": "S8",
+        "text": "We process the personal data that you provide us, that we collect (automatically) or that we receive from third parties. In principle, you are not obligated to provide us with your personal data. However, the disclosure of certain personal data may be necessary to enable us to offer you the STIHL MY iMOW® Applications. Personal data you provide to us We process the information you provide to us. For example, you can call us or contact us otherwise and provide us with certain information in this way. You can provide us with further data when you make certain settings or configure MY iMOW® Applications according to your needs. We collect and process this data to enable you to use the STIHL MY iMOW® Applications. If you do not provide us with certain information, the use or functionality of the STIHL MY iMOW® Applications may be excluded or impaired. Personal data we collect We collect certain information (automatically) and process it when you use the STIHL MY iMOW® Applications. This includes, for example, data such as your IP address, certain login data and data that will be processed so that we can technically provide you with the STIHL MY iMOW® Applications. Personal data we receive from third parties In some cases, we do not receive information directly from you. This may be the case, for example, if information about you is provided to us by third parties. We work with companies that provide services to us and who in turn provide us with information about you. These include, for example, payment service providers or providers of what are known as app stores.",
+        "heading_path": [
+          "3 GENERAL INFORMATION ON THE PROCESSING OF YOUR PERSONAL DATA",
+          "3.3 Personal data we process"
+        ],
+        "links": [],
+        "html_ids": [],
+        "previous_segment_id": "S7",
+        "next_segment_id": "S9",
+        "previous_segment_text": "We process your personal data only if we can base the processing on a legal basis or if such is lawful in accordance with the applicable data protection regulations, i.e. that the processing is permissible within the scope of the law. In the context of the GDPR, we base the processing of your personal data for the most part on the following legal bases: · The processing of your personal data is necessary for the fulfilment of a contract with you or for the implementation of pre-contractual measures that take place at your request (Article 6 (1) (b) GDPR). · You have given us your consent to the processing of your personal data for one or more specific purposes (Article 6 (1) (a) GDPR). · The processing of your personal data is necessary to fulfil a legal obligation to which we are subject (Article 6 (1) (c) GDPR). · The processing is necessary to safeguard our legitimate interests or the legitimate interests of a third party, unless your interests or fundamental rights and freedoms, which require the protection of personal data, prevail (Article 6 (1) (f) GDPR). Further information on which processing operations we specifically base on which legal basis or under which data protection regulations the processing is permitted, can be found below in this Privacy Policy.",
+        "extended_context": "The Data Protection Officer of STIHL Tirol can be reached by post at the address for the controller, addressed to \"zu Hd. Abteilung Datenschutz\" or email to datenschutzinfo@stihl.at. In the case of processing personal data in join controllership, please also contact the Data Protection Officer at the above contact details. When we use the term \"personal data\" in this Privacy Policy, we mean all information that relates to you. Personal data include, for example, your name, email address or postal address. However, your personal data also include all data that are linked to you or that relate to you, such as data that will be processed when you use the MY iMOW® Applications. We refer to data that does not relate to you as non-personal or anonymous data. The data protection regulations and this Privacy Policy do not apply to such data. By processing your personal data, we mean, for example, its collection, storage or erasure. We process your personal data only if we can base the processing on a legal basis or if such is lawful in accordance with the applicable data protection regulations, i.e. that the processing is permissible within the scope of the law. In the context of the GDPR, we base the processing of your personal data for the most part on the following legal bases: · The processing of your personal data is necessary for the fulfilment of a contract with you or for the implementation of pre-contractual measures that take place at your request (Article 6 (1) (b) GDPR). · You have given us your consent to the processing of your personal data for one or more specific purposes (Article 6 (1) (a) GDPR). · The processing of your personal data is necessary to fulfil a legal obligation to which we are subject (Article 6 (1) (c) GDPR). · The processing is necessary to safeguard our legitimate interests or the legitimate interests of a third party, unless your interests or fundamental rights and freedoms, which require the protection of personal data, prevail (Article 6 (1) (f) GDPR). Further information on which processing operations we specifically base on which legal basis or under which data protection regulations the processing is permitted, can be found below in this Privacy Policy."
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S9",
+        "text": "When accessing our website, the browser used on your device automatically sends information to our website server, which temporarily saves it in a so-called log file. Categories of personal data The following information will be processed when the website is accessed: · the IP address of the requesting Internet-enabled device; · the date and time of the access; · the name and URL of the retrieved file; · the website/application from which access was gained (referrer URL); and · the browser you are using and, if applicable, the operating system of your Internet-enabled computer and the name of your access provider. Purpose The processing of your personal data serves the following purpose or purposes: · ensuring a smooth connection; · ensuring a comfortable use of our website/application; and · evaluation of system security and stability. Legal basis We base the processing of your personal data on the following legal basis: · The website is accessed during the initiation or execution of a contract. We process your personal data based on Article 6 (1) (b) GDPR. · The processing of your personal data is necessary for enabling you to access the website and ensuring the performance, consistent functionality and security of our website and systems. We process your personal data based on Article 6 (1) (f) GDPR. It is in our legitimate interest to ensure the performance, consistent functionality and security of our website and systems.",
+        "heading_path": [
+          "4 Processing your personal data in the case of the STIHL MY iMOW® Applications",
+          "4.1 Visiting the STIHL MY iMOW® Web App website"
+        ],
+        "links": [],
+        "html_ids": [],
+        "previous_segment_id": "S8",
+        "next_segment_id": "S10",
+        "previous_segment_text": "We process the personal data that you provide us, that we collect (automatically) or that we receive from third parties. In principle, you are not obligated to provide us with your personal data. However, the disclosure of certain personal data may be necessary to enable us to offer you the STIHL MY iMOW® Applications. Personal data you provide to us We process the information you provide to us. For example, you can call us or contact us otherwise and provide us with certain information in this way. You can provide us with further data when you make certain settings or configure MY iMOW® Applications according to your needs. We collect and process this data to enable you to use the STIHL MY iMOW® Applications. If you do not provide us with certain information, the use or functionality of the STIHL MY iMOW® Applications may be excluded or impaired. Personal data we collect We collect certain information (automatically) and process it when you use the STIHL MY iMOW® Applications. This includes, for example, data such as your IP address, certain login data and data that will be processed so that we can technically provide you with the STIHL MY iMOW® Applications. Personal data we receive from third parties In some cases, we do not receive information directly from you. This may be the case, for example, if information about you is provided to us by third parties. We work with companies that provide services to us and who in turn provide us with information about you. These include, for example, payment service providers or providers of what are known as app stores.",
+        "extended_context": "When we use the term \"personal data\" in this Privacy Policy, we mean all information that relates to you. Personal data include, for example, your name, email address or postal address. However, your personal data also include all data that are linked to you or that relate to you, such as data that will be processed when you use the MY iMOW® Applications. We refer to data that does not relate to you as non-personal or anonymous data. The data protection regulations and this Privacy Policy do not apply to such data. By processing your personal data, we mean, for example, its collection, storage or erasure. We process your personal data only if we can base the processing on a legal basis or if such is lawful in accordance with the applicable data protection regulations, i.e. that the processing is permissible within the scope of the law. In the context of the GDPR, we base the processing of your personal data for the most part on the following legal bases: · The processing of your personal data is necessary for the fulfilment of a contract with you or for the implementation of pre-contractual measures that take place at your request (Article 6 (1) (b) GDPR). · You have given us your consent to the processing of your personal data for one or more specific purposes (Article 6 (1) (a) GDPR). · The processing of your personal data is necessary to fulfil a legal obligation to which we are subject (Article 6 (1) (c) GDPR). · The processing is necessary to safeguard our legitimate interests or the legitimate interests of a third party, unless your interests or fundamental rights and freedoms, which require the protection of personal data, prevail (Article 6 (1) (f) GDPR). Further information on which processing operations we specifically base on which legal basis or under which data protection regulations the processing is permitted, can be found below in this Privacy Policy. We process the personal data that you provide us, that we collect (automatically) or that we receive from third parties. In principle, you are not obligated to provide us with your personal data. However, the disclosure of certain personal data may be necessary to enable us to offer you the STIHL MY iMOW® Applications. Personal data you provide to us We process the information you provide to us. For example, you can call us or contact us otherwise and provide us with certain information in this way. You can provide us with further data when you make certain settings or configure MY iMOW® Applications according to your needs. We collect and process this data to enable you to use the STIHL MY iMOW® Applications. If you do not provide us with certain information, the use or functionality of the STIHL MY iMOW® Applications may be excluded or impaired. Personal data we collect We collect certain information (automatically) and process it when you use the STIHL MY iMOW® Applications. This includes, for example, data such as your IP address, certain login data and data that will be processed so that we can technically provide you with the STIHL MY iMOW® Applications. Personal data we receive from third parties In some cases, we do not receive information directly from you. This may be the case, for example, if information about you is provided to us by third parties. We work with companies that provide services to us and who in turn provide us with information about you. These include, for example, payment service providers or providers of what are known as app stores."
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S10",
+        "text": "Controller Within the context of controlling your iMOW® robot mower, we work with ANDREAS STIHL to be able to provide you with fast and easy control of your iMOW® robot mower. In this respect, we process the personal data as joint controllers. Categories of personal data The following information will be processed: · settings related to your iMOW® robot mower, such as cutting height, safety functions, rain sensor; · properties of your mowing application, such as start of mowing, duration of mowing job, if desired mowing zone, standard mowing time; · a mower plan, if any, that you have defined. Purpose The processing of your personal data serves the following purpose or purposes: · the configuration of your iMOW® robot mower; · the control of your iMOW® robot mower. Legal basis We base the processing of your personal data on the following legal basis: · The processing of your personal data is necessary in order to be able to offer you the functionalities offered in the MY iMOW® Applications, such as the control of your iMOW®. We process your personal data based on Article 6 (1) (b) GDPR.",
+        "heading_path": [
+          "4 Processing your personal data in the case of the STIHL MY iMOW® Applications",
+          "4.2 Settings and control of your iMOW® robot mower"
+        ],
+        "links": [],
+        "html_ids": [],
+        "previous_segment_id": "S9",
+        "next_segment_id": "S11",
+        "previous_segment_text": "When accessing our website, the browser used on your device automatically sends information to our website server, which temporarily saves it in a so-called log file. Categories of personal data The following information will be processed when the website is accessed: · the IP address of the requesting Internet-enabled device; · the date and time of the access; · the name and URL of the retrieved file; · the website/application from which access was gained (referrer URL); and · the browser you are using and, if applicable, the operating system of your Internet-enabled computer and the name of your access provider. Purpose The processing of your personal data serves the following purpose or purposes: · ensuring a smooth connection; · ensuring a comfortable use of our website/application; and · evaluation of system security and stability. Legal basis We base the processing of your personal data on the following legal basis: · The website is accessed during the initiation or execution of a contract. We process your personal data based on Article 6 (1) (b) GDPR. · The processing of your personal data is necessary for enabling you to access the website and ensuring the performance, consistent functionality and security of our website and systems. We process your personal data based on Article 6 (1) (f) GDPR. It is in our legitimate interest to ensure the performance, consistent functionality and security of our website and systems.",
+        "extended_context": "We process your personal data only if we can base the processing on a legal basis or if such is lawful in accordance with the applicable data protection regulations, i.e. that the processing is permissible within the scope of the law. In the context of the GDPR, we base the processing of your personal data for the most part on the following legal bases: · The processing of your personal data is necessary for the fulfilment of a contract with you or for the implementation of pre-contractual measures that take place at your request (Article 6 (1) (b) GDPR). · You have given us your consent to the processing of your personal data for one or more specific purposes (Article 6 (1) (a) GDPR). · The processing of your personal data is necessary to fulfil a legal obligation to which we are subject (Article 6 (1) (c) GDPR). · The processing is necessary to safeguard our legitimate interests or the legitimate interests of a third party, unless your interests or fundamental rights and freedoms, which require the protection of personal data, prevail (Article 6 (1) (f) GDPR). Further information on which processing operations we specifically base on which legal basis or under which data protection regulations the processing is permitted, can be found below in this Privacy Policy. We process the personal data that you provide us, that we collect (automatically) or that we receive from third parties. In principle, you are not obligated to provide us with your personal data. However, the disclosure of certain personal data may be necessary to enable us to offer you the STIHL MY iMOW® Applications. Personal data you provide to us We process the information you provide to us. For example, you can call us or contact us otherwise and provide us with certain information in this way. You can provide us with further data when you make certain settings or configure MY iMOW® Applications according to your needs. We collect and process this data to enable you to use the STIHL MY iMOW® Applications. If you do not provide us with certain information, the use or functionality of the STIHL MY iMOW® Applications may be excluded or impaired. Personal data we collect We collect certain information (automatically) and process it when you use the STIHL MY iMOW® Applications. This includes, for example, data such as your IP address, certain login data and data that will be processed so that we can technically provide you with the STIHL MY iMOW® Applications. Personal data we receive from third parties In some cases, we do not receive information directly from you. This may be the case, for example, if information about you is provided to us by third parties. We work with companies that provide services to us and who in turn provide us with information about you. These include, for example, payment service providers or providers of what are known as app stores. When accessing our website, the browser used on your device automatically sends information to our website server, which temporarily saves it in a so-called log file. Categories of personal data The following information will be processed when the website is accessed: · the IP address of the requesting Internet-enabled device; · the date and time of the access; · the name and URL of the retrieved file; · the website/application from which access was gained (referrer URL); and · the browser you are using and, if applicable, the operating system of your Internet-enabled computer and the name of your access provider. Purpose The processing of your personal data serves the following purpose or purposes: · ensuring a smooth connection; · ensuring a comfortable use of our website/application; and · evaluation of system security and stability. Legal basis We base the processing of your personal data on the following legal basis: · The website is accessed during the initiation or execution of a contract. We process your personal data based on Article 6 (1) (b) GDPR. · The processing of your personal data is necessary for enabling you to access the website and ensuring the performance, consistent functionality and security of our website and systems. We process your personal data based on Article 6 (1) (f) GDPR. It is in our legitimate interest to ensure the performance, consistent functionality and security of our website and systems."
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S11",
+        "text": "Categories of personal data The following information is processed in the process of locating your iMOW® robot mower: · The current geo-coordinates of the iMOW® robot mower are processed when your iMOW® robot mower is connected to the Internet. · The \"Home Area\" of the iMOW® robot mower is processed after the \"Home Area\" function is activated on the mower. Purpose The processing of your personal data serves the following purpose or purposes: · You have the possibility to display your iMOW® robot mower on a map in your MY iMOW® Applications and locate it so that you are always informed about the location of your iMOW. · Displaying weather forecasts in the mowing plan of the MY iMOW® applications. · By activating the Home Area function, the mower can lock itself when moved outside the area. Legal basis We base the processing of your personal data in connection with the location of your iMOW on: · The processing of your personal data is necessary in order to be able to offer you the weather forecast offered in the MY iMOW® App, the location functionality and the device lock. We process your personal data based on Article 6 (1) (b) GDPR. · The processing of your personal data is necessary to assist you in retrieving your iMOW® robotic lawnmower, if you ask us to do so. We process your personal data based on Article 6 (1) (f) GDPR.",
+        "heading_path": [
+          "4 Processing your personal data in the case of the STIHL MY iMOW® Applications",
+          "4.3 Locating your iMOW® robot mower"
+        ],
+        "links": [],
+        "html_ids": [],
+        "previous_segment_id": "S10",
+        "next_segment_id": "S12",
+        "previous_segment_text": "Controller Within the context of controlling your iMOW® robot mower, we work with ANDREAS STIHL to be able to provide you with fast and easy control of your iMOW® robot mower. In this respect, we process the personal data as joint controllers. Categories of personal data The following information will be processed: · settings related to your iMOW® robot mower, such as cutting height, safety functions, rain sensor; · properties of your mowing application, such as start of mowing, duration of mowing job, if desired mowing zone, standard mowing time; · a mower plan, if any, that you have defined. Purpose The processing of your personal data serves the following purpose or purposes: · the configuration of your iMOW® robot mower; · the control of your iMOW® robot mower. Legal basis We base the processing of your personal data on the following legal basis: · The processing of your personal data is necessary in order to be able to offer you the functionalities offered in the MY iMOW® Applications, such as the control of your iMOW®. We process your personal data based on Article 6 (1) (b) GDPR.",
+        "extended_context": "We process the personal data that you provide us, that we collect (automatically) or that we receive from third parties. In principle, you are not obligated to provide us with your personal data. However, the disclosure of certain personal data may be necessary to enable us to offer you the STIHL MY iMOW® Applications. Personal data you provide to us We process the information you provide to us. For example, you can call us or contact us otherwise and provide us with certain information in this way. You can provide us with further data when you make certain settings or configure MY iMOW® Applications according to your needs. We collect and process this data to enable you to use the STIHL MY iMOW® Applications. If you do not provide us with certain information, the use or functionality of the STIHL MY iMOW® Applications may be excluded or impaired. Personal data we collect We collect certain information (automatically) and process it when you use the STIHL MY iMOW® Applications. This includes, for example, data such as your IP address, certain login data and data that will be processed so that we can technically provide you with the STIHL MY iMOW® Applications. Personal data we receive from third parties In some cases, we do not receive information directly from you. This may be the case, for example, if information about you is provided to us by third parties. We work with companies that provide services to us and who in turn provide us with information about you. These include, for example, payment service providers or providers of what are known as app stores. When accessing our website, the browser used on your device automatically sends information to our website server, which temporarily saves it in a so-called log file. Categories of personal data The following information will be processed when the website is accessed: · the IP address of the requesting Internet-enabled device; · the date and time of the access; · the name and URL of the retrieved file; · the website/application from which access was gained (referrer URL); and · the browser you are using and, if applicable, the operating system of your Internet-enabled computer and the name of your access provider. Purpose The processing of your personal data serves the following purpose or purposes: · ensuring a smooth connection; · ensuring a comfortable use of our website/application; and · evaluation of system security and stability. Legal basis We base the processing of your personal data on the following legal basis: · The website is accessed during the initiation or execution of a contract. We process your personal data based on Article 6 (1) (b) GDPR. · The processing of your personal data is necessary for enabling you to access the website and ensuring the performance, consistent functionality and security of our website and systems. We process your personal data based on Article 6 (1) (f) GDPR. It is in our legitimate interest to ensure the performance, consistent functionality and security of our website and systems. Controller Within the context of controlling your iMOW® robot mower, we work with ANDREAS STIHL to be able to provide you with fast and easy control of your iMOW® robot mower. In this respect, we process the personal data as joint controllers. Categories of personal data The following information will be processed: · settings related to your iMOW® robot mower, such as cutting height, safety functions, rain sensor; · properties of your mowing application, such as start of mowing, duration of mowing job, if desired mowing zone, standard mowing time; · a mower plan, if any, that you have defined. Purpose The processing of your personal data serves the following purpose or purposes: · the configuration of your iMOW® robot mower; · the control of your iMOW® robot mower. Legal basis We base the processing of your personal data on the following legal basis: · The processing of your personal data is necessary in order to be able to offer you the functionalities offered in the MY iMOW® Applications, such as the control of your iMOW®. We process your personal data based on Article 6 (1) (b) GDPR."
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S12",
+        "text": "You can use and control your iMOW® robot mower via the MY iMOW® App, including various voice control systems. You will find below information about voice control systems and their providers. We also refer to the privacy policies of these providers, in which you will find further information on the processing of your personal data in connection with the use of voice control. Controller If you use one of the voice control systems, the providers of these voice systems may process your personal data subject to their own responsibility in accordance with the providers' privacy policies. This means, among other things, that these providers can process your data for their own purposes. Categories of personal data The following information will be processed when communicating with you: · properties of your mowing application or control of your iMOW® mowing robot, such as starting mowing, duration of mowing jobs, if desired mowing zone, standard mowing time; · a mower plan, if any, that you have defined. Purpose The processing of your personal data serves the following purpose or purposes: · Controlling your iMOW® robot mower by voice command and providing or querying the current iMOW® status by voice command. Legal basis We base the processing of your personal data by us and the transfer of your personal data to the provider you use on the following legal basis: · The processing of your personal data is necessary in order to be able to offer you the functionality of voice control offered in the MY iMOW® Applications. We base the processing of your data on the legal basis of Article 6 (1) (b) GDPR. · The processing is necessary for ensuring the security and functionality of the voice control function. This means that we will further develop the voice control of the iMOW® robot mower on the basis of your use of voice control. We base the processing of your personal data on the legal basis of Article 6 (1) (f) GDPR. It is in our legitimate interest to further develop our offers and services for you and to improve your usage experience of STIHL MY iMOW® Applications. · For certain processing of your personal data, we will obtain your consent in accordance with Article 6 (1) (a) GDPR to the extent necessary. In the context of obtaining your consent, we will inform you about the processing of your personal data on the basis of your consent. Voice control provider · Voice control via Apple Shortcuts App: Provider is Apple. The privacy policy is available at",
+        "heading_path": [
+          "4 Processing your personal data in the case of the STIHL MY iMOW® Applications",
+          "4.4 Voice control of your iMOW® robot mower"
+        ],
+        "links": [],
+        "html_ids": [],
+        "previous_segment_id": "S11",
+        "next_segment_id": "S13",
+        "previous_segment_text": "Categories of personal data The following information is processed in the process of locating your iMOW® robot mower: · The current geo-coordinates of the iMOW® robot mower are processed when your iMOW® robot mower is connected to the Internet. · The \"Home Area\" of the iMOW® robot mower is processed after the \"Home Area\" function is activated on the mower. Purpose The processing of your personal data serves the following purpose or purposes: · You have the possibility to display your iMOW® robot mower on a map in your MY iMOW® Applications and locate it so that you are always informed about the location of your iMOW. · Displaying weather forecasts in the mowing plan of the MY iMOW® applications. · By activating the Home Area function, the mower can lock itself when moved outside the area. Legal basis We base the processing of your personal data in connection with the location of your iMOW on: · The processing of your personal data is necessary in order to be able to offer you the weather forecast offered in the MY iMOW® App, the location functionality and the device lock. We process your personal data based on Article 6 (1) (b) GDPR. · The processing of your personal data is necessary to assist you in retrieving your iMOW® robotic lawnmower, if you ask us to do so. We process your personal data based on Article 6 (1) (f) GDPR.",
+        "extended_context": "When accessing our website, the browser used on your device automatically sends information to our website server, which temporarily saves it in a so-called log file. Categories of personal data The following information will be processed when the website is accessed: · the IP address of the requesting Internet-enabled device; · the date and time of the access; · the name and URL of the retrieved file; · the website/application from which access was gained (referrer URL); and · the browser you are using and, if applicable, the operating system of your Internet-enabled computer and the name of your access provider. Purpose The processing of your personal data serves the following purpose or purposes: · ensuring a smooth connection; · ensuring a comfortable use of our website/application; and · evaluation of system security and stability. Legal basis We base the processing of your personal data on the following legal basis: · The website is accessed during the initiation or execution of a contract. We process your personal data based on Article 6 (1) (b) GDPR. · The processing of your personal data is necessary for enabling you to access the website and ensuring the performance, consistent functionality and security of our website and systems. We process your personal data based on Article 6 (1) (f) GDPR. It is in our legitimate interest to ensure the performance, consistent functionality and security of our website and systems. Controller Within the context of controlling your iMOW® robot mower, we work with ANDREAS STIHL to be able to provide you with fast and easy control of your iMOW® robot mower. In this respect, we process the personal data as joint controllers. Categories of personal data The following information will be processed: · settings related to your iMOW® robot mower, such as cutting height, safety functions, rain sensor; · properties of your mowing application, such as start of mowing, duration of mowing job, if desired mowing zone, standard mowing time; · a mower plan, if any, that you have defined. Purpose The processing of your personal data serves the following purpose or purposes: · the configuration of your iMOW® robot mower; · the control of your iMOW® robot mower. Legal basis We base the processing of your personal data on the following legal basis: · The processing of your personal data is necessary in order to be able to offer you the functionalities offered in the MY iMOW® Applications, such as the control of your iMOW®. We process your personal data based on Article 6 (1) (b) GDPR. Categories of personal data The following information is processed in the process of locating your iMOW® robot mower: · The current geo-coordinates of the iMOW® robot mower are processed when your iMOW® robot mower is connected to the Internet. · The \"Home Area\" of the iMOW® robot mower is processed after the \"Home Area\" function is activated on the mower. Purpose The processing of your personal data serves the following purpose or purposes: · You have the possibility to display your iMOW® robot mower on a map in your MY iMOW® Applications and locate it so that you are always informed about the location of your iMOW. · Displaying weather forecasts in the mowing plan of the MY iMOW® applications. · By activating the Home Area function, the mower can lock itself when moved outside the area. Legal basis We base the processing of your personal data in connection with the location of your iMOW on: · The processing of your personal data is necessary in order to be able to offer you the weather forecast offered in the MY iMOW® App, the location functionality and the device lock. We process your personal data based on Article 6 (1) (b) GDPR. · The processing of your personal data is necessary to assist you in retrieving your iMOW® robotic lawnmower, if you ask us to do so. We process your personal data based on Article 6 (1) (f) GDPR."
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S13",
+        "text": "https://www.apple.com/legal/privacy/data/en/shortcuts-sharing/. · Voice control via Amazon Alexa: Provider is Amazon. The privacy policy is available at https://www.amazon.com/gp/help/customer/display.html?nodeId=GVP69FUJ48X9DK8V. · Voice control via Google Assistant: Provider is Google. The privacy policy is available at https://policies.google.com/privacy",
+        "heading_path": [
+          "4 Processing your personal data in the case of the STIHL MY iMOW® Applications",
+          "4.4 Voice control of your iMOW® robot mower"
+        ],
+        "links": [
+          {
+            "text": "https://www.apple.com/legal/privacy/data/en/shortcuts-sharing/",
+            "href": "https://www.apple.com/legal/privacy/data/en/shortcuts-sharing/",
+            "kind": "external"
+          },
+          {
+            "text": "https://www.amazon.com/gp/help/customer/display.html?nodeId=GVP69FUJ48X9DK8V",
+            "href": "https://www.amazon.com/gp/help/customer/display.html?nodeId=GVP69FUJ48X9DK8V",
+            "kind": "external"
+          },
+          {
+            "text": "https://policies.google.com/privacy",
+            "href": "https://policies.google.com/privacy",
+            "kind": "external"
+          }
+        ],
+        "html_ids": [],
+        "previous_segment_id": "S12",
+        "next_segment_id": "S14",
+        "previous_segment_text": "You can use and control your iMOW® robot mower via the MY iMOW® App, including various voice control systems. You will find below information about voice control systems and their providers. We also refer to the privacy policies of these providers, in which you will find further information on the processing of your personal data in connection with the use of voice control. Controller If you use one of the voice control systems, the providers of these voice systems may process your personal data subject to their own responsibility in accordance with the providers' privacy policies. This means, among other things, that these providers can process your data for their own purposes. Categories of personal data The following information will be processed when communicating with you: · properties of your mowing application or control of your iMOW® mowing robot, such as starting mowing, duration of mowing jobs, if desired mowing zone, standard mowing time; · a mower plan, if any, that you have defined. Purpose The processing of your personal data serves the following purpose or purposes: · Controlling your iMOW® robot mower by voice command and providing or querying the current iMOW® status by voice command. Legal basis We base the processing of your personal data by us and the transfer of your personal data to the provider you use on the following legal basis: · The processing of your personal data is necessary in order to be able to offer you the functionality of voice control offered in the MY iMOW® Applications. We base the processing of your data on the legal basis of Article 6 (1) (b) GDPR. · The processing is necessary for ensuring the security and functionality of the voice control function. This means that we will further develop the voice control of the iMOW® robot mower on the basis of your use of voice control. We base the processing of your personal data on the legal basis of Article 6 (1) (f) GDPR. It is in our legitimate interest to further develop our offers and services for you and to improve your usage experience of STIHL MY iMOW® Applications. · For certain processing of your personal data, we will obtain your consent in accordance with Article 6 (1) (a) GDPR to the extent necessary. In the context of obtaining your consent, we will inform you about the processing of your personal data on the basis of your consent. Voice control provider · Voice control via Apple Shortcuts App: Provider is Apple. The privacy policy is available at",
+        "extended_context": "Controller Within the context of controlling your iMOW® robot mower, we work with ANDREAS STIHL to be able to provide you with fast and easy control of your iMOW® robot mower. In this respect, we process the personal data as joint controllers. Categories of personal data The following information will be processed: · settings related to your iMOW® robot mower, such as cutting height, safety functions, rain sensor; · properties of your mowing application, such as start of mowing, duration of mowing job, if desired mowing zone, standard mowing time; · a mower plan, if any, that you have defined. Purpose The processing of your personal data serves the following purpose or purposes: · the configuration of your iMOW® robot mower; · the control of your iMOW® robot mower. Legal basis We base the processing of your personal data on the following legal basis: · The processing of your personal data is necessary in order to be able to offer you the functionalities offered in the MY iMOW® Applications, such as the control of your iMOW®. We process your personal data based on Article 6 (1) (b) GDPR. Categories of personal data The following information is processed in the process of locating your iMOW® robot mower: · The current geo-coordinates of the iMOW® robot mower are processed when your iMOW® robot mower is connected to the Internet. · The \"Home Area\" of the iMOW® robot mower is processed after the \"Home Area\" function is activated on the mower. Purpose The processing of your personal data serves the following purpose or purposes: · You have the possibility to display your iMOW® robot mower on a map in your MY iMOW® Applications and locate it so that you are always informed about the location of your iMOW. · Displaying weather forecasts in the mowing plan of the MY iMOW® applications. · By activating the Home Area function, the mower can lock itself when moved outside the area. Legal basis We base the processing of your personal data in connection with the location of your iMOW on: · The processing of your personal data is necessary in order to be able to offer you the weather forecast offered in the MY iMOW® App, the location functionality and the device lock. We process your personal data based on Article 6 (1) (b) GDPR. · The processing of your personal data is necessary to assist you in retrieving your iMOW® robotic lawnmower, if you ask us to do so. We process your personal data based on Article 6 (1) (f) GDPR. You can use and control your iMOW® robot mower via the MY iMOW® App, including various voice control systems. You will find below information about voice control systems and their providers. We also refer to the privacy policies of these providers, in which you will find further information on the processing of your personal data in connection with the use of voice control. Controller If you use one of the voice control systems, the providers of these voice systems may process your personal data subject to their own responsibility in accordance with the providers' privacy policies. This means, among other things, that these providers can process your data for their own purposes. Categories of personal data The following information will be processed when communicating with you: · properties of your mowing application or control of your iMOW® mowing robot, such as starting mowing, duration of mowing jobs, if desired mowing zone, standard mowing time; · a mower plan, if any, that you have defined. Purpose The processing of your personal data serves the following purpose or purposes: · Controlling your iMOW® robot mower by voice command and providing or querying the current iMOW® status by voice command. Legal basis We base the processing of your personal data by us and the transfer of your personal data to the provider you use on the following legal basis: · The processing of your personal data is necessary in order to be able to offer you the functionality of voice control offered in the MY iMOW® Applications. We base the processing of your data on the legal basis of Article 6 (1) (b) GDPR. · The processing is necessary for ensuring the security and functionality of the voice control function. This means that we will further develop the voice control of the iMOW® robot mower on the basis of your use of voice control. We base the processing of your personal data on the legal basis of Article 6 (1) (f) GDPR. It is in our legitimate interest to further develop our offers and services for you and to improve your usage experience of STIHL MY iMOW® Applications. · For certain processing of your personal data, we will obtain your consent in accordance with Article 6 (1) (a) GDPR to the extent necessary. In the context of obtaining your consent, we will inform you about the processing of your personal data on the basis of your consent. Voice control provider · Voice control via Apple Shortcuts App: Provider is Apple. The privacy policy is available at"
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S14",
+        "text": "There are various ways to contact us, for example by email, by post, by telephone, via contact forms or by other means. We will be happy to answer any questions you may have via any of the communication channels we provide. We will generally contact you by email. Joint responsibility If you communicate with STIHL Tirol, STIHL Tirol is responsible for the processing of your personal data. If communication with you or processing your request or concern requires the involvement of other STIHL Group companies, we will process your request or concern together with these companies. Depending on the subject-matter of your request or concern, the companies incorporated by STIHL Tirol process your personal data on behalf of STIHL Tirol or as a jointly responsible body with STIHL Tirol. Categories of personal data The following information will be processed when communicating with you: · your contact details such as your telephone number or email address; · data relating to your request or concern, such as the subject of your request or our communication with you. Purpose The processing of your personal data serves the following purpose or purposes: · communication with you if you have questions about the STIHL MY iMOW® Applications or the iMOW® robot mower; · handling and responding to your enquiries and concerns; · communication with you outside of enquiries and concerns, for example for information purposes or for the fulfilment of legal obligations; · when we record telephone calls, this is done for quality assurance and training purposes; Legal basis We base the processing of your personal data in connection with the communication with you on different legal bases, depending on the background of the communication. The following shall apply: · Communication with you is necessary to fulfil the contract for the STIHL MY iMOW® Applications or to conclude a contract for the use of STIHL MY iMOW® Applications. We base the processing of your personal data with you on the legal basis of Article 6 (1) (b) GDPR. Communication with you is necessary to ensure the security and functionality of the STIHL MY iMOW® Applications or the iMOW® robot mower. This also includes that we develop the STIHL MY iMOW® Applications or the iMOW® robot mower on the basis of your feedback and experience. This may require that we ask for your opinion and assessment. We base the processing of your personal data on the legal basis of Article 6 (1) (f) GDPR. It is in our legitimate interest to further develop our offers and services for you",
+        "heading_path": [
+          "4 Processing your personal data in the case of the STIHL MY iMOW® Applications",
+          "4.5 Communication with you"
+        ],
+        "links": [],
+        "html_ids": [],
+        "previous_segment_id": "S13",
+        "next_segment_id": "S15",
+        "previous_segment_text": "https://www.apple.com/legal/privacy/data/en/shortcuts-sharing/. · Voice control via Amazon Alexa: Provider is Amazon. The privacy policy is available at https://www.amazon.com/gp/help/customer/display.html?nodeId=GVP69FUJ48X9DK8V. · Voice control via Google Assistant: Provider is Google. The privacy policy is available at https://policies.google.com/privacy",
+        "extended_context": "Categories of personal data The following information is processed in the process of locating your iMOW® robot mower: · The current geo-coordinates of the iMOW® robot mower are processed when your iMOW® robot mower is connected to the Internet. · The \"Home Area\" of the iMOW® robot mower is processed after the \"Home Area\" function is activated on the mower. Purpose The processing of your personal data serves the following purpose or purposes: · You have the possibility to display your iMOW® robot mower on a map in your MY iMOW® Applications and locate it so that you are always informed about the location of your iMOW. · Displaying weather forecasts in the mowing plan of the MY iMOW® applications. · By activating the Home Area function, the mower can lock itself when moved outside the area. Legal basis We base the processing of your personal data in connection with the location of your iMOW on: · The processing of your personal data is necessary in order to be able to offer you the weather forecast offered in the MY iMOW® App, the location functionality and the device lock. We process your personal data based on Article 6 (1) (b) GDPR. · The processing of your personal data is necessary to assist you in retrieving your iMOW® robotic lawnmower, if you ask us to do so. We process your personal data based on Article 6 (1) (f) GDPR. You can use and control your iMOW® robot mower via the MY iMOW® App, including various voice control systems. You will find below information about voice control systems and their providers. We also refer to the privacy policies of these providers, in which you will find further information on the processing of your personal data in connection with the use of voice control. Controller If you use one of the voice control systems, the providers of these voice systems may process your personal data subject to their own responsibility in accordance with the providers' privacy policies. This means, among other things, that these providers can process your data for their own purposes. Categories of personal data The following information will be processed when communicating with you: · properties of your mowing application or control of your iMOW® mowing robot, such as starting mowing, duration of mowing jobs, if desired mowing zone, standard mowing time; · a mower plan, if any, that you have defined. Purpose The processing of your personal data serves the following purpose or purposes: · Controlling your iMOW® robot mower by voice command and providing or querying the current iMOW® status by voice command. Legal basis We base the processing of your personal data by us and the transfer of your personal data to the provider you use on the following legal basis: · The processing of your personal data is necessary in order to be able to offer you the functionality of voice control offered in the MY iMOW® Applications. We base the processing of your data on the legal basis of Article 6 (1) (b) GDPR. · The processing is necessary for ensuring the security and functionality of the voice control function. This means that we will further develop the voice control of the iMOW® robot mower on the basis of your use of voice control. We base the processing of your personal data on the legal basis of Article 6 (1) (f) GDPR. It is in our legitimate interest to further develop our offers and services for you and to improve your usage experience of STIHL MY iMOW® Applications. · For certain processing of your personal data, we will obtain your consent in accordance with Article 6 (1) (a) GDPR to the extent necessary. In the context of obtaining your consent, we will inform you about the processing of your personal data on the basis of your consent. Voice control provider · Voice control via Apple Shortcuts App: Provider is Apple. The privacy policy is available at https://www.apple.com/legal/privacy/data/en/shortcuts-sharing/. · Voice control via Amazon Alexa: Provider is Amazon. The privacy policy is available at https://www.amazon.com/gp/help/customer/display.html?nodeId=GVP69FUJ48X9DK8V. · Voice control via Google Assistant: Provider is Google. The privacy policy is available at https://policies.google.com/privacy"
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S15",
+        "text": "and to improve your experience of using STIHL MY iMOW® Applications or the iMOW® robot mower. · For certain processing of your personal data, we will obtain your consent in accordance with Article 6 (1) (a) GDPR to the extent necessary. This applies in particular to the recording of telephone calls.",
+        "heading_path": [
+          "4 Processing your personal data in the case of the STIHL MY iMOW® Applications",
+          "4.5 Communication with you"
+        ],
+        "links": [],
+        "html_ids": [],
+        "previous_segment_id": "S14",
+        "next_segment_id": "S16",
+        "previous_segment_text": "There are various ways to contact us, for example by email, by post, by telephone, via contact forms or by other means. We will be happy to answer any questions you may have via any of the communication channels we provide. We will generally contact you by email. Joint responsibility If you communicate with STIHL Tirol, STIHL Tirol is responsible for the processing of your personal data. If communication with you or processing your request or concern requires the involvement of other STIHL Group companies, we will process your request or concern together with these companies. Depending on the subject-matter of your request or concern, the companies incorporated by STIHL Tirol process your personal data on behalf of STIHL Tirol or as a jointly responsible body with STIHL Tirol. Categories of personal data The following information will be processed when communicating with you: · your contact details such as your telephone number or email address; · data relating to your request or concern, such as the subject of your request or our communication with you. Purpose The processing of your personal data serves the following purpose or purposes: · communication with you if you have questions about the STIHL MY iMOW® Applications or the iMOW® robot mower; · handling and responding to your enquiries and concerns; · communication with you outside of enquiries and concerns, for example for information purposes or for the fulfilment of legal obligations; · when we record telephone calls, this is done for quality assurance and training purposes; Legal basis We base the processing of your personal data in connection with the communication with you on different legal bases, depending on the background of the communication. The following shall apply: · Communication with you is necessary to fulfil the contract for the STIHL MY iMOW® Applications or to conclude a contract for the use of STIHL MY iMOW® Applications. We base the processing of your personal data with you on the legal basis of Article 6 (1) (b) GDPR. Communication with you is necessary to ensure the security and functionality of the STIHL MY iMOW® Applications or the iMOW® robot mower. This also includes that we develop the STIHL MY iMOW® Applications or the iMOW® robot mower on the basis of your feedback and experience. This may require that we ask for your opinion and assessment. We base the processing of your personal data on the legal basis of Article 6 (1) (f) GDPR. It is in our legitimate interest to further develop our offers and services for you",
+        "extended_context": "You can use and control your iMOW® robot mower via the MY iMOW® App, including various voice control systems. You will find below information about voice control systems and their providers. We also refer to the privacy policies of these providers, in which you will find further information on the processing of your personal data in connection with the use of voice control. Controller If you use one of the voice control systems, the providers of these voice systems may process your personal data subject to their own responsibility in accordance with the providers' privacy policies. This means, among other things, that these providers can process your data for their own purposes. Categories of personal data The following information will be processed when communicating with you: · properties of your mowing application or control of your iMOW® mowing robot, such as starting mowing, duration of mowing jobs, if desired mowing zone, standard mowing time; · a mower plan, if any, that you have defined. Purpose The processing of your personal data serves the following purpose or purposes: · Controlling your iMOW® robot mower by voice command and providing or querying the current iMOW® status by voice command. Legal basis We base the processing of your personal data by us and the transfer of your personal data to the provider you use on the following legal basis: · The processing of your personal data is necessary in order to be able to offer you the functionality of voice control offered in the MY iMOW® Applications. We base the processing of your data on the legal basis of Article 6 (1) (b) GDPR. · The processing is necessary for ensuring the security and functionality of the voice control function. This means that we will further develop the voice control of the iMOW® robot mower on the basis of your use of voice control. We base the processing of your personal data on the legal basis of Article 6 (1) (f) GDPR. It is in our legitimate interest to further develop our offers and services for you and to improve your usage experience of STIHL MY iMOW® Applications. · For certain processing of your personal data, we will obtain your consent in accordance with Article 6 (1) (a) GDPR to the extent necessary. In the context of obtaining your consent, we will inform you about the processing of your personal data on the basis of your consent. Voice control provider · Voice control via Apple Shortcuts App: Provider is Apple. The privacy policy is available at https://www.apple.com/legal/privacy/data/en/shortcuts-sharing/. · Voice control via Amazon Alexa: Provider is Amazon. The privacy policy is available at https://www.amazon.com/gp/help/customer/display.html?nodeId=GVP69FUJ48X9DK8V. · Voice control via Google Assistant: Provider is Google. The privacy policy is available at https://policies.google.com/privacy There are various ways to contact us, for example by email, by post, by telephone, via contact forms or by other means. We will be happy to answer any questions you may have via any of the communication channels we provide. We will generally contact you by email. Joint responsibility If you communicate with STIHL Tirol, STIHL Tirol is responsible for the processing of your personal data. If communication with you or processing your request or concern requires the involvement of other STIHL Group companies, we will process your request or concern together with these companies. Depending on the subject-matter of your request or concern, the companies incorporated by STIHL Tirol process your personal data on behalf of STIHL Tirol or as a jointly responsible body with STIHL Tirol. Categories of personal data The following information will be processed when communicating with you: · your contact details such as your telephone number or email address; · data relating to your request or concern, such as the subject of your request or our communication with you. Purpose The processing of your personal data serves the following purpose or purposes: · communication with you if you have questions about the STIHL MY iMOW® Applications or the iMOW® robot mower; · handling and responding to your enquiries and concerns; · communication with you outside of enquiries and concerns, for example for information purposes or for the fulfilment of legal obligations; · when we record telephone calls, this is done for quality assurance and training purposes; Legal basis We base the processing of your personal data in connection with the communication with you on different legal bases, depending on the background of the communication. The following shall apply: · Communication with you is necessary to fulfil the contract for the STIHL MY iMOW® Applications or to conclude a contract for the use of STIHL MY iMOW® Applications. We base the processing of your personal data with you on the legal basis of Article 6 (1) (b) GDPR. Communication with you is necessary to ensure the security and functionality of the STIHL MY iMOW® Applications or the iMOW® robot mower. This also includes that we develop the STIHL MY iMOW® Applications or the iMOW® robot mower on the basis of your feedback and experience. This may require that we ask for your opinion and assessment. We base the processing of your personal data on the legal basis of Article 6 (1) (f) GDPR. It is in our legitimate interest to further develop our offers and services for you"
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S16",
+        "text": "If you have any questions or if you cannot use the STIHL MY iMOW® Applications or the iMOW® robot mower as described by us, our Support is always at your disposal. We will inform and support you if, regardless of your contact with us, we find that you cannot use the STIHL MY iMOW® Applications or the iMOW® robot mower as described by us. Controller As part of the support, we work with other STIHL Group companies to provide you with quick and easy assistance. Therefore, as STIHL TIROL, ANDREAS STIHL supports us in providing support for the MY iMOW® App or the iMOW® robot mower. Processing operations to improve our support and the MY iMOW® App or the iMOW® robot mower are carried out under joint responsibility with ANDREAS STIHL. Categories of personal data The following information will be processed as part of the support: · your contact details; · communication with you, including recordings of telephone conversations with you, if you have given your consent to the recording; · data related to the support case and the data required to resolve your support case. Purpose The processing of your personal data serves the following purpose or purposes: · processing your support request; · if we record the telephone conversations in the context of the support on the basis of your consent, this will be done for quality assurance and training purposes; · improving our support. Legal basis We base the processing of your personal data in connection with our support on different legal bases depending on the support request and an existing contractual relationship. The following shall apply: · Our support and performances as part of the support are required to fulfil the contract for the STIHL MY iMOW® Applications. We process your personal data in connection with the support based on the legal basis of Article 6 (1) (b) GDPR. · We provide you with certain support performances outside of an existing contractual relationship. We base the processing of your personal data in connection with our support, which we provide to you outside of an existing contractual relationship on Article 6 (1) (f) GDPR. We have a legitimate interest in assisting you with questions about our offers and services and ensuring the satisfaction of our (former and future) customers. · For certain processing of your personal data, we will obtain your consent in accordance with Article 6 (1) (a) GDPR to the extent necessary. This applies in particular to the recording of telephone conversations during support.",
+        "heading_path": [
+          "4 Processing your personal data in the case of the STIHL MY iMOW® Applications",
+          "4.6 Support"
+        ],
+        "links": [],
+        "html_ids": [],
+        "previous_segment_id": "S15",
+        "next_segment_id": "S17",
+        "previous_segment_text": "and to improve your experience of using STIHL MY iMOW® Applications or the iMOW® robot mower. · For certain processing of your personal data, we will obtain your consent in accordance with Article 6 (1) (a) GDPR to the extent necessary. This applies in particular to the recording of telephone calls.",
+        "extended_context": "https://www.apple.com/legal/privacy/data/en/shortcuts-sharing/. · Voice control via Amazon Alexa: Provider is Amazon. The privacy policy is available at https://www.amazon.com/gp/help/customer/display.html?nodeId=GVP69FUJ48X9DK8V. · Voice control via Google Assistant: Provider is Google. The privacy policy is available at https://policies.google.com/privacy There are various ways to contact us, for example by email, by post, by telephone, via contact forms or by other means. We will be happy to answer any questions you may have via any of the communication channels we provide. We will generally contact you by email. Joint responsibility If you communicate with STIHL Tirol, STIHL Tirol is responsible for the processing of your personal data. If communication with you or processing your request or concern requires the involvement of other STIHL Group companies, we will process your request or concern together with these companies. Depending on the subject-matter of your request or concern, the companies incorporated by STIHL Tirol process your personal data on behalf of STIHL Tirol or as a jointly responsible body with STIHL Tirol. Categories of personal data The following information will be processed when communicating with you: · your contact details such as your telephone number or email address; · data relating to your request or concern, such as the subject of your request or our communication with you. Purpose The processing of your personal data serves the following purpose or purposes: · communication with you if you have questions about the STIHL MY iMOW® Applications or the iMOW® robot mower; · handling and responding to your enquiries and concerns; · communication with you outside of enquiries and concerns, for example for information purposes or for the fulfilment of legal obligations; · when we record telephone calls, this is done for quality assurance and training purposes; Legal basis We base the processing of your personal data in connection with the communication with you on different legal bases, depending on the background of the communication. The following shall apply: · Communication with you is necessary to fulfil the contract for the STIHL MY iMOW® Applications or to conclude a contract for the use of STIHL MY iMOW® Applications. We base the processing of your personal data with you on the legal basis of Article 6 (1) (b) GDPR. Communication with you is necessary to ensure the security and functionality of the STIHL MY iMOW® Applications or the iMOW® robot mower. This also includes that we develop the STIHL MY iMOW® Applications or the iMOW® robot mower on the basis of your feedback and experience. This may require that we ask for your opinion and assessment. We base the processing of your personal data on the legal basis of Article 6 (1) (f) GDPR. It is in our legitimate interest to further develop our offers and services for you and to improve your experience of using STIHL MY iMOW® Applications or the iMOW® robot mower. · For certain processing of your personal data, we will obtain your consent in accordance with Article 6 (1) (a) GDPR to the extent necessary. This applies in particular to the recording of telephone calls."
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S17",
+        "text": "We process certain data in order to improve and further develop STIHL MY iMOW® applications or the iMOW® robot mower and other offers and services (or our support). This concerns in particular data about the use of STIHL MY iMOW® applications as well as data related to, among other things, the properties, security and quality of our offer. As far as possible, the data will be pseudonymised or anonymised prior to processing for product development and statistical evaluation. If the data are anonymised, they are no longer personal data. Joint responsibility In the context of product development and statistical analysis, we cooperate with other companies of the STIHL Group, in particular with ANDREAS STIHL. The processing with ANDREAS STIHL takes place in joint responsibility. Categories of personal data The following information is processed in the framework of product development and statistical analysis: · data on the use of the STIHL MY iMOW® Applications or the iMOW® robot mower; · data on the properties, security and quality of the STIHL MY iMOW® Applications or the iMOW® robot mower; · other information we have, e.g. from support requests from you. Purpose The processing of your personal data serves the following purpose or purposes: · improvement and further development of STIHL MY iMOW® Applications or the iMOW® robot mower; · product development, including in the area of artificial intelligence, (machine learning); · market research; · ensuring the security and quality of the STIHL MY iMOW® Applications. Legal basis We base the processing of your data on the following legal basis: · We base the processing of your personal data in connection with the product development and statistical analysis on legal basis of Article 6 (1) (f) GDPR. Our legitimate interest is in improving and further developing the STIHL MY iMOW® Applications or the iMOW® robot mower and other offerings and services of STIHL Tirol and the STIHL Group as well as in guaranteeing the security and quality of the STIHL MY iMOW® Applications or the iMOW® robot mower.",
+        "heading_path": [
+          "4 Processing your personal data in the case of the STIHL MY iMOW® Applications",
+          "4.7 Product development and statistical analysis"
+        ],
+        "links": [],
+        "html_ids": [],
+        "previous_segment_id": "S16",
+        "next_segment_id": "S18",
+        "previous_segment_text": "If you have any questions or if you cannot use the STIHL MY iMOW® Applications or the iMOW® robot mower as described by us, our Support is always at your disposal. We will inform and support you if, regardless of your contact with us, we find that you cannot use the STIHL MY iMOW® Applications or the iMOW® robot mower as described by us. Controller As part of the support, we work with other STIHL Group companies to provide you with quick and easy assistance. Therefore, as STIHL TIROL, ANDREAS STIHL supports us in providing support for the MY iMOW® App or the iMOW® robot mower. Processing operations to improve our support and the MY iMOW® App or the iMOW® robot mower are carried out under joint responsibility with ANDREAS STIHL. Categories of personal data The following information will be processed as part of the support: · your contact details; · communication with you, including recordings of telephone conversations with you, if you have given your consent to the recording; · data related to the support case and the data required to resolve your support case. Purpose The processing of your personal data serves the following purpose or purposes: · processing your support request; · if we record the telephone conversations in the context of the support on the basis of your consent, this will be done for quality assurance and training purposes; · improving our support. Legal basis We base the processing of your personal data in connection with our support on different legal bases depending on the support request and an existing contractual relationship. The following shall apply: · Our support and performances as part of the support are required to fulfil the contract for the STIHL MY iMOW® Applications. We process your personal data in connection with the support based on the legal basis of Article 6 (1) (b) GDPR. · We provide you with certain support performances outside of an existing contractual relationship. We base the processing of your personal data in connection with our support, which we provide to you outside of an existing contractual relationship on Article 6 (1) (f) GDPR. We have a legitimate interest in assisting you with questions about our offers and services and ensuring the satisfaction of our (former and future) customers. · For certain processing of your personal data, we will obtain your consent in accordance with Article 6 (1) (a) GDPR to the extent necessary. This applies in particular to the recording of telephone conversations during support.",
+        "extended_context": "There are various ways to contact us, for example by email, by post, by telephone, via contact forms or by other means. We will be happy to answer any questions you may have via any of the communication channels we provide. We will generally contact you by email. Joint responsibility If you communicate with STIHL Tirol, STIHL Tirol is responsible for the processing of your personal data. If communication with you or processing your request or concern requires the involvement of other STIHL Group companies, we will process your request or concern together with these companies. Depending on the subject-matter of your request or concern, the companies incorporated by STIHL Tirol process your personal data on behalf of STIHL Tirol or as a jointly responsible body with STIHL Tirol. Categories of personal data The following information will be processed when communicating with you: · your contact details such as your telephone number or email address; · data relating to your request or concern, such as the subject of your request or our communication with you. Purpose The processing of your personal data serves the following purpose or purposes: · communication with you if you have questions about the STIHL MY iMOW® Applications or the iMOW® robot mower; · handling and responding to your enquiries and concerns; · communication with you outside of enquiries and concerns, for example for information purposes or for the fulfilment of legal obligations; · when we record telephone calls, this is done for quality assurance and training purposes; Legal basis We base the processing of your personal data in connection with the communication with you on different legal bases, depending on the background of the communication. The following shall apply: · Communication with you is necessary to fulfil the contract for the STIHL MY iMOW® Applications or to conclude a contract for the use of STIHL MY iMOW® Applications. We base the processing of your personal data with you on the legal basis of Article 6 (1) (b) GDPR. Communication with you is necessary to ensure the security and functionality of the STIHL MY iMOW® Applications or the iMOW® robot mower. This also includes that we develop the STIHL MY iMOW® Applications or the iMOW® robot mower on the basis of your feedback and experience. This may require that we ask for your opinion and assessment. We base the processing of your personal data on the legal basis of Article 6 (1) (f) GDPR. It is in our legitimate interest to further develop our offers and services for you and to improve your experience of using STIHL MY iMOW® Applications or the iMOW® robot mower. · For certain processing of your personal data, we will obtain your consent in accordance with Article 6 (1) (a) GDPR to the extent necessary. This applies in particular to the recording of telephone calls. If you have any questions or if you cannot use the STIHL MY iMOW® Applications or the iMOW® robot mower as described by us, our Support is always at your disposal. We will inform and support you if, regardless of your contact with us, we find that you cannot use the STIHL MY iMOW® Applications or the iMOW® robot mower as described by us. Controller As part of the support, we work with other STIHL Group companies to provide you with quick and easy assistance. Therefore, as STIHL TIROL, ANDREAS STIHL supports us in providing support for the MY iMOW® App or the iMOW® robot mower. Processing operations to improve our support and the MY iMOW® App or the iMOW® robot mower are carried out under joint responsibility with ANDREAS STIHL. Categories of personal data The following information will be processed as part of the support: · your contact details; · communication with you, including recordings of telephone conversations with you, if you have given your consent to the recording; · data related to the support case and the data required to resolve your support case. Purpose The processing of your personal data serves the following purpose or purposes: · processing your support request; · if we record the telephone conversations in the context of the support on the basis of your consent, this will be done for quality assurance and training purposes; · improving our support. Legal basis We base the processing of your personal data in connection with our support on different legal bases depending on the support request and an existing contractual relationship. The following shall apply: · Our support and performances as part of the support are required to fulfil the contract for the STIHL MY iMOW® Applications. We process your personal data in connection with the support based on the legal basis of Article 6 (1) (b) GDPR. · We provide you with certain support performances outside of an existing contractual relationship. We base the processing of your personal data in connection with our support, which we provide to you outside of an existing contractual relationship on Article 6 (1) (f) GDPR. We have a legitimate interest in assisting you with questions about our offers and services and ensuring the satisfaction of our (former and future) customers. · For certain processing of your personal data, we will obtain your consent in accordance with Article 6 (1) (a) GDPR to the extent necessary. This applies in particular to the recording of telephone conversations during support."
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S18",
+        "text": "As long as you use the STIHL MY iMOW® Applications or until you delete your STIHL Account, we will process your personal data as it is necessary to provide you with the STIHL MY iMOW® Applications you want. The storage period for your personal data depends in particular on which of the features offered by the STIHL MY iMOW® Applications you use. In addition, the storage period depends on the category of personal data processed and the purpose of the processing. Finally, we take into account legal retention periods, which may obligate us to keep your data for a certain period of time. Accordingly, storage may take place if this is provided for by the European or national legislator in Union regulations, laws or other provisions to which we are subject. In the event of a legal dispute, we will keep the personal data we need for legal defence until the final conclusion of the proceedings. For more information on the storage period, please contact us via the contact details to be found in this Privacy Policy under section 2.",
+        "heading_path": [
+          "5 STORAGE PERIOD"
+        ],
+        "links": [],
+        "html_ids": [],
+        "previous_segment_id": "S17",
+        "next_segment_id": "S19",
+        "previous_segment_text": "We process certain data in order to improve and further develop STIHL MY iMOW® applications or the iMOW® robot mower and other offers and services (or our support). This concerns in particular data about the use of STIHL MY iMOW® applications as well as data related to, among other things, the properties, security and quality of our offer. As far as possible, the data will be pseudonymised or anonymised prior to processing for product development and statistical evaluation. If the data are anonymised, they are no longer personal data. Joint responsibility In the context of product development and statistical analysis, we cooperate with other companies of the STIHL Group, in particular with ANDREAS STIHL. The processing with ANDREAS STIHL takes place in joint responsibility. Categories of personal data The following information is processed in the framework of product development and statistical analysis: · data on the use of the STIHL MY iMOW® Applications or the iMOW® robot mower; · data on the properties, security and quality of the STIHL MY iMOW® Applications or the iMOW® robot mower; · other information we have, e.g. from support requests from you. Purpose The processing of your personal data serves the following purpose or purposes: · improvement and further development of STIHL MY iMOW® Applications or the iMOW® robot mower; · product development, including in the area of artificial intelligence, (machine learning); · market research; · ensuring the security and quality of the STIHL MY iMOW® Applications. Legal basis We base the processing of your data on the following legal basis: · We base the processing of your personal data in connection with the product development and statistical analysis on legal basis of Article 6 (1) (f) GDPR. Our legitimate interest is in improving and further developing the STIHL MY iMOW® Applications or the iMOW® robot mower and other offerings and services of STIHL Tirol and the STIHL Group as well as in guaranteeing the security and quality of the STIHL MY iMOW® Applications or the iMOW® robot mower.",
+        "extended_context": "and to improve your experience of using STIHL MY iMOW® Applications or the iMOW® robot mower. · For certain processing of your personal data, we will obtain your consent in accordance with Article 6 (1) (a) GDPR to the extent necessary. This applies in particular to the recording of telephone calls. If you have any questions or if you cannot use the STIHL MY iMOW® Applications or the iMOW® robot mower as described by us, our Support is always at your disposal. We will inform and support you if, regardless of your contact with us, we find that you cannot use the STIHL MY iMOW® Applications or the iMOW® robot mower as described by us. Controller As part of the support, we work with other STIHL Group companies to provide you with quick and easy assistance. Therefore, as STIHL TIROL, ANDREAS STIHL supports us in providing support for the MY iMOW® App or the iMOW® robot mower. Processing operations to improve our support and the MY iMOW® App or the iMOW® robot mower are carried out under joint responsibility with ANDREAS STIHL. Categories of personal data The following information will be processed as part of the support: · your contact details; · communication with you, including recordings of telephone conversations with you, if you have given your consent to the recording; · data related to the support case and the data required to resolve your support case. Purpose The processing of your personal data serves the following purpose or purposes: · processing your support request; · if we record the telephone conversations in the context of the support on the basis of your consent, this will be done for quality assurance and training purposes; · improving our support. Legal basis We base the processing of your personal data in connection with our support on different legal bases depending on the support request and an existing contractual relationship. The following shall apply: · Our support and performances as part of the support are required to fulfil the contract for the STIHL MY iMOW® Applications. We process your personal data in connection with the support based on the legal basis of Article 6 (1) (b) GDPR. · We provide you with certain support performances outside of an existing contractual relationship. We base the processing of your personal data in connection with our support, which we provide to you outside of an existing contractual relationship on Article 6 (1) (f) GDPR. We have a legitimate interest in assisting you with questions about our offers and services and ensuring the satisfaction of our (former and future) customers. · For certain processing of your personal data, we will obtain your consent in accordance with Article 6 (1) (a) GDPR to the extent necessary. This applies in particular to the recording of telephone conversations during support. We process certain data in order to improve and further develop STIHL MY iMOW® applications or the iMOW® robot mower and other offers and services (or our support). This concerns in particular data about the use of STIHL MY iMOW® applications as well as data related to, among other things, the properties, security and quality of our offer. As far as possible, the data will be pseudonymised or anonymised prior to processing for product development and statistical evaluation. If the data are anonymised, they are no longer personal data. Joint responsibility In the context of product development and statistical analysis, we cooperate with other companies of the STIHL Group, in particular with ANDREAS STIHL. The processing with ANDREAS STIHL takes place in joint responsibility. Categories of personal data The following information is processed in the framework of product development and statistical analysis: · data on the use of the STIHL MY iMOW® Applications or the iMOW® robot mower; · data on the properties, security and quality of the STIHL MY iMOW® Applications or the iMOW® robot mower; · other information we have, e.g. from support requests from you. Purpose The processing of your personal data serves the following purpose or purposes: · improvement and further development of STIHL MY iMOW® Applications or the iMOW® robot mower; · product development, including in the area of artificial intelligence, (machine learning); · market research; · ensuring the security and quality of the STIHL MY iMOW® Applications. Legal basis We base the processing of your data on the following legal basis: · We base the processing of your personal data in connection with the product development and statistical analysis on legal basis of Article 6 (1) (f) GDPR. Our legitimate interest is in improving and further developing the STIHL MY iMOW® Applications or the iMOW® robot mower and other offerings and services of STIHL Tirol and the STIHL Group as well as in guaranteeing the security and quality of the STIHL MY iMOW® Applications or the iMOW® robot mower."
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [
+          {
+            "evidence": "please contact us via the contact details to be found in this Privacy Policy under section 2.",
+            "target_text": "contact details to be found in this Privacy Policy under section 2",
+            "confidence": "extracted",
+            "id": "My Imow:S18:reference:1"
+          }
+        ],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S19",
+        "text": "We share your personal data with other STIHL Group companies in certain cases. The processing by these STIHL companies is carried out on our behalf or subject to our own responsibility. If the processing is carried out on our behalf, a contract has been concluded between us and the respective STIHL company for the processing of data within the meaning of the GDPR.",
+        "heading_path": [
+          "6 RECIPIENTS OF YOUR PERSONAL DATA",
+          "6.1 Recipients within the STIHL Group"
+        ],
+        "links": [],
+        "html_ids": [],
+        "previous_segment_id": "S18",
+        "next_segment_id": "S20",
+        "previous_segment_text": "As long as you use the STIHL MY iMOW® Applications or until you delete your STIHL Account, we will process your personal data as it is necessary to provide you with the STIHL MY iMOW® Applications you want. The storage period for your personal data depends in particular on which of the features offered by the STIHL MY iMOW® Applications you use. In addition, the storage period depends on the category of personal data processed and the purpose of the processing. Finally, we take into account legal retention periods, which may obligate us to keep your data for a certain period of time. Accordingly, storage may take place if this is provided for by the European or national legislator in Union regulations, laws or other provisions to which we are subject. In the event of a legal dispute, we will keep the personal data we need for legal defence until the final conclusion of the proceedings. For more information on the storage period, please contact us via the contact details to be found in this Privacy Policy under section 2.",
+        "extended_context": "If you have any questions or if you cannot use the STIHL MY iMOW® Applications or the iMOW® robot mower as described by us, our Support is always at your disposal. We will inform and support you if, regardless of your contact with us, we find that you cannot use the STIHL MY iMOW® Applications or the iMOW® robot mower as described by us. Controller As part of the support, we work with other STIHL Group companies to provide you with quick and easy assistance. Therefore, as STIHL TIROL, ANDREAS STIHL supports us in providing support for the MY iMOW® App or the iMOW® robot mower. Processing operations to improve our support and the MY iMOW® App or the iMOW® robot mower are carried out under joint responsibility with ANDREAS STIHL. Categories of personal data The following information will be processed as part of the support: · your contact details; · communication with you, including recordings of telephone conversations with you, if you have given your consent to the recording; · data related to the support case and the data required to resolve your support case. Purpose The processing of your personal data serves the following purpose or purposes: · processing your support request; · if we record the telephone conversations in the context of the support on the basis of your consent, this will be done for quality assurance and training purposes; · improving our support. Legal basis We base the processing of your personal data in connection with our support on different legal bases depending on the support request and an existing contractual relationship. The following shall apply: · Our support and performances as part of the support are required to fulfil the contract for the STIHL MY iMOW® Applications. We process your personal data in connection with the support based on the legal basis of Article 6 (1) (b) GDPR. · We provide you with certain support performances outside of an existing contractual relationship. We base the processing of your personal data in connection with our support, which we provide to you outside of an existing contractual relationship on Article 6 (1) (f) GDPR. We have a legitimate interest in assisting you with questions about our offers and services and ensuring the satisfaction of our (former and future) customers. · For certain processing of your personal data, we will obtain your consent in accordance with Article 6 (1) (a) GDPR to the extent necessary. This applies in particular to the recording of telephone conversations during support. We process certain data in order to improve and further develop STIHL MY iMOW® applications or the iMOW® robot mower and other offers and services (or our support). This concerns in particular data about the use of STIHL MY iMOW® applications as well as data related to, among other things, the properties, security and quality of our offer. As far as possible, the data will be pseudonymised or anonymised prior to processing for product development and statistical evaluation. If the data are anonymised, they are no longer personal data. Joint responsibility In the context of product development and statistical analysis, we cooperate with other companies of the STIHL Group, in particular with ANDREAS STIHL. The processing with ANDREAS STIHL takes place in joint responsibility. Categories of personal data The following information is processed in the framework of product development and statistical analysis: · data on the use of the STIHL MY iMOW® Applications or the iMOW® robot mower; · data on the properties, security and quality of the STIHL MY iMOW® Applications or the iMOW® robot mower; · other information we have, e.g. from support requests from you. Purpose The processing of your personal data serves the following purpose or purposes: · improvement and further development of STIHL MY iMOW® Applications or the iMOW® robot mower; · product development, including in the area of artificial intelligence, (machine learning); · market research; · ensuring the security and quality of the STIHL MY iMOW® Applications. Legal basis We base the processing of your data on the following legal basis: · We base the processing of your personal data in connection with the product development and statistical analysis on legal basis of Article 6 (1) (f) GDPR. Our legitimate interest is in improving and further developing the STIHL MY iMOW® Applications or the iMOW® robot mower and other offerings and services of STIHL Tirol and the STIHL Group as well as in guaranteeing the security and quality of the STIHL MY iMOW® Applications or the iMOW® robot mower. As long as you use the STIHL MY iMOW® Applications or until you delete your STIHL Account, we will process your personal data as it is necessary to provide you with the STIHL MY iMOW® Applications you want. The storage period for your personal data depends in particular on which of the features offered by the STIHL MY iMOW® Applications you use. In addition, the storage period depends on the category of personal data processed and the purpose of the processing. Finally, we take into account legal retention periods, which may obligate us to keep your data for a certain period of time. Accordingly, storage may take place if this is provided for by the European or national legislator in Union regulations, laws or other provisions to which we are subject. In the event of a legal dispute, we will keep the personal data we need for legal defence until the final conclusion of the proceedings. For more information on the storage period, please contact us via the contact details to be found in this Privacy Policy under section 2."
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S20",
+        "text": "In addition to recipients of the STIHL Group, we share your personal data with our partners, in relation to individual processing operations and taking into account the data protection regulations. Our partners include service providers who process your personal data on our behalf and service providers who provide services for us that accompany the processing of your personal data. In connection with the processing of your personal data, we use the following categories of service providers: · IT Service Providers (Data Hosting Providers); · Support (Customer Support); · Lawyers, auditors and tax advisers. We also pass on your data to the authorities and courts, as far as we are obligated by the GDPR or the law of the EU Member States.",
+        "heading_path": [
+          "6 RECIPIENTS OF YOUR PERSONAL DATA",
+          "6.2 Recipients outside the STIHL Group"
+        ],
+        "links": [],
+        "html_ids": [],
+        "previous_segment_id": "S19",
+        "next_segment_id": "S21",
+        "previous_segment_text": "We share your personal data with other STIHL Group companies in certain cases. The processing by these STIHL companies is carried out on our behalf or subject to our own responsibility. If the processing is carried out on our behalf, a contract has been concluded between us and the respective STIHL company for the processing of data within the meaning of the GDPR.",
+        "extended_context": "We process certain data in order to improve and further develop STIHL MY iMOW® applications or the iMOW® robot mower and other offers and services (or our support). This concerns in particular data about the use of STIHL MY iMOW® applications as well as data related to, among other things, the properties, security and quality of our offer. As far as possible, the data will be pseudonymised or anonymised prior to processing for product development and statistical evaluation. If the data are anonymised, they are no longer personal data. Joint responsibility In the context of product development and statistical analysis, we cooperate with other companies of the STIHL Group, in particular with ANDREAS STIHL. The processing with ANDREAS STIHL takes place in joint responsibility. Categories of personal data The following information is processed in the framework of product development and statistical analysis: · data on the use of the STIHL MY iMOW® Applications or the iMOW® robot mower; · data on the properties, security and quality of the STIHL MY iMOW® Applications or the iMOW® robot mower; · other information we have, e.g. from support requests from you. Purpose The processing of your personal data serves the following purpose or purposes: · improvement and further development of STIHL MY iMOW® Applications or the iMOW® robot mower; · product development, including in the area of artificial intelligence, (machine learning); · market research; · ensuring the security and quality of the STIHL MY iMOW® Applications. Legal basis We base the processing of your data on the following legal basis: · We base the processing of your personal data in connection with the product development and statistical analysis on legal basis of Article 6 (1) (f) GDPR. Our legitimate interest is in improving and further developing the STIHL MY iMOW® Applications or the iMOW® robot mower and other offerings and services of STIHL Tirol and the STIHL Group as well as in guaranteeing the security and quality of the STIHL MY iMOW® Applications or the iMOW® robot mower. As long as you use the STIHL MY iMOW® Applications or until you delete your STIHL Account, we will process your personal data as it is necessary to provide you with the STIHL MY iMOW® Applications you want. The storage period for your personal data depends in particular on which of the features offered by the STIHL MY iMOW® Applications you use. In addition, the storage period depends on the category of personal data processed and the purpose of the processing. Finally, we take into account legal retention periods, which may obligate us to keep your data for a certain period of time. Accordingly, storage may take place if this is provided for by the European or national legislator in Union regulations, laws or other provisions to which we are subject. In the event of a legal dispute, we will keep the personal data we need for legal defence until the final conclusion of the proceedings. For more information on the storage period, please contact us via the contact details to be found in this Privacy Policy under section 2. We share your personal data with other STIHL Group companies in certain cases. The processing by these STIHL companies is carried out on our behalf or subject to our own responsibility. If the processing is carried out on our behalf, a contract has been concluded between us and the respective STIHL company for the processing of data within the meaning of the GDPR."
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S21",
+        "text": "Regardless of where your personal data are processed, the highest priority for us is that the level of protection guaranteed by the GDPR is always ensured. If we pass on personal data to recipients whose systems for processing your personal data or their subcontractors are located outside the European Economic Area, or if we transfer personal data to recipients outside the European Economic Area, we comply with the requirements of Chapter V of the GDPR. You can ask us for an overview of the recipients in countries outside the European Economic Area and information on the measures we have taken to ensure the level of protection of the GDPR at any time via the contact details specified under section 2 in this Privacy Policy.",
+        "heading_path": [
+          "7 TRANSMISSION OF YOUR PERSONAL DATA TO COUNTRIES OUTSIDE THE EUROPEAN ECONOMIC AREA"
+        ],
+        "links": [],
+        "html_ids": [],
+        "previous_segment_id": "S20",
+        "next_segment_id": "S22",
+        "previous_segment_text": "In addition to recipients of the STIHL Group, we share your personal data with our partners, in relation to individual processing operations and taking into account the data protection regulations. Our partners include service providers who process your personal data on our behalf and service providers who provide services for us that accompany the processing of your personal data. In connection with the processing of your personal data, we use the following categories of service providers: · IT Service Providers (Data Hosting Providers); · Support (Customer Support); · Lawyers, auditors and tax advisers. We also pass on your data to the authorities and courts, as far as we are obligated by the GDPR or the law of the EU Member States.",
+        "extended_context": "As long as you use the STIHL MY iMOW® Applications or until you delete your STIHL Account, we will process your personal data as it is necessary to provide you with the STIHL MY iMOW® Applications you want. The storage period for your personal data depends in particular on which of the features offered by the STIHL MY iMOW® Applications you use. In addition, the storage period depends on the category of personal data processed and the purpose of the processing. Finally, we take into account legal retention periods, which may obligate us to keep your data for a certain period of time. Accordingly, storage may take place if this is provided for by the European or national legislator in Union regulations, laws or other provisions to which we are subject. In the event of a legal dispute, we will keep the personal data we need for legal defence until the final conclusion of the proceedings. For more information on the storage period, please contact us via the contact details to be found in this Privacy Policy under section 2. We share your personal data with other STIHL Group companies in certain cases. The processing by these STIHL companies is carried out on our behalf or subject to our own responsibility. If the processing is carried out on our behalf, a contract has been concluded between us and the respective STIHL company for the processing of data within the meaning of the GDPR. In addition to recipients of the STIHL Group, we share your personal data with our partners, in relation to individual processing operations and taking into account the data protection regulations. Our partners include service providers who process your personal data on our behalf and service providers who provide services for us that accompany the processing of your personal data. In connection with the processing of your personal data, we use the following categories of service providers: · IT Service Providers (Data Hosting Providers); · Support (Customer Support); · Lawyers, auditors and tax advisers. We also pass on your data to the authorities and courts, as far as we are obligated by the GDPR or the law of the EU Member States."
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [
+          {
+            "evidence": "via the contact details specified under section 2 in this Privacy Policy",
+            "target_text": "section 2 in this Privacy Policy",
+            "confidence": "extracted",
+            "id": "My Imow:S21:reference:1"
+          }
+        ],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S22",
+        "text": "If you wish to assert your rights as specified below, you can contact us at any time and without any required form via the communication channels specified in this Privacy Policy. By email and on the other communication channels, you can reach STIHL Tirol and the Data Protection Officer of STIHL Tirol via the contact details specified under section 2 of this Privacy Policy.",
+        "heading_path": [
+          "8 YOUR RIGHTS AND ASSERTING THEM"
+        ],
+        "links": [],
+        "html_ids": [],
+        "previous_segment_id": "S21",
+        "next_segment_id": "S23",
+        "previous_segment_text": "Regardless of where your personal data are processed, the highest priority for us is that the level of protection guaranteed by the GDPR is always ensured. If we pass on personal data to recipients whose systems for processing your personal data or their subcontractors are located outside the European Economic Area, or if we transfer personal data to recipients outside the European Economic Area, we comply with the requirements of Chapter V of the GDPR. You can ask us for an overview of the recipients in countries outside the European Economic Area and information on the measures we have taken to ensure the level of protection of the GDPR at any time via the contact details specified under section 2 in this Privacy Policy.",
+        "extended_context": "We share your personal data with other STIHL Group companies in certain cases. The processing by these STIHL companies is carried out on our behalf or subject to our own responsibility. If the processing is carried out on our behalf, a contract has been concluded between us and the respective STIHL company for the processing of data within the meaning of the GDPR. In addition to recipients of the STIHL Group, we share your personal data with our partners, in relation to individual processing operations and taking into account the data protection regulations. Our partners include service providers who process your personal data on our behalf and service providers who provide services for us that accompany the processing of your personal data. In connection with the processing of your personal data, we use the following categories of service providers: · IT Service Providers (Data Hosting Providers); · Support (Customer Support); · Lawyers, auditors and tax advisers. We also pass on your data to the authorities and courts, as far as we are obligated by the GDPR or the law of the EU Member States. Regardless of where your personal data are processed, the highest priority for us is that the level of protection guaranteed by the GDPR is always ensured. If we pass on personal data to recipients whose systems for processing your personal data or their subcontractors are located outside the European Economic Area, or if we transfer personal data to recipients outside the European Economic Area, we comply with the requirements of Chapter V of the GDPR. You can ask us for an overview of the recipients in countries outside the European Economic Area and information on the measures we have taken to ensure the level of protection of the GDPR at any time via the contact details specified under section 2 in this Privacy Policy."
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [
+          {
+            "evidence": "via the contact details specified under section 2 of this Privacy Policy",
+            "target_text": "section 2 of this Privacy Policy",
+            "confidence": "extracted",
+            "id": "My Imow:S22:reference:1"
+          }
+        ],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S23",
+        "text": "You have the right to request confirmation as to whether or not your personal data will be processed. When we process your personal data, you have a right to information about this personal data and certain information required by law. For more information on your right to information, see Art. 15 GDPR.",
+        "heading_path": [
+          "8 YOUR RIGHTS AND ASSERTING THEM",
+          "8.1 Right to information"
+        ],
+        "links": [],
+        "html_ids": [],
+        "previous_segment_id": "S22",
+        "next_segment_id": "S24",
+        "previous_segment_text": "If you wish to assert your rights as specified below, you can contact us at any time and without any required form via the communication channels specified in this Privacy Policy. By email and on the other communication channels, you can reach STIHL Tirol and the Data Protection Officer of STIHL Tirol via the contact details specified under section 2 of this Privacy Policy.",
+        "extended_context": "In addition to recipients of the STIHL Group, we share your personal data with our partners, in relation to individual processing operations and taking into account the data protection regulations. Our partners include service providers who process your personal data on our behalf and service providers who provide services for us that accompany the processing of your personal data. In connection with the processing of your personal data, we use the following categories of service providers: · IT Service Providers (Data Hosting Providers); · Support (Customer Support); · Lawyers, auditors and tax advisers. We also pass on your data to the authorities and courts, as far as we are obligated by the GDPR or the law of the EU Member States. Regardless of where your personal data are processed, the highest priority for us is that the level of protection guaranteed by the GDPR is always ensured. If we pass on personal data to recipients whose systems for processing your personal data or their subcontractors are located outside the European Economic Area, or if we transfer personal data to recipients outside the European Economic Area, we comply with the requirements of Chapter V of the GDPR. You can ask us for an overview of the recipients in countries outside the European Economic Area and information on the measures we have taken to ensure the level of protection of the GDPR at any time via the contact details specified under section 2 in this Privacy Policy. If you wish to assert your rights as specified below, you can contact us at any time and without any required form via the communication channels specified in this Privacy Policy. By email and on the other communication channels, you can reach STIHL Tirol and the Data Protection Officer of STIHL Tirol via the contact details specified under section 2 of this Privacy Policy."
+      },
+      "result": {
+        "right_type": [
+          {
+            "value": "Right of access",
+            "evidence": "You have the right to request confirmation as to whether or not your personal data will be processed.",
+            "confidence": "extracted",
+            "id": "My Imow:S23:right:1"
+          }
+        ],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": [
+          {
+            "attribute": "reference",
+            "evidence": "For more information on your right to information, see Art. 15 GDPR.",
+            "target_text": "Art. 15 GDPR",
+            "reason": "not_an_unresolved_reference"
+          }
+        ]
+      }
+    },
+    {
+      "segment": {
+        "id": "S24",
+        "text": "You have the right to request the rectification of incorrect personal data concerning you without delay. Taking into account the purposes of processing, you have the right to request the completion of incomplete personal data. For more information on your right to rectification, see Art. 16 GDPR. We always strive to ensure the accuracy of your personal data. We therefore ask you to notify us immediately of any changes to your data (such as changes in address), so that we can ensure that your personal data is up-to-date.",
+        "heading_path": [
+          "8 YOUR RIGHTS AND ASSERTING THEM",
+          "8.2 Right to rectification"
+        ],
+        "links": [],
+        "html_ids": [],
+        "previous_segment_id": "S23",
+        "next_segment_id": "S25",
+        "previous_segment_text": "You have the right to request confirmation as to whether or not your personal data will be processed. When we process your personal data, you have a right to information about this personal data and certain information required by law. For more information on your right to information, see Art. 15 GDPR.",
+        "extended_context": "Regardless of where your personal data are processed, the highest priority for us is that the level of protection guaranteed by the GDPR is always ensured. If we pass on personal data to recipients whose systems for processing your personal data or their subcontractors are located outside the European Economic Area, or if we transfer personal data to recipients outside the European Economic Area, we comply with the requirements of Chapter V of the GDPR. You can ask us for an overview of the recipients in countries outside the European Economic Area and information on the measures we have taken to ensure the level of protection of the GDPR at any time via the contact details specified under section 2 in this Privacy Policy. If you wish to assert your rights as specified below, you can contact us at any time and without any required form via the communication channels specified in this Privacy Policy. By email and on the other communication channels, you can reach STIHL Tirol and the Data Protection Officer of STIHL Tirol via the contact details specified under section 2 of this Privacy Policy. You have the right to request confirmation as to whether or not your personal data will be processed. When we process your personal data, you have a right to information about this personal data and certain information required by law. For more information on your right to information, see Art. 15 GDPR."
+      },
+      "result": {
+        "right_type": [
+          {
+            "value": "Right to rectification",
+            "evidence": "You have the right to request the rectification of incorrect personal data concerning you without delay.",
+            "confidence": "extracted",
+            "id": "My Imow:S24:right:1"
+          },
+          {
+            "value": "Right to rectification",
+            "evidence": "Taking into account the purposes of processing, you have the right to request the completion of incomplete personal data.",
+            "confidence": "extracted",
+            "id": "My Imow:S24:right:2"
+          }
+        ],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": [
+          {
+            "attribute": "reference",
+            "evidence": "For more information on your right to rectification, see Art. 16 GDPR.",
+            "target_text": "Art. 16 GDPR",
+            "reason": "not_an_unresolved_reference"
+          }
+        ]
+      }
+    },
+    {
+      "segment": {
+        "id": "S25",
+        "text": "If the legal requirements are met, you may request us to erase your personal data immediately. This shall be the case, in particular, where: · your personal data will no longer be required for the purposes for which it was collected or otherwise processed; · the processing of your personal data is based on your consent, you revoke this consent and we cannot base the processing on another legal basis; · you have objected to the processing of your personal data on grounds relating to your particular situation and there are no overriding grounds for the processing of your personal data. · if your personal data have been passed on to third parties and we are obligated to erase your personal data, we will inform these third parties about the erasure, insofar as this is required by law. We would like to point out that your right to erasure is subject to restrictions. For example, we may not erase any personal data that we have to keep further due to legal requirements. Data that we need in order to assert, exercise or defend legal claims are also excluded from your right to erasure. For more information on your right to erasure, see Art. 17 GDPR.",
+        "heading_path": [
+          "8 YOUR RIGHTS AND ASSERTING THEM",
+          "8.3 Right to erasure"
+        ],
+        "links": [],
+        "html_ids": [],
+        "previous_segment_id": "S24",
+        "next_segment_id": "S26",
+        "previous_segment_text": "You have the right to request the rectification of incorrect personal data concerning you without delay. Taking into account the purposes of processing, you have the right to request the completion of incomplete personal data. For more information on your right to rectification, see Art. 16 GDPR. We always strive to ensure the accuracy of your personal data. We therefore ask you to notify us immediately of any changes to your data (such as changes in address), so that we can ensure that your personal data is up-to-date.",
+        "extended_context": "If you wish to assert your rights as specified below, you can contact us at any time and without any required form via the communication channels specified in this Privacy Policy. By email and on the other communication channels, you can reach STIHL Tirol and the Data Protection Officer of STIHL Tirol via the contact details specified under section 2 of this Privacy Policy. You have the right to request confirmation as to whether or not your personal data will be processed. When we process your personal data, you have a right to information about this personal data and certain information required by law. For more information on your right to information, see Art. 15 GDPR. You have the right to request the rectification of incorrect personal data concerning you without delay. Taking into account the purposes of processing, you have the right to request the completion of incomplete personal data. For more information on your right to rectification, see Art. 16 GDPR. We always strive to ensure the accuracy of your personal data. We therefore ask you to notify us immediately of any changes to your data (such as changes in address), so that we can ensure that your personal data is up-to-date."
+      },
+      "result": {
+        "right_type": [
+          {
+            "value": "Right to erasure",
+            "evidence": "you may request us to erase your personal data immediately",
+            "confidence": "extracted",
+            "id": "My Imow:S25:right:1"
+          }
+        ],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": [
+          {
+            "attribute": "reference",
+            "evidence": "For more information on your right to erasure, see Art. 17 GDPR.",
+            "target_text": "Art. 17 GDPR",
+            "reason": "not_an_unresolved_reference"
+          }
+        ]
+      }
+    },
+    {
+      "segment": {
+        "id": "S26",
+        "text": "If the legal requirements are met, you may request a restriction on the processing of your personal data. This is particularly the case where: · the accuracy of your personal data is contested by you, or the processing of your data will be limited for a period that allows us to verify the accuracy of your personal data; · the processing of your personal data is not lawfully carried out and you require a restriction on the use of your personal data instead of the erasure of your personal data; · we no longer need your personal data for the purposes of processing, but you need these data for the establishment, exercise or defence of legal claims; · you have objected to the processing of your personal data on grounds relating to your particular situation, as long as it is not clear whether our legitimate grounds for processing outweigh your grounds. For more information on your right to restriction of processing, see Art. 18 GDPR.",
+        "heading_path": [
+          "8 YOUR RIGHTS AND ASSERTING THEM",
+          "8.4 Right to restriction of processing"
+        ],
+        "links": [],
+        "html_ids": [],
+        "previous_segment_id": "S25",
+        "next_segment_id": "S27",
+        "previous_segment_text": "If the legal requirements are met, you may request us to erase your personal data immediately. This shall be the case, in particular, where: · your personal data will no longer be required for the purposes for which it was collected or otherwise processed; · the processing of your personal data is based on your consent, you revoke this consent and we cannot base the processing on another legal basis; · you have objected to the processing of your personal data on grounds relating to your particular situation and there are no overriding grounds for the processing of your personal data. · if your personal data have been passed on to third parties and we are obligated to erase your personal data, we will inform these third parties about the erasure, insofar as this is required by law. We would like to point out that your right to erasure is subject to restrictions. For example, we may not erase any personal data that we have to keep further due to legal requirements. Data that we need in order to assert, exercise or defend legal claims are also excluded from your right to erasure. For more information on your right to erasure, see Art. 17 GDPR.",
+        "extended_context": "You have the right to request confirmation as to whether or not your personal data will be processed. When we process your personal data, you have a right to information about this personal data and certain information required by law. For more information on your right to information, see Art. 15 GDPR. You have the right to request the rectification of incorrect personal data concerning you without delay. Taking into account the purposes of processing, you have the right to request the completion of incomplete personal data. For more information on your right to rectification, see Art. 16 GDPR. We always strive to ensure the accuracy of your personal data. We therefore ask you to notify us immediately of any changes to your data (such as changes in address), so that we can ensure that your personal data is up-to-date. If the legal requirements are met, you may request us to erase your personal data immediately. This shall be the case, in particular, where: · your personal data will no longer be required for the purposes for which it was collected or otherwise processed; · the processing of your personal data is based on your consent, you revoke this consent and we cannot base the processing on another legal basis; · you have objected to the processing of your personal data on grounds relating to your particular situation and there are no overriding grounds for the processing of your personal data. · if your personal data have been passed on to third parties and we are obligated to erase your personal data, we will inform these third parties about the erasure, insofar as this is required by law. We would like to point out that your right to erasure is subject to restrictions. For example, we may not erase any personal data that we have to keep further due to legal requirements. Data that we need in order to assert, exercise or defend legal claims are also excluded from your right to erasure. For more information on your right to erasure, see Art. 17 GDPR."
+      },
+      "result": {
+        "right_type": [
+          {
+            "value": "Right to restriction of processing",
+            "evidence": "If the legal requirements are met, you may request a restriction on the processing of your personal data.",
+            "confidence": "extracted",
+            "id": "My Imow:S26:right:1"
+          }
+        ],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": [
+          {
+            "attribute": "reference",
+            "evidence": "For more information on your right to restriction of processing, see Art. 18 GDPR.",
+            "target_text": "Art. 18 GDPR",
+            "reason": "not_an_unresolved_reference"
+          }
+        ]
+      }
+    },
+    {
+      "segment": {
+        "id": "S27",
+        "text": "You have the right to receive the personal data you have provided us and which we process for the fulfilment of the contract, on the basis of your consent or by automated procedures, in a structured, customary and machine-readable format. You also have the right, in the event that the aforementioned conditions are met, that we transmit these data directly to a third party, insofar as this is technically feasible. For more information on your right to data portability, see Art. 20 GDPR.",
+        "heading_path": [
+          "8 YOUR RIGHTS AND ASSERTING THEM",
+          "8.5 Right to data portability"
+        ],
+        "links": [],
+        "html_ids": [],
+        "previous_segment_id": "S26",
+        "next_segment_id": "S28",
+        "previous_segment_text": "If the legal requirements are met, you may request a restriction on the processing of your personal data. This is particularly the case where: · the accuracy of your personal data is contested by you, or the processing of your data will be limited for a period that allows us to verify the accuracy of your personal data; · the processing of your personal data is not lawfully carried out and you require a restriction on the use of your personal data instead of the erasure of your personal data; · we no longer need your personal data for the purposes of processing, but you need these data for the establishment, exercise or defence of legal claims; · you have objected to the processing of your personal data on grounds relating to your particular situation, as long as it is not clear whether our legitimate grounds for processing outweigh your grounds. For more information on your right to restriction of processing, see Art. 18 GDPR.",
+        "extended_context": "You have the right to request the rectification of incorrect personal data concerning you without delay. Taking into account the purposes of processing, you have the right to request the completion of incomplete personal data. For more information on your right to rectification, see Art. 16 GDPR. We always strive to ensure the accuracy of your personal data. We therefore ask you to notify us immediately of any changes to your data (such as changes in address), so that we can ensure that your personal data is up-to-date. If the legal requirements are met, you may request us to erase your personal data immediately. This shall be the case, in particular, where: · your personal data will no longer be required for the purposes for which it was collected or otherwise processed; · the processing of your personal data is based on your consent, you revoke this consent and we cannot base the processing on another legal basis; · you have objected to the processing of your personal data on grounds relating to your particular situation and there are no overriding grounds for the processing of your personal data. · if your personal data have been passed on to third parties and we are obligated to erase your personal data, we will inform these third parties about the erasure, insofar as this is required by law. We would like to point out that your right to erasure is subject to restrictions. For example, we may not erase any personal data that we have to keep further due to legal requirements. Data that we need in order to assert, exercise or defend legal claims are also excluded from your right to erasure. For more information on your right to erasure, see Art. 17 GDPR. If the legal requirements are met, you may request a restriction on the processing of your personal data. This is particularly the case where: · the accuracy of your personal data is contested by you, or the processing of your data will be limited for a period that allows us to verify the accuracy of your personal data; · the processing of your personal data is not lawfully carried out and you require a restriction on the use of your personal data instead of the erasure of your personal data; · we no longer need your personal data for the purposes of processing, but you need these data for the establishment, exercise or defence of legal claims; · you have objected to the processing of your personal data on grounds relating to your particular situation, as long as it is not clear whether our legitimate grounds for processing outweigh your grounds. For more information on your right to restriction of processing, see Art. 18 GDPR."
+      },
+      "result": {
+        "right_type": [
+          {
+            "value": "Right to data portability",
+            "evidence": "You have the right to receive the personal data you have provided us and which we process for the fulfilment of the contract, on the basis of your consent or by automated procedures, in a structured, customary and machine-readable format.",
+            "confidence": "extracted",
+            "id": "My Imow:S27:right:1"
+          },
+          {
+            "value": "Right to data portability",
+            "evidence": "You also have the right, in the event that the aforementioned conditions are met, that we transmit these data directly to a third party, insofar as this is technically feasible.",
+            "confidence": "extracted",
+            "id": "My Imow:S27:right:2"
+          }
+        ],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": [
+          {
+            "attribute": "reference",
+            "evidence": "For more information on your right to data portability, see Art. 20 GDPR.",
+            "target_text": "Art. 20 GDPR",
+            "reason": "not_an_unresolved_reference"
+          }
+        ]
+      }
+    },
+    {
+      "segment": {
+        "id": "S28",
+        "text": "If you have given your consent to the processing of your personal data, you can revoke it at any time with effect for the future. The lawfulness of the processing of your data up until revocation remains unaffected.",
+        "heading_path": [
+          "8 YOUR RIGHTS AND ASSERTING THEM",
+          "8.6 Withdrawal of consent"
+        ],
+        "links": [],
+        "html_ids": [],
+        "previous_segment_id": "S27",
+        "next_segment_id": "S29",
+        "previous_segment_text": "You have the right to receive the personal data you have provided us and which we process for the fulfilment of the contract, on the basis of your consent or by automated procedures, in a structured, customary and machine-readable format. You also have the right, in the event that the aforementioned conditions are met, that we transmit these data directly to a third party, insofar as this is technically feasible. For more information on your right to data portability, see Art. 20 GDPR.",
+        "extended_context": "If the legal requirements are met, you may request us to erase your personal data immediately. This shall be the case, in particular, where: · your personal data will no longer be required for the purposes for which it was collected or otherwise processed; · the processing of your personal data is based on your consent, you revoke this consent and we cannot base the processing on another legal basis; · you have objected to the processing of your personal data on grounds relating to your particular situation and there are no overriding grounds for the processing of your personal data. · if your personal data have been passed on to third parties and we are obligated to erase your personal data, we will inform these third parties about the erasure, insofar as this is required by law. We would like to point out that your right to erasure is subject to restrictions. For example, we may not erase any personal data that we have to keep further due to legal requirements. Data that we need in order to assert, exercise or defend legal claims are also excluded from your right to erasure. For more information on your right to erasure, see Art. 17 GDPR. If the legal requirements are met, you may request a restriction on the processing of your personal data. This is particularly the case where: · the accuracy of your personal data is contested by you, or the processing of your data will be limited for a period that allows us to verify the accuracy of your personal data; · the processing of your personal data is not lawfully carried out and you require a restriction on the use of your personal data instead of the erasure of your personal data; · we no longer need your personal data for the purposes of processing, but you need these data for the establishment, exercise or defence of legal claims; · you have objected to the processing of your personal data on grounds relating to your particular situation, as long as it is not clear whether our legitimate grounds for processing outweigh your grounds. For more information on your right to restriction of processing, see Art. 18 GDPR. You have the right to receive the personal data you have provided us and which we process for the fulfilment of the contract, on the basis of your consent or by automated procedures, in a structured, customary and machine-readable format. You also have the right, in the event that the aforementioned conditions are met, that we transmit these data directly to a third party, insofar as this is technically feasible. For more information on your right to data portability, see Art. 20 GDPR."
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [
+          {
+            "value": "Change or withdraw consent",
+            "evidence": "you can revoke it at any time with effect for the future",
+            "confidence": "extracted",
+            "id": "My Imow:S28:choice:1"
+          }
+        ],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S29",
+        "text": "If you consider that the processing of your personal data violates applicable data protection laws, you may lodge a complaint with a data protection supervisory authority, in particular the data protection supervisory authority at your location, place of work or place of alleged infringement.",
+        "heading_path": [
+          "8 YOUR RIGHTS AND ASSERTING THEM",
+          "8.7 Right to object to data protection authorities"
+        ],
+        "links": [],
+        "html_ids": [],
+        "previous_segment_id": "S28",
+        "next_segment_id": "S30",
+        "previous_segment_text": "If you have given your consent to the processing of your personal data, you can revoke it at any time with effect for the future. The lawfulness of the processing of your data up until revocation remains unaffected.",
+        "extended_context": "If the legal requirements are met, you may request a restriction on the processing of your personal data. This is particularly the case where: · the accuracy of your personal data is contested by you, or the processing of your data will be limited for a period that allows us to verify the accuracy of your personal data; · the processing of your personal data is not lawfully carried out and you require a restriction on the use of your personal data instead of the erasure of your personal data; · we no longer need your personal data for the purposes of processing, but you need these data for the establishment, exercise or defence of legal claims; · you have objected to the processing of your personal data on grounds relating to your particular situation, as long as it is not clear whether our legitimate grounds for processing outweigh your grounds. For more information on your right to restriction of processing, see Art. 18 GDPR. You have the right to receive the personal data you have provided us and which we process for the fulfilment of the contract, on the basis of your consent or by automated procedures, in a structured, customary and machine-readable format. You also have the right, in the event that the aforementioned conditions are met, that we transmit these data directly to a third party, insofar as this is technically feasible. For more information on your right to data portability, see Art. 20 GDPR. If you have given your consent to the processing of your personal data, you can revoke it at any time with effect for the future. The lawfulness of the processing of your data up until revocation remains unaffected."
+      },
+      "result": {
+        "right_type": [
+          {
+            "value": "Right of access",
+            "evidence": "you may lodge a complaint with a data protection supervisory authority",
+            "confidence": "extracted",
+            "id": "My Imow:S29:right:1"
+          }
+        ],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S30",
+        "text": "Right to object to the processing of your personal data during processing based on our legitimate interests Insofar as we process data on the basis of a legitimate interest, you can object to the processing at any time for reasons that arise from your particular situation. We will no longer process your personal data unless we can demonstrate compelling legitimate grounds for processing that override your interests, rights and freedoms, or for the establishment, exercise or defence of legal claims. We assume that, in the course of processing on the basis of a legitimate interest, we can normally prove such compelling legitimate grounds for protection, but we examine and evaluate each objection individually. For more information on your right of objection, see Art. 21 GDPR.",
+        "heading_path": [
+          "8 YOUR RIGHTS AND ASSERTING THEM",
+          "8.8 Right to object to processing"
+        ],
+        "links": [],
+        "html_ids": [],
+        "previous_segment_id": "S29",
+        "next_segment_id": "S31",
+        "previous_segment_text": "If you consider that the processing of your personal data violates applicable data protection laws, you may lodge a complaint with a data protection supervisory authority, in particular the data protection supervisory authority at your location, place of work or place of alleged infringement.",
+        "extended_context": "You have the right to receive the personal data you have provided us and which we process for the fulfilment of the contract, on the basis of your consent or by automated procedures, in a structured, customary and machine-readable format. You also have the right, in the event that the aforementioned conditions are met, that we transmit these data directly to a third party, insofar as this is technically feasible. For more information on your right to data portability, see Art. 20 GDPR. If you have given your consent to the processing of your personal data, you can revoke it at any time with effect for the future. The lawfulness of the processing of your data up until revocation remains unaffected. If you consider that the processing of your personal data violates applicable data protection laws, you may lodge a complaint with a data protection supervisory authority, in particular the data protection supervisory authority at your location, place of work or place of alleged infringement."
+      },
+      "result": {
+        "right_type": [
+          {
+            "value": "Right to object",
+            "evidence": "Right to object to the processing of your personal data during processing based on our legitimate interests",
+            "confidence": "extracted",
+            "id": "My Imow:S30:right:1"
+          }
+        ],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": [
+          {
+            "attribute": "reference",
+            "evidence": "For more information on your right of objection, see Art. 21 GDPR.",
+            "target_text": "Art. 21 GDPR",
+            "reason": "not_an_unresolved_reference"
+          }
+        ]
+      }
+    },
+    {
+      "segment": {
+        "id": "S31",
+        "text": "In this Privacy Policy, we will always keep you fully and completely informed about the processing of your personal data in connection with the STIHL MY iMOW® Applications. This requires that we update this Privacy Policy regularly. We therefore recommend that you consult this Privacy Policy regularly.",
+        "heading_path": [
+          "9 AMENDMENTS TO THIS PRIVACY POLICY"
+        ],
+        "links": [],
+        "html_ids": [],
+        "previous_segment_id": "S30",
+        "next_segment_id": null,
+        "previous_segment_text": "Right to object to the processing of your personal data during processing based on our legitimate interests Insofar as we process data on the basis of a legitimate interest, you can object to the processing at any time for reasons that arise from your particular situation. We will no longer process your personal data unless we can demonstrate compelling legitimate grounds for processing that override your interests, rights and freedoms, or for the establishment, exercise or defence of legal claims. We assume that, in the course of processing on the basis of a legitimate interest, we can normally prove such compelling legitimate grounds for protection, but we examine and evaluate each objection individually. For more information on your right of objection, see Art. 21 GDPR.",
+        "extended_context": "If you have given your consent to the processing of your personal data, you can revoke it at any time with effect for the future. The lawfulness of the processing of your data up until revocation remains unaffected. If you consider that the processing of your personal data violates applicable data protection laws, you may lodge a complaint with a data protection supervisory authority, in particular the data protection supervisory authority at your location, place of work or place of alleged infringement. Right to object to the processing of your personal data during processing based on our legitimate interests Insofar as we process data on the basis of a legitimate interest, you can object to the processing at any time for reasons that arise from your particular situation. We will no longer process your personal data unless we can demonstrate compelling legitimate grounds for processing that override your interests, rights and freedoms, or for the establishment, exercise or defence of legal claims. We assume that, in the course of processing on the basis of a legitimate interest, we can normally prove such compelling legitimate grounds for protection, but we examine and evaluate each objection individually. For more information on your right of objection, see Art. 21 GDPR."
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    }
+  ]
+}

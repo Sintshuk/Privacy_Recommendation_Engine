@@ -1,0 +1,1232 @@
+{
+  "policy": "Viture",
+  "rows": [
+    {
+      "segment": {
+        "id": "S1",
+        "text": "Update: May 2026 VITURE Inc. and its global affiliates (collectively, \"VITURE\", \"we\", \"us\", and \"our\") respect your privacy. We strive to maintain your trust by adhering to the following principles in safeguarding your personal data: accountability, purpose specification, consent-based processing, data minimization, security assurance, individual participation, and transparency. At the same time, VITURE pledges to adopt industry-standard security measures to protect your personal data. Please read the following to learn more about our Privacy Policy (\"this Policy\"). In this Policy, we describe our practices in collecting, using, disclosing, protecting, retaining, and transferring your personal data. VITURE recognizes the importance of your personal data and is committed to protecting its security and reliability. The data controller in respect of your personal data is VITURE Inc. or Eden Future HK Limited, depending on the sales channel through which you purchase our products. Further details are provided in Section 1 below. If you are a California resident, please also see the California Privacy Notice section under this Policy, which provides additional information about our processing of your personal information and your rights under the California Consumer Privacy Act (CCPA), as amended by the California Privacy Rights Act (CPRA). This Policy applies to products and services provided by VITURE. Unless otherwise agreed, the terms used in this Privacy Policy have the same meanings as those in the \" VITURE Terms of Service \" and other VITURE service agreements.",
+        "heading_path": [
+          "VITURE Privacy Policy"
+        ],
+        "links": [
+          {
+            "text": "VITURE Terms of Service",
+            "href": "https://www.viture.com/terms-of-service",
+            "kind": "external"
+          }
+        ],
+        "html_ids": [],
+        "previous_segment_id": null,
+        "next_segment_id": "S2",
+        "previous_segment_text": "",
+        "extended_context": ""
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S2",
+        "text": "1. How We Collect & Use Your Personal Data 2. Cookies & Similar Technologies 3. How We Disclose Personal Data 4. How We Protect and Retain Your Personal Data 5. How You Manage Your Personal Data 6. How We Process Children's Personal Data 7. Third-Party Providers and Their Services 8. International Transfers of Your Personal Data 9. Updates to This Policy 10. How to Contact Us",
+        "heading_path": [
+          "VITURE Privacy Policy",
+          "This Policy describes:"
+        ],
+        "links": [],
+        "html_ids": [],
+        "previous_segment_id": "S1",
+        "next_segment_id": "S3",
+        "previous_segment_text": "Update: May 2026 VITURE Inc. and its global affiliates (collectively, \"VITURE\", \"we\", \"us\", and \"our\") respect your privacy. We strive to maintain your trust by adhering to the following principles in safeguarding your personal data: accountability, purpose specification, consent-based processing, data minimization, security assurance, individual participation, and transparency. At the same time, VITURE pledges to adopt industry-standard security measures to protect your personal data. Please read the following to learn more about our Privacy Policy (\"this Policy\"). In this Policy, we describe our practices in collecting, using, disclosing, protecting, retaining, and transferring your personal data. VITURE recognizes the importance of your personal data and is committed to protecting its security and reliability. The data controller in respect of your personal data is VITURE Inc. or Eden Future HK Limited, depending on the sales channel through which you purchase our products. Further details are provided in Section 1 below. If you are a California resident, please also see the California Privacy Notice section under this Policy, which provides additional information about our processing of your personal information and your rights under the California Consumer Privacy Act (CCPA), as amended by the California Privacy Rights Act (CPRA). This Policy applies to products and services provided by VITURE. Unless otherwise agreed, the terms used in this Privacy Policy have the same meanings as those in the \" VITURE Terms of Service \" and other VITURE service agreements.",
+        "extended_context": "Update: May 2026 VITURE Inc. and its global affiliates (collectively, \"VITURE\", \"we\", \"us\", and \"our\") respect your privacy. We strive to maintain your trust by adhering to the following principles in safeguarding your personal data: accountability, purpose specification, consent-based processing, data minimization, security assurance, individual participation, and transparency. At the same time, VITURE pledges to adopt industry-standard security measures to protect your personal data. Please read the following to learn more about our Privacy Policy (\"this Policy\"). In this Policy, we describe our practices in collecting, using, disclosing, protecting, retaining, and transferring your personal data. VITURE recognizes the importance of your personal data and is committed to protecting its security and reliability. The data controller in respect of your personal data is VITURE Inc. or Eden Future HK Limited, depending on the sales channel through which you purchase our products. Further details are provided in Section 1 below. If you are a California resident, please also see the California Privacy Notice section under this Policy, which provides additional information about our processing of your personal information and your rights under the California Consumer Privacy Act (CCPA), as amended by the California Privacy Rights Act (CPRA). This Policy applies to products and services provided by VITURE. Unless otherwise agreed, the terms used in this Privacy Policy have the same meanings as those in the \" VITURE Terms of Service \" and other VITURE service agreements."
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S3",
+        "text": "Identity of the Data Controller VITURE Inc., with registered address at 20863 Stevens Creek Blvd, Suite 400, Cupertino, CA 95014, is the data controller in respect of personal data collected from users who purchase our products through our official website (www.viture.com). Eden Future HK Limited, with registered address at Unit 05, 12/F, The L Plaza, 367-375 Queen's Road Central, Sheung Wan, Hong Kong, is the data controller in respect of personal data collected from users who purchase our products through our Amazon and eBay storefronts. Each entity acts as an independent controller in respect of its own sales channel. To exercise your data subject rights or contact the relevant controller, please email us at legal@viture.com. At VITURE, we believe that you can have great products and great privacy. This means that we strive to collect only the personal data that we need. The personal data VITURE collects depends on how you interact with VITURE. When you purchase and/or activate a product or device, download a software update, connect to our services, contact us (including by social media), participate in an online survey, or otherwise interact with VITURE, we may collect a variety of information, including:",
+        "heading_path": [
+          "VITURE Privacy Policy",
+          "1. How We Collect & Use Your Personal Data"
+        ],
+        "links": [
+          {
+            "text": "legal@viture.com",
+            "href": "mailto:legal@viture.com",
+            "kind": "email"
+          }
+        ],
+        "html_ids": [],
+        "previous_segment_id": "S2",
+        "next_segment_id": "S4",
+        "previous_segment_text": "1. How We Collect & Use Your Personal Data 2. Cookies & Similar Technologies 3. How We Disclose Personal Data 4. How We Protect and Retain Your Personal Data 5. How You Manage Your Personal Data 6. How We Process Children's Personal Data 7. Third-Party Providers and Their Services 8. International Transfers of Your Personal Data 9. Updates to This Policy 10. How to Contact Us",
+        "extended_context": "Update: May 2026 VITURE Inc. and its global affiliates (collectively, \"VITURE\", \"we\", \"us\", and \"our\") respect your privacy. We strive to maintain your trust by adhering to the following principles in safeguarding your personal data: accountability, purpose specification, consent-based processing, data minimization, security assurance, individual participation, and transparency. At the same time, VITURE pledges to adopt industry-standard security measures to protect your personal data. Please read the following to learn more about our Privacy Policy (\"this Policy\"). In this Policy, we describe our practices in collecting, using, disclosing, protecting, retaining, and transferring your personal data. VITURE recognizes the importance of your personal data and is committed to protecting its security and reliability. The data controller in respect of your personal data is VITURE Inc. or Eden Future HK Limited, depending on the sales channel through which you purchase our products. Further details are provided in Section 1 below. If you are a California resident, please also see the California Privacy Notice section under this Policy, which provides additional information about our processing of your personal information and your rights under the California Consumer Privacy Act (CCPA), as amended by the California Privacy Rights Act (CPRA). This Policy applies to products and services provided by VITURE. Unless otherwise agreed, the terms used in this Privacy Policy have the same meanings as those in the \" VITURE Terms of Service \" and other VITURE service agreements. 1. How We Collect & Use Your Personal Data 2. Cookies & Similar Technologies 3. How We Disclose Personal Data 4. How We Protect and Retain Your Personal Data 5. How You Manage Your Personal Data 6. How We Process Children's Personal Data 7. Third-Party Providers and Their Services 8. International Transfers of Your Personal Data 9. Updates to This Policy 10. How to Contact Us"
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [
+          {
+            "value": "Request by email",
+            "evidence": "please email us at legal@viture.com",
+            "confidence": "extracted",
+            "id": "Viture:S3:channel:1",
+            "linked_ids": [],
+            "link": {
+              "url": "mailto:legal@viture.com",
+              "kind": "email",
+              "visible_text": "legal@viture.com"
+            }
+          }
+        ],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S4",
+        "text": "Usage Data. Data regarding your activities on and usage of our products, such as app launch data included in our services, including browsing history, hardware usage and operation history, product interaction, crash data, performance and other diagnostic data, and other usage data. Device Information. Data from which your device could be identified. Such data is collected through the devices you use, including your glasses, neckband, and other devices. Unless permitted by local law or with your consent, this type of data is generally not linked to your personally identifiable data (such as your name), and we do not operate an account system to require you to submit your personally identifiable data for the purpose of associating such data with your device information. The device information we collect includes: 1. The devices you use and other device characteristics, such as the product serial number (for products purchased by you), user agent, device or product ID (internally assigned ID and not associated with a specific individual device), product name, firmware version, MCU version, and DP version. 2. Device log information, such as log ID, log date, and type of log. 3. Information about the network your device is connected to, such as your IP address. 4. Device operational information, such as operational error messages, operational modes and mode transitions, and device activation. Transaction Information. Data about purchases of VITURE products and services or transactions facilitated by VITURE, including purchases on the VITURE official website, name, address, phone number, and email address. Location Information. Data about your approximate location, including the location of your device (country) and general regional information calculated from your device's IP address. Other Information You Provide to Us. Details such as the content of your communications with VITURE, including interactions with customer support and contacts through social media channels. Information from Third Parties. Where permitted by local laws and with your consent, VITURE may also obtain additional information about you, your device, or your service usage from public or legitimate commercial sources. For example, when you use services provided by third-party partners on VITURE devices, we may collect your device information and partial logs to assist you in authorizing or accessing certain paid features free of charge. You may also refer to the user agreements and privacy policies of these third-party partner services for relevant details.",
+        "heading_path": [
+          "VITURE Privacy Policy",
+          "1. How We Collect & Use Your Personal Data"
+        ],
+        "links": [],
+        "html_ids": [],
+        "previous_segment_id": "S3",
+        "next_segment_id": "S5",
+        "previous_segment_text": "Identity of the Data Controller VITURE Inc., with registered address at 20863 Stevens Creek Blvd, Suite 400, Cupertino, CA 95014, is the data controller in respect of personal data collected from users who purchase our products through our official website (www.viture.com). Eden Future HK Limited, with registered address at Unit 05, 12/F, The L Plaza, 367-375 Queen's Road Central, Sheung Wan, Hong Kong, is the data controller in respect of personal data collected from users who purchase our products through our Amazon and eBay storefronts. Each entity acts as an independent controller in respect of its own sales channel. To exercise your data subject rights or contact the relevant controller, please email us at legal@viture.com. At VITURE, we believe that you can have great products and great privacy. This means that we strive to collect only the personal data that we need. The personal data VITURE collects depends on how you interact with VITURE. When you purchase and/or activate a product or device, download a software update, connect to our services, contact us (including by social media), participate in an online survey, or otherwise interact with VITURE, we may collect a variety of information, including:",
+        "extended_context": "Update: May 2026 VITURE Inc. and its global affiliates (collectively, \"VITURE\", \"we\", \"us\", and \"our\") respect your privacy. We strive to maintain your trust by adhering to the following principles in safeguarding your personal data: accountability, purpose specification, consent-based processing, data minimization, security assurance, individual participation, and transparency. At the same time, VITURE pledges to adopt industry-standard security measures to protect your personal data. Please read the following to learn more about our Privacy Policy (\"this Policy\"). In this Policy, we describe our practices in collecting, using, disclosing, protecting, retaining, and transferring your personal data. VITURE recognizes the importance of your personal data and is committed to protecting its security and reliability. The data controller in respect of your personal data is VITURE Inc. or Eden Future HK Limited, depending on the sales channel through which you purchase our products. Further details are provided in Section 1 below. If you are a California resident, please also see the California Privacy Notice section under this Policy, which provides additional information about our processing of your personal information and your rights under the California Consumer Privacy Act (CCPA), as amended by the California Privacy Rights Act (CPRA). This Policy applies to products and services provided by VITURE. Unless otherwise agreed, the terms used in this Privacy Policy have the same meanings as those in the \" VITURE Terms of Service \" and other VITURE service agreements. 1. How We Collect & Use Your Personal Data 2. Cookies & Similar Technologies 3. How We Disclose Personal Data 4. How We Protect and Retain Your Personal Data 5. How You Manage Your Personal Data 6. How We Process Children's Personal Data 7. Third-Party Providers and Their Services 8. International Transfers of Your Personal Data 9. Updates to This Policy 10. How to Contact Us Identity of the Data Controller VITURE Inc., with registered address at 20863 Stevens Creek Blvd, Suite 400, Cupertino, CA 95014, is the data controller in respect of personal data collected from users who purchase our products through our official website (www.viture.com). Eden Future HK Limited, with registered address at Unit 05, 12/F, The L Plaza, 367-375 Queen's Road Central, Sheung Wan, Hong Kong, is the data controller in respect of personal data collected from users who purchase our products through our Amazon and eBay storefronts. Each entity acts as an independent controller in respect of its own sales channel. To exercise your data subject rights or contact the relevant controller, please email us at legal@viture.com. At VITURE, we believe that you can have great products and great privacy. This means that we strive to collect only the personal data that we need. The personal data VITURE collects depends on how you interact with VITURE. When you purchase and/or activate a product or device, download a software update, connect to our services, contact us (including by social media), participate in an online survey, or otherwise interact with VITURE, we may collect a variety of information, including:"
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S5",
+        "text": "Gesture Recognition Data and Environmental Scanning Data. When you control the device through hand gestures, we recognize your gesture data to interpret your operational commands. When the VITURE glasses' camera system (RGB camera and depth sensors) scans the surrounding environment to enable spatial awareness and 6DoF tracking, we process the relevant environmental data. Both categories of data are processed solely on your device locally, are not transmitted to our servers or any third party, are not used for identification purposes, and are not retained beyond the period necessary to perform the relevant functions. You are not required to provide the personal data that we have requested. However, if you choose not to do so, in many cases we will not be able to provide you with our products or services or respond to requests you may have. VITURE will only use your personal data based on the applicable lawful basis. In accordance with applicable local laws, VITURE may rely on lawful bases such as your consent, the necessity for the performance or conclusion of a contract with you, the protection of your or others' legitimate interests, compliance with legal obligations, or legitimate business interests to use your personal data for the following purposes:",
+        "heading_path": [
+          "VITURE Privacy Policy",
+          "1. How We Collect & Use Your Personal Data"
+        ],
+        "links": [],
+        "html_ids": [],
+        "previous_segment_id": "S4",
+        "next_segment_id": "S6",
+        "previous_segment_text": "Usage Data. Data regarding your activities on and usage of our products, such as app launch data included in our services, including browsing history, hardware usage and operation history, product interaction, crash data, performance and other diagnostic data, and other usage data. Device Information. Data from which your device could be identified. Such data is collected through the devices you use, including your glasses, neckband, and other devices. Unless permitted by local law or with your consent, this type of data is generally not linked to your personally identifiable data (such as your name), and we do not operate an account system to require you to submit your personally identifiable data for the purpose of associating such data with your device information. The device information we collect includes: 1. The devices you use and other device characteristics, such as the product serial number (for products purchased by you), user agent, device or product ID (internally assigned ID and not associated with a specific individual device), product name, firmware version, MCU version, and DP version. 2. Device log information, such as log ID, log date, and type of log. 3. Information about the network your device is connected to, such as your IP address. 4. Device operational information, such as operational error messages, operational modes and mode transitions, and device activation. Transaction Information. Data about purchases of VITURE products and services or transactions facilitated by VITURE, including purchases on the VITURE official website, name, address, phone number, and email address. Location Information. Data about your approximate location, including the location of your device (country) and general regional information calculated from your device's IP address. Other Information You Provide to Us. Details such as the content of your communications with VITURE, including interactions with customer support and contacts through social media channels. Information from Third Parties. Where permitted by local laws and with your consent, VITURE may also obtain additional information about you, your device, or your service usage from public or legitimate commercial sources. For example, when you use services provided by third-party partners on VITURE devices, we may collect your device information and partial logs to assist you in authorizing or accessing certain paid features free of charge. You may also refer to the user agreements and privacy policies of these third-party partner services for relevant details.",
+        "extended_context": "1. How We Collect & Use Your Personal Data 2. Cookies & Similar Technologies 3. How We Disclose Personal Data 4. How We Protect and Retain Your Personal Data 5. How You Manage Your Personal Data 6. How We Process Children's Personal Data 7. Third-Party Providers and Their Services 8. International Transfers of Your Personal Data 9. Updates to This Policy 10. How to Contact Us Identity of the Data Controller VITURE Inc., with registered address at 20863 Stevens Creek Blvd, Suite 400, Cupertino, CA 95014, is the data controller in respect of personal data collected from users who purchase our products through our official website (www.viture.com). Eden Future HK Limited, with registered address at Unit 05, 12/F, The L Plaza, 367-375 Queen's Road Central, Sheung Wan, Hong Kong, is the data controller in respect of personal data collected from users who purchase our products through our Amazon and eBay storefronts. Each entity acts as an independent controller in respect of its own sales channel. To exercise your data subject rights or contact the relevant controller, please email us at legal@viture.com. At VITURE, we believe that you can have great products and great privacy. This means that we strive to collect only the personal data that we need. The personal data VITURE collects depends on how you interact with VITURE. When you purchase and/or activate a product or device, download a software update, connect to our services, contact us (including by social media), participate in an online survey, or otherwise interact with VITURE, we may collect a variety of information, including: Usage Data. Data regarding your activities on and usage of our products, such as app launch data included in our services, including browsing history, hardware usage and operation history, product interaction, crash data, performance and other diagnostic data, and other usage data. Device Information. Data from which your device could be identified. Such data is collected through the devices you use, including your glasses, neckband, and other devices. Unless permitted by local law or with your consent, this type of data is generally not linked to your personally identifiable data (such as your name), and we do not operate an account system to require you to submit your personally identifiable data for the purpose of associating such data with your device information. The device information we collect includes: 1. The devices you use and other device characteristics, such as the product serial number (for products purchased by you), user agent, device or product ID (internally assigned ID and not associated with a specific individual device), product name, firmware version, MCU version, and DP version. 2. Device log information, such as log ID, log date, and type of log. 3. Information about the network your device is connected to, such as your IP address. 4. Device operational information, such as operational error messages, operational modes and mode transitions, and device activation. Transaction Information. Data about purchases of VITURE products and services or transactions facilitated by VITURE, including purchases on the VITURE official website, name, address, phone number, and email address. Location Information. Data about your approximate location, including the location of your device (country) and general regional information calculated from your device's IP address. Other Information You Provide to Us. Details such as the content of your communications with VITURE, including interactions with customer support and contacts through social media channels. Information from Third Parties. Where permitted by local laws and with your consent, VITURE may also obtain additional information about you, your device, or your service usage from public or legitimate commercial sources. For example, when you use services provided by third-party partners on VITURE devices, we may collect your device information and partial logs to assist you in authorizing or accessing certain paid features free of charge. You may also refer to the user agreements and privacy policies of these third-party partner services for relevant details."
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S6",
+        "text": "Power Our Services. VITURE collects necessary personal data to support our services. The collected data may be used for product or service improvement, internal purposes such as audit or data analysis, or for troubleshooting and diagnostics. This includes: 1. Using your device information (such as device model, name, version) and usage data (such as your interactions with the device, including device or app activation and in-app activities) to calculate and analyze user activity metrics, such as active user counts and session length, for product and service improvement. 2. Using your device information (for example, logs, device or error information) and usage data (such as in-app activities, app launches and closures, in-app operations) to diagnose crashes and performance issues. Process Your Transactions. To process transactions, VITURE may collect and use transaction information, such as your name, address, phone number, and purchase details. Communicate with You. From time to time, we may use your personal data to communicate with you for different purposes, based on different lawful bases: 1. We use your personal data (for example, your email address) to send you important, non-promotional messages that are essential for our relationship with you, including responding to your inquiries, reaching out to you about your transactions, and sending important notices, such as communications about purchases and changes to our terms, conditions, and policies. This processing is necessary for the performance of a contract with you. 2. We may use your personal data (for example, your email address) to market our products and services, provide other relevant information, or request information or feedback through surveys. We rely on your consent for marketing activities. You have the right to object to the processing of your personal data for marketing purposes at any time. You can opt out of receiving marketing communications from us by contacting us as detailed in \"5. How You Manage Your Personal Data.\" We will process your request promptly. Personal Data Used for Personalization. If you choose to personalize your services or communications where such options are available, VITURE will use information that we collect so that we can offer you those personalized services or communications. You can learn more about how relevant services use information to personalize your experience by reviewing the privacy information presented when you first use a service that asks to use your personal data. Comply with Law. For complying with applicable laws or adhering to lawful government requests. In accordance with relevant laws and regulations, we may share, transfer, or publicly disclose your personal data when we have a valid legal basis to do so. The legal bases we rely on are as follows:",
+        "heading_path": [
+          "VITURE Privacy Policy",
+          "1. How We Collect & Use Your Personal Data"
+        ],
+        "links": [],
+        "html_ids": [],
+        "previous_segment_id": "S5",
+        "next_segment_id": "S7",
+        "previous_segment_text": "Gesture Recognition Data and Environmental Scanning Data. When you control the device through hand gestures, we recognize your gesture data to interpret your operational commands. When the VITURE glasses' camera system (RGB camera and depth sensors) scans the surrounding environment to enable spatial awareness and 6DoF tracking, we process the relevant environmental data. Both categories of data are processed solely on your device locally, are not transmitted to our servers or any third party, are not used for identification purposes, and are not retained beyond the period necessary to perform the relevant functions. You are not required to provide the personal data that we have requested. However, if you choose not to do so, in many cases we will not be able to provide you with our products or services or respond to requests you may have. VITURE will only use your personal data based on the applicable lawful basis. In accordance with applicable local laws, VITURE may rely on lawful bases such as your consent, the necessity for the performance or conclusion of a contract with you, the protection of your or others' legitimate interests, compliance with legal obligations, or legitimate business interests to use your personal data for the following purposes:",
+        "extended_context": "Identity of the Data Controller VITURE Inc., with registered address at 20863 Stevens Creek Blvd, Suite 400, Cupertino, CA 95014, is the data controller in respect of personal data collected from users who purchase our products through our official website (www.viture.com). Eden Future HK Limited, with registered address at Unit 05, 12/F, The L Plaza, 367-375 Queen's Road Central, Sheung Wan, Hong Kong, is the data controller in respect of personal data collected from users who purchase our products through our Amazon and eBay storefronts. Each entity acts as an independent controller in respect of its own sales channel. To exercise your data subject rights or contact the relevant controller, please email us at legal@viture.com. At VITURE, we believe that you can have great products and great privacy. This means that we strive to collect only the personal data that we need. The personal data VITURE collects depends on how you interact with VITURE. When you purchase and/or activate a product or device, download a software update, connect to our services, contact us (including by social media), participate in an online survey, or otherwise interact with VITURE, we may collect a variety of information, including: Usage Data. Data regarding your activities on and usage of our products, such as app launch data included in our services, including browsing history, hardware usage and operation history, product interaction, crash data, performance and other diagnostic data, and other usage data. Device Information. Data from which your device could be identified. Such data is collected through the devices you use, including your glasses, neckband, and other devices. Unless permitted by local law or with your consent, this type of data is generally not linked to your personally identifiable data (such as your name), and we do not operate an account system to require you to submit your personally identifiable data for the purpose of associating such data with your device information. The device information we collect includes: 1. The devices you use and other device characteristics, such as the product serial number (for products purchased by you), user agent, device or product ID (internally assigned ID and not associated with a specific individual device), product name, firmware version, MCU version, and DP version. 2. Device log information, such as log ID, log date, and type of log. 3. Information about the network your device is connected to, such as your IP address. 4. Device operational information, such as operational error messages, operational modes and mode transitions, and device activation. Transaction Information. Data about purchases of VITURE products and services or transactions facilitated by VITURE, including purchases on the VITURE official website, name, address, phone number, and email address. Location Information. Data about your approximate location, including the location of your device (country) and general regional information calculated from your device's IP address. Other Information You Provide to Us. Details such as the content of your communications with VITURE, including interactions with customer support and contacts through social media channels. Information from Third Parties. Where permitted by local laws and with your consent, VITURE may also obtain additional information about you, your device, or your service usage from public or legitimate commercial sources. For example, when you use services provided by third-party partners on VITURE devices, we may collect your device information and partial logs to assist you in authorizing or accessing certain paid features free of charge. You may also refer to the user agreements and privacy policies of these third-party partner services for relevant details. Gesture Recognition Data and Environmental Scanning Data. When you control the device through hand gestures, we recognize your gesture data to interpret your operational commands. When the VITURE glasses' camera system (RGB camera and depth sensors) scans the surrounding environment to enable spatial awareness and 6DoF tracking, we process the relevant environmental data. Both categories of data are processed solely on your device locally, are not transmitted to our servers or any third party, are not used for identification purposes, and are not retained beyond the period necessary to perform the relevant functions. You are not required to provide the personal data that we have requested. However, if you choose not to do so, in many cases we will not be able to provide you with our products or services or respond to requests you may have. VITURE will only use your personal data based on the applicable lawful basis. In accordance with applicable local laws, VITURE may rely on lawful bases such as your consent, the necessity for the performance or conclusion of a contract with you, the protection of your or others' legitimate interests, compliance with legal obligations, or legitimate business interests to use your personal data for the following purposes:"
+      },
+      "result": {
+        "right_type": [
+          {
+            "value": "Right to object",
+            "evidence": "You have the right to object to the processing of your personal data for marketing purposes at any time.",
+            "confidence": "extracted",
+            "id": "Viture:S6:right:1"
+          }
+        ],
+        "choice_type": [
+          {
+            "value": "Opt out of marketing",
+            "evidence": "You can opt out of receiving marketing communications from us by contacting us as detailed in \"5. How You Manage Your Personal Data.\"",
+            "confidence": "extracted",
+            "id": "Viture:S6:choice:1"
+          }
+        ],
+        "request_channel": [],
+        "references": [],
+        "rejected": [
+          {
+            "attribute": "reference",
+            "evidence": "by contacting us as detailed in \"5. How You Manage Your Personal Data.\"",
+            "target_text": "5. How You Manage Your Personal Data",
+            "reason": "not_an_unresolved_reference"
+          }
+        ]
+      }
+    },
+    {
+      "segment": {
+        "id": "S7",
+        "text": "Processing your personal data to fulfill the contract when responding to a transaction or service request. Processing based on the legitimate interests of VITURE or a third party when we use your personal data to contact you, conduct marketing or market surveys, improve our products and services, execute and improve our loss prevention and anti-fraud programs, and other purposes. Legitimate interests include enabling us to more effectively manage and operate our business and provide our products and services; protecting the security of our businesses, systems, products, services, and customers; internal management; complying with internal policies and processes; and other legitimate interests described in this Policy. You can opt out of receiving marketing communications from us by contacting us as detailed in \"5. How You Manage Your Personal Data.\" Processing your personal data as necessary to comply with and fulfill legal obligations.",
+        "heading_path": [
+          "VITURE Privacy Policy",
+          "1. How We Collect & Use Your Personal Data"
+        ],
+        "links": [],
+        "html_ids": [],
+        "previous_segment_id": "S6",
+        "next_segment_id": "S8",
+        "previous_segment_text": "Power Our Services. VITURE collects necessary personal data to support our services. The collected data may be used for product or service improvement, internal purposes such as audit or data analysis, or for troubleshooting and diagnostics. This includes: 1. Using your device information (such as device model, name, version) and usage data (such as your interactions with the device, including device or app activation and in-app activities) to calculate and analyze user activity metrics, such as active user counts and session length, for product and service improvement. 2. Using your device information (for example, logs, device or error information) and usage data (such as in-app activities, app launches and closures, in-app operations) to diagnose crashes and performance issues. Process Your Transactions. To process transactions, VITURE may collect and use transaction information, such as your name, address, phone number, and purchase details. Communicate with You. From time to time, we may use your personal data to communicate with you for different purposes, based on different lawful bases: 1. We use your personal data (for example, your email address) to send you important, non-promotional messages that are essential for our relationship with you, including responding to your inquiries, reaching out to you about your transactions, and sending important notices, such as communications about purchases and changes to our terms, conditions, and policies. This processing is necessary for the performance of a contract with you. 2. We may use your personal data (for example, your email address) to market our products and services, provide other relevant information, or request information or feedback through surveys. We rely on your consent for marketing activities. You have the right to object to the processing of your personal data for marketing purposes at any time. You can opt out of receiving marketing communications from us by contacting us as detailed in \"5. How You Manage Your Personal Data.\" We will process your request promptly. Personal Data Used for Personalization. If you choose to personalize your services or communications where such options are available, VITURE will use information that we collect so that we can offer you those personalized services or communications. You can learn more about how relevant services use information to personalize your experience by reviewing the privacy information presented when you first use a service that asks to use your personal data. Comply with Law. For complying with applicable laws or adhering to lawful government requests. In accordance with relevant laws and regulations, we may share, transfer, or publicly disclose your personal data when we have a valid legal basis to do so. The legal bases we rely on are as follows:",
+        "extended_context": "Usage Data. Data regarding your activities on and usage of our products, such as app launch data included in our services, including browsing history, hardware usage and operation history, product interaction, crash data, performance and other diagnostic data, and other usage data. Device Information. Data from which your device could be identified. Such data is collected through the devices you use, including your glasses, neckband, and other devices. Unless permitted by local law or with your consent, this type of data is generally not linked to your personally identifiable data (such as your name), and we do not operate an account system to require you to submit your personally identifiable data for the purpose of associating such data with your device information. The device information we collect includes: 1. The devices you use and other device characteristics, such as the product serial number (for products purchased by you), user agent, device or product ID (internally assigned ID and not associated with a specific individual device), product name, firmware version, MCU version, and DP version. 2. Device log information, such as log ID, log date, and type of log. 3. Information about the network your device is connected to, such as your IP address. 4. Device operational information, such as operational error messages, operational modes and mode transitions, and device activation. Transaction Information. Data about purchases of VITURE products and services or transactions facilitated by VITURE, including purchases on the VITURE official website, name, address, phone number, and email address. Location Information. Data about your approximate location, including the location of your device (country) and general regional information calculated from your device's IP address. Other Information You Provide to Us. Details such as the content of your communications with VITURE, including interactions with customer support and contacts through social media channels. Information from Third Parties. Where permitted by local laws and with your consent, VITURE may also obtain additional information about you, your device, or your service usage from public or legitimate commercial sources. For example, when you use services provided by third-party partners on VITURE devices, we may collect your device information and partial logs to assist you in authorizing or accessing certain paid features free of charge. You may also refer to the user agreements and privacy policies of these third-party partner services for relevant details. Gesture Recognition Data and Environmental Scanning Data. When you control the device through hand gestures, we recognize your gesture data to interpret your operational commands. When the VITURE glasses' camera system (RGB camera and depth sensors) scans the surrounding environment to enable spatial awareness and 6DoF tracking, we process the relevant environmental data. Both categories of data are processed solely on your device locally, are not transmitted to our servers or any third party, are not used for identification purposes, and are not retained beyond the period necessary to perform the relevant functions. You are not required to provide the personal data that we have requested. However, if you choose not to do so, in many cases we will not be able to provide you with our products or services or respond to requests you may have. VITURE will only use your personal data based on the applicable lawful basis. In accordance with applicable local laws, VITURE may rely on lawful bases such as your consent, the necessity for the performance or conclusion of a contract with you, the protection of your or others' legitimate interests, compliance with legal obligations, or legitimate business interests to use your personal data for the following purposes: Power Our Services. VITURE collects necessary personal data to support our services. The collected data may be used for product or service improvement, internal purposes such as audit or data analysis, or for troubleshooting and diagnostics. This includes: 1. Using your device information (such as device model, name, version) and usage data (such as your interactions with the device, including device or app activation and in-app activities) to calculate and analyze user activity metrics, such as active user counts and session length, for product and service improvement. 2. Using your device information (for example, logs, device or error information) and usage data (such as in-app activities, app launches and closures, in-app operations) to diagnose crashes and performance issues. Process Your Transactions. To process transactions, VITURE may collect and use transaction information, such as your name, address, phone number, and purchase details. Communicate with You. From time to time, we may use your personal data to communicate with you for different purposes, based on different lawful bases: 1. We use your personal data (for example, your email address) to send you important, non-promotional messages that are essential for our relationship with you, including responding to your inquiries, reaching out to you about your transactions, and sending important notices, such as communications about purchases and changes to our terms, conditions, and policies. This processing is necessary for the performance of a contract with you. 2. We may use your personal data (for example, your email address) to market our products and services, provide other relevant information, or request information or feedback through surveys. We rely on your consent for marketing activities. You have the right to object to the processing of your personal data for marketing purposes at any time. You can opt out of receiving marketing communications from us by contacting us as detailed in \"5. How You Manage Your Personal Data.\" We will process your request promptly. Personal Data Used for Personalization. If you choose to personalize your services or communications where such options are available, VITURE will use information that we collect so that we can offer you those personalized services or communications. You can learn more about how relevant services use information to personalize your experience by reviewing the privacy information presented when you first use a service that asks to use your personal data. Comply with Law. For complying with applicable laws or adhering to lawful government requests. In accordance with relevant laws and regulations, we may share, transfer, or publicly disclose your personal data when we have a valid legal basis to do so. The legal bases we rely on are as follows:"
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [
+          {
+            "value": "Opt out of marketing",
+            "evidence": "You can opt out of receiving marketing communications from us by contacting us as detailed in \"5. How You Manage Your Personal Data.\"",
+            "confidence": "extracted",
+            "id": "Viture:S7:choice:1"
+          }
+        ],
+        "request_channel": [],
+        "references": [],
+        "rejected": [
+          {
+            "attribute": "reference",
+            "evidence": "by contacting us as detailed in \"5. How You Manage Your Personal Data.\"",
+            "target_text": "5. How You Manage Your Personal Data",
+            "reason": "not_an_unresolved_reference"
+          }
+        ]
+      }
+    },
+    {
+      "segment": {
+        "id": "S8",
+        "text": "To ensure our website works correctly, we may at times place a small piece of data known as a cookie on your computer or mobile device. A cookie is a text file stored by a web server on a computer or mobile device. The content of a cookie can be retrieved or read only by the server that creates the cookie. The text in a cookie often consists of identifiers, site names, and some numbers and characters. Cookies are unique to the browsers or mobile applications you use and enable websites to store data such as your preferences or items in your shopping cart. Like many other websites or Internet service providers, VITURE uses cookies to improve user experience. Session cookies are deleted after each visit, while persistent cookies remain in place across multiple visits. Cookies allow websites to remember your settings such as language and font size on your computer or mobile device, or other browser preferences. This means that a user does not need to reset preferences for every visit. On the contrary, if cookies are not used, websites will treat you as a new visitor every time you load a web page. For example, if you are redirected to a different web page from a website you are already logged in to and then return to the original website, it will not recognize you and you must log in again. VITURE will not use cookies for any purposes not stated in this Policy or our Cookie Policy. You can manage or delete cookies based on your own preferences; please refer to our Cookie Policy for more details.",
+        "heading_path": [
+          "VITURE Privacy Policy",
+          "2. Cookies & Similar Technologies"
+        ],
+        "links": [
+          {
+            "text": "Cookie Policy",
+            "href": "https://www.viture.com/cookie-policy",
+            "kind": "external"
+          }
+        ],
+        "html_ids": [],
+        "previous_segment_id": "S7",
+        "next_segment_id": "S9",
+        "previous_segment_text": "Processing your personal data to fulfill the contract when responding to a transaction or service request. Processing based on the legitimate interests of VITURE or a third party when we use your personal data to contact you, conduct marketing or market surveys, improve our products and services, execute and improve our loss prevention and anti-fraud programs, and other purposes. Legitimate interests include enabling us to more effectively manage and operate our business and provide our products and services; protecting the security of our businesses, systems, products, services, and customers; internal management; complying with internal policies and processes; and other legitimate interests described in this Policy. You can opt out of receiving marketing communications from us by contacting us as detailed in \"5. How You Manage Your Personal Data.\" Processing your personal data as necessary to comply with and fulfill legal obligations.",
+        "extended_context": "Gesture Recognition Data and Environmental Scanning Data. When you control the device through hand gestures, we recognize your gesture data to interpret your operational commands. When the VITURE glasses' camera system (RGB camera and depth sensors) scans the surrounding environment to enable spatial awareness and 6DoF tracking, we process the relevant environmental data. Both categories of data are processed solely on your device locally, are not transmitted to our servers or any third party, are not used for identification purposes, and are not retained beyond the period necessary to perform the relevant functions. You are not required to provide the personal data that we have requested. However, if you choose not to do so, in many cases we will not be able to provide you with our products or services or respond to requests you may have. VITURE will only use your personal data based on the applicable lawful basis. In accordance with applicable local laws, VITURE may rely on lawful bases such as your consent, the necessity for the performance or conclusion of a contract with you, the protection of your or others' legitimate interests, compliance with legal obligations, or legitimate business interests to use your personal data for the following purposes: Power Our Services. VITURE collects necessary personal data to support our services. The collected data may be used for product or service improvement, internal purposes such as audit or data analysis, or for troubleshooting and diagnostics. This includes: 1. Using your device information (such as device model, name, version) and usage data (such as your interactions with the device, including device or app activation and in-app activities) to calculate and analyze user activity metrics, such as active user counts and session length, for product and service improvement. 2. Using your device information (for example, logs, device or error information) and usage data (such as in-app activities, app launches and closures, in-app operations) to diagnose crashes and performance issues. Process Your Transactions. To process transactions, VITURE may collect and use transaction information, such as your name, address, phone number, and purchase details. Communicate with You. From time to time, we may use your personal data to communicate with you for different purposes, based on different lawful bases: 1. We use your personal data (for example, your email address) to send you important, non-promotional messages that are essential for our relationship with you, including responding to your inquiries, reaching out to you about your transactions, and sending important notices, such as communications about purchases and changes to our terms, conditions, and policies. This processing is necessary for the performance of a contract with you. 2. We may use your personal data (for example, your email address) to market our products and services, provide other relevant information, or request information or feedback through surveys. We rely on your consent for marketing activities. You have the right to object to the processing of your personal data for marketing purposes at any time. You can opt out of receiving marketing communications from us by contacting us as detailed in \"5. How You Manage Your Personal Data.\" We will process your request promptly. Personal Data Used for Personalization. If you choose to personalize your services or communications where such options are available, VITURE will use information that we collect so that we can offer you those personalized services or communications. You can learn more about how relevant services use information to personalize your experience by reviewing the privacy information presented when you first use a service that asks to use your personal data. Comply with Law. For complying with applicable laws or adhering to lawful government requests. In accordance with relevant laws and regulations, we may share, transfer, or publicly disclose your personal data when we have a valid legal basis to do so. The legal bases we rely on are as follows: Processing your personal data to fulfill the contract when responding to a transaction or service request. Processing based on the legitimate interests of VITURE or a third party when we use your personal data to contact you, conduct marketing or market surveys, improve our products and services, execute and improve our loss prevention and anti-fraud programs, and other purposes. Legitimate interests include enabling us to more effectively manage and operate our business and provide our products and services; protecting the security of our businesses, systems, products, services, and customers; internal management; complying with internal policies and processes; and other legitimate interests described in this Policy. You can opt out of receiving marketing communications from us by contacting us as detailed in \"5. How You Manage Your Personal Data.\" Processing your personal data as necessary to comply with and fulfill legal obligations."
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [
+          {
+            "value": "Other",
+            "evidence": "You can manage or delete cookies based on your own preferences",
+            "confidence": "extracted",
+            "id": "Viture:S8:choice:1"
+          }
+        ],
+        "request_channel": [],
+        "references": [],
+        "rejected": [
+          {
+            "attribute": "reference",
+            "evidence": "please refer to our Cookie Policy for more details",
+            "target_text": "Cookie Policy",
+            "reason": "reference_target_not_rights_relevant"
+          }
+        ]
+      }
+    },
+    {
+      "segment": {
+        "id": "S9",
+        "text": "VITURE shares your personal data with other partners, as described in this Policy, when services are provided by partners authorized by VITURE. This includes: When you make an online purchase from VITURE, we must share your personal data with the logistics provider to arrange shipment or a partner to provide the relevant services, and to process your payment with payment processors. To provide you with our products and services, we may store your personal data with the cloud storage service provided by a third party, and to upgrade our performance we may use third-party analytics service providers to process non-personal data. As a global company, we may share personal data with VITURE affiliates and subsidiaries to provide certain functions, such as technical support and customer services. To comply with applicable laws or respond to valid legal procedures, VITURE may also disclose your personal data to law enforcement or other government agencies. If VITURE is involved in a restructuring, merger and acquisition, or a bankruptcy or liquidation lawsuit in a given jurisdiction, your personal data may be disclosed in connection with the transaction.",
+        "heading_path": [
+          "VITURE Privacy Policy",
+          "3. How We Disclose Personal Data"
+        ],
+        "links": [],
+        "html_ids": [],
+        "previous_segment_id": "S8",
+        "next_segment_id": "S10",
+        "previous_segment_text": "To ensure our website works correctly, we may at times place a small piece of data known as a cookie on your computer or mobile device. A cookie is a text file stored by a web server on a computer or mobile device. The content of a cookie can be retrieved or read only by the server that creates the cookie. The text in a cookie often consists of identifiers, site names, and some numbers and characters. Cookies are unique to the browsers or mobile applications you use and enable websites to store data such as your preferences or items in your shopping cart. Like many other websites or Internet service providers, VITURE uses cookies to improve user experience. Session cookies are deleted after each visit, while persistent cookies remain in place across multiple visits. Cookies allow websites to remember your settings such as language and font size on your computer or mobile device, or other browser preferences. This means that a user does not need to reset preferences for every visit. On the contrary, if cookies are not used, websites will treat you as a new visitor every time you load a web page. For example, if you are redirected to a different web page from a website you are already logged in to and then return to the original website, it will not recognize you and you must log in again. VITURE will not use cookies for any purposes not stated in this Policy or our Cookie Policy. You can manage or delete cookies based on your own preferences; please refer to our Cookie Policy for more details.",
+        "extended_context": "Power Our Services. VITURE collects necessary personal data to support our services. The collected data may be used for product or service improvement, internal purposes such as audit or data analysis, or for troubleshooting and diagnostics. This includes: 1. Using your device information (such as device model, name, version) and usage data (such as your interactions with the device, including device or app activation and in-app activities) to calculate and analyze user activity metrics, such as active user counts and session length, for product and service improvement. 2. Using your device information (for example, logs, device or error information) and usage data (such as in-app activities, app launches and closures, in-app operations) to diagnose crashes and performance issues. Process Your Transactions. To process transactions, VITURE may collect and use transaction information, such as your name, address, phone number, and purchase details. Communicate with You. From time to time, we may use your personal data to communicate with you for different purposes, based on different lawful bases: 1. We use your personal data (for example, your email address) to send you important, non-promotional messages that are essential for our relationship with you, including responding to your inquiries, reaching out to you about your transactions, and sending important notices, such as communications about purchases and changes to our terms, conditions, and policies. This processing is necessary for the performance of a contract with you. 2. We may use your personal data (for example, your email address) to market our products and services, provide other relevant information, or request information or feedback through surveys. We rely on your consent for marketing activities. You have the right to object to the processing of your personal data for marketing purposes at any time. You can opt out of receiving marketing communications from us by contacting us as detailed in \"5. How You Manage Your Personal Data.\" We will process your request promptly. Personal Data Used for Personalization. If you choose to personalize your services or communications where such options are available, VITURE will use information that we collect so that we can offer you those personalized services or communications. You can learn more about how relevant services use information to personalize your experience by reviewing the privacy information presented when you first use a service that asks to use your personal data. Comply with Law. For complying with applicable laws or adhering to lawful government requests. In accordance with relevant laws and regulations, we may share, transfer, or publicly disclose your personal data when we have a valid legal basis to do so. The legal bases we rely on are as follows: Processing your personal data to fulfill the contract when responding to a transaction or service request. Processing based on the legitimate interests of VITURE or a third party when we use your personal data to contact you, conduct marketing or market surveys, improve our products and services, execute and improve our loss prevention and anti-fraud programs, and other purposes. Legitimate interests include enabling us to more effectively manage and operate our business and provide our products and services; protecting the security of our businesses, systems, products, services, and customers; internal management; complying with internal policies and processes; and other legitimate interests described in this Policy. You can opt out of receiving marketing communications from us by contacting us as detailed in \"5. How You Manage Your Personal Data.\" Processing your personal data as necessary to comply with and fulfill legal obligations. To ensure our website works correctly, we may at times place a small piece of data known as a cookie on your computer or mobile device. A cookie is a text file stored by a web server on a computer or mobile device. The content of a cookie can be retrieved or read only by the server that creates the cookie. The text in a cookie often consists of identifiers, site names, and some numbers and characters. Cookies are unique to the browsers or mobile applications you use and enable websites to store data such as your preferences or items in your shopping cart. Like many other websites or Internet service providers, VITURE uses cookies to improve user experience. Session cookies are deleted after each visit, while persistent cookies remain in place across multiple visits. Cookies allow websites to remember your settings such as language and font size on your computer or mobile device, or other browser preferences. This means that a user does not need to reset preferences for every visit. On the contrary, if cookies are not used, websites will treat you as a new visitor every time you load a web page. For example, if you are redirected to a different web page from a website you are already logged in to and then return to the original website, it will not recognize you and you must log in again. VITURE will not use cookies for any purposes not stated in this Policy or our Cookie Policy. You can manage or delete cookies based on your own preferences; please refer to our Cookie Policy for more details."
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": [
+          {
+            "attribute": "reference",
+            "evidence": "as described in this Policy",
+            "target_text": "this Policy",
+            "reason": "reference_target_not_rights_relevant"
+          }
+        ]
+      }
+    },
+    {
+      "segment": {
+        "id": "S10",
+        "text": "The security of your personal data is important to us. We use appropriate physical, management, and technical measures to protect your personal data from unauthorized access, disclosure, use, modification, damage, or loss. For example, we use cryptographic technologies for data confidentiality, protection mechanisms to prevent attacks, and access control mechanisms to permit only authorized access to your personal data. We also provide training on security and privacy protection for employees to raise their awareness of personal data protection. VITURE is committed to protecting your personal data; however, please note that no security measure is perfect. We will retain your personal data for no longer than is necessary for the purposes stated in this Policy, unless otherwise extending the retention period is required or permitted by law. The data storage period may vary with scenario, product, and service. The standards VITURE uses to determine the retention period are as follows: the time required to retain personal data to fulfill business purposes, including providing products and services; maintaining corresponding transaction and business records; controlling and improving the performance and quality of products and services; ensuring the security of systems, products, and services; handling possible user queries or complaints and locating problems; whether the user agrees to a longer retention period; and whether the laws, contracts, and other equivalencies have special requirements for data retention.",
+        "heading_path": [
+          "VITURE Privacy Policy",
+          "4. How We Protect and Retain Your Personal Data"
+        ],
+        "links": [],
+        "html_ids": [],
+        "previous_segment_id": "S9",
+        "next_segment_id": "S11",
+        "previous_segment_text": "VITURE shares your personal data with other partners, as described in this Policy, when services are provided by partners authorized by VITURE. This includes: When you make an online purchase from VITURE, we must share your personal data with the logistics provider to arrange shipment or a partner to provide the relevant services, and to process your payment with payment processors. To provide you with our products and services, we may store your personal data with the cloud storage service provided by a third party, and to upgrade our performance we may use third-party analytics service providers to process non-personal data. As a global company, we may share personal data with VITURE affiliates and subsidiaries to provide certain functions, such as technical support and customer services. To comply with applicable laws or respond to valid legal procedures, VITURE may also disclose your personal data to law enforcement or other government agencies. If VITURE is involved in a restructuring, merger and acquisition, or a bankruptcy or liquidation lawsuit in a given jurisdiction, your personal data may be disclosed in connection with the transaction.",
+        "extended_context": "Processing your personal data to fulfill the contract when responding to a transaction or service request. Processing based on the legitimate interests of VITURE or a third party when we use your personal data to contact you, conduct marketing or market surveys, improve our products and services, execute and improve our loss prevention and anti-fraud programs, and other purposes. Legitimate interests include enabling us to more effectively manage and operate our business and provide our products and services; protecting the security of our businesses, systems, products, services, and customers; internal management; complying with internal policies and processes; and other legitimate interests described in this Policy. You can opt out of receiving marketing communications from us by contacting us as detailed in \"5. How You Manage Your Personal Data.\" Processing your personal data as necessary to comply with and fulfill legal obligations. To ensure our website works correctly, we may at times place a small piece of data known as a cookie on your computer or mobile device. A cookie is a text file stored by a web server on a computer or mobile device. The content of a cookie can be retrieved or read only by the server that creates the cookie. The text in a cookie often consists of identifiers, site names, and some numbers and characters. Cookies are unique to the browsers or mobile applications you use and enable websites to store data such as your preferences or items in your shopping cart. Like many other websites or Internet service providers, VITURE uses cookies to improve user experience. Session cookies are deleted after each visit, while persistent cookies remain in place across multiple visits. Cookies allow websites to remember your settings such as language and font size on your computer or mobile device, or other browser preferences. This means that a user does not need to reset preferences for every visit. On the contrary, if cookies are not used, websites will treat you as a new visitor every time you load a web page. For example, if you are redirected to a different web page from a website you are already logged in to and then return to the original website, it will not recognize you and you must log in again. VITURE will not use cookies for any purposes not stated in this Policy or our Cookie Policy. You can manage or delete cookies based on your own preferences; please refer to our Cookie Policy for more details. VITURE shares your personal data with other partners, as described in this Policy, when services are provided by partners authorized by VITURE. This includes: When you make an online purchase from VITURE, we must share your personal data with the logistics provider to arrange shipment or a partner to provide the relevant services, and to process your payment with payment processors. To provide you with our products and services, we may store your personal data with the cloud storage service provided by a third party, and to upgrade our performance we may use third-party analytics service providers to process non-personal data. As a global company, we may share personal data with VITURE affiliates and subsidiaries to provide certain functions, such as technical support and customer services. To comply with applicable laws or respond to valid legal procedures, VITURE may also disclose your personal data to law enforcement or other government agencies. If VITURE is involved in a restructuring, merger and acquisition, or a bankruptcy or liquidation lawsuit in a given jurisdiction, your personal data may be disclosed in connection with the transaction."
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S11",
+        "text": "It is your responsibility to ensure that all personal data submitted to VITURE is correct. VITURE is dedicated to maintaining the accuracy and completeness of personal data and keeping the data up-to-date. 5.1 Subject to applicable law, you may have the following rights regarding the processing of your personal data: 1. the right not to provide your personal data to us (however, please note that we may be unable to provide you with the full benefit of our products and services if you do not provide the necessary information); 2. the right to request access to, or copies of, your personal data, together with additional information regarding the nature, processing and disclosure of such data; 3. the right to request rectification of any inaccuracies or incompleteness in your personal data; 4. the right to request, on legitimate grounds, restriction of the processing of your personal data; 5. the right to have certain personal data transferred to another controller in a structured, commonly used and machine-readable format, to the extent applicable; 6. the right to request the deletion or removal of your personal data where there is no other legal basis for us to keep processing it. Please note that we may be unable to immediately remove your personal data from our backup systems due to applicable laws or technological limitations. In such cases, we will isolate your personal data from further processing until the backup can be deleted or anonymized; 7. where we process your personal data on the basis of your consent, the right to withdraw that consent at any time (withdrawal does not affect the lawfulness of any processing performed prior to the date on which we receive notice of such withdrawal). 5.2 Under the GDPR, you may also have the following additional rights regarding the processing of your personal data: 1. the right to object, on grounds relating to your particular situation, to the processing of your personal data by us or on our behalf, where such processing is based on legitimate interests; 2. the right to object to the processing of your personal data by us or on our behalf for direct marketing purposes; 3. the right not to be subject to a decision based solely on automated processing that produces legal or similarly significant effects on you (VITURE does not currently engage in such automated decision-making); 4. the right to lodge a complaint regarding the processing of your personal data with a competent data protection authority (in particular, the data protection authority of the EU Member State in which you live, work, or in which the alleged infringement occurred). We encourage you to first contact us so that we can together resolve any concerns you may have. To exercise any of these rights, please contact us at legal@viture.com. We will respond within one month. We may verify your identity and may decline requests that are manifestly unfounded or excessive.",
+        "heading_path": [
+          "VITURE Privacy Policy",
+          "5. How You Manage Your Personal Data"
+        ],
+        "links": [
+          {
+            "text": "legal@viture.com",
+            "href": "mailto:legal@viture.com",
+            "kind": "email"
+          }
+        ],
+        "html_ids": [],
+        "previous_segment_id": "S10",
+        "next_segment_id": "S12",
+        "previous_segment_text": "The security of your personal data is important to us. We use appropriate physical, management, and technical measures to protect your personal data from unauthorized access, disclosure, use, modification, damage, or loss. For example, we use cryptographic technologies for data confidentiality, protection mechanisms to prevent attacks, and access control mechanisms to permit only authorized access to your personal data. We also provide training on security and privacy protection for employees to raise their awareness of personal data protection. VITURE is committed to protecting your personal data; however, please note that no security measure is perfect. We will retain your personal data for no longer than is necessary for the purposes stated in this Policy, unless otherwise extending the retention period is required or permitted by law. The data storage period may vary with scenario, product, and service. The standards VITURE uses to determine the retention period are as follows: the time required to retain personal data to fulfill business purposes, including providing products and services; maintaining corresponding transaction and business records; controlling and improving the performance and quality of products and services; ensuring the security of systems, products, and services; handling possible user queries or complaints and locating problems; whether the user agrees to a longer retention period; and whether the laws, contracts, and other equivalencies have special requirements for data retention.",
+        "extended_context": "To ensure our website works correctly, we may at times place a small piece of data known as a cookie on your computer or mobile device. A cookie is a text file stored by a web server on a computer or mobile device. The content of a cookie can be retrieved or read only by the server that creates the cookie. The text in a cookie often consists of identifiers, site names, and some numbers and characters. Cookies are unique to the browsers or mobile applications you use and enable websites to store data such as your preferences or items in your shopping cart. Like many other websites or Internet service providers, VITURE uses cookies to improve user experience. Session cookies are deleted after each visit, while persistent cookies remain in place across multiple visits. Cookies allow websites to remember your settings such as language and font size on your computer or mobile device, or other browser preferences. This means that a user does not need to reset preferences for every visit. On the contrary, if cookies are not used, websites will treat you as a new visitor every time you load a web page. For example, if you are redirected to a different web page from a website you are already logged in to and then return to the original website, it will not recognize you and you must log in again. VITURE will not use cookies for any purposes not stated in this Policy or our Cookie Policy. You can manage or delete cookies based on your own preferences; please refer to our Cookie Policy for more details. VITURE shares your personal data with other partners, as described in this Policy, when services are provided by partners authorized by VITURE. This includes: When you make an online purchase from VITURE, we must share your personal data with the logistics provider to arrange shipment or a partner to provide the relevant services, and to process your payment with payment processors. To provide you with our products and services, we may store your personal data with the cloud storage service provided by a third party, and to upgrade our performance we may use third-party analytics service providers to process non-personal data. As a global company, we may share personal data with VITURE affiliates and subsidiaries to provide certain functions, such as technical support and customer services. To comply with applicable laws or respond to valid legal procedures, VITURE may also disclose your personal data to law enforcement or other government agencies. If VITURE is involved in a restructuring, merger and acquisition, or a bankruptcy or liquidation lawsuit in a given jurisdiction, your personal data may be disclosed in connection with the transaction. The security of your personal data is important to us. We use appropriate physical, management, and technical measures to protect your personal data from unauthorized access, disclosure, use, modification, damage, or loss. For example, we use cryptographic technologies for data confidentiality, protection mechanisms to prevent attacks, and access control mechanisms to permit only authorized access to your personal data. We also provide training on security and privacy protection for employees to raise their awareness of personal data protection. VITURE is committed to protecting your personal data; however, please note that no security measure is perfect. We will retain your personal data for no longer than is necessary for the purposes stated in this Policy, unless otherwise extending the retention period is required or permitted by law. The data storage period may vary with scenario, product, and service. The standards VITURE uses to determine the retention period are as follows: the time required to retain personal data to fulfill business purposes, including providing products and services; maintaining corresponding transaction and business records; controlling and improving the performance and quality of products and services; ensuring the security of systems, products, and services; handling possible user queries or complaints and locating problems; whether the user agrees to a longer retention period; and whether the laws, contracts, and other equivalencies have special requirements for data retention."
+      },
+      "result": {
+        "right_type": [
+          {
+            "value": "Other",
+            "evidence": "the right not to provide your personal data to us (however, please note that we may be unable to provide you with the full benefit of our products and services if you do not provide the necessary information)",
+            "confidence": "extracted",
+            "id": "Viture:S11:right:1"
+          },
+          {
+            "value": "Right of access",
+            "evidence": "the right to request access to, or copies of, your personal data, together with additional information regarding the nature, processing and disclosure of such data",
+            "confidence": "extracted",
+            "id": "Viture:S11:right:2"
+          },
+          {
+            "value": "Right to rectification",
+            "evidence": "the right to request rectification of any inaccuracies or incompleteness in your personal data",
+            "confidence": "extracted",
+            "id": "Viture:S11:right:3"
+          },
+          {
+            "value": "Right to restriction of processing",
+            "evidence": "the right to request, on legitimate grounds, restriction of the processing of your personal data",
+            "confidence": "extracted",
+            "id": "Viture:S11:right:4"
+          },
+          {
+            "value": "Right to data portability",
+            "evidence": "the right to have certain personal data transferred to another controller in a structured, commonly used and machine-readable format, to the extent applicable",
+            "confidence": "extracted",
+            "id": "Viture:S11:right:5"
+          },
+          {
+            "value": "Right to erasure",
+            "evidence": "the right to request the deletion or removal of your personal data where there is no other legal basis for us to keep processing it",
+            "confidence": "extracted",
+            "id": "Viture:S11:right:6"
+          },
+          {
+            "value": "Right to object",
+            "evidence": "the right to object, on grounds relating to your particular situation, to the processing of your personal data by us or on our behalf, where such processing is based on legitimate interests",
+            "confidence": "extracted",
+            "id": "Viture:S11:right:7"
+          },
+          {
+            "value": "Right to object",
+            "evidence": "the right to object to the processing of your personal data by us or on our behalf for direct marketing purposes",
+            "confidence": "extracted",
+            "id": "Viture:S11:right:8"
+          },
+          {
+            "value": "Right to not be subject to automated decision-making (to profiling)",
+            "evidence": "the right not to be subject to a decision based solely on automated processing that produces legal or similarly significant effects on you",
+            "confidence": "extracted",
+            "id": "Viture:S11:right:9"
+          },
+          {
+            "value": "Right of access",
+            "evidence": "the right to lodge a complaint regarding the processing of your personal data with a competent data protection authority (in particular, the data protection authority of the EU Member State in which you live, work, or in which the alleged infringement occurred)",
+            "confidence": "extracted",
+            "id": "Viture:S11:right:10"
+          }
+        ],
+        "choice_type": [
+          {
+            "value": "Change or withdraw consent",
+            "evidence": "the right to withdraw that consent at any time (withdrawal does not affect the lawfulness of any processing performed prior to the date on which we receive notice of such withdrawal)",
+            "confidence": "extracted",
+            "id": "Viture:S11:choice:1"
+          }
+        ],
+        "request_channel": [
+          {
+            "value": "Request by email",
+            "evidence": "To exercise any of these rights, please contact us at legal@viture.com.",
+            "confidence": "extracted",
+            "id": "Viture:S11:channel:1",
+            "linked_ids": [
+              "Viture:S11:right:1",
+              "Viture:S11:right:2",
+              "Viture:S11:right:3",
+              "Viture:S11:right:4",
+              "Viture:S11:right:5",
+              "Viture:S11:right:6",
+              "Viture:S11:right:7",
+              "Viture:S11:right:8",
+              "Viture:S11:right:9",
+              "Viture:S11:right:10",
+              "Viture:S11:choice:1"
+            ],
+            "link": {
+              "url": "mailto:legal@viture.com",
+              "kind": "email",
+              "visible_text": "legal@viture.com"
+            }
+          }
+        ],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S12",
+        "text": "Our websites, products and services are not intended for, or directed to, individuals that may be considered a minor under the applicable laws. We do not operate an account system to require a minor to register or submit his/her personal data to us. If a minor's personal data is collected with prior parental consent, we will only use or disclose the data as permitted by law, with the explicit consent of the minor's parents or guardians, or when necessary for the protection of the child. If we accidentally collect a child's personal data without verified prior consent from the child's parents or guardians, we will delete the data without undue delay.",
+        "heading_path": [
+          "VITURE Privacy Policy",
+          "6. How We Process Children's Personal Data"
+        ],
+        "links": [],
+        "html_ids": [],
+        "previous_segment_id": "S11",
+        "next_segment_id": "S13",
+        "previous_segment_text": "It is your responsibility to ensure that all personal data submitted to VITURE is correct. VITURE is dedicated to maintaining the accuracy and completeness of personal data and keeping the data up-to-date. 5.1 Subject to applicable law, you may have the following rights regarding the processing of your personal data: 1. the right not to provide your personal data to us (however, please note that we may be unable to provide you with the full benefit of our products and services if you do not provide the necessary information); 2. the right to request access to, or copies of, your personal data, together with additional information regarding the nature, processing and disclosure of such data; 3. the right to request rectification of any inaccuracies or incompleteness in your personal data; 4. the right to request, on legitimate grounds, restriction of the processing of your personal data; 5. the right to have certain personal data transferred to another controller in a structured, commonly used and machine-readable format, to the extent applicable; 6. the right to request the deletion or removal of your personal data where there is no other legal basis for us to keep processing it. Please note that we may be unable to immediately remove your personal data from our backup systems due to applicable laws or technological limitations. In such cases, we will isolate your personal data from further processing until the backup can be deleted or anonymized; 7. where we process your personal data on the basis of your consent, the right to withdraw that consent at any time (withdrawal does not affect the lawfulness of any processing performed prior to the date on which we receive notice of such withdrawal). 5.2 Under the GDPR, you may also have the following additional rights regarding the processing of your personal data: 1. the right to object, on grounds relating to your particular situation, to the processing of your personal data by us or on our behalf, where such processing is based on legitimate interests; 2. the right to object to the processing of your personal data by us or on our behalf for direct marketing purposes; 3. the right not to be subject to a decision based solely on automated processing that produces legal or similarly significant effects on you (VITURE does not currently engage in such automated decision-making); 4. the right to lodge a complaint regarding the processing of your personal data with a competent data protection authority (in particular, the data protection authority of the EU Member State in which you live, work, or in which the alleged infringement occurred). We encourage you to first contact us so that we can together resolve any concerns you may have. To exercise any of these rights, please contact us at legal@viture.com. We will respond within one month. We may verify your identity and may decline requests that are manifestly unfounded or excessive.",
+        "extended_context": "VITURE shares your personal data with other partners, as described in this Policy, when services are provided by partners authorized by VITURE. This includes: When you make an online purchase from VITURE, we must share your personal data with the logistics provider to arrange shipment or a partner to provide the relevant services, and to process your payment with payment processors. To provide you with our products and services, we may store your personal data with the cloud storage service provided by a third party, and to upgrade our performance we may use third-party analytics service providers to process non-personal data. As a global company, we may share personal data with VITURE affiliates and subsidiaries to provide certain functions, such as technical support and customer services. To comply with applicable laws or respond to valid legal procedures, VITURE may also disclose your personal data to law enforcement or other government agencies. If VITURE is involved in a restructuring, merger and acquisition, or a bankruptcy or liquidation lawsuit in a given jurisdiction, your personal data may be disclosed in connection with the transaction. The security of your personal data is important to us. We use appropriate physical, management, and technical measures to protect your personal data from unauthorized access, disclosure, use, modification, damage, or loss. For example, we use cryptographic technologies for data confidentiality, protection mechanisms to prevent attacks, and access control mechanisms to permit only authorized access to your personal data. We also provide training on security and privacy protection for employees to raise their awareness of personal data protection. VITURE is committed to protecting your personal data; however, please note that no security measure is perfect. We will retain your personal data for no longer than is necessary for the purposes stated in this Policy, unless otherwise extending the retention period is required or permitted by law. The data storage period may vary with scenario, product, and service. The standards VITURE uses to determine the retention period are as follows: the time required to retain personal data to fulfill business purposes, including providing products and services; maintaining corresponding transaction and business records; controlling and improving the performance and quality of products and services; ensuring the security of systems, products, and services; handling possible user queries or complaints and locating problems; whether the user agrees to a longer retention period; and whether the laws, contracts, and other equivalencies have special requirements for data retention. It is your responsibility to ensure that all personal data submitted to VITURE is correct. VITURE is dedicated to maintaining the accuracy and completeness of personal data and keeping the data up-to-date. 5.1 Subject to applicable law, you may have the following rights regarding the processing of your personal data: 1. the right not to provide your personal data to us (however, please note that we may be unable to provide you with the full benefit of our products and services if you do not provide the necessary information); 2. the right to request access to, or copies of, your personal data, together with additional information regarding the nature, processing and disclosure of such data; 3. the right to request rectification of any inaccuracies or incompleteness in your personal data; 4. the right to request, on legitimate grounds, restriction of the processing of your personal data; 5. the right to have certain personal data transferred to another controller in a structured, commonly used and machine-readable format, to the extent applicable; 6. the right to request the deletion or removal of your personal data where there is no other legal basis for us to keep processing it. Please note that we may be unable to immediately remove your personal data from our backup systems due to applicable laws or technological limitations. In such cases, we will isolate your personal data from further processing until the backup can be deleted or anonymized; 7. where we process your personal data on the basis of your consent, the right to withdraw that consent at any time (withdrawal does not affect the lawfulness of any processing performed prior to the date on which we receive notice of such withdrawal). 5.2 Under the GDPR, you may also have the following additional rights regarding the processing of your personal data: 1. the right to object, on grounds relating to your particular situation, to the processing of your personal data by us or on our behalf, where such processing is based on legitimate interests; 2. the right to object to the processing of your personal data by us or on our behalf for direct marketing purposes; 3. the right not to be subject to a decision based solely on automated processing that produces legal or similarly significant effects on you (VITURE does not currently engage in such automated decision-making); 4. the right to lodge a complaint regarding the processing of your personal data with a competent data protection authority (in particular, the data protection authority of the EU Member State in which you live, work, or in which the alleged infringement occurred). We encourage you to first contact us so that we can together resolve any concerns you may have. To exercise any of these rights, please contact us at legal@viture.com. We will respond within one month. We may verify your identity and may decline requests that are manifestly unfounded or excessive."
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S13",
+        "text": "To ensure a positive user experience, you may receive content or web links from third parties other than VITURE and its partners (\"third parties\"). VITURE does not have the right to control such third parties, but you can choose whether to use the links, view the content, and access the products or services provided by third parties. VITURE cannot control the privacy practices and data protection policies of third parties that are not subject to this Policy. When you submit personal data to such a third party, please read and refer to the privacy protection policy of the third party. VITURE products and services also utilize several third-party capabilities and solutions for better performance, such as third-party SDKs, and VITURE does not have control over third parties' privacy practices. For more details, please refer to the List of VITURE Third-Party SDK and Opensource Software Notice.",
+        "heading_path": [
+          "VITURE Privacy Policy",
+          "7. Third-Party Providers and Their Services"
+        ],
+        "links": [
+          {
+            "text": "List of VITURE Third-Party SDK and",
+            "href": "https://www.viture.com/viture-opensorce-software-notice",
+            "kind": "external"
+          },
+          {
+            "text": "Opensource Software Notice.",
+            "href": "https://www.viture.com/viture-opensorce-software-notice",
+            "kind": "external"
+          }
+        ],
+        "html_ids": [],
+        "previous_segment_id": "S12",
+        "next_segment_id": "S14",
+        "previous_segment_text": "Our websites, products and services are not intended for, or directed to, individuals that may be considered a minor under the applicable laws. We do not operate an account system to require a minor to register or submit his/her personal data to us. If a minor's personal data is collected with prior parental consent, we will only use or disclose the data as permitted by law, with the explicit consent of the minor's parents or guardians, or when necessary for the protection of the child. If we accidentally collect a child's personal data without verified prior consent from the child's parents or guardians, we will delete the data without undue delay.",
+        "extended_context": "The security of your personal data is important to us. We use appropriate physical, management, and technical measures to protect your personal data from unauthorized access, disclosure, use, modification, damage, or loss. For example, we use cryptographic technologies for data confidentiality, protection mechanisms to prevent attacks, and access control mechanisms to permit only authorized access to your personal data. We also provide training on security and privacy protection for employees to raise their awareness of personal data protection. VITURE is committed to protecting your personal data; however, please note that no security measure is perfect. We will retain your personal data for no longer than is necessary for the purposes stated in this Policy, unless otherwise extending the retention period is required or permitted by law. The data storage period may vary with scenario, product, and service. The standards VITURE uses to determine the retention period are as follows: the time required to retain personal data to fulfill business purposes, including providing products and services; maintaining corresponding transaction and business records; controlling and improving the performance and quality of products and services; ensuring the security of systems, products, and services; handling possible user queries or complaints and locating problems; whether the user agrees to a longer retention period; and whether the laws, contracts, and other equivalencies have special requirements for data retention. It is your responsibility to ensure that all personal data submitted to VITURE is correct. VITURE is dedicated to maintaining the accuracy and completeness of personal data and keeping the data up-to-date. 5.1 Subject to applicable law, you may have the following rights regarding the processing of your personal data: 1. the right not to provide your personal data to us (however, please note that we may be unable to provide you with the full benefit of our products and services if you do not provide the necessary information); 2. the right to request access to, or copies of, your personal data, together with additional information regarding the nature, processing and disclosure of such data; 3. the right to request rectification of any inaccuracies or incompleteness in your personal data; 4. the right to request, on legitimate grounds, restriction of the processing of your personal data; 5. the right to have certain personal data transferred to another controller in a structured, commonly used and machine-readable format, to the extent applicable; 6. the right to request the deletion or removal of your personal data where there is no other legal basis for us to keep processing it. Please note that we may be unable to immediately remove your personal data from our backup systems due to applicable laws or technological limitations. In such cases, we will isolate your personal data from further processing until the backup can be deleted or anonymized; 7. where we process your personal data on the basis of your consent, the right to withdraw that consent at any time (withdrawal does not affect the lawfulness of any processing performed prior to the date on which we receive notice of such withdrawal). 5.2 Under the GDPR, you may also have the following additional rights regarding the processing of your personal data: 1. the right to object, on grounds relating to your particular situation, to the processing of your personal data by us or on our behalf, where such processing is based on legitimate interests; 2. the right to object to the processing of your personal data by us or on our behalf for direct marketing purposes; 3. the right not to be subject to a decision based solely on automated processing that produces legal or similarly significant effects on you (VITURE does not currently engage in such automated decision-making); 4. the right to lodge a complaint regarding the processing of your personal data with a competent data protection authority (in particular, the data protection authority of the EU Member State in which you live, work, or in which the alleged infringement occurred). We encourage you to first contact us so that we can together resolve any concerns you may have. To exercise any of these rights, please contact us at legal@viture.com. We will respond within one month. We may verify your identity and may decline requests that are manifestly unfounded or excessive. Our websites, products and services are not intended for, or directed to, individuals that may be considered a minor under the applicable laws. We do not operate an account system to require a minor to register or submit his/her personal data to us. If a minor's personal data is collected with prior parental consent, we will only use or disclose the data as permitted by law, with the explicit consent of the minor's parents or guardians, or when necessary for the protection of the child. If we accidentally collect a child's personal data without verified prior consent from the child's parents or guardians, we will delete the data without undue delay."
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": [
+          {
+            "attribute": "reference",
+            "evidence": "For more details, please refer to the List of VITURE Third-Party SDK and Opensource Software Notice.",
+            "target_text": "List of VITURE Third-Party SDK and Opensource Software Notice",
+            "reason": "reference_target_not_rights_relevant"
+          }
+        ]
+      }
+    },
+    {
+      "segment": {
+        "id": "S14",
+        "text": "As a global company, your personal data collected by VITURE may be processed or accessed in the country/region where you use our products and services or in other countries/regions where VITURE or its affiliates, subsidiaries, service providers or business partners have a presence. Where we transfer personal data of EU/EEA data subjects to a third country which has not received an adequacy decision from the European Commission (such as China), we rely on Standard Contractual Clauses (SCCs) approved by the European Commission pursuant to Article 46(2)(c) GDPR as the transfer safeguard, complemented by supplementary technical and organisational measures based on a Transfer Impact Assessment. You have the right to obtain a copy of the SCCs we have entered into by contacting us at legal@viture.com. Please note that certain commercial information may be redacted from the copy provided. The following outlines the specific scenarios in which your personal data is transferred outside the EU: Your device information (including device serial number and IP address) is transferred to our affiliated entities in China. This transfer is necessary for purposes of facilitating firmware upgrades. Our affiliated entities in China have access to aggregated and anonymized statistical data (for example, total user numbers). This data does not identify any individual and is used for internal business analysis and strategic planning. Our affiliated entities in China will process your order information (including your name, shipping address, and contact details) to handle your transaction requirements and arrange for the delivery of your purchased products.",
+        "heading_path": [
+          "VITURE Privacy Policy",
+          "8. International Transfers of Your Personal Data"
+        ],
+        "links": [
+          {
+            "text": "legal@viture.com",
+            "href": "mailto:legal@viture.com",
+            "kind": "email"
+          }
+        ],
+        "html_ids": [],
+        "previous_segment_id": "S13",
+        "next_segment_id": "S15",
+        "previous_segment_text": "To ensure a positive user experience, you may receive content or web links from third parties other than VITURE and its partners (\"third parties\"). VITURE does not have the right to control such third parties, but you can choose whether to use the links, view the content, and access the products or services provided by third parties. VITURE cannot control the privacy practices and data protection policies of third parties that are not subject to this Policy. When you submit personal data to such a third party, please read and refer to the privacy protection policy of the third party. VITURE products and services also utilize several third-party capabilities and solutions for better performance, such as third-party SDKs, and VITURE does not have control over third parties' privacy practices. For more details, please refer to the List of VITURE Third-Party SDK and Opensource Software Notice.",
+        "extended_context": "It is your responsibility to ensure that all personal data submitted to VITURE is correct. VITURE is dedicated to maintaining the accuracy and completeness of personal data and keeping the data up-to-date. 5.1 Subject to applicable law, you may have the following rights regarding the processing of your personal data: 1. the right not to provide your personal data to us (however, please note that we may be unable to provide you with the full benefit of our products and services if you do not provide the necessary information); 2. the right to request access to, or copies of, your personal data, together with additional information regarding the nature, processing and disclosure of such data; 3. the right to request rectification of any inaccuracies or incompleteness in your personal data; 4. the right to request, on legitimate grounds, restriction of the processing of your personal data; 5. the right to have certain personal data transferred to another controller in a structured, commonly used and machine-readable format, to the extent applicable; 6. the right to request the deletion or removal of your personal data where there is no other legal basis for us to keep processing it. Please note that we may be unable to immediately remove your personal data from our backup systems due to applicable laws or technological limitations. In such cases, we will isolate your personal data from further processing until the backup can be deleted or anonymized; 7. where we process your personal data on the basis of your consent, the right to withdraw that consent at any time (withdrawal does not affect the lawfulness of any processing performed prior to the date on which we receive notice of such withdrawal). 5.2 Under the GDPR, you may also have the following additional rights regarding the processing of your personal data: 1. the right to object, on grounds relating to your particular situation, to the processing of your personal data by us or on our behalf, where such processing is based on legitimate interests; 2. the right to object to the processing of your personal data by us or on our behalf for direct marketing purposes; 3. the right not to be subject to a decision based solely on automated processing that produces legal or similarly significant effects on you (VITURE does not currently engage in such automated decision-making); 4. the right to lodge a complaint regarding the processing of your personal data with a competent data protection authority (in particular, the data protection authority of the EU Member State in which you live, work, or in which the alleged infringement occurred). We encourage you to first contact us so that we can together resolve any concerns you may have. To exercise any of these rights, please contact us at legal@viture.com. We will respond within one month. We may verify your identity and may decline requests that are manifestly unfounded or excessive. Our websites, products and services are not intended for, or directed to, individuals that may be considered a minor under the applicable laws. We do not operate an account system to require a minor to register or submit his/her personal data to us. If a minor's personal data is collected with prior parental consent, we will only use or disclose the data as permitted by law, with the explicit consent of the minor's parents or guardians, or when necessary for the protection of the child. If we accidentally collect a child's personal data without verified prior consent from the child's parents or guardians, we will delete the data without undue delay. To ensure a positive user experience, you may receive content or web links from third parties other than VITURE and its partners (\"third parties\"). VITURE does not have the right to control such third parties, but you can choose whether to use the links, view the content, and access the products or services provided by third parties. VITURE cannot control the privacy practices and data protection policies of third parties that are not subject to this Policy. When you submit personal data to such a third party, please read and refer to the privacy protection policy of the third party. VITURE products and services also utilize several third-party capabilities and solutions for better performance, such as third-party SDKs, and VITURE does not have control over third parties' privacy practices. For more details, please refer to the List of VITURE Third-Party SDK and Opensource Software Notice."
+      },
+      "result": {
+        "right_type": [
+          {
+            "value": "Right of access",
+            "evidence": "You have the right to obtain a copy of the SCCs we have entered into by contacting us at legal@viture.com.",
+            "confidence": "extracted",
+            "id": "Viture:S14:right:1"
+          }
+        ],
+        "choice_type": [],
+        "request_channel": [
+          {
+            "value": "Request by email",
+            "evidence": "You have the right to obtain a copy of the SCCs we have entered into by contacting us at legal@viture.com.",
+            "confidence": "extracted",
+            "id": "Viture:S14:channel:1",
+            "linked_ids": [
+              "Viture:S14:right:1"
+            ],
+            "link": {
+              "url": "mailto:legal@viture.com",
+              "kind": "email",
+              "visible_text": "legal@viture.com"
+            }
+          }
+        ],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S15",
+        "text": "VITURE reserves the right to update or change this Policy at any time. We will release the latest Privacy Policy on this page for any changes. If major changes are made to the Privacy Policy, we may notify you through different channels, for example, posting a notice on our website or sending you a direct notification.",
+        "heading_path": [
+          "VITURE Privacy Policy",
+          "9. Updates to This Policy"
+        ],
+        "links": [],
+        "html_ids": [],
+        "previous_segment_id": "S14",
+        "next_segment_id": "S16",
+        "previous_segment_text": "As a global company, your personal data collected by VITURE may be processed or accessed in the country/region where you use our products and services or in other countries/regions where VITURE or its affiliates, subsidiaries, service providers or business partners have a presence. Where we transfer personal data of EU/EEA data subjects to a third country which has not received an adequacy decision from the European Commission (such as China), we rely on Standard Contractual Clauses (SCCs) approved by the European Commission pursuant to Article 46(2)(c) GDPR as the transfer safeguard, complemented by supplementary technical and organisational measures based on a Transfer Impact Assessment. You have the right to obtain a copy of the SCCs we have entered into by contacting us at legal@viture.com. Please note that certain commercial information may be redacted from the copy provided. The following outlines the specific scenarios in which your personal data is transferred outside the EU: Your device information (including device serial number and IP address) is transferred to our affiliated entities in China. This transfer is necessary for purposes of facilitating firmware upgrades. Our affiliated entities in China have access to aggregated and anonymized statistical data (for example, total user numbers). This data does not identify any individual and is used for internal business analysis and strategic planning. Our affiliated entities in China will process your order information (including your name, shipping address, and contact details) to handle your transaction requirements and arrange for the delivery of your purchased products.",
+        "extended_context": "Our websites, products and services are not intended for, or directed to, individuals that may be considered a minor under the applicable laws. We do not operate an account system to require a minor to register or submit his/her personal data to us. If a minor's personal data is collected with prior parental consent, we will only use or disclose the data as permitted by law, with the explicit consent of the minor's parents or guardians, or when necessary for the protection of the child. If we accidentally collect a child's personal data without verified prior consent from the child's parents or guardians, we will delete the data without undue delay. To ensure a positive user experience, you may receive content or web links from third parties other than VITURE and its partners (\"third parties\"). VITURE does not have the right to control such third parties, but you can choose whether to use the links, view the content, and access the products or services provided by third parties. VITURE cannot control the privacy practices and data protection policies of third parties that are not subject to this Policy. When you submit personal data to such a third party, please read and refer to the privacy protection policy of the third party. VITURE products and services also utilize several third-party capabilities and solutions for better performance, such as third-party SDKs, and VITURE does not have control over third parties' privacy practices. For more details, please refer to the List of VITURE Third-Party SDK and Opensource Software Notice. As a global company, your personal data collected by VITURE may be processed or accessed in the country/region where you use our products and services or in other countries/regions where VITURE or its affiliates, subsidiaries, service providers or business partners have a presence. Where we transfer personal data of EU/EEA data subjects to a third country which has not received an adequacy decision from the European Commission (such as China), we rely on Standard Contractual Clauses (SCCs) approved by the European Commission pursuant to Article 46(2)(c) GDPR as the transfer safeguard, complemented by supplementary technical and organisational measures based on a Transfer Impact Assessment. You have the right to obtain a copy of the SCCs we have entered into by contacting us at legal@viture.com. Please note that certain commercial information may be redacted from the copy provided. The following outlines the specific scenarios in which your personal data is transferred outside the EU: Your device information (including device serial number and IP address) is transferred to our affiliated entities in China. This transfer is necessary for purposes of facilitating firmware upgrades. Our affiliated entities in China have access to aggregated and anonymized statistical data (for example, total user numbers). This data does not identify any individual and is used for internal business analysis and strategic planning. Our affiliated entities in China will process your order information (including your name, shipping address, and contact details) to handle your transaction requirements and arrange for the delivery of your purchased products."
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S16",
+        "text": "For EU/EEA residents, you may contact our EU representative, Eden Future NL B.V., at Airborne Avenue 79, Office C05, 2133LV Hoofddorp, Netherlands. If you have any privacy complaints or issues, please contact us at legal@viture.com. For California residents, please refer to our California Privacy Notice for information on how to exercise your rights under the CCPA.",
+        "heading_path": [
+          "VITURE Privacy Policy",
+          "10. How to Contact Us"
+        ],
+        "links": [
+          {
+            "text": "legal@viture.com",
+            "href": "mailto:legal@viture.com",
+            "kind": "email"
+          }
+        ],
+        "html_ids": [],
+        "previous_segment_id": "S15",
+        "next_segment_id": "S17",
+        "previous_segment_text": "VITURE reserves the right to update or change this Policy at any time. We will release the latest Privacy Policy on this page for any changes. If major changes are made to the Privacy Policy, we may notify you through different channels, for example, posting a notice on our website or sending you a direct notification.",
+        "extended_context": "To ensure a positive user experience, you may receive content or web links from third parties other than VITURE and its partners (\"third parties\"). VITURE does not have the right to control such third parties, but you can choose whether to use the links, view the content, and access the products or services provided by third parties. VITURE cannot control the privacy practices and data protection policies of third parties that are not subject to this Policy. When you submit personal data to such a third party, please read and refer to the privacy protection policy of the third party. VITURE products and services also utilize several third-party capabilities and solutions for better performance, such as third-party SDKs, and VITURE does not have control over third parties' privacy practices. For more details, please refer to the List of VITURE Third-Party SDK and Opensource Software Notice. As a global company, your personal data collected by VITURE may be processed or accessed in the country/region where you use our products and services or in other countries/regions where VITURE or its affiliates, subsidiaries, service providers or business partners have a presence. Where we transfer personal data of EU/EEA data subjects to a third country which has not received an adequacy decision from the European Commission (such as China), we rely on Standard Contractual Clauses (SCCs) approved by the European Commission pursuant to Article 46(2)(c) GDPR as the transfer safeguard, complemented by supplementary technical and organisational measures based on a Transfer Impact Assessment. You have the right to obtain a copy of the SCCs we have entered into by contacting us at legal@viture.com. Please note that certain commercial information may be redacted from the copy provided. The following outlines the specific scenarios in which your personal data is transferred outside the EU: Your device information (including device serial number and IP address) is transferred to our affiliated entities in China. This transfer is necessary for purposes of facilitating firmware upgrades. Our affiliated entities in China have access to aggregated and anonymized statistical data (for example, total user numbers). This data does not identify any individual and is used for internal business analysis and strategic planning. Our affiliated entities in China will process your order information (including your name, shipping address, and contact details) to handle your transaction requirements and arrange for the delivery of your purchased products. VITURE reserves the right to update or change this Policy at any time. We will release the latest Privacy Policy on this page for any changes. If major changes are made to the Privacy Policy, we may notify you through different channels, for example, posting a notice on our website or sending you a direct notification."
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [
+          {
+            "value": "Lodge a complaint",
+            "evidence": "If you have any privacy complaints or issues, please contact us at legal@viture.com",
+            "confidence": "extracted",
+            "id": "Viture:S16:choice:1"
+          }
+        ],
+        "request_channel": [
+          {
+            "value": "Request by email",
+            "evidence": "please contact us at legal@viture.com",
+            "confidence": "extracted",
+            "id": "Viture:S16:channel:1",
+            "linked_ids": [
+              "Viture:S16:choice:1"
+            ],
+            "link": {
+              "url": "mailto:legal@viture.com",
+              "kind": "email",
+              "visible_text": "legal@viture.com"
+            }
+          }
+        ],
+        "references": [
+          {
+            "evidence": "please refer to our California Privacy Notice for information on how to exercise your rights under the CCPA",
+            "target_text": "California Privacy Notice",
+            "confidence": "extracted",
+            "id": "Viture:S16:reference:1"
+          }
+        ],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S17",
+        "text": "Updated: May 2026 This California Privacy Notice supplements the VITURE Privacy Policy above and applies solely to California residents whose personal information is processed by VITURE. This Notice is provided in accordance with the California Consumer Privacy Act of 2018, as amended by the California Privacy Rights Act of 2020 (collectively, \"CCPA\"). Capitalized terms used in this Notice without definition have the meanings given to them in the CCPA. Where this Notice conflicts with our general Privacy Policy in respect of California residents, this Notice prevails.",
+        "heading_path": [
+          "California Privacy Notice"
+        ],
+        "links": [],
+        "html_ids": [],
+        "previous_segment_id": "S16",
+        "next_segment_id": "S18",
+        "previous_segment_text": "For EU/EEA residents, you may contact our EU representative, Eden Future NL B.V., at Airborne Avenue 79, Office C05, 2133LV Hoofddorp, Netherlands. If you have any privacy complaints or issues, please contact us at legal@viture.com. For California residents, please refer to our California Privacy Notice for information on how to exercise your rights under the CCPA.",
+        "extended_context": "As a global company, your personal data collected by VITURE may be processed or accessed in the country/region where you use our products and services or in other countries/regions where VITURE or its affiliates, subsidiaries, service providers or business partners have a presence. Where we transfer personal data of EU/EEA data subjects to a third country which has not received an adequacy decision from the European Commission (such as China), we rely on Standard Contractual Clauses (SCCs) approved by the European Commission pursuant to Article 46(2)(c) GDPR as the transfer safeguard, complemented by supplementary technical and organisational measures based on a Transfer Impact Assessment. You have the right to obtain a copy of the SCCs we have entered into by contacting us at legal@viture.com. Please note that certain commercial information may be redacted from the copy provided. The following outlines the specific scenarios in which your personal data is transferred outside the EU: Your device information (including device serial number and IP address) is transferred to our affiliated entities in China. This transfer is necessary for purposes of facilitating firmware upgrades. Our affiliated entities in China have access to aggregated and anonymized statistical data (for example, total user numbers). This data does not identify any individual and is used for internal business analysis and strategic planning. Our affiliated entities in China will process your order information (including your name, shipping address, and contact details) to handle your transaction requirements and arrange for the delivery of your purchased products. VITURE reserves the right to update or change this Policy at any time. We will release the latest Privacy Policy on this page for any changes. If major changes are made to the Privacy Policy, we may notify you through different channels, for example, posting a notice on our website or sending you a direct notification. For EU/EEA residents, you may contact our EU representative, Eden Future NL B.V., at Airborne Avenue 79, Office C05, 2133LV Hoofddorp, Netherlands. If you have any privacy complaints or issues, please contact us at legal@viture.com. For California residents, please refer to our California Privacy Notice for information on how to exercise your rights under the CCPA."
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S18",
+        "text": "VITURE Inc., a California corporation with its principal place of business at 20863 Stevens Creek Blvd, Suite 400, Cupertino, CA 95014, is the business that determines the purposes and means of processing your personal information for purposes of the CCPA. References to \"VITURE\", \"we\", \"us\", and \"our\" in this Notice mean VITURE Inc.",
+        "heading_path": [
+          "California Privacy Notice",
+          "1. Who We Are"
+        ],
+        "links": [],
+        "html_ids": [],
+        "previous_segment_id": "S17",
+        "next_segment_id": "S19",
+        "previous_segment_text": "Updated: May 2026 This California Privacy Notice supplements the VITURE Privacy Policy above and applies solely to California residents whose personal information is processed by VITURE. This Notice is provided in accordance with the California Consumer Privacy Act of 2018, as amended by the California Privacy Rights Act of 2020 (collectively, \"CCPA\"). Capitalized terms used in this Notice without definition have the meanings given to them in the CCPA. Where this Notice conflicts with our general Privacy Policy in respect of California residents, this Notice prevails.",
+        "extended_context": "VITURE reserves the right to update or change this Policy at any time. We will release the latest Privacy Policy on this page for any changes. If major changes are made to the Privacy Policy, we may notify you through different channels, for example, posting a notice on our website or sending you a direct notification. For EU/EEA residents, you may contact our EU representative, Eden Future NL B.V., at Airborne Avenue 79, Office C05, 2133LV Hoofddorp, Netherlands. If you have any privacy complaints or issues, please contact us at legal@viture.com. For California residents, please refer to our California Privacy Notice for information on how to exercise your rights under the CCPA. Updated: May 2026 This California Privacy Notice supplements the VITURE Privacy Policy above and applies solely to California residents whose personal information is processed by VITURE. This Notice is provided in accordance with the California Consumer Privacy Act of 2018, as amended by the California Privacy Rights Act of 2020 (collectively, \"CCPA\"). Capitalized terms used in this Notice without definition have the meanings given to them in the CCPA. Where this Notice conflicts with our general Privacy Policy in respect of California residents, this Notice prevails."
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S19",
+        "text": "In the preceding 12 months, we have collected the following categories of personal information about California residents: Identifiers, Examples = Name, email address, postal address, IP address, device serial number. Identifiers, Collected = Yes. Customer records (Cal. Civ. Code §1798.80(e)), Examples = Name, address, telephone number, payment information. Customer records (Cal. Civ. Code §1798.80(e)), Collected = Yes. Commercial information, Examples = Purchase history, transaction records. Commercial information, Collected = Yes. Internet or other electronic network activity information, Examples = Browsing history on our website, app interaction data, device usage logs. Internet or other electronic network activity information, Collected = Yes. Geolocation data, Examples = Approximate location derived from IP address. Geolocation data, Collected = Yes. Audio, electronic, visual, thermal, olfactory, or similar information, Examples = Customer support call recordings (if applicable). Audio, electronic, visual, thermal, olfactory, or similar information, Collected = No. Professional or employment information, Examples = Not collected. Professional or employment information, Collected = No. Education information, Examples = Not collected. Education information, Collected = No. Inferences drawn from personal information, Examples = Product preferences, usage patterns. Inferences drawn from personal information, Collected = Yes. Sensitive personal information, Examples = Account credentials (login + password). Sensitive personal information, Collected = No We do not collect sensitive personal information, biometric information, precise geolocation, racial or ethnic origin, religious beliefs, union membership, genetic data, health information, or information concerning sex life or sexual orientation.",
+        "heading_path": [
+          "California Privacy Notice",
+          "2. Categories of Personal Information We Collect"
+        ],
+        "links": [],
+        "html_ids": [],
+        "previous_segment_id": "S18",
+        "next_segment_id": "S20",
+        "previous_segment_text": "VITURE Inc., a California corporation with its principal place of business at 20863 Stevens Creek Blvd, Suite 400, Cupertino, CA 95014, is the business that determines the purposes and means of processing your personal information for purposes of the CCPA. References to \"VITURE\", \"we\", \"us\", and \"our\" in this Notice mean VITURE Inc.",
+        "extended_context": "For EU/EEA residents, you may contact our EU representative, Eden Future NL B.V., at Airborne Avenue 79, Office C05, 2133LV Hoofddorp, Netherlands. If you have any privacy complaints or issues, please contact us at legal@viture.com. For California residents, please refer to our California Privacy Notice for information on how to exercise your rights under the CCPA. Updated: May 2026 This California Privacy Notice supplements the VITURE Privacy Policy above and applies solely to California residents whose personal information is processed by VITURE. This Notice is provided in accordance with the California Consumer Privacy Act of 2018, as amended by the California Privacy Rights Act of 2020 (collectively, \"CCPA\"). Capitalized terms used in this Notice without definition have the meanings given to them in the CCPA. Where this Notice conflicts with our general Privacy Policy in respect of California residents, this Notice prevails. VITURE Inc., a California corporation with its principal place of business at 20863 Stevens Creek Blvd, Suite 400, Cupertino, CA 95014, is the business that determines the purposes and means of processing your personal information for purposes of the CCPA. References to \"VITURE\", \"we\", \"us\", and \"our\" in this Notice mean VITURE Inc."
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S20",
+        "text": "We collect personal information from the following sources: directly from you when you purchase our products and/or services, contact our customer support, or otherwise interact with us; automatically when you use our products, websites or services (such as device usage data, IP address, and browsing activity); and from third parties such as e-commerce platforms (Amazon, eBay) through which you purchase our products, and analytics service providers.",
+        "heading_path": [
+          "California Privacy Notice",
+          "3. Sources of Personal Information"
+        ],
+        "links": [],
+        "html_ids": [],
+        "previous_segment_id": "S19",
+        "next_segment_id": "S21",
+        "previous_segment_text": "In the preceding 12 months, we have collected the following categories of personal information about California residents: Identifiers, Examples = Name, email address, postal address, IP address, device serial number. Identifiers, Collected = Yes. Customer records (Cal. Civ. Code §1798.80(e)), Examples = Name, address, telephone number, payment information. Customer records (Cal. Civ. Code §1798.80(e)), Collected = Yes. Commercial information, Examples = Purchase history, transaction records. Commercial information, Collected = Yes. Internet or other electronic network activity information, Examples = Browsing history on our website, app interaction data, device usage logs. Internet or other electronic network activity information, Collected = Yes. Geolocation data, Examples = Approximate location derived from IP address. Geolocation data, Collected = Yes. Audio, electronic, visual, thermal, olfactory, or similar information, Examples = Customer support call recordings (if applicable). Audio, electronic, visual, thermal, olfactory, or similar information, Collected = No. Professional or employment information, Examples = Not collected. Professional or employment information, Collected = No. Education information, Examples = Not collected. Education information, Collected = No. Inferences drawn from personal information, Examples = Product preferences, usage patterns. Inferences drawn from personal information, Collected = Yes. Sensitive personal information, Examples = Account credentials (login + password). Sensitive personal information, Collected = No We do not collect sensitive personal information, biometric information, precise geolocation, racial or ethnic origin, religious beliefs, union membership, genetic data, health information, or information concerning sex life or sexual orientation.",
+        "extended_context": "Updated: May 2026 This California Privacy Notice supplements the VITURE Privacy Policy above and applies solely to California residents whose personal information is processed by VITURE. This Notice is provided in accordance with the California Consumer Privacy Act of 2018, as amended by the California Privacy Rights Act of 2020 (collectively, \"CCPA\"). Capitalized terms used in this Notice without definition have the meanings given to them in the CCPA. Where this Notice conflicts with our general Privacy Policy in respect of California residents, this Notice prevails. VITURE Inc., a California corporation with its principal place of business at 20863 Stevens Creek Blvd, Suite 400, Cupertino, CA 95014, is the business that determines the purposes and means of processing your personal information for purposes of the CCPA. References to \"VITURE\", \"we\", \"us\", and \"our\" in this Notice mean VITURE Inc. In the preceding 12 months, we have collected the following categories of personal information about California residents: Identifiers, Examples = Name, email address, postal address, IP address, device serial number. Identifiers, Collected = Yes. Customer records (Cal. Civ. Code §1798.80(e)), Examples = Name, address, telephone number, payment information. Customer records (Cal. Civ. Code §1798.80(e)), Collected = Yes. Commercial information, Examples = Purchase history, transaction records. Commercial information, Collected = Yes. Internet or other electronic network activity information, Examples = Browsing history on our website, app interaction data, device usage logs. Internet or other electronic network activity information, Collected = Yes. Geolocation data, Examples = Approximate location derived from IP address. Geolocation data, Collected = Yes. Audio, electronic, visual, thermal, olfactory, or similar information, Examples = Customer support call recordings (if applicable). Audio, electronic, visual, thermal, olfactory, or similar information, Collected = No. Professional or employment information, Examples = Not collected. Professional or employment information, Collected = No. Education information, Examples = Not collected. Education information, Collected = No. Inferences drawn from personal information, Examples = Product preferences, usage patterns. Inferences drawn from personal information, Collected = Yes. Sensitive personal information, Examples = Account credentials (login + password). Sensitive personal information, Collected = No We do not collect sensitive personal information, biometric information, precise geolocation, racial or ethnic origin, religious beliefs, union membership, genetic data, health information, or information concerning sex life or sexual orientation."
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S21",
+        "text": "We use the categories of personal information described above for the following business or commercial purposes: to fulfill orders and deliver products and services you purchase; to provide customer support and respond to your inquiries; to operate, maintain and improve our products, websites and services; to communicate with you about your transactions, and service-related matters; with your consent, to send you marketing communications about our products and services; to detect, prevent and respond to security incidents, fraud, and unlawful activity; to comply with applicable laws, regulations, and legal processes; and for any other purpose disclosed to you at the time we collect your personal information or with your consent.",
+        "heading_path": [
+          "California Privacy Notice",
+          "4. Purposes for Which We Use Personal Information"
+        ],
+        "links": [],
+        "html_ids": [],
+        "previous_segment_id": "S20",
+        "next_segment_id": "S22",
+        "previous_segment_text": "We collect personal information from the following sources: directly from you when you purchase our products and/or services, contact our customer support, or otherwise interact with us; automatically when you use our products, websites or services (such as device usage data, IP address, and browsing activity); and from third parties such as e-commerce platforms (Amazon, eBay) through which you purchase our products, and analytics service providers.",
+        "extended_context": "VITURE Inc., a California corporation with its principal place of business at 20863 Stevens Creek Blvd, Suite 400, Cupertino, CA 95014, is the business that determines the purposes and means of processing your personal information for purposes of the CCPA. References to \"VITURE\", \"we\", \"us\", and \"our\" in this Notice mean VITURE Inc. In the preceding 12 months, we have collected the following categories of personal information about California residents: Identifiers, Examples = Name, email address, postal address, IP address, device serial number. Identifiers, Collected = Yes. Customer records (Cal. Civ. Code §1798.80(e)), Examples = Name, address, telephone number, payment information. Customer records (Cal. Civ. Code §1798.80(e)), Collected = Yes. Commercial information, Examples = Purchase history, transaction records. Commercial information, Collected = Yes. Internet or other electronic network activity information, Examples = Browsing history on our website, app interaction data, device usage logs. Internet or other electronic network activity information, Collected = Yes. Geolocation data, Examples = Approximate location derived from IP address. Geolocation data, Collected = Yes. Audio, electronic, visual, thermal, olfactory, or similar information, Examples = Customer support call recordings (if applicable). Audio, electronic, visual, thermal, olfactory, or similar information, Collected = No. Professional or employment information, Examples = Not collected. Professional or employment information, Collected = No. Education information, Examples = Not collected. Education information, Collected = No. Inferences drawn from personal information, Examples = Product preferences, usage patterns. Inferences drawn from personal information, Collected = Yes. Sensitive personal information, Examples = Account credentials (login + password). Sensitive personal information, Collected = No We do not collect sensitive personal information, biometric information, precise geolocation, racial or ethnic origin, religious beliefs, union membership, genetic data, health information, or information concerning sex life or sexual orientation. We collect personal information from the following sources: directly from you when you purchase our products and/or services, contact our customer support, or otherwise interact with us; automatically when you use our products, websites or services (such as device usage data, IP address, and browsing activity); and from third parties such as e-commerce platforms (Amazon, eBay) through which you purchase our products, and analytics service providers."
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S22",
+        "text": "We retain each category of personal information only for as long as reasonably necessary to fulfill the purposes for which it was collected, or as required by applicable law. The criteria we use to determine retention periods are described in Section 4 of our Privacy Policy.",
+        "heading_path": [
+          "California Privacy Notice",
+          "5. Retention of Personal Information"
+        ],
+        "links": [],
+        "html_ids": [],
+        "previous_segment_id": "S21",
+        "next_segment_id": "S23",
+        "previous_segment_text": "We use the categories of personal information described above for the following business or commercial purposes: to fulfill orders and deliver products and services you purchase; to provide customer support and respond to your inquiries; to operate, maintain and improve our products, websites and services; to communicate with you about your transactions, and service-related matters; with your consent, to send you marketing communications about our products and services; to detect, prevent and respond to security incidents, fraud, and unlawful activity; to comply with applicable laws, regulations, and legal processes; and for any other purpose disclosed to you at the time we collect your personal information or with your consent.",
+        "extended_context": "In the preceding 12 months, we have collected the following categories of personal information about California residents: Identifiers, Examples = Name, email address, postal address, IP address, device serial number. Identifiers, Collected = Yes. Customer records (Cal. Civ. Code §1798.80(e)), Examples = Name, address, telephone number, payment information. Customer records (Cal. Civ. Code §1798.80(e)), Collected = Yes. Commercial information, Examples = Purchase history, transaction records. Commercial information, Collected = Yes. Internet or other electronic network activity information, Examples = Browsing history on our website, app interaction data, device usage logs. Internet or other electronic network activity information, Collected = Yes. Geolocation data, Examples = Approximate location derived from IP address. Geolocation data, Collected = Yes. Audio, electronic, visual, thermal, olfactory, or similar information, Examples = Customer support call recordings (if applicable). Audio, electronic, visual, thermal, olfactory, or similar information, Collected = No. Professional or employment information, Examples = Not collected. Professional or employment information, Collected = No. Education information, Examples = Not collected. Education information, Collected = No. Inferences drawn from personal information, Examples = Product preferences, usage patterns. Inferences drawn from personal information, Collected = Yes. Sensitive personal information, Examples = Account credentials (login + password). Sensitive personal information, Collected = No We do not collect sensitive personal information, biometric information, precise geolocation, racial or ethnic origin, religious beliefs, union membership, genetic data, health information, or information concerning sex life or sexual orientation. We collect personal information from the following sources: directly from you when you purchase our products and/or services, contact our customer support, or otherwise interact with us; automatically when you use our products, websites or services (such as device usage data, IP address, and browsing activity); and from third parties such as e-commerce platforms (Amazon, eBay) through which you purchase our products, and analytics service providers. We use the categories of personal information described above for the following business or commercial purposes: to fulfill orders and deliver products and services you purchase; to provide customer support and respond to your inquiries; to operate, maintain and improve our products, websites and services; to communicate with you about your transactions, and service-related matters; with your consent, to send you marketing communications about our products and services; to detect, prevent and respond to security incidents, fraud, and unlawful activity; to comply with applicable laws, regulations, and legal processes; and for any other purpose disclosed to you at the time we collect your personal information or with your consent."
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": [
+          {
+            "attribute": "reference",
+            "evidence": "The criteria we use to determine retention periods are described in Section 4 of our Privacy Policy.",
+            "target_text": "Section 4 of our Privacy Policy",
+            "reason": "reference_target_not_rights_relevant"
+          }
+        ]
+      }
+    },
+    {
+      "segment": {
+        "id": "S23",
+        "text": "VITURE does not sell personal information for monetary or other valuable consideration. Where you provide your consent through our cookie consent management platform, VITURE may share identifiers and internet activity information with advertising and analytics partners (including Meta, Google, and Microsoft) for cross-context behavioral advertising purposes. You may decline or withdraw your consent at any time through our cookie preferences settings. VITURE does not knowingly share the personal information of California residents under 16 years of age for cross-context behavioral advertising purposes.",
+        "heading_path": [
+          "California Privacy Notice",
+          "6. Sale and Sharing of Personal Information"
+        ],
+        "links": [],
+        "html_ids": [],
+        "previous_segment_id": "S22",
+        "next_segment_id": "S24",
+        "previous_segment_text": "We retain each category of personal information only for as long as reasonably necessary to fulfill the purposes for which it was collected, or as required by applicable law. The criteria we use to determine retention periods are described in Section 4 of our Privacy Policy.",
+        "extended_context": "We collect personal information from the following sources: directly from you when you purchase our products and/or services, contact our customer support, or otherwise interact with us; automatically when you use our products, websites or services (such as device usage data, IP address, and browsing activity); and from third parties such as e-commerce platforms (Amazon, eBay) through which you purchase our products, and analytics service providers. We use the categories of personal information described above for the following business or commercial purposes: to fulfill orders and deliver products and services you purchase; to provide customer support and respond to your inquiries; to operate, maintain and improve our products, websites and services; to communicate with you about your transactions, and service-related matters; with your consent, to send you marketing communications about our products and services; to detect, prevent and respond to security incidents, fraud, and unlawful activity; to comply with applicable laws, regulations, and legal processes; and for any other purpose disclosed to you at the time we collect your personal information or with your consent. We retain each category of personal information only for as long as reasonably necessary to fulfill the purposes for which it was collected, or as required by applicable law. The criteria we use to determine retention periods are described in Section 4 of our Privacy Policy."
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [
+          {
+            "value": "Change or withdraw consent",
+            "evidence": "You may decline or withdraw your consent at any time through our cookie preferences settings",
+            "confidence": "extracted",
+            "id": "Viture:S23:choice:1"
+          }
+        ],
+        "request_channel": [
+          {
+            "value": "In-app or device settings",
+            "evidence": "You may decline or withdraw your consent at any time through our cookie preferences settings",
+            "confidence": "extracted",
+            "id": "Viture:S23:channel:1",
+            "linked_ids": [
+              "Viture:S23:choice:1"
+            ],
+            "link": null
+          }
+        ],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S24",
+        "text": "In the preceding 12 months, we have disclosed the following categories of personal information for a business purpose to the following categories of recipients: Identifiers, Categories of Recipients = Logistics providers, payment processors, cloud service providers, our affiliates. Customer records, Categories of Recipients = Logistics providers, payment processors, our affiliates. Commercial information, Categories of Recipients = Payment processors, our affiliates, analytics service providers. Internet or other electronic network activity information, Categories of Recipients = Analytics service providers, cloud service providers, our affiliates. Geolocation data, Categories of Recipients = Analytics service providers, our affiliates. Inferences, Categories of Recipients = Our affiliates, analytics service providers We require all service providers and contractors to whom we disclose personal information to use such information solely for the purposes of providing services to us, and we prohibit them from selling, sharing or otherwise using personal information for their own purposes. Subject to your cookie preferences, our website uses analytics and advertising technologies such as Google Analytics. You can manage each category of technology through our cookie preferences settings.",
+        "heading_path": [
+          "California Privacy Notice",
+          "7. Disclosure of Personal Information for a Business Purpose"
+        ],
+        "links": [],
+        "html_ids": [],
+        "previous_segment_id": "S23",
+        "next_segment_id": "S25",
+        "previous_segment_text": "VITURE does not sell personal information for monetary or other valuable consideration. Where you provide your consent through our cookie consent management platform, VITURE may share identifiers and internet activity information with advertising and analytics partners (including Meta, Google, and Microsoft) for cross-context behavioral advertising purposes. You may decline or withdraw your consent at any time through our cookie preferences settings. VITURE does not knowingly share the personal information of California residents under 16 years of age for cross-context behavioral advertising purposes.",
+        "extended_context": "We use the categories of personal information described above for the following business or commercial purposes: to fulfill orders and deliver products and services you purchase; to provide customer support and respond to your inquiries; to operate, maintain and improve our products, websites and services; to communicate with you about your transactions, and service-related matters; with your consent, to send you marketing communications about our products and services; to detect, prevent and respond to security incidents, fraud, and unlawful activity; to comply with applicable laws, regulations, and legal processes; and for any other purpose disclosed to you at the time we collect your personal information or with your consent. We retain each category of personal information only for as long as reasonably necessary to fulfill the purposes for which it was collected, or as required by applicable law. The criteria we use to determine retention periods are described in Section 4 of our Privacy Policy. VITURE does not sell personal information for monetary or other valuable consideration. Where you provide your consent through our cookie consent management platform, VITURE may share identifiers and internet activity information with advertising and analytics partners (including Meta, Google, and Microsoft) for cross-context behavioral advertising purposes. You may decline or withdraw your consent at any time through our cookie preferences settings. VITURE does not knowingly share the personal information of California residents under 16 years of age for cross-context behavioral advertising purposes."
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [
+          {
+            "value": "Data sharing and integration controls",
+            "evidence": "You can manage each category of technology through our cookie preferences settings.",
+            "confidence": "extracted",
+            "id": "Viture:S24:choice:1"
+          }
+        ],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S25",
+        "text": "If you are a California resident, you have the following rights in respect of your personal information: Right to Know: You have the right to request that we disclose to you the categories and specific pieces of personal information we have collected about you, the categories of sources from which the information was collected, the business or commercial purposes for collecting the information, and the categories of third parties with whom we share the information. Right to Delete: You have the right to request that we delete personal information we have collected from you, subject to certain exceptions permitted by the CCPA. Right to Correct: You have the right to request that we correct inaccurate personal information we maintain about you. Right to Opt-Out of Sale or Sharing: You have the right to opt out of the sharing of your personal information for cross-context behavioral advertising. VITURE does not sell personal information. To opt out of sharing, you may decline or withdraw consent through our cookie preferences settings. Right to Limit Use of Sensitive Personal Information: You have the right to limit the use of your sensitive personal information to certain permitted purposes. Right to Non-Discrimination: You have the right not to receive discriminatory treatment by us for exercising your CCPA rights. We will not deny you goods or services, charge you different prices, or provide you with a different level or quality of goods or services solely because you exercised your CCPA rights.",
+        "heading_path": [
+          "California Privacy Notice",
+          "8. Your Rights Under the CCPA"
+        ],
+        "links": [],
+        "html_ids": [],
+        "previous_segment_id": "S24",
+        "next_segment_id": "S26",
+        "previous_segment_text": "In the preceding 12 months, we have disclosed the following categories of personal information for a business purpose to the following categories of recipients: Identifiers, Categories of Recipients = Logistics providers, payment processors, cloud service providers, our affiliates. Customer records, Categories of Recipients = Logistics providers, payment processors, our affiliates. Commercial information, Categories of Recipients = Payment processors, our affiliates, analytics service providers. Internet or other electronic network activity information, Categories of Recipients = Analytics service providers, cloud service providers, our affiliates. Geolocation data, Categories of Recipients = Analytics service providers, our affiliates. Inferences, Categories of Recipients = Our affiliates, analytics service providers We require all service providers and contractors to whom we disclose personal information to use such information solely for the purposes of providing services to us, and we prohibit them from selling, sharing or otherwise using personal information for their own purposes. Subject to your cookie preferences, our website uses analytics and advertising technologies such as Google Analytics. You can manage each category of technology through our cookie preferences settings.",
+        "extended_context": "We retain each category of personal information only for as long as reasonably necessary to fulfill the purposes for which it was collected, or as required by applicable law. The criteria we use to determine retention periods are described in Section 4 of our Privacy Policy. VITURE does not sell personal information for monetary or other valuable consideration. Where you provide your consent through our cookie consent management platform, VITURE may share identifiers and internet activity information with advertising and analytics partners (including Meta, Google, and Microsoft) for cross-context behavioral advertising purposes. You may decline or withdraw your consent at any time through our cookie preferences settings. VITURE does not knowingly share the personal information of California residents under 16 years of age for cross-context behavioral advertising purposes. In the preceding 12 months, we have disclosed the following categories of personal information for a business purpose to the following categories of recipients: Identifiers, Categories of Recipients = Logistics providers, payment processors, cloud service providers, our affiliates. Customer records, Categories of Recipients = Logistics providers, payment processors, our affiliates. Commercial information, Categories of Recipients = Payment processors, our affiliates, analytics service providers. Internet or other electronic network activity information, Categories of Recipients = Analytics service providers, cloud service providers, our affiliates. Geolocation data, Categories of Recipients = Analytics service providers, our affiliates. Inferences, Categories of Recipients = Our affiliates, analytics service providers We require all service providers and contractors to whom we disclose personal information to use such information solely for the purposes of providing services to us, and we prohibit them from selling, sharing or otherwise using personal information for their own purposes. Subject to your cookie preferences, our website uses analytics and advertising technologies such as Google Analytics. You can manage each category of technology through our cookie preferences settings."
+      },
+      "result": {
+        "right_type": [
+          {
+            "value": "Right of access",
+            "evidence": "Right to Know: You have the right to request that we disclose to you the categories and specific pieces of personal information we have collected about you, the categories of sources from which the information was collected, the business or commercial purposes for collecting the information, and the categories of third parties with whom we share the information.",
+            "confidence": "extracted",
+            "id": "Viture:S25:right:1"
+          },
+          {
+            "value": "Right to erasure",
+            "evidence": "Right to Delete: You have the right to request that we delete personal information we have collected from you, subject to certain exceptions permitted by the CCPA.",
+            "confidence": "extracted",
+            "id": "Viture:S25:right:2"
+          },
+          {
+            "value": "Right to rectification",
+            "evidence": "Right to Correct: You have the right to request that we correct inaccurate personal information we maintain about you.",
+            "confidence": "extracted",
+            "id": "Viture:S25:right:3"
+          },
+          {
+            "value": "Right to object",
+            "evidence": "Right to Opt-Out of Sale or Sharing: You have the right to opt out of the sharing of your personal information for cross-context behavioral advertising.",
+            "confidence": "extracted",
+            "id": "Viture:S25:right:4"
+          },
+          {
+            "value": "Other",
+            "evidence": "Right to Limit Use of Sensitive Personal Information: You have the right to limit the use of your sensitive personal information to certain permitted purposes.",
+            "confidence": "extracted",
+            "id": "Viture:S25:right:5"
+          },
+          {
+            "value": "Other",
+            "evidence": "Right to Non-Discrimination: You have the right not to receive discriminatory treatment by us for exercising your CCPA rights.",
+            "confidence": "extracted",
+            "id": "Viture:S25:right:6"
+          }
+        ],
+        "choice_type": [
+          {
+            "value": "Change or withdraw consent",
+            "evidence": "To opt out of sharing, you may decline or withdraw consent through our cookie preferences settings.",
+            "confidence": "extracted",
+            "id": "Viture:S25:choice:1"
+          }
+        ],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S26",
+        "text": "To exercise your Right to Know, Right to Delete, or Right to Correct, please submit a request to us at legal@viture.com. We will acknowledge receipt of your request within 10 business days and will respond substantively within 45 calendar days. We may extend this period by an additional 45 calendar days where reasonably necessary, and we will notify you of any such extension. To verify your identity before processing your request, we may ask you to provide certain information that matches the personal information we maintain about you, such as your order number, email address, or other account identifiers. We will only use the information you provide for verification purposes.",
+        "heading_path": [
+          "California Privacy Notice",
+          "9. How to Exercise Your Rights"
+        ],
+        "links": [
+          {
+            "text": "legal@viture.com",
+            "href": "mailto:legal@viture.com",
+            "kind": "email"
+          }
+        ],
+        "html_ids": [],
+        "previous_segment_id": "S25",
+        "next_segment_id": "S27",
+        "previous_segment_text": "If you are a California resident, you have the following rights in respect of your personal information: Right to Know: You have the right to request that we disclose to you the categories and specific pieces of personal information we have collected about you, the categories of sources from which the information was collected, the business or commercial purposes for collecting the information, and the categories of third parties with whom we share the information. Right to Delete: You have the right to request that we delete personal information we have collected from you, subject to certain exceptions permitted by the CCPA. Right to Correct: You have the right to request that we correct inaccurate personal information we maintain about you. Right to Opt-Out of Sale or Sharing: You have the right to opt out of the sharing of your personal information for cross-context behavioral advertising. VITURE does not sell personal information. To opt out of sharing, you may decline or withdraw consent through our cookie preferences settings. Right to Limit Use of Sensitive Personal Information: You have the right to limit the use of your sensitive personal information to certain permitted purposes. Right to Non-Discrimination: You have the right not to receive discriminatory treatment by us for exercising your CCPA rights. We will not deny you goods or services, charge you different prices, or provide you with a different level or quality of goods or services solely because you exercised your CCPA rights.",
+        "extended_context": "VITURE does not sell personal information for monetary or other valuable consideration. Where you provide your consent through our cookie consent management platform, VITURE may share identifiers and internet activity information with advertising and analytics partners (including Meta, Google, and Microsoft) for cross-context behavioral advertising purposes. You may decline or withdraw your consent at any time through our cookie preferences settings. VITURE does not knowingly share the personal information of California residents under 16 years of age for cross-context behavioral advertising purposes. In the preceding 12 months, we have disclosed the following categories of personal information for a business purpose to the following categories of recipients: Identifiers, Categories of Recipients = Logistics providers, payment processors, cloud service providers, our affiliates. Customer records, Categories of Recipients = Logistics providers, payment processors, our affiliates. Commercial information, Categories of Recipients = Payment processors, our affiliates, analytics service providers. Internet or other electronic network activity information, Categories of Recipients = Analytics service providers, cloud service providers, our affiliates. Geolocation data, Categories of Recipients = Analytics service providers, our affiliates. Inferences, Categories of Recipients = Our affiliates, analytics service providers We require all service providers and contractors to whom we disclose personal information to use such information solely for the purposes of providing services to us, and we prohibit them from selling, sharing or otherwise using personal information for their own purposes. Subject to your cookie preferences, our website uses analytics and advertising technologies such as Google Analytics. You can manage each category of technology through our cookie preferences settings. If you are a California resident, you have the following rights in respect of your personal information: Right to Know: You have the right to request that we disclose to you the categories and specific pieces of personal information we have collected about you, the categories of sources from which the information was collected, the business or commercial purposes for collecting the information, and the categories of third parties with whom we share the information. Right to Delete: You have the right to request that we delete personal information we have collected from you, subject to certain exceptions permitted by the CCPA. Right to Correct: You have the right to request that we correct inaccurate personal information we maintain about you. Right to Opt-Out of Sale or Sharing: You have the right to opt out of the sharing of your personal information for cross-context behavioral advertising. VITURE does not sell personal information. To opt out of sharing, you may decline or withdraw consent through our cookie preferences settings. Right to Limit Use of Sensitive Personal Information: You have the right to limit the use of your sensitive personal information to certain permitted purposes. Right to Non-Discrimination: You have the right not to receive discriminatory treatment by us for exercising your CCPA rights. We will not deny you goods or services, charge you different prices, or provide you with a different level or quality of goods or services solely because you exercised your CCPA rights."
+      },
+      "result": {
+        "right_type": [
+          {
+            "value": "Right of access",
+            "evidence": "To exercise your Right to Know, Right to Delete, or Right to Correct, please submit a request to us at legal@viture.com.",
+            "confidence": "extracted",
+            "id": "Viture:S26:right:1"
+          },
+          {
+            "value": "Right to erasure",
+            "evidence": "To exercise your Right to Know, Right to Delete, or Right to Correct, please submit a request to us at legal@viture.com.",
+            "confidence": "extracted",
+            "id": "Viture:S26:right:2"
+          },
+          {
+            "value": "Right to rectification",
+            "evidence": "To exercise your Right to Know, Right to Delete, or Right to Correct, please submit a request to us at legal@viture.com.",
+            "confidence": "extracted",
+            "id": "Viture:S26:right:3"
+          }
+        ],
+        "choice_type": [],
+        "request_channel": [
+          {
+            "value": "Request by email",
+            "evidence": "please submit a request to us at legal@viture.com",
+            "confidence": "extracted",
+            "id": "Viture:S26:channel:1",
+            "linked_ids": [
+              "Viture:S26:right:1",
+              "Viture:S26:right:2",
+              "Viture:S26:right:3"
+            ],
+            "link": {
+              "url": "mailto:legal@viture.com",
+              "kind": "email",
+              "visible_text": "legal@viture.com"
+            }
+          }
+        ],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S27",
+        "text": "You may designate an authorized agent to submit requests on your behalf. We may also require you to verify your own identity directly with us before we process the agent's request, except where the agent is acting under a valid power of attorney.",
+        "heading_path": [
+          "California Privacy Notice",
+          "10. Authorized Agent Requests"
+        ],
+        "links": [],
+        "html_ids": [],
+        "previous_segment_id": "S26",
+        "next_segment_id": "S28",
+        "previous_segment_text": "To exercise your Right to Know, Right to Delete, or Right to Correct, please submit a request to us at legal@viture.com. We will acknowledge receipt of your request within 10 business days and will respond substantively within 45 calendar days. We may extend this period by an additional 45 calendar days where reasonably necessary, and we will notify you of any such extension. To verify your identity before processing your request, we may ask you to provide certain information that matches the personal information we maintain about you, such as your order number, email address, or other account identifiers. We will only use the information you provide for verification purposes.",
+        "extended_context": "In the preceding 12 months, we have disclosed the following categories of personal information for a business purpose to the following categories of recipients: Identifiers, Categories of Recipients = Logistics providers, payment processors, cloud service providers, our affiliates. Customer records, Categories of Recipients = Logistics providers, payment processors, our affiliates. Commercial information, Categories of Recipients = Payment processors, our affiliates, analytics service providers. Internet or other electronic network activity information, Categories of Recipients = Analytics service providers, cloud service providers, our affiliates. Geolocation data, Categories of Recipients = Analytics service providers, our affiliates. Inferences, Categories of Recipients = Our affiliates, analytics service providers We require all service providers and contractors to whom we disclose personal information to use such information solely for the purposes of providing services to us, and we prohibit them from selling, sharing or otherwise using personal information for their own purposes. Subject to your cookie preferences, our website uses analytics and advertising technologies such as Google Analytics. You can manage each category of technology through our cookie preferences settings. If you are a California resident, you have the following rights in respect of your personal information: Right to Know: You have the right to request that we disclose to you the categories and specific pieces of personal information we have collected about you, the categories of sources from which the information was collected, the business or commercial purposes for collecting the information, and the categories of third parties with whom we share the information. Right to Delete: You have the right to request that we delete personal information we have collected from you, subject to certain exceptions permitted by the CCPA. Right to Correct: You have the right to request that we correct inaccurate personal information we maintain about you. Right to Opt-Out of Sale or Sharing: You have the right to opt out of the sharing of your personal information for cross-context behavioral advertising. VITURE does not sell personal information. To opt out of sharing, you may decline or withdraw consent through our cookie preferences settings. Right to Limit Use of Sensitive Personal Information: You have the right to limit the use of your sensitive personal information to certain permitted purposes. Right to Non-Discrimination: You have the right not to receive discriminatory treatment by us for exercising your CCPA rights. We will not deny you goods or services, charge you different prices, or provide you with a different level or quality of goods or services solely because you exercised your CCPA rights. To exercise your Right to Know, Right to Delete, or Right to Correct, please submit a request to us at legal@viture.com. We will acknowledge receipt of your request within 10 business days and will respond substantively within 45 calendar days. We may extend this period by an additional 45 calendar days where reasonably necessary, and we will notify you of any such extension. To verify your identity before processing your request, we may ask you to provide certain information that matches the personal information we maintain about you, such as your order number, email address, or other account identifiers. We will only use the information you provide for verification purposes."
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S28",
+        "text": "VITURE does not knowingly sell or share the personal information of California residents under 16 years of age. As stated in Section 6 of our Privacy Policy, our products and services are not intended for individuals under the age of 16.",
+        "heading_path": [
+          "California Privacy Notice",
+          "11. Minors Under 16"
+        ],
+        "links": [],
+        "html_ids": [],
+        "previous_segment_id": "S27",
+        "next_segment_id": "S29",
+        "previous_segment_text": "You may designate an authorized agent to submit requests on your behalf. We may also require you to verify your own identity directly with us before we process the agent's request, except where the agent is acting under a valid power of attorney.",
+        "extended_context": "If you are a California resident, you have the following rights in respect of your personal information: Right to Know: You have the right to request that we disclose to you the categories and specific pieces of personal information we have collected about you, the categories of sources from which the information was collected, the business or commercial purposes for collecting the information, and the categories of third parties with whom we share the information. Right to Delete: You have the right to request that we delete personal information we have collected from you, subject to certain exceptions permitted by the CCPA. Right to Correct: You have the right to request that we correct inaccurate personal information we maintain about you. Right to Opt-Out of Sale or Sharing: You have the right to opt out of the sharing of your personal information for cross-context behavioral advertising. VITURE does not sell personal information. To opt out of sharing, you may decline or withdraw consent through our cookie preferences settings. Right to Limit Use of Sensitive Personal Information: You have the right to limit the use of your sensitive personal information to certain permitted purposes. Right to Non-Discrimination: You have the right not to receive discriminatory treatment by us for exercising your CCPA rights. We will not deny you goods or services, charge you different prices, or provide you with a different level or quality of goods or services solely because you exercised your CCPA rights. To exercise your Right to Know, Right to Delete, or Right to Correct, please submit a request to us at legal@viture.com. We will acknowledge receipt of your request within 10 business days and will respond substantively within 45 calendar days. We may extend this period by an additional 45 calendar days where reasonably necessary, and we will notify you of any such extension. To verify your identity before processing your request, we may ask you to provide certain information that matches the personal information we maintain about you, such as your order number, email address, or other account identifiers. We will only use the information you provide for verification purposes. You may designate an authorized agent to submit requests on your behalf. We may also require you to verify your own identity directly with us before we process the agent's request, except where the agent is acting under a valid power of attorney."
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": [
+          {
+            "attribute": "reference",
+            "evidence": "As stated in Section 6 of our Privacy Policy, our products and services are not intended for individuals under the age of 16.",
+            "target_text": "Section 6 of our Privacy Policy",
+            "reason": "reference_target_not_rights_relevant"
+          }
+        ]
+      }
+    },
+    {
+      "segment": {
+        "id": "S29",
+        "text": "VITURE does not currently offer any financial incentives or price or service differences in exchange for the collection, sale, or sharing of personal information.",
+        "heading_path": [
+          "California Privacy Notice",
+          "12. Notice of Financial Incentive"
+        ],
+        "links": [],
+        "html_ids": [],
+        "previous_segment_id": "S28",
+        "next_segment_id": "S30",
+        "previous_segment_text": "VITURE does not knowingly sell or share the personal information of California residents under 16 years of age. As stated in Section 6 of our Privacy Policy, our products and services are not intended for individuals under the age of 16.",
+        "extended_context": "To exercise your Right to Know, Right to Delete, or Right to Correct, please submit a request to us at legal@viture.com. We will acknowledge receipt of your request within 10 business days and will respond substantively within 45 calendar days. We may extend this period by an additional 45 calendar days where reasonably necessary, and we will notify you of any such extension. To verify your identity before processing your request, we may ask you to provide certain information that matches the personal information we maintain about you, such as your order number, email address, or other account identifiers. We will only use the information you provide for verification purposes. You may designate an authorized agent to submit requests on your behalf. We may also require you to verify your own identity directly with us before we process the agent's request, except where the agent is acting under a valid power of attorney. VITURE does not knowingly sell or share the personal information of California residents under 16 years of age. As stated in Section 6 of our Privacy Policy, our products and services are not intended for individuals under the age of 16."
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S30",
+        "text": "We may update this California Privacy Notice from time to time. We will post the updated Notice on our website and update the \"Last Updated\" date at the top of this Notice. If we make material changes, we will provide additional notice as appropriate.",
+        "heading_path": [
+          "California Privacy Notice",
+          "13. Changes to This Notice"
+        ],
+        "links": [],
+        "html_ids": [],
+        "previous_segment_id": "S29",
+        "next_segment_id": "S31",
+        "previous_segment_text": "VITURE does not currently offer any financial incentives or price or service differences in exchange for the collection, sale, or sharing of personal information.",
+        "extended_context": "You may designate an authorized agent to submit requests on your behalf. We may also require you to verify your own identity directly with us before we process the agent's request, except where the agent is acting under a valid power of attorney. VITURE does not knowingly sell or share the personal information of California residents under 16 years of age. As stated in Section 6 of our Privacy Policy, our products and services are not intended for individuals under the age of 16. VITURE does not currently offer any financial incentives or price or service differences in exchange for the collection, sale, or sharing of personal information."
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S31",
+        "text": "If you have any questions or concerns about this California Privacy Notice or our processing of your personal information, please contact us at: VITURE Inc. 20863 Stevens Creek Blvd, Suite 400 Cupertino, CA 95014 Email: legal@viture.com",
+        "heading_path": [
+          "California Privacy Notice",
+          "14. Contact Us"
+        ],
+        "links": [
+          {
+            "text": "legal@viture.com",
+            "href": "mailto:legal@viture.com",
+            "kind": "email"
+          }
+        ],
+        "html_ids": [],
+        "previous_segment_id": "S30",
+        "next_segment_id": "S32",
+        "previous_segment_text": "We may update this California Privacy Notice from time to time. We will post the updated Notice on our website and update the \"Last Updated\" date at the top of this Notice. If we make material changes, we will provide additional notice as appropriate.",
+        "extended_context": "VITURE does not knowingly sell or share the personal information of California residents under 16 years of age. As stated in Section 6 of our Privacy Policy, our products and services are not intended for individuals under the age of 16. VITURE does not currently offer any financial incentives or price or service differences in exchange for the collection, sale, or sharing of personal information. We may update this California Privacy Notice from time to time. We will post the updated Notice on our website and update the \"Last Updated\" date at the top of this Notice. If we make material changes, we will provide additional notice as appropriate."
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [
+          {
+            "value": "Lodge a complaint",
+            "evidence": "If you have any questions or concerns about this California Privacy Notice or our processing of your personal information, please contact us at",
+            "confidence": "extracted",
+            "id": "Viture:S31:choice:1"
+          }
+        ],
+        "request_channel": [
+          {
+            "value": "Request by post",
+            "evidence": "VITURE Inc. 20863 Stevens Creek Blvd, Suite 400 Cupertino, CA 95014",
+            "confidence": "extracted",
+            "id": "Viture:S31:channel:1",
+            "linked_ids": [
+              "Viture:S31:choice:1"
+            ],
+            "link": null
+          },
+          {
+            "value": "Request by email",
+            "evidence": "Email: legal@viture.com",
+            "confidence": "extracted",
+            "id": "Viture:S31:channel:2",
+            "linked_ids": [
+              "Viture:S31:choice:1"
+            ],
+            "link": {
+              "url": "mailto:legal@viture.com",
+              "kind": "email",
+              "visible_text": "legal@viture.com"
+            }
+          }
+        ],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S32",
+        "text": "Be the First to Know By subscribing you agree to with our Privacy Policy and provide consent to receive updates from our company Cookie Settings",
+        "heading_path": [
+          "California Privacy Notice",
+          "Subscribe & Save 10%"
+        ],
+        "links": [],
+        "html_ids": [],
+        "previous_segment_id": "S31",
+        "next_segment_id": "S33",
+        "previous_segment_text": "If you have any questions or concerns about this California Privacy Notice or our processing of your personal information, please contact us at: VITURE Inc. 20863 Stevens Creek Blvd, Suite 400 Cupertino, CA 95014 Email: legal@viture.com",
+        "extended_context": "VITURE does not currently offer any financial incentives or price or service differences in exchange for the collection, sale, or sharing of personal information. We may update this California Privacy Notice from time to time. We will post the updated Notice on our website and update the \"Last Updated\" date at the top of this Notice. If we make material changes, we will provide additional notice as appropriate. If you have any questions or concerns about this California Privacy Notice or our processing of your personal information, please contact us at: VITURE Inc. 20863 Stevens Creek Blvd, Suite 400 Cupertino, CA 95014 Email: legal@viture.com"
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [
+          {
+            "value": "Change or withdraw consent",
+            "evidence": "provide consent to receive updates from our company",
+            "confidence": "extracted",
+            "id": "Viture:S32:choice:1"
+          }
+        ],
+        "request_channel": [],
+        "references": [],
+        "rejected": []
+      }
+    },
+    {
+      "segment": {
+        "id": "S33",
+        "text": "We use cookies to enhance your browsing experience, run analytics, and support our marketing. Strictly necessary cookies are always active. You can accept all cookies, reject non-essential ones, or manage your choices at any time. Cookie Policy California residents may opt out of the sharing of their personal information by clicking Do Not Sell or Share My Personal Information. Accept all Reject all Manage preferences",
+        "heading_path": [
+          "California Privacy Notice",
+          "We Value Your Privacy"
+        ],
+        "links": [
+          {
+            "text": "Cookie Policy",
+            "href": "https://www.viture.com/cookie-policy",
+            "kind": "external"
+          },
+          {
+            "text": "Do Not Sell or Share My Personal Information",
+            "href": "https://www.viture.com/privacy-policy#",
+            "kind": "external"
+          }
+        ],
+        "html_ids": [],
+        "previous_segment_id": "S32",
+        "next_segment_id": null,
+        "previous_segment_text": "Be the First to Know By subscribing you agree to with our Privacy Policy and provide consent to receive updates from our company Cookie Settings",
+        "extended_context": "We may update this California Privacy Notice from time to time. We will post the updated Notice on our website and update the \"Last Updated\" date at the top of this Notice. If we make material changes, we will provide additional notice as appropriate. If you have any questions or concerns about this California Privacy Notice or our processing of your personal information, please contact us at: VITURE Inc. 20863 Stevens Creek Blvd, Suite 400 Cupertino, CA 95014 Email: legal@viture.com Be the First to Know By subscribing you agree to with our Privacy Policy and provide consent to receive updates from our company Cookie Settings"
+      },
+      "result": {
+        "right_type": [],
+        "choice_type": [
+          {
+            "value": "Opt out of sale, sharing, or targeted advertising",
+            "evidence": "California residents may opt out of the sharing of their personal information by clicking Do Not Sell or Share My Personal Information.",
+            "confidence": "extracted",
+            "id": "Viture:S33:choice:1"
+          }
+        ],
+        "request_channel": [
+          {
+            "value": "Web page or online form",
+            "evidence": "California residents may opt out of the sharing of their personal information by clicking Do Not Sell or Share My Personal Information.",
+            "confidence": "extracted",
+            "id": "Viture:S33:channel:1",
+            "linked_ids": [
+              "Viture:S33:choice:1"
+            ],
+            "link": {
+              "url": "https://www.viture.com/privacy-policy#",
+              "kind": "external",
+              "visible_text": "Do Not Sell or Share My Personal Information"
+            }
+          }
+        ],
+        "references": [],
+        "rejected": []
+      }
+    }
+  ]
+}
